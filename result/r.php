@@ -4,7 +4,7 @@
 <?php
 $file=fopen("result.txt","a");
 ?>
-Success <?php echo $_GET["number"]; ?><br>
+Success <?php echo $_POST["number"]; ?><br>
 </body>
 
 
