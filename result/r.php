@@ -1,10 +1,9 @@
+ <?php echo $_GET["number"]; ?>
+<!DOCTYPE html>
 <html>
 
 <body>
-<?php
-$file=fopen("result.txt","a");
-?>
-Success <?php echo $_POST["number"]; ?><br>
+Success<br>
 </body>
 
 
