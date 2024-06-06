@@ -1,29 +1,621 @@
-<!DOCTYPE html>
 <html>
-
-<head>
-<title>我想拉屎2</title>
+<head><title>Image map created by yEd</title>
+<style type="text/css">
+.tooltip {
+  font-size:10pt;
+  background-color:#FFFFCC;
+  border:1px solid black;
+  padding:2px
+}
+</style>
+<style type="text/css">
+.tooltip {
+  position:absolute;
+  display:none
+}
+</style>
 </head>
-
 <body>
 
-<script>
-  document.write(Math.floor(Math.random() * 3));
+<script type="text/javascript">
+tooltip = null;
+document.onmousemove = updateTooltip;
+function updateTooltip(e) {
+try {
+if (document.all) {
+if (document.documentElement && document.documentElement.scrollTop) { // Explorer 6 Strict
+x = document.documentElement.scrollLeft + window.event.x;
+y = document.documentElement.scrollTop + window.event.y;
+}
+else { // all other Explorers
+x = document.body.scrollLeft + window.event.x;
+y = document.body.scrollTop + window.event.y;
+}
+}
+else {
+x = e.pageX;
+y = e.pageY;
+}
+if (tooltip != null) {
+o = 20;
+var sx, sy;
+if (self.pageYOffset) { // all except Explorer
+sx = self.pageXOffset;
+sy = self.pageYOffset;
+}
+else if (document.documentElement && document.documentElement.scrollTop) { // Explorer 6 Strict
+sx = document.documentElement.scrollLeft;
+sy = document.documentElement.scrollTop;
+}
+else if (document.body) { // all other Explorers
+sx = document.body.scrollLeft;
+sy = document.body.scrollTop;
+}
+t = y + o + tooltip.offsetHeight;
+w = sy + document.body.clientHeight;
+if (t > w) {
+y = y - o - tooltip.offsetHeight;
+}
+else {
+y = y + o;
+}
+t = x + o + tooltip.offsetWidth;
+w = sx + document.body.clientWidth;
+if (t > w) {
+x = x - o - tooltip.offsetWidth;
+}
+else {
+x = x + o;
+}
+if ((tooltip.style.top == '' || tooltip.style.top == 0) && (tooltip.style.left == '' || tooltip.style.left == 0))
+{
+tooltip.style.width = tooltip.offsetWidth + 'px';
+tooltip.style.height = tooltip.offsetHeight + 'px';
+}
+tooltip.style.left = x + "px";
+tooltip.style.top = y + "px";
+}
+} catch (error) { error = null; }
+}
+function showTooltip(id) {
+try {
+tooltip = document.getElementById(id);
+tooltip.style.display = "block";
+} catch (error) { error = null; }
+}
+function hideTooltip() {
+try {
+tooltip.style.display = "none";
+} catch (error) { error = null; }
+}
 </script>
-<br>
-<form action="result/r.php" method="get">
-Input the most natural scene number:<br>
-<input type="text" name="number">
-<input type="submit" value="Submit">
-</form>
-<br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<a href="https://assbee0.github.io/kuso/">Don't click me</a>
+
+<div class="tooltip" id="n0">Chordata<br>脊索动物门</div>
+<div class="tooltip" id="n1">Animalia<br>动物界</div>
+<div class="tooltip" id="n2">Elephas maximus<br>亚洲象<br>Asian elephant</div>
+<div class="tooltip" id="n3">Vertebrata<br>脊椎动物亚门</div>
+<div class="tooltip" id="n4">Gnathostomata<br>有颌下门</div>
+<div class="tooltip" id="n5">Osteichthyes<br>硬骨鱼高纲</div>
+<div class="tooltip" id="n6">Sarcopterygii<br>肉鳍鱼总纲</div>
+<div class="tooltip" id="n7">Tetrapoda<br>四足类</div>
+<div class="tooltip" id="n8">Amniota<br>羊膜动物</div>
+<div class="tooltip" id="n9">Synapsida<br>合弓纲</div>
+<div class="tooltip" id="n10">Mammalia<br>哺乳纲</div>
+<div class="tooltip" id="n11">Theria<br>兽亚纲</div>
+<div class="tooltip" id="n12">Eutheria<br>真兽下纲</div>
+<div class="tooltip" id="n13">Placentalia<br>有胎盘类</div>
+<div class="tooltip" id="n14">Atlantogenata<br>大西洋真兽高目</div>
+<div class="tooltip" id="n15">Afrotheria<br>非洲兽总目</div>
+<div class="tooltip" id="n16">Paenungulata<br>近蹄类</div>
+<div class="tooltip" id="n17">Tethytheria<br>特提斯兽类</div>
+<div class="tooltip" id="n18">Proboscidea<br>长鼻目<br>ゾウ目</div>
+<div class="tooltip" id="n19">Elephantidae<br>象科</div>
+<div class="tooltip" id="n20">Elephas<br>象属<br>亚洲象属</div>
+<div class="tooltip" id="n21">Loxodonta<br>非洲象属</div>
+<div class="tooltip" id="n22">Loxodonta africana<br>非洲草原象<br>African bush elephant</div>
+<div class="tooltip" id="n23">Hyracoidea<br>蹄兔目</div>
+<div class="tooltip" id="n24">Procaviidae<br>蹄兔科</div>
+<div class="tooltip" id="n25">Heterohyrax<br>岩蹄兔属</div>
+<div class="tooltip" id="n26">Heterohyrax brucei<br>黄斑蹄兔</div>
+<div class="tooltip" id="n27">Procavia<br>蹄兔属</div>
+<div class="tooltip" id="n28">Procavia capensis<br>蹄兔</div>
+<div class="tooltip" id="n29">Xenarthra<br>异关节总目</div>
+<div class="tooltip" id="n30">Pilosa<br>披毛目</div>
+<div class="tooltip" id="n31">Vermilingua<br>蠕舌亚目</div>
+<div class="tooltip" id="n32">Myrmecophagidae<br>食蚁兽科</div>
+<div class="tooltip" id="n33">Myrmecophaga<br>大食蚁兽属</div>
+<div class="tooltip" id="n34">Myrmecophaga tridactyla<br>大食蚁兽<br>Giant anteater</div>
+<div class="tooltip" id="n35">Tamandua<br>小食蚁兽属</div>
+<div class="tooltip" id="n36">Tamandua tetradactyla<br>小食蚁兽</div>
+<div class="tooltip" id="n37">Boreoeutheria<br>北方真兽高目</div>
+<div class="tooltip" id="n38">Laurasiatheria<br>劳亚兽总目</div>
+<div class="tooltip" id="n39">Ferae<br>猛兽类</div>
+<div class="tooltip" id="n40">Carnivora<br>食肉目</div>
+<div class="tooltip" id="n41">Caniformia<br>犬型亚目</div>
+<div class="tooltip" id="n42">Canidae<br>犬科</div>
+<div class="tooltip" id="n43">Canini<br>犬族</div>
+<div class="tooltip" id="n44">Cuon<br>豺属</div>
+<div class="tooltip" id="n45">Cuon alpinus<br>豺<br>Dhole</div>
+<div class="tooltip" id="n46">Speothos<br>薮犬属</div>
+<div class="tooltip" id="n47">Speothos venaticus<br>薮犬<br>Bush dog</div>
+<div class="tooltip" id="n48">Lycaon<br>非洲野犬属</div>
+<div class="tooltip" id="n49">Lycaon pictus<br>非洲野犬<br>African wild dog</div>
+<div class="tooltip" id="n50">Lupulella<br>胡狼属</div>
+<div class="tooltip" id="n51">Lupulella mesomelas<br>黑背胡狼<br>Black-backed jackal</div>
+<div class="tooltip" id="n52">Vulpini<br>狐族</div>
+<div class="tooltip" id="n53">Nyctereutes<br>貉属</div>
+<div class="tooltip" id="n54">Nyctereutes viverrinus<br>日本貉<br>Japanese raccoon dog</div>
+<div class="tooltip" id="n55">Arctoidea<br>熊型下目</div>
+<div class="tooltip" id="n56">Musteloidea<br>鼬总科</div>
+<div class="tooltip" id="n57">Procyonidae<br>浣熊科</div>
+<div class="tooltip" id="n58">Nasua<br>南美浣熊属</div>
+<div class="tooltip" id="n59">Nasua nasua<br>南美浣熊<br>South American coati</div>
+<div class="tooltip" id="n60">Mustelidae<br>鼬科</div>
+<div class="tooltip" id="n61">Lutrinae<br>水獭亚科</div>
+<div class="tooltip" id="n62">Aonyx<br>小爪水獭属</div>
+<div class="tooltip" id="n63">Aonyx cinerea<br>亚洲小爪水獭<br>Asian small-clawed otter</div>
+<div class="tooltip" id="n64">Ursidae<br>熊科</div>
+<div class="tooltip" id="n65">Ursinae<br>熊亚科</div>
+<div class="tooltip" id="n66">Helarctos<br>马来熊属</div>
+<div class="tooltip" id="n67">Helarctos malayanus<br>马来熊<br>Sun bear</div>
+<div class="tooltip" id="n68">Ailuropodinae<br>大熊猫亚科</div>
+<div class="tooltip" id="n69">Ailuropoda<br>大熊猫属</div>
+<div class="tooltip" id="n70">Ailuropoda melanoleuca<br>大熊猫<br>Giant panda</div>
+<div class="tooltip" id="n71">Feliformia<br>猫型亚目</div>
+<div class="tooltip" id="n72">Felidae<br>猫科</div>
+<div class="tooltip" id="n73">Felinae<br>猫亚科</div>
+<div class="tooltip" id="n74">Leptailurus<br>薮猫属</div>
+<div class="tooltip" id="n75">Leptailurus serval<br>薮猫<br>Serval</div>
+<div class="tooltip" id="n76">Acinonyx<br>猎豹属</div>
+<div class="tooltip" id="n77">Acinonyx jubatus<br>猎豹<br>Cheetah</div>
+<div class="tooltip" id="n78">Otocolobus<br>兔狲属</div>
+<div class="tooltip" id="n79">Otocolobus manul<br>兔狲<br>Pallas's cat</div>
+<div class="tooltip" id="n80">Pantherinae<br>豹亚科</div>
+<div class="tooltip" id="n81">Panthera<br>豹属</div>
+<div class="tooltip" id="n82">Panthera tigris<br>虎<br>Tiger</div>
+<div class="tooltip" id="n83">Panthera uncia<br>雪豹<br>Snow leopard</div>
+<div class="tooltip" id="n84">Hyaenidae<br>鬣狗科</div>
+<div class="tooltip" id="n85">Hyaeninae<br>鬣狗亚科</div>
+<div class="tooltip" id="n86">Crocuta<br>斑鬣狗属</div>
+<div class="tooltip" id="n87">Crocuta crocuta<br>斑鬣狗<br>Spotted hyena</div>
+<div class="tooltip" id="n88">Herpestidae<br>獴科</div>
+<div class="tooltip" id="n89">Mungotinae<br>缟獴亚科</div>
+<div class="tooltip" id="n90">Helogale<br>侏獴属</div>
+<div class="tooltip" id="n91">Helogale parvula<br>侏獴<br>Common dwarf mongoose</div>
+<div class="tooltip" id="n92">Mungos<br>缟獴属</div>
+<div class="tooltip" id="n93">Mungos mungo<br>缟獴<br>Banded mongoose</div>
+<div class="tooltip" id="n94">Ungulata<br>有蹄类</div>
+<div class="tooltip" id="n95">Perissodactyla<br>奇蹄目</div>
+<div class="tooltip" id="n96">Ceratomorpha<br>角形亚目</div>
+<div class="tooltip" id="n97">Rhinocerotidae<br>犀科</div>
+<div class="tooltip" id="n98">Rhinoceros<br>独角犀属</div>
+<div class="tooltip" id="n99">Rhinoceros unicornis<br>印度犀<br>Indian rhinoceros</div>
+<div class="tooltip" id="n100">Diceros<br>黑犀属</div>
+<div class="tooltip" id="n101">Diceros bicornis<br>黑犀<br>Black rhinoceros</div>
+<div class="tooltip" id="n102">Tapiridae<br>貘科</div>
+<div class="tooltip" id="n103">Tapirus<br>貘属</div>
+<div class="tooltip" id="n104">Tapirus terrestris<br>南美貘<br>South American tapir</div>
+<div class="tooltip" id="n105">Tapirus indicus<br>马来貘<br>Malayan tapir</div>
+<div class="tooltip" id="n106">Hippomorpha<br>马形亚目</div>
+<div class="tooltip" id="n107">Equidae<br>马科</div>
+<div class="tooltip" id="n108">Equus<br>马属</div>
+<div class="tooltip" id="n109">E. (Equus)<br>马亚属</div>
+<div class="tooltip" id="n110">Equus ferus<br>野马<br>Wild horse</div>
+<div class="tooltip" id="n111">E.(Asinus)<br>驴亚属</div>
+<div class="tooltip" id="n112">Equus hemionus<br>亚洲野驴<br>Onager</div>
+<div class="tooltip" id="n113">Artiodactyla<br>偶蹄目</div>
+<div class="tooltip" id="n114">Ruminantia<br>反刍亚目</div>
+<div class="tooltip" id="n115">Bovidae<br>牛科</div>
+<div class="tooltip" id="n116">Bovinae<br>牛亚科</div>
+<div class="tooltip" id="n117">Bovini<br>牛族</div>
+<div class="tooltip" id="n118">Bos<br>牛属</div>
+<div class="tooltip" id="n119">Bos taurus<br>家牛<br>Cattle</div>
+<div class="tooltip" id="n120">Giraffidae<br>长颈鹿科</div>
+<div class="tooltip" id="n121">Okapia<br>霍加狓属</div>
+<div class="tooltip" id="n122">Okapia johnstoni<br>霍加狓<br>Okapi</div>
+<div class="tooltip" id="n123">Cervidae<br>鹿科</div>
+<div class="tooltip" id="n124">Capreolinae<br>空齿鹿亚科</div>
+<div class="tooltip" id="n125">Odocoileini<br>空齿鹿族</div>
+<div class="tooltip" id="n126">Pudu<br>普度鹿属</div>
+<div class="tooltip" id="n127">Pudu puda<br>智利巴鹿</div>
+<div class="tooltip" id="n128">Whippomorpha<br>鲸河马亚目</div>
+<div class="tooltip" id="n129">Hippopotamidae<br>河马科</div>
+<div class="tooltip" id="n130">Hippopotamus<br>河马属</div>
+<div class="tooltip" id="n131">Hippopotamus amphibius<br>河马<br>Hippopotamus</div>
+<div class="tooltip" id="n132">Choeropsis<br>倭河马属</div>
+<div class="tooltip" id="n133">Choeropsis liberiensis<br>倭河马<br>Pygmy hippopotamus</div>
+<div class="tooltip" id="n134">Suina<br>猪形亚目</div>
+<div class="tooltip" id="n135">Suidae<br>猪科</div>
+<div class="tooltip" id="n136">Potamochoerini<br>非洲野猪族</div>
+<div class="tooltip" id="n137">Potamochoerus<br>非洲野猪属</div>
+<div class="tooltip" id="n138">Potamochoerus porcus<br>红河猪<br>Red river hog</div>
+<div class="tooltip" id="n139">Euarchontoglires<br>灵长总目</div>
+<div class="tooltip" id="n140">Glires<br>啮形大目</div>
+<div class="tooltip" id="n141">Rodentia<br>啮齿目</div>
+<div class="tooltip" id="n142">Myomorpha<br>鼠形亚目</div>
+<div class="tooltip" id="n143">Muroidea<br>鼠总科</div>
+<div class="tooltip" id="n144">Muridae<br>鼠科</div>
+<div class="tooltip" id="n145">Murinae<br>鼠亚科</div>
+<div class="tooltip" id="n146">Phloeomys<br>云鼠属</div>
+<div class="tooltip" id="n147">Phloeomys pallidus<br>白云鼠<br>Northern Luzon giant cloud rat</div>
+<div class="tooltip" id="n148">Hystricomorpha<br>豪猪亚目</div>
+<div class="tooltip" id="n149">Ctenodactylomorphi<br>梳齿鼠下目</div>
+<div class="tooltip" id="n150">Ctenodactylidae<br>梳齿鼠科</div>
+<div class="tooltip" id="n151">Ctenodactylus<br>梳齿鼠属</div>
+<div class="tooltip" id="n152">Ctenodactylus gundi<br>梳齿鼠<br>Common gundi</div>
+<div class="tooltip" id="n153">Hystricognathi<br>豪猪下目</div>
+<div class="tooltip" id="n154">Cavioidea<br>豚鼠总科</div>
+<div class="tooltip" id="n155">Caviidae<br>豚鼠科</div>
+<div class="tooltip" id="n156">Hydrochoerinae<br>水豚亚科</div>
+<div class="tooltip" id="n157">Hydrochoerus<br>水豚属</div>
+<div class="tooltip" id="n158">Hydrochoerus hydrochaeris<br>水豚<br>Capybara</div>
+<div class="tooltip" id="n159">Dolichotinae<br>长耳豚鼠亚科</div>
+<div class="tooltip" id="n160">Dolichotis<br>长耳豚鼠属</div>
+<div class="tooltip" id="n161">Dolichotis patagonum<br>巴塔哥尼亚豚鼠<br>Patagonian mara</div>
+<div class="tooltip" id="n162">Euarchonta<br>真灵长大目</div>
+<div class="tooltip" id="n163">Primates<br>灵长目</div>
+<div class="tooltip" id="n164">Haplorhini<br>简鼻亚目</div>
+<div class="tooltip" id="n165">Simiiformes<br>类人猿下目</div>
+<div class="tooltip" id="n166">Catarrhini<br>狭鼻小目</div>
+<div class="tooltip" id="n167">Cercopithecidae<br>猴科</div>
+<div class="tooltip" id="n168">Cercopithecinae<br>猕猴亚科</div>
+<div class="tooltip" id="n169">Cercopithecini<br>长尾猴族</div>
+<div class="tooltip" id="n170">Erythrocebus<br>赤猴属</div>
+<div class="tooltip" id="n171">Erythrocebus patas<br>赤猴<br>Common patas monkey</div>
+<div class="tooltip" id="n172">Papionini<br>狒狒族</div>
+<div class="tooltip" id="n173">Macaca<br>猕猴属</div>
+<div class="tooltip" id="n174">Macaca thibetana<br>藏酉猴<br>Tibetan macaque</div>
+<div class="tooltip" id="n175">Colobinae<br>疣猴亚科</div>
+<div class="tooltip" id="n176">Rhinopithecus<br>仰鼻猴属</div>
+<div class="tooltip" id="n177">Rhinopithecus roxellana<br>川金丝猴<br>Golden snub-nosed monkey</div>
+<div class="tooltip" id="n178">Nasalis<br>长鼻猴属</div>
+<div class="tooltip" id="n179">Nasalis larvatus<br>长鼻猴<br>Proboscis monkey</div>
+<div class="tooltip" id="n180">Pygathrix<br>白臀叶猴属</div>
+<div class="tooltip" id="n181">Pygathrix nemaeus<br>红腿白臀叶猴<br>Red-shanked douc</div>
+<div class="tooltip" id="n182">Hominoidea<br>人猿总科</div>
+<div class="tooltip" id="n183">Hylobatidae<br>长臂猿科</div>
+<div class="tooltip" id="n184">Symphalangus<br>合趾猿属</div>
+<div class="tooltip" id="n185">Symphalangus syndactylus<br>合趾猿<br>Siamang</div>
+<div class="tooltip" id="n186">Metatheria<br>后兽下纲</div>
+<div class="tooltip" id="n187">Marsupialia<br>有袋类</div>
+<div class="tooltip" id="n188">Australidelphia<br>澳大利亚有袋总目</div>
+<div class="tooltip" id="n189">Diprotodontia<br>双门齿目</div>
+<div class="tooltip" id="n190">Phalangeriformes<br>袋貂亚目</div>
+<div class="tooltip" id="n191">Phalangeridae<br>袋貂科</div>
+<div class="tooltip" id="n192">Trichosurus<br>帚尾袋貂属</div>
+<div class="tooltip" id="n193">Trichosurus vulpecula<br>帚尾袋貂<br>Common brushtail possum</div>
+<div class="tooltip" id="n194">Macropodiformes<br>袋鼠亚目</div>
+<div class="tooltip" id="n195">Macropodidae<br>袋鼠科</div>
+<div class="tooltip" id="n196">Macropodinae<br>袋鼠亚科</div>
+<div class="tooltip" id="n197">Macropus<br>大袋鼠属</div>
+<div class="tooltip" id="n198">Macropus giganteus<br>东部灰大袋鼠<br>Eastern grey kangaroo</div>
+<div class="tooltip" id="n199">Setonix<br>矮袋鼠属</div>
+<div class="tooltip" id="n200">Setonix brachyurus<br>短尾矮袋鼠<br>Quokka</div>
+<div class="tooltip" id="n201">Potoroidae<br>鼠袋鼠科</div>
+<div class="tooltip" id="n202">Bettongia<br>草原袋鼠属</div>
+<div class="tooltip" id="n203">Bettongia penicillata<br>毛尾袋鼠<br>Woylie</div>
+<div class="tooltip" id="n204">Lagomorpha<br>兔形目</div>
+<div class="tooltip" id="n205">Leporidae<br>兔科</div>
+<div class="tooltip" id="n206">Lepus<br>兔属</div>
+<div class="tooltip" id="n207">Lepus brachyurus<br>日本兔<br>Japanese hare</div>
+<div class="tooltip" id="n208">E. (Hippotigris)<br>斑马亚属</div>
+<div class="tooltip" id="n209">Equus grevyi<br>细纹斑马<br>Grévy's zebra</div>
+<div class="tooltip" id="n210">Equus quagga<br>平原斑马<br>Plains zebra</div>
+<div class="tooltip" id="n211">Hippotraginae<br>马羚亚科</div>
+<div class="tooltip" id="n212">Oryx<br>剑羚属</div>
+<div class="tooltip" id="n213">Oryx dammah<br>弯角剑羚<br>Scimitar oryx</div>
+<div class="tooltip" id="n214">Caviinae<br>豚鼠亚科</div>
+<div class="tooltip" id="n215">Cavia<br>豚鼠属</div>
+<div class="tooltip" id="n216">Cavia aperea<br>巴西豚鼠<br>Brazilian guinea pig</div>
+<div class="tooltip" id="n217">Octodontoidea<br>八齿鼠总科</div>
+<div class="tooltip" id="n218">Echimyidae<br>棘鼠科</div>
+<div class="tooltip" id="n219">Echimyinae<br>美洲棘鼠亚科</div>
+<div class="tooltip" id="n220">Myocastor<br>海狸鼠属</div>
+<div class="tooltip" id="n221">Myocastor coypus<br>海狸鼠<br>Nutria</div>
+<div class="tooltip" id="n222">Octodontidae<br>八齿鼠科</div>
+<div class="tooltip" id="n223">Octodon<br>八齿鼠属</div>
+<div class="tooltip" id="n224">Octodon degus<br>智利八齿鼠<br>Common degu</div>
+<div class="tooltip" id="n225">Cuniculidae<br>兔豚鼠科</div>
+<div class="tooltip" id="n226">Cuniculus<br>兔豚鼠属</div>
+<div class="tooltip" id="n227">Cuniculus paca<br>低地斑刺豚鼠<br>Lowland paca</div>
+<div class="tooltip" id="n228">Sauropsida<br>蜥形纲<br>Reptilia<br>爬行纲</div>
+<div class="tooltip" id="n229">Diapsida<br>双孔亚纲</div>
+<div class="tooltip" id="n230">Lepidosauromorpha<br>鳞龙形下纲</div>
+<div class="tooltip" id="n231">Squamata<br>有鳞目</div>
+<div class="tooltip" id="n232">Iguania<br>鬣蜥亚目</div>
+<div class="tooltip" id="n233">Agamidae<br>鬣蜥科</div>
+<div class="tooltip" id="n234">Amphibolurinae<br>髭蜥亚科</div>
+<div class="tooltip" id="n235">Physignathus<br>长鬣蜥属</div>
+<div class="tooltip" id="n236">Physignathus cocincinus<br>长鬣蜥<br>Chinese water dragon</div>
+<div class="tooltip" id="n237">Archosauromorpha<br>主龙形下纲</div>
+<div class="tooltip" id="n238">Archosauria<br>主龙类</div>
+<div class="tooltip" id="n239">Crocodilia<br>鳄目</div>
+<div class="tooltip" id="n240">Crocodylidae<br>鳄科</div>
+<div class="tooltip" id="n241">Crocodylus<br>鳄属</div>
+<div class="tooltip" id="n242">Crocodylus porosus<br>湾鳄<br>Saltwater crocodile</div>
+<div class="tooltip" id="n243">Alligatoridae<br>短吻鳄科</div>
+<div class="tooltip" id="n244">Alligatorinae<br>短吻鳄亚科</div>
+<div class="tooltip" id="n245">Alligator<br>短吻鳄属</div>
+<div class="tooltip" id="n246">Alligator sinensis<br>扬子鳄<br>Chinese alligator</div>
+<div class="tooltip" id="n247">Caimaninae<br>凯门鳄亚科</div>
+<div class="tooltip" id="n248">Caiman<br>凯门鳄属</div>
+<div class="tooltip" id="n249">Caiman crocodilus<br>眼镜凯门鳄<br>Spectacled caiman</div>
+<div class="tooltip" id="n250">Aves<br>鸟纲</div>
+<div class="tooltip" id="n251">Neognathae<br>新颚类</div>
+<div class="tooltip" id="n252">Galloanserae<br>鸡雁小纲</div>
+<div class="tooltip" id="n253">Anseriformes<br>雁形目</div>
+<div class="tooltip" id="n254">Anatidae<br>鸭科</div>
+<div class="tooltip" id="n255">Anatinae<br>鸭亚科</div>
+<div class="tooltip" id="n256">Aythya<br>潜鸭属</div>
+<div class="tooltip" id="n257">Aythya nyroca<br>白眼潜鸭<br>Ferruginous duck</div>
+
+<map name="image1_1">
+  <area shape="rect" coords="71,1654,91,1674" alt="" onmouseover="showTooltip('n257')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="71,1568,91,1588" alt="" onmouseover="showTooltip('n256')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="71,1481,91,1501" alt="" onmouseover="showTooltip('n255')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="71,1395,91,1415" alt="" onmouseover="showTooltip('n254')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="71,1309,91,1329" alt="" onmouseover="showTooltip('n253')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="71,1222,91,1242" alt="" onmouseover="showTooltip('n252')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="71,1136,91,1156" alt="" onmouseover="showTooltip('n251')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="71,1050,91,1070" alt="" onmouseover="showTooltip('n250')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="365,1395,385,1415" alt="" onmouseover="showTooltip('n249')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="365,1309,385,1329" alt="" onmouseover="showTooltip('n248')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="365,1222,385,1242" alt="" onmouseover="showTooltip('n247')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="200,1395,220,1415" alt="" onmouseover="showTooltip('n246')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="200,1309,220,1329" alt="" onmouseover="showTooltip('n245')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="200,1222,220,1242" alt="" onmouseover="showTooltip('n244')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="282,1136,302,1156" alt="" onmouseover="showTooltip('n243')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="517,1309,537,1329" alt="" onmouseover="showTooltip('n242')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="517,1222,537,1242" alt="" onmouseover="showTooltip('n241')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="517,1136,537,1156" alt="" onmouseover="showTooltip('n240')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="399,1050,419,1070" alt="" onmouseover="showTooltip('n239')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="235,964,255,984" alt="" onmouseover="showTooltip('n238')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="235,877,255,897" alt="" onmouseover="showTooltip('n237')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="703,1395,723,1415" alt="" onmouseover="showTooltip('n236')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="703,1309,723,1329" alt="" onmouseover="showTooltip('n235')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="703,1222,723,1242" alt="" onmouseover="showTooltip('n234')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="703,1136,723,1156" alt="" onmouseover="showTooltip('n233')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="703,1050,723,1070" alt="" onmouseover="showTooltip('n232')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="703,964,723,984" alt="" onmouseover="showTooltip('n231')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="703,877,723,897" alt="" onmouseover="showTooltip('n230')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="469,791,489,811" alt="" onmouseover="showTooltip('n229')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="469,705,489,725" alt="" onmouseover="showTooltip('n228')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="2726,1913,2746,1933" alt="" onmouseover="showTooltip('n227')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="2726,1826,2746,1846" alt="" onmouseover="showTooltip('n226')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="2726,1740,2746,1760" alt="" onmouseover="showTooltip('n225')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1940,1913,1960,1933" alt="" onmouseover="showTooltip('n224')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1940,1826,1960,1846" alt="" onmouseover="showTooltip('n223')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1940,1740,1960,1760" alt="" onmouseover="showTooltip('n222')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="2092,1999,2112,2019" alt="" onmouseover="showTooltip('n221')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="2092,1913,2112,1933" alt="" onmouseover="showTooltip('n220')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="2092,1826,2112,1846" alt="" onmouseover="showTooltip('n219')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="2092,1740,2112,1760" alt="" onmouseover="showTooltip('n218')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="2016,1654,2036,1674" alt="" onmouseover="showTooltip('n217')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="2561,1999,2581,2019" alt="" onmouseover="showTooltip('n216')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="2561,1913,2581,1933" alt="" onmouseover="showTooltip('n215')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="2561,1826,2581,1846" alt="" onmouseover="showTooltip('n214')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3703,1826,3723,1846" alt="" onmouseover="showTooltip('n213')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3703,1740,3723,1760" alt="" onmouseover="showTooltip('n212')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3703,1654,3723,1674" alt="" onmouseover="showTooltip('n211')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="4311,1826,4331,1846" alt="" onmouseover="showTooltip('n210')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="4159,1826,4179,1846" alt="" onmouseover="showTooltip('n209')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="4235,1740,4255,1760" alt="" onmouseover="showTooltip('n208')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1493,1654,1513,1674" alt="" onmouseover="showTooltip('n207')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1493,1568,1513,1588" alt="" onmouseover="showTooltip('n206')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1493,1481,1513,1501" alt="" onmouseover="showTooltip('n205')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1493,1395,1513,1415" alt="" onmouseover="showTooltip('n204')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="9010,1568,9030,1588" alt="" onmouseover="showTooltip('n203')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="9010,1481,9030,1501" alt="" onmouseover="showTooltip('n202')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="9010,1395,9030,1415" alt="" onmouseover="showTooltip('n201')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="8845,1654,8865,1674" alt="" onmouseover="showTooltip('n200')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="8845,1568,8865,1588" alt="" onmouseover="showTooltip('n199')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="8693,1654,8713,1674" alt="" onmouseover="showTooltip('n198')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="8693,1568,8713,1588" alt="" onmouseover="showTooltip('n197')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="8769,1481,8789,1501" alt="" onmouseover="showTooltip('n196')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="8769,1395,8789,1415" alt="" onmouseover="showTooltip('n195')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="8889,1309,8909,1329" alt="" onmouseover="showTooltip('n194')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="8541,1568,8561,1588" alt="" onmouseover="showTooltip('n193')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="8541,1481,8561,1501" alt="" onmouseover="showTooltip('n192')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="8541,1395,8561,1415" alt="" onmouseover="showTooltip('n191')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="8541,1309,8561,1329" alt="" onmouseover="showTooltip('n190')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="8715,1222,8735,1242" alt="" onmouseover="showTooltip('n189')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="8715,1136,8735,1156" alt="" onmouseover="showTooltip('n188')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="8715,1050,8735,1070" alt="" onmouseover="showTooltip('n187')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="8715,964,8735,984" alt="" onmouseover="showTooltip('n186')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="644,1999,664,2019" alt="" onmouseover="showTooltip('n185')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="644,1913,664,1933" alt="" onmouseover="showTooltip('n184')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="644,1826,664,1846" alt="" onmouseover="showTooltip('n183')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="644,1740,664,1760" alt="" onmouseover="showTooltip('n182')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1424,1999,1444,2019" alt="" onmouseover="showTooltip('n181')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1424,1913,1444,1933" alt="" onmouseover="showTooltip('n180')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1252,1999,1272,2019" alt="" onmouseover="showTooltip('n179')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1252,1913,1272,1933" alt="" onmouseover="showTooltip('n178')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1100,1999,1120,2019" alt="" onmouseover="showTooltip('n177')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1100,1913,1120,1933" alt="" onmouseover="showTooltip('n176')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1252,1826,1272,1846" alt="" onmouseover="showTooltip('n175')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="948,2085,968,2105" alt="" onmouseover="showTooltip('n174')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="948,1999,968,2019" alt="" onmouseover="showTooltip('n173')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="948,1913,968,1933" alt="" onmouseover="showTooltip('n172')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="796,2085,816,2105" alt="" onmouseover="showTooltip('n171')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="796,1999,816,2019" alt="" onmouseover="showTooltip('n170')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="796,1913,816,1933" alt="" onmouseover="showTooltip('n169')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="872,1826,892,1846" alt="" onmouseover="showTooltip('n168')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1062,1740,1082,1760" alt="" onmouseover="showTooltip('n167')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="853,1654,873,1674" alt="" onmouseover="showTooltip('n166')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="853,1568,873,1588" alt="" onmouseover="showTooltip('n165')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="853,1481,873,1501" alt="" onmouseover="showTooltip('n164')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="853,1395,873,1415" alt="" onmouseover="showTooltip('n163')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="853,1309,873,1329" alt="" onmouseover="showTooltip('n162')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="2396,1999,2416,2019" alt="" onmouseover="showTooltip('n161')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="2396,1913,2416,1933" alt="" onmouseover="showTooltip('n160')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="2396,1826,2416,1846" alt="" onmouseover="showTooltip('n159')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="2244,1999,2264,2019" alt="" onmouseover="showTooltip('n158')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="2244,1913,2264,1933" alt="" onmouseover="showTooltip('n157')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="2244,1826,2264,1846" alt="" onmouseover="showTooltip('n156')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="2396,1740,2416,1760" alt="" onmouseover="showTooltip('n155')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="2561,1654,2581,1674" alt="" onmouseover="showTooltip('n154')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="2288,1568,2308,1588" alt="" onmouseover="showTooltip('n153')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1788,1826,1808,1846" alt="" onmouseover="showTooltip('n152')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1788,1740,1808,1760" alt="" onmouseover="showTooltip('n151')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1788,1654,1808,1674" alt="" onmouseover="showTooltip('n150')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1788,1568,1808,1588" alt="" onmouseover="showTooltip('n149')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="2038,1481,2058,1501" alt="" onmouseover="showTooltip('n148')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1616,1913,1636,1933" alt="" onmouseover="showTooltip('n147')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1616,1826,1636,1846" alt="" onmouseover="showTooltip('n146')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1616,1740,1636,1760" alt="" onmouseover="showTooltip('n145')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1616,1654,1636,1674" alt="" onmouseover="showTooltip('n144')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1616,1568,1636,1588" alt="" onmouseover="showTooltip('n143')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1616,1481,1636,1501" alt="" onmouseover="showTooltip('n142')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1827,1395,1847,1415" alt="" onmouseover="showTooltip('n141')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1660,1309,1680,1329" alt="" onmouseover="showTooltip('n140')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1256,1222,1276,1242" alt="" onmouseover="showTooltip('n139')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="2878,1826,2898,1846" alt="" onmouseover="showTooltip('n138')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="2878,1740,2898,1760" alt="" onmouseover="showTooltip('n137')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="2878,1654,2898,1674" alt="" onmouseover="showTooltip('n136')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="2878,1568,2898,1588" alt="" onmouseover="showTooltip('n135')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="2878,1481,2898,1501" alt="" onmouseover="showTooltip('n134')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3030,1740,3050,1760" alt="" onmouseover="showTooltip('n133')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3030,1654,3050,1674" alt="" onmouseover="showTooltip('n132')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3182,1740,3202,1760" alt="" onmouseover="showTooltip('n131')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3182,1654,3202,1674" alt="" onmouseover="showTooltip('n130')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3106,1568,3126,1588" alt="" onmouseover="showTooltip('n129')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3106,1481,3126,1501" alt="" onmouseover="showTooltip('n128')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3312,1913,3332,1933" alt="" onmouseover="showTooltip('n127')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3312,1826,3332,1846" alt="" onmouseover="showTooltip('n126')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3312,1740,3332,1760" alt="" onmouseover="showTooltip('n125')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3312,1654,3332,1674" alt="" onmouseover="showTooltip('n124')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3312,1568,3332,1588" alt="" onmouseover="showTooltip('n123')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3442,1740,3462,1760" alt="" onmouseover="showTooltip('n122')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3442,1654,3462,1674" alt="" onmouseover="showTooltip('n121')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3442,1568,3462,1588" alt="" onmouseover="showTooltip('n120')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3551,1913,3571,1933" alt="" onmouseover="showTooltip('n119')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3551,1826,3571,1846" alt="" onmouseover="showTooltip('n118')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3551,1740,3571,1760" alt="" onmouseover="showTooltip('n117')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3551,1654,3571,1674" alt="" onmouseover="showTooltip('n116')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3627,1568,3647,1588" alt="" onmouseover="showTooltip('n115')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3442,1481,3462,1501" alt="" onmouseover="showTooltip('n114')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3106,1395,3126,1415" alt="" onmouseover="showTooltip('n113')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3855,1826,3875,1846" alt="" onmouseover="showTooltip('n112')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3855,1740,3875,1760" alt="" onmouseover="showTooltip('n111')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="4007,1826,4027,1846" alt="" onmouseover="showTooltip('n110')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="4007,1740,4027,1760" alt="" onmouseover="showTooltip('n109')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="4007,1654,4027,1674" alt="" onmouseover="showTooltip('n108')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="4007,1568,4027,1588" alt="" onmouseover="showTooltip('n107')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="4007,1481,4027,1501" alt="" onmouseover="showTooltip('n106')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="4463,1740,4483,1760" alt="" onmouseover="showTooltip('n105')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="4615,1740,4635,1760" alt="" onmouseover="showTooltip('n104')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="4539,1654,4559,1674" alt="" onmouseover="showTooltip('n103')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="4539,1568,4559,1588" alt="" onmouseover="showTooltip('n102')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="4767,1740,4787,1760" alt="" onmouseover="showTooltip('n101')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="4767,1654,4787,1674" alt="" onmouseover="showTooltip('n100')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="4919,1740,4939,1760" alt="" onmouseover="showTooltip('n99')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="4919,1654,4939,1674" alt="" onmouseover="showTooltip('n98')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="4843,1568,4863,1588" alt="" onmouseover="showTooltip('n97')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="4691,1481,4711,1501" alt="" onmouseover="showTooltip('n96')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="4349,1395,4369,1415" alt="" onmouseover="showTooltip('n95')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3727,1309,3747,1329" alt="" onmouseover="showTooltip('n94')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="5071,1826,5091,1846" alt="" onmouseover="showTooltip('n93')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="5071,1740,5091,1760" alt="" onmouseover="showTooltip('n92')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="5223,1826,5243,1846" alt="" onmouseover="showTooltip('n91')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="5223,1740,5243,1760" alt="" onmouseover="showTooltip('n90')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="5147,1654,5167,1674" alt="" onmouseover="showTooltip('n89')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="5147,1568,5167,1588" alt="" onmouseover="showTooltip('n88')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="5375,1826,5395,1846" alt="" onmouseover="showTooltip('n87')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="5375,1740,5395,1760" alt="" onmouseover="showTooltip('n86')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="5375,1654,5395,1674" alt="" onmouseover="showTooltip('n85')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="5375,1568,5395,1588" alt="" onmouseover="showTooltip('n84')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="5527,1826,5547,1846" alt="" onmouseover="showTooltip('n83')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="5679,1826,5699,1846" alt="" onmouseover="showTooltip('n82')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="5603,1740,5623,1760" alt="" onmouseover="showTooltip('n81')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="5603,1654,5623,1674" alt="" onmouseover="showTooltip('n80')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="5831,1826,5851,1846" alt="" onmouseover="showTooltip('n79')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="5831,1740,5851,1760" alt="" onmouseover="showTooltip('n78')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="5983,1826,6003,1846" alt="" onmouseover="showTooltip('n77')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="5983,1740,6003,1760" alt="" onmouseover="showTooltip('n76')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="6135,1826,6155,1846" alt="" onmouseover="showTooltip('n75')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="6135,1740,6155,1760" alt="" onmouseover="showTooltip('n74')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="5983,1654,6003,1674" alt="" onmouseover="showTooltip('n73')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="5793,1568,5813,1588" alt="" onmouseover="showTooltip('n72')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="5375,1481,5395,1501" alt="" onmouseover="showTooltip('n71')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="6293,1913,6313,1933" alt="" onmouseover="showTooltip('n70')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="6293,1826,6313,1846" alt="" onmouseover="showTooltip('n69')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="6293,1740,6313,1760" alt="" onmouseover="showTooltip('n68')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="6445,1913,6465,1933" alt="" onmouseover="showTooltip('n67')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="6445,1826,6465,1846" alt="" onmouseover="showTooltip('n66')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="6445,1740,6465,1760" alt="" onmouseover="showTooltip('n65')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="6369,1654,6389,1674" alt="" onmouseover="showTooltip('n64')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="6597,1999,6617,2019" alt="" onmouseover="showTooltip('n63')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="6597,1913,6617,1933" alt="" onmouseover="showTooltip('n62')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="6597,1826,6617,1846" alt="" onmouseover="showTooltip('n61')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="6597,1740,6617,1760" alt="" onmouseover="showTooltip('n60')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="6749,1913,6769,1933" alt="" onmouseover="showTooltip('n59')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="6749,1826,6769,1846" alt="" onmouseover="showTooltip('n58')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="6749,1740,6769,1760" alt="" onmouseover="showTooltip('n57')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="6673,1654,6693,1674" alt="" onmouseover="showTooltip('n56')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="6521,1568,6541,1588" alt="" onmouseover="showTooltip('n55')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="6901,1826,6921,1846" alt="" onmouseover="showTooltip('n54')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="6901,1740,6921,1760" alt="" onmouseover="showTooltip('n53')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="6901,1654,6921,1674" alt="" onmouseover="showTooltip('n52')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="7053,1826,7073,1846" alt="" onmouseover="showTooltip('n51')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="7053,1740,7073,1760" alt="" onmouseover="showTooltip('n50')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="7205,1826,7225,1846" alt="" onmouseover="showTooltip('n49')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="7205,1740,7225,1760" alt="" onmouseover="showTooltip('n48')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="7357,1826,7377,1846" alt="" onmouseover="showTooltip('n47')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="7357,1740,7377,1760" alt="" onmouseover="showTooltip('n46')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="7509,1826,7529,1846" alt="" onmouseover="showTooltip('n45')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="7509,1740,7529,1760" alt="" onmouseover="showTooltip('n44')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="7281,1654,7301,1674" alt="" onmouseover="showTooltip('n43')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="7091,1568,7111,1588" alt="" onmouseover="showTooltip('n42')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="6806,1481,6826,1501" alt="" onmouseover="showTooltip('n41')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="6090,1395,6110,1415" alt="" onmouseover="showTooltip('n40')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="6090,1309,6110,1329" alt="" onmouseover="showTooltip('n39')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="4909,1222,4929,1242" alt="" onmouseover="showTooltip('n38')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3082,1136,3102,1156" alt="" onmouseover="showTooltip('n37')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="7625,1654,7645,1674" alt="" onmouseover="showTooltip('n36')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="7625,1568,7645,1588" alt="" onmouseover="showTooltip('n35')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="7777,1654,7797,1674" alt="" onmouseover="showTooltip('n34')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="7777,1568,7797,1588" alt="" onmouseover="showTooltip('n33')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="7701,1481,7721,1501" alt="" onmouseover="showTooltip('n32')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="7701,1395,7721,1415" alt="" onmouseover="showTooltip('n31')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="7701,1309,7721,1329" alt="" onmouseover="showTooltip('n30')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="7701,1222,7721,1242" alt="" onmouseover="showTooltip('n29')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="7929,1654,7949,1674" alt="" onmouseover="showTooltip('n28')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="7929,1568,7949,1588" alt="" onmouseover="showTooltip('n27')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="8094,1654,8114,1674" alt="" onmouseover="showTooltip('n26')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="8094,1568,8114,1588" alt="" onmouseover="showTooltip('n25')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="8011,1481,8031,1501" alt="" onmouseover="showTooltip('n24')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="8011,1395,8031,1415" alt="" onmouseover="showTooltip('n23')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="8259,1740,8279,1760" alt="" onmouseover="showTooltip('n22')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="8259,1654,8279,1674" alt="" onmouseover="showTooltip('n21')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="8411,1654,8431,1674" alt="" onmouseover="showTooltip('n20')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="8335,1568,8355,1588" alt="" onmouseover="showTooltip('n19')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="8335,1481,8355,1501" alt="" onmouseover="showTooltip('n18')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="8335,1395,8355,1415" alt="" onmouseover="showTooltip('n17')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="8173,1309,8193,1329" alt="" onmouseover="showTooltip('n16')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="8173,1222,8193,1242" alt="" onmouseover="showTooltip('n15')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="7937,1136,7957,1156" alt="" onmouseover="showTooltip('n14')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="5509,1050,5529,1070" alt="" onmouseover="showTooltip('n13')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="5509,964,5529,984" alt="" onmouseover="showTooltip('n12')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="7112,877,7132,897" alt="" onmouseover="showTooltip('n11')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="7112,791,7132,811" alt="" onmouseover="showTooltip('n10')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="7112,705,7132,725" alt="" onmouseover="showTooltip('n9')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3790,618,3810,638" alt="" onmouseover="showTooltip('n8')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3790,532,3810,552" alt="" onmouseover="showTooltip('n7')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3790,446,3810,466" alt="" onmouseover="showTooltip('n6')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3790,360,3810,380" alt="" onmouseover="showTooltip('n5')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3790,273,3810,293" alt="" onmouseover="showTooltip('n4')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3790,187,3810,207" alt="" onmouseover="showTooltip('n3')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="8411,1740,8431,1760" alt="" onmouseover="showTooltip('n2')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3790,15,3810,35" alt="" onmouseover="showTooltip('n1')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="3790,101,3810,121" alt="" onmouseover="showTooltip('n0')" onmouseout="hideTooltip()"/>
+</map>
+
+
+    <table class="yimagetable" cellspacing="0" cellpadding="0" border="0">
+      <tr>
+        <td><img class="yimage" src="biology1_1.png" usemap="#image1_1" border="0" alt=""/></td>
+      </tr>
+    </table>
 
 </body>
-
-<foot>
-
-</foot>
-
 </html>
