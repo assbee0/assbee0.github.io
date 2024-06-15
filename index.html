@@ -88,6 +88,9 @@ try {
 tooltip.style.display = "none";
 } catch (error) { error = null; }
 }
+function redirectToPage(url) {
+window.location.href = url;
+}
 </script>
 
 <div class="tooltip" id="n0">Chordata<br>脊索动物门</div>
@@ -845,7 +848,7 @@ tooltip.style.display = "none";
   <area shape="rect" coords="13635,1654,13655,1674" alt="" onmouseover="showTooltip('n85')" onmouseout="hideTooltip()"/>
   <area shape="rect" coords="13635,1568,13655,1588" alt="" onmouseover="showTooltip('n84')" onmouseout="hideTooltip()"/>
   <area shape="rect" coords="13787,1826,13807,1846" alt="" onmouseover="showTooltip('n83')" onmouseout="hideTooltip()"/>
-  <area shape="rect" coords="13939,1826,13959,1846" alt="" onmouseover="showTooltip('n82')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="13939,1826,13959,1846" alt="" onmouseover="showTooltip('n82')" onmouseout="hideTooltip()" onmousedown="redirectToPage('Animalia/Panthera_tigris.html')"/>
   <area shape="rect" coords="13863,1740,13883,1760" alt="" onmouseover="showTooltip('n81')" onmouseout="hideTooltip()"/>
   <area shape="rect" coords="13863,1654,13883,1674" alt="" onmouseover="showTooltip('n80')" onmouseout="hideTooltip()"/>
   <area shape="rect" coords="14091,1826,14111,1846" alt="" onmouseover="showTooltip('n79')" onmouseout="hideTooltip()"/>
