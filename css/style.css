@@ -1,6 +1,6 @@
 .heading-animal {
   position: relative;
-  font-size: 300%;
+  font-size: 44px;
   padding-top: .75em;
   color: #d9f4ff;
   text-shadow:1px 1px 0 #000, -1px -1px 0 #000,
@@ -24,7 +24,7 @@
 
 .homepage-h2-class {
   position: relative;
-  font-size: 200%;
+  font-size: 30px;
   padding-top: .75em;
   color: #d9f4ff;
   text-shadow:1px 1px 0 #000, -1px -1px 0 #000,
