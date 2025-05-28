@@ -28,3 +28,56 @@
   font-size: 56px;
   font-weight: bold;
 }
+
+/* メイン画像 */
+.img-switcher-main img {
+  inline-size: 90%;
+  object-fit: contain;
+  border-radius: 20px;
+  transition: opacity .4s cubic-bezier(.25, 1, .5, 1);
+}
+
+/* サムネイルのエリア */
+.img-switcher-thumb {
+  display: flex;
+  gap: 0 1.5rem;
+  margin-block-start: 2rem;
+  overflow-x: scroll;
+}
+
+/* サムネイルの各ボタン */
+.img-switcher-btn {
+  flex-shrink: 0;
+  inline-size: 10rem;
+  overflow: hidden;
+  border-radius: 20px;
+  position: relative;
+
+  &::before {
+    content: "";
+    border-radius: inherit;
+    position: absolute;
+    inset: 0;
+    z-index: 10;
+    transition: background-color .4s;
+  }
+
+  &:focus-visible::before {
+    background-color: var(--overlay-color);
+  }
+
+  img {
+    object-fit: cover;
+  }
+}
+
+@media (any-hover: hover) {
+  .img-switcher-btn:hover::before {
+    background-color: var(--overlay-color);
+  }
+}
+
+/* is_activeクラスが付与されたら、サムネイルに半透明の黒背景を適用 */
+.img-switcher-btn.is_active::before {
+  background-color: var(--overlay-color);
+}
