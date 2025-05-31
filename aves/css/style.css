@@ -1,8 +1,13 @@
+body {
+  background: radial-gradient(circle at center, Azure, PowderBlue);
+  background-attachment: fixed;
+}
+
 .head-background {
   width: 100%;
-  height: 600px;
+  height: 30vh;
   background-image: url(background.png);
-
+  margin-bottom: 10vh;
   position: relative;
   background-size: contain;
   background-position: center;
@@ -27,6 +32,30 @@
   align-items: center;
   font-size: 56px;
   font-weight: bold;
+}
+
+h1 {
+  color: #1b3a4b;
+}
+
+h2 {
+  color: #2c5871;
+}
+
+h3 {
+  color: #3b7a89;
+}
+
+h4 {
+  color: #518c7c;
+}
+
+h5 {
+  color: #9a7d46;
+}
+
+h6 {
+  color: #a38f7b;
 }
 
 /* メイン画像 */
