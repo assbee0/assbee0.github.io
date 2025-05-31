@@ -1,14 +1,14 @@
 body {
-  background: radial-gradient(circle at center, Azure, PowderBlue);
-  background-attachment: fixed;
+  margin: 0;
+  background: linear-gradient(to right, PowderBlue, Azure, PowderBlue);
 }
 
 .head-background {
   width: 100%;
-  height: 30vh;
-  background-image: url(background.png);
-  margin-bottom: 10vh;
+  height: 30dvh;
+  margin-bottom: 10dvh;
   position: relative;
+  background-image: url(background.png);
   background-size: contain;
   background-position: center;
   display: flex;
@@ -26,7 +26,6 @@ body {
 
 .head-title {
   position: relative;
-  z-index: 10;
   color: #fff;
   display: flex;
   align-items: center;
@@ -34,27 +33,51 @@ body {
   font-weight: bold;
 }
 
+table {
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid;
+}
+
+td {
+  text-align: center;
+  border: 1px solid;
+}
+
+td img{
+  max-width: 256px;
+  max-height: 256px;
+  width: 20vw;
+  height: 20vw;
+}
+
 h1 {
+  text-align: center;
   color: #1b3a4b;
 }
 
 h2 {
+  text-align: center;
   color: #2c5871;
 }
 
 h3 {
+  text-align: center;
   color: #3b7a89;
 }
 
 h4 {
+  text-align: center;
   color: #518c7c;
 }
 
 h5 {
+  text-align: center;
   color: #9a7d46;
 }
 
 h6 {
+  text-align: center;
   color: #a38f7b;
 }
 
