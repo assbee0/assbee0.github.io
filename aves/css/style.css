@@ -41,6 +41,7 @@ table {
 }
 
 td {
+  font-size: clamp(2px, 16px, 1.25vw);
   text-align: center;
   border: 1px solid;
 }
