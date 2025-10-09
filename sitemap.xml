@@ -1,152 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://assbee0.github.io/</loc>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
 
+  <url>
+    <loc>https://assbee0.github.io/mammalia/</loc>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
-<url>
-  <loc>https://assbee0.github.io/</loc>
-  <lastmod>2025-08-07T17:25:15+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://assbee0.github.io/mammalia/index.html</loc>
-  <lastmod>2025-08-07T17:25:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://assbee0.github.io/aves/index.html</loc>
-  <lastmod>2025-08-07T17:25:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://assbee0.github.io/aves/struthioniformes/index.html</loc>
-  <lastmod>2025-08-07T17:25:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://assbee0.github.io/aves/casuariiformes/index.html</loc>
-  <lastmod>2025-08-07T17:25:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://assbee0.github.io/aves/rheiformes/index.html</loc>
-  <lastmod>2025-08-07T17:25:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://assbee0.github.io/aves/anseriformes/index.html</loc>
-  <lastmod>2025-08-07T17:25:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://assbee0.github.io/aves/galliformes/index.html</loc>
-  <lastmod>2025-08-07T17:25:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://assbee0.github.io/aves/phoenicopteriformes/index.html</loc>
-  <lastmod>2025-08-07T17:25:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://assbee0.github.io/aves/podicipediformes/index.html</loc>
-  <lastmod>2025-08-07T17:25:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://assbee0.github.io/aves/columbiformes/index.html</loc>
-  <lastmod>2025-08-07T17:25:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://assbee0.github.io/aves/musophagiformes/index.html</loc>
-  <lastmod>2025-08-07T17:25:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://assbee0.github.io/aves/gruiformes/index.html</loc>
-  <lastmod>2025-08-07T17:25:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://assbee0.github.io/aves/charadriiformes/index.html</loc>
-  <lastmod>2025-08-07T17:25:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://assbee0.github.io/aves/strisores/index.html</loc>
-  <lastmod>2025-08-07T17:25:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://assbee0.github.io/aves/sphenisciformes/index.html</loc>
-  <lastmod>2025-08-07T17:25:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://assbee0.github.io/aves/ciconiiformes/index.html</loc>
-  <lastmod>2025-08-07T17:25:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://assbee0.github.io/aves/suliformes/index.html</loc>
-  <lastmod>2025-08-07T17:25:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://assbee0.github.io/aves/pelecaniformes/index.html</loc>
-  <lastmod>2025-08-07T17:25:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://assbee0.github.io/aves/strigiformes/index.html</loc>
-  <lastmod>2025-08-07T17:25:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://assbee0.github.io/aves/cathartiformes/index.html</loc>
-  <lastmod>2025-08-07T17:25:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://assbee0.github.io/aves/accipitriformes/index.html</loc>
-  <lastmod>2025-08-07T17:25:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://assbee0.github.io/aves/bucerotiformes/index.html</loc>
-  <lastmod>2025-08-07T17:25:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://assbee0.github.io/aves/coraciiformes/index.html</loc>
-  <lastmod>2025-08-07T17:25:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://assbee0.github.io/aves/piciformes/index.html</loc>
-  <lastmod>2025-08-07T17:25:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://assbee0.github.io/aves/falconiformes/index.html</loc>
-  <lastmod>2025-08-07T17:25:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://assbee0.github.io/aves/passeriformes/index.html</loc>
-  <lastmod>2025-08-07T17:25:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://assbee0.github.io/aves/struthioniformes/struthio_camelus.html</loc>
-  <lastmod>2025-08-07T17:25:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-
+  <url>
+    <loc>https://assbee0.github.io/aves</loc>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
 </urlset>
