@@ -46,7 +46,7 @@ td {
   border: 1px solid;
 }
 
-td img{
+td img {
   max-width: 256px;
   max-height: 256px;
   width: 20vw;
@@ -55,32 +55,50 @@ td img{
 
 h1 {
   text-align: center;
-  color: #8B4513;
+  color: #5A2E0C;
 }
 
 h2 {
   text-align: center;
-  color: #A0522D;
+  color: #7A3E11;
 }
 
 h3 {
   text-align: center;
-  color: #CD853F;
+  color: #A0522D;
 }
 
 h4 {
   text-align: center;
-  color: #D2691E;
+  color: #C0672E;
 }
 
 h5 {
   text-align: center;
-  color: #E9967A;
+  color: #D9823B;
 }
 
 h6 {
   text-align: center;
-  color: #FFA07A;
+  color: #E69B5A;
+}
+
+.h7 {
+  text-align: center;
+  font-size: 0.60em;
+  margin-top: 2.50em;
+  margin-bottom: 2.50em;
+  font-weight: bold;
+  color: #F2B37E;
+}
+
+.h8 {
+  text-align: center;
+  font-size: 0.50em;
+  margin-top: 3.0em;
+  margin-bottom: 3.0em;
+  font-weight: bold;
+  color: #F9CBAA;
 }
 
 /* メイン画像 */
