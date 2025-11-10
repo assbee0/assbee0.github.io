@@ -1,6 +1,8 @@
 body {
   margin: 0;
-  background: linear-gradient(to right, PowderBlue, Azure, PowderBlue);
+  background-image: url(sketch.png);
+  background-size: 50vw;
+  background-repeat: repeat;
 }
 
 .head-background {
