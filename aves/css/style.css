@@ -46,7 +46,7 @@ td {
   border: 1px solid;
 }
 
-td img{
+td img {
   max-width: 256px;
   max-height: 256px;
   width: 20vw;
@@ -55,31 +55,37 @@ td img{
 
 h1 {
   text-align: center;
+  font-size: 2.0em;
   color: #1b3a4b;
 }
 
 h2 {
   text-align: center;
+  font-size: 1.7em;
   color: #2c5871;
 }
 
 h3 {
   text-align: center;
+  font-size: 1.5em;
   color: #3b7a89;
 }
 
 h4 {
   text-align: center;
+  font-size: 1.3em;
   color: #518c7c;
 }
 
 h5 {
   text-align: center;
+  font-size: 1.1em;
   color: #9a7d46;
 }
 
 h6 {
   text-align: center;
+  font-size: 1.0em;
   color: #a38f7b;
 }
 
