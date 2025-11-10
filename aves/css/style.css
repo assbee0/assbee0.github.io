@@ -1,7 +1,7 @@
 body {
   margin: 0;
   background-image: url(sketch.png);
-  background-size: 50vw;
+  background-size: calc(max(50vw, 400px));
   background-repeat: repeat;
 }
 
