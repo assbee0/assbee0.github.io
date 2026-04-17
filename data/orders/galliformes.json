@@ -1,0 +1,213 @@
+{
+  "class": "aves",
+  "order": "galliformes",
+  "name": "galliformes",
+  "name-jp": "キジ目",
+  "name-cn": "鸡形目",
+  "type": "order",
+  "children": [
+    {
+      "name": "numididae",
+      "name-jp": "ホロホロチョウ科",
+      "name-cn": "珠鸡科",
+      "type": "family",
+      "children": [
+        {
+          "name": "acryllium",
+          "name-jp": "フサホロホロチョウ属",
+          "name-cn": "鹫珠鸡属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "acryllium vulturinum",
+              "name-jp": "フサホロホロチョウ",
+              "name-cn": "鹫珠鸡",
+              "type": "species",
+              "icon": "/icon/フサホロホロチョウ.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "phasianidae",
+      "name-jp": "キジ科",
+      "name-cn": "雉科",
+      "type": "family",
+      "children": [
+        {
+          "name": "rollulinae",
+          "name-jp": "カンムリシャコ亜科",
+          "name-cn": "冕鹧鸪亚科",
+          "type": "subfamily",
+          "children": [
+            {
+              "name": "rollulus",
+              "name-jp": "カンムリシャコ属",
+              "name-cn": "冕鹧鸪属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "rollulus rouloul",
+                  "name-jp": "カンムリシャコ",
+                  "name-cn": "冕鹧鸪",
+                  "type": "species",
+                  "icon": "/icon/カンムリシャコ.jpg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "phasianinae",
+          "name-jp": "キジ亜科",
+          "name-cn": "雉亚科",
+          "type": "subfamily",
+          "children": [
+            {
+              "name": "tragopan",
+              "name-jp": "ジュケイ属",
+              "name-cn": "角雉属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "tragopan temminckii",
+                  "name-jp": "ベニジュケイ",
+                  "name-cn": "红腹角雉",
+                  "type": "species",
+                  "icon": "/icon/ベニジュケイ.jpg"
+                }
+              ]
+            },
+            {
+              "name": "lagopus",
+              "name-jp": "ライチョウ属",
+              "name-cn": "雷鸟属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "lagopus muta",
+                  "name-jp": "ライチョウ",
+                  "name-cn": "岩雷鸟",
+                  "type": "species",
+                  "icon": "/icon/ライチョウ.jpg"
+                }
+              ]
+            },
+            {
+              "name": "syrmaticus",
+              "name-jp": "ヤマドリ属",
+              "name-cn": "长尾雉属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "syrmaticus reevesii",
+                  "name-jp": "オナガキジ",
+                  "name-cn": "白冠长尾雉",
+                  "type": "species",
+                  "icon": "/icon/オナガキジ.jpg"
+                },
+                {
+                  "name": "syrmaticus soemmerringii",
+                  "name-jp": "ヤマドリ",
+                  "name-cn": "铜长尾雉",
+                  "type": "species",
+                  "icon": "/icon/ヤマドリ.jpg"
+                }
+              ]
+            },
+            {
+              "name": "chrysolophus",
+              "name-jp": "キンケイ属",
+              "name-cn": "锦鸡属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "chrysolophus pictus",
+                  "name-jp": "キンケイ",
+                  "name-cn": "红腹锦鸡",
+                  "type": "species",
+                  "icon": "/icon/キンケイ.jpg"
+                }
+              ]
+            },
+            {
+              "name": "crossoptilon",
+              "name-jp": "ミミキジ属",
+              "name-cn": "马鸡属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "crossoptilon auritum",
+                  "name-jp": "アオミミキジ",
+                  "name-cn": "蓝马鸡",
+                  "type": "species",
+                  "icon": "/icon/アオミミキジ.jpg"
+                },
+                {
+                  "name": "crossoptilon crossoptilon",
+                  "name-jp": "シロミミキジ",
+                  "name-cn": "白马鸡",
+                  "type": "species",
+                  "icon": "/icon/シロミミキジ.jpg"
+                }
+              ]
+            },
+            {
+              "name": "lophura",
+              "name-jp": "コシアカキジ属",
+              "name-cn": "鹇属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "lophura edwardsi",
+                  "name-jp": "コサンケイ",
+                  "name-cn": "爱氏鹇",
+                  "type": "species",
+                  "icon": "/icon/コサンケイ.jpg"
+                },
+                {
+                  "name": "lophura nycthemera",
+                  "name-jp": "ハッカン",
+                  "name-cn": "白鹇",
+                  "type": "species",
+                  "icon": "/icon/ハッカン.jpg"
+                }
+              ]
+            },
+            {
+              "name": "bambusicola",
+              "name-jp": "コジュケイ属",
+              "name-cn": "竹鸡属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "bambusicola thoracicus",
+                  "name-jp": "コジュケイ",
+                  "name-cn": "灰胸竹鸡",
+                  "type": "species",
+                  "icon": "/icon/コジュケイ.jpg"
+                }
+              ]
+            },
+            {
+              "name": "alectoris",
+              "name-jp": "イワシャコ属",
+              "name-cn": "石鸡属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "alectoris chukar",
+                  "name-jp": "イワシャコ",
+                  "name-cn": "石鸡",
+                  "type": "species",
+                  "icon": "/icon/イワシャコ.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "class": "aves",
+  "order": "psittaciformes",
+  "name": "psittaciformes",
+  "name-jp": "オウム目",
+  "name-cn": "鹦鹉目",
+  "type": "order",
+  "children": [
+    {
+      "name": "cacatuidae",
+      "name-jp": "オウム科",
+      "name-cn": "凤头鹦鹉科",
+      "type": "family",
+      "children": [
+        {
+          "name": "nymphicus",
+          "name-jp": "オカメインコ属",
+          "name-cn": "鸡尾鹦鹉属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "nymphicus hollandicus",
+              "name-jp": "オカメインコ",
+              "name-cn": "鸡尾鹦鹉",
+              "type": "species",
+              "icon": "/icon/オカメインコ.jpg"
+            }
+          ]
+        },
+        {
+          "name": "cacatua",
+          "name-jp": "オウム属",
+          "name-cn": "凤头鹦鹉属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "cacatua galerita",
+              "name-jp": "キバタン",
+              "name-cn": "葵花凤头鹦鹉",
+              "type": "species",
+              "icon": "/icon/キバタン.jpg"
+            },
+            {
+              "name": "cacatua goffiniana",
+              "name-jp": "シロビタイムジオウム",
+              "name-cn": "戈芬氏凤头鹦鹉",
+              "type": "species",
+              "icon": "/icon/シロビタイムジオウム.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "psittacidae",
+      "name-jp": "ヨウム科",
+      "name-cn": "金刚鹦鹉科",
+      "type": "family",
+      "children": [
+        {
+          "name": "psittacinae",
+          "name-jp": "ヨウム亜科",
+          "name-cn": "非洲鹦鹉亚科",
+          "type": "subfamily",
+          "children": [
+            {
+              "name": "psittacus",
+              "name-jp": "ヨウム属",
+              "name-cn": "非洲灰鹦鹉属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "psittacus erithacus",
+                  "name-jp": "ヨウム",
+                  "name-cn": "非洲灰鹦鹉",
+                  "type": "species",
+                  "icon": "/icon/ヨウム.jpg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "arinae",
+          "name-jp": "コンゴウインコ亜科",
+          "name-cn": "金刚鹦鹉亚科",
+          "type": "subfamily",
+          "children": [
+            {
+              "name": "arini",
+              "name-jp": "コンゴウインコ族",
+              "name-cn": "金刚鹦鹉族",
+              "type": "tribe",
+              "children": [
+                {
+                  "name": "aratinga",
+                  "name-jp": "クサビオインコ属",
+                  "name-cn": "锥尾鹦鹉属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "aratinga solstitialis",
+                      "name-jp": "コガネメキシコインコ",
+                      "name-cn": "太阳锥尾鹦鹉",
+                      "type": "species",
+                      "icon": "/icon/コガネメキシコインコ.jpg"
+                    }
+                  ]
+                },
+                {
+                  "name": "ara",
+                  "name-jp": "コンゴウインコ属",
+                  "name-cn": "金刚鹦鹉属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "ara ararauna",
+                      "name-jp": "ルリコンゴウインコ",
+                      "name-cn": "黄蓝金刚鹦鹉",
+                      "type": "species",
+                      "icon": "/icon/ルリコンゴウインコ.jpg"
+                    },
+                    {
+                      "name": "ara chloropterus",
+                      "name-jp": "ベニコンゴウインコ",
+                      "name-cn": "红绿金刚鹦鹉",
+                      "type": "species",
+                      "icon": "/icon/ベニコンゴウインコ.jpg"
+                    },
+                    {
+                      "name": "ara macao",
+                      "name-jp": "コンゴウインコ",
+                      "name-cn": "五彩金刚鹦鹉",
+                      "type": "species",
+                      "icon": "/icon/コンゴウインコ.jpg"
+                    },
+                    {
+                      "name": "ara militaris",
+                      "name-jp": "ミドリコンゴウインコ",
+                      "name-cn": "军金刚鹦鹉",
+                      "type": "species",
+                      "icon": "/icon/ミドリコンゴウインコ.jpg"
+                    }
+                  ]
+                },
+                {
+                  "name": "diopsittaca",
+                  "name-jp": "コミドリコンゴウインコ属",
+                  "name-cn": "红肩金刚鹦鹉属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "diopsittaca nobilis",
+                      "name-jp": "コミドリコンゴウインコ",
+                      "name-cn": "红肩金刚鹦鹉",
+                      "type": "species",
+                      "icon": "/icon/コミドリコンゴウインコ.jpg"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "psittaculidae",
+      "name-jp": "インコ科",
+      "name-cn": "鹦鹉科",
+      "type": "family",
+      "children": [
+        {
+          "name": "agapornithinae",
+          "name-jp": "ボタンインコ亜科",
+          "name-cn": "牡丹鹦鹉亚科",
+          "type": "subfamily",
+          "children": [
+            {
+              "name": "agapornis",
+              "name-jp": "ボタンインコ属",
+              "name-cn": "牡丹鹦鹉属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "agapornis fischeri",
+                  "name-jp": "ルリゴシボタンインコ",
+                  "name-cn": "费氏牡丹鹦鹉",
+                  "type": "species",
+                  "icon": "/icon/ルリゴシボタンインコ.jpg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "loriinae",
+          "name-jp": "ヒインコ亜科",
+          "name-cn": "吸蜜鹦鹉亚科",
+          "type": "subfamily",
+          "children": [
+            {
+              "name": "melopsittacus",
+              "name-jp": "セキセイインコ属",
+              "name-cn": "虎皮鹦鹉属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "melopsittacus undulatus",
+                  "name-jp": "セキセイインコ",
+                  "name-cn": "虎皮鹦鹉",
+                  "type": "species",
+                  "icon": "/icon/セキセイインコ.jpg"
+                }
+              ]
+            },
+            {
+              "name": "loriini",
+              "name-jp": "ヒインコ族",
+              "name-cn": "吸蜜鹦鹉族",
+              "type": "tribe",
+              "children": [
+                {
+                  "name": "trichoglossus",
+                  "name-jp": "セイガイインコ属",
+                  "name-cn": "吸蜜鹦鹉属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "trichoglossus haematodus",
+                      "name-jp": "ニューギニアゴシキセイガイインコ",
+                      "name-cn": "椰果鹦鹉",
+                      "type": "species",
+                      "icon": "/icon/ニューギニアゴシキセイガイインコ.jpg"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

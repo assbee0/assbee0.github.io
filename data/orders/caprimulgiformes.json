@@ -1,0 +1,33 @@
+{
+  "class": "aves",
+  "order": "caprimulgiformes",
+  "name": "caprimulgiformes",
+  "name-jp": "ヨタカ目",
+  "name-cn": "夜鹰目",
+  "type": "order",
+  "children": [
+    {
+      "name": "podargidae",
+      "name-jp": "ガマグチヨタカ科",
+      "name-cn": "蛙口夜鹰科",
+      "type": "family",
+      "children": [
+        {
+          "name": "podargus",
+          "name-jp": "オーストラリアガマグチヨタカ属",
+          "name-cn": "蛙口夜鹰属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "podargus strigoides",
+              "name-jp": "オーストラリアガマグチヨタカ",
+              "name-cn": "茶色蛙口夜鹰",
+              "type": "species",
+              "icon": "/icon/オーストラリアガマグチヨタカ.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

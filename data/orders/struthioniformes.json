@@ -1,0 +1,33 @@
+{
+  "class": "aves",
+  "order": "struthioniformes",
+  "name": "struthioniformes",
+  "name-jp": "ダチョウ目",
+  "name-cn": "鸵鸟目",
+  "type": "order",
+  "children": [
+    {
+      "name": "struthionidae",
+      "name-jp": "ダチョウ科",
+      "name-cn": "鸵鸟科",
+      "type": "family",
+      "children": [
+        {
+          "name": "struthio",
+          "name-jp": "ダチョウ属",
+          "name-cn": "鸵鸟属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "struthio camelus",
+              "name-jp": "ダチョウ",
+              "name-cn": "非洲鸵鸟",
+              "type": "species",
+              "icon": "/icon/ダチョウ.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

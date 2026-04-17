@@ -1,0 +1,210 @@
+{
+    "class": "mammalia",
+    "name": "Mammalia",
+    "name-jp": "哺乳綱",
+    "name-cn": "哺乳纲",
+    "children": [
+        {
+            "name": "Theria",
+            "name-jp": "獣亜綱",
+            "name-cn": "兽亚纲",
+            "children": [
+                {
+                    "name": "Metatheria",
+                    "name-jp": "後獣下綱",
+                    "name-cn": "后兽下纲",
+                    "children": [
+                        {
+                            "name": "Australidelphia",
+                            "name-jp": "オーストラリア有袋類",
+                            "name-cn": "澳大利亚有袋总目",
+                            "icon-children": [
+                                {
+                                    "name": "Dasyuromorphia",
+                                    "name-jp": "フクロネコ形目",
+                                    "name-cn": "袋鼬目",
+                                    "icon": "/icon/タスマニアデビル.jpg"
+                                },
+                                {
+                                    "name": "Diprotodontia",
+                                    "name-jp": "双前歯目",
+                                    "name-cn": "双门齿目",
+                                    "icon": "/icon/オオカンガルー.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Eutheria",
+                    "name-jp": "真獣下綱",
+                    "name-cn": "真兽下纲",
+                    "children": [
+                        {
+                            "name": "Atlantogenata",
+                            "name-jp": "大西洋類",
+                            "name-cn": "大西洋真兽高目",
+                            "children": [
+                                {
+                                    "name": "Xenarthra",
+                                    "name-jp": "異節上目",
+                                    "name-cn": "异关节总目",
+                                    "icon-children": [
+                                        {
+                                            "name": "Pilosa",
+                                            "name-jp": "有毛目",
+                                            "name-cn": "披毛目",
+                                            "icon": "/icon/フタユビナマケモノ.jpg"
+                                        },
+                                        {
+                                            "name": "Cingulata",
+                                            "name-jp": "被甲目",
+                                            "name-cn": "有甲目",
+                                            "icon": "/icon/ムツオビアルマジロ.jpg"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Afrotheria",
+                                    "name-jp": "アフリカ獣上目",
+                                    "name-cn": "非洲兽总目",
+                                    "children": [
+                                        {
+                                            "name": "Paenungulata",
+                                            "name-jp": "近蹄類",
+                                            "name-cn": "近蹄类",
+                                            "icon-children": [
+                                                {
+                                                    "name": "Hyracoidea",
+                                                    "name-jp": "イワダヌキ目",
+                                                    "name-cn": "蹄兔目",
+                                                    "icon": "/icon/ケープハイラックス.jpg"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Tethytheria",
+                                            "name-jp": "テティス獣類",
+                                            "name-cn": "特提斯兽类",
+                                            "icon-children": [
+                                                {
+                                                    "name": "Sirenia",
+                                                    "name-jp": "海牛目",
+                                                    "name-cn": "海牛目",
+                                                    "icon": "/icon/アフリカマナティー.jpg"
+                                                },
+                                                {
+                                                    "name": "Proboscidea",
+                                                    "name-jp": "長鼻目",
+                                                    "name-cn": "长鼻目",
+                                                    "icon": "/icon/アジアゾウ.jpg"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Boreoeutheria",
+                            "name-jp": "北方真獣類",
+                            "name-cn": "北方真兽高目",
+                            "children": [
+                                {
+                                    "name": "Laurasiatheria",
+                                    "name-jp": "ローラシア獣上目",
+                                    "name-cn": "劳亚兽总目",
+                                    "children": [
+                                        {
+                                            "name": "Ferae",
+                                            "name-jp": "広獣類",
+                                            "name-cn": "猛兽类",
+                                            "icon-children": [
+                                                {
+                                                    "name": "Pholidota",
+                                                    "name-jp": "鱗甲目",
+                                                    "name-cn": "鳞甲目",
+                                                    "icon": "/icon/ミミセンザンコウ.jpg"
+                                                },
+                                                {
+                                                    "name": "Carnivora",
+                                                    "name-jp": "食肉目",
+                                                    "name-cn": "食肉目",
+                                                    "icon": "/icon/イヌ.jpg"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Ungulata",
+                                            "name-jp": "有蹄類",
+                                            "name-cn": "有蹄类",
+                                            "icon-children": [
+                                                {
+                                                    "name": "Perissodactyla",
+                                                    "name-jp": "奇蹄目",
+                                                    "name-cn": "奇蹄目",
+                                                    "icon": "/icon/ノウマ.jpg"
+                                                },
+                                                {
+                                                    "name": "Artiodactyla",
+                                                    "name-jp": "偶蹄目",
+                                                    "name-cn": "偶蹄目",
+                                                    "icon": "/icon/ヤギ.jpg"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Euarchontoglires",
+                                    "name-jp": "真主齧上目",
+                                    "name-cn": "灵长总目",
+                                    "children": [
+                                        {
+                                            "name": "Glires",
+                                            "name-jp": "ゲリレス大目",
+                                            "name-cn": "啮形大目",
+                                            "icon-children": [
+                                                {
+                                                    "name": "Rodentia",
+                                                    "name-jp": "齧歯目",
+                                                    "name-cn": "啮齿目",
+                                                    "icon": "/icon/ニホンリス.jpg"
+                                                },
+                                                {
+                                                    "name": "Lagomorpha",
+                                                    "name-jp": "兎形目",
+                                                    "name-cn": "兔形目",
+                                                    "icon": "/icon/ニホンノウサギ.jpg"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Euarchonta",
+                                            "name-jp": "真主獣大目",
+                                            "name-cn": "真灵长大目",
+                                            "icon-children": [
+                                                {
+                                                    "name": "Scandentia",
+                                                    "name-jp": "登木目",
+                                                    "name-cn": "树鼩目",
+                                                    "icon": "/icon/コモンツパイ.jpg"
+                                                },
+                                                {
+                                                    "name": "Primates",
+                                                    "name-jp": "霊長目",
+                                                    "name-cn": "灵长目",
+                                                    "icon": "/icon/キンシコウ.jpg"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

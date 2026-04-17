@@ -1,6 +1,0 @@
-1:"$Sreact.fragment"
-2:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0ka051yepewro.js"],""]
-3:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
-4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"homepage-background","children":[["$","h1",null,{"className":"heading-animal","data-word":"ZOOLOGY","children":["$","span",null,{"className":"title-text","children":"スモモ動物図鑑"}]}],[["$","div","aves",{"children":["$","h2",null,{"className":"homepage-h2-class","data-word":"AVES","children":["$","$L2",null,{"href":"/aves","children":"aves"}]}]}],["$","div","mammalia",{"children":["$","h2",null,{"className":"homepage-h2-class","data-word":"MAMMALIA","children":["$","$L2",null,{"href":"/mammalia","children":"mammalia"}]}]}]]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0ka051yepewro.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"iU__4qNIYrTnc_Pj5WjSl"}
-5:null

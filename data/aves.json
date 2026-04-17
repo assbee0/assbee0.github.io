@@ -1,0 +1,291 @@
+{
+    "class": "aves",
+    "name": "Aves",
+    "name-jp": "鳥綱",
+    "name-cn": "鸟纲",
+    "children": [
+        {
+            "name": "Palaeognathae",
+            "name-jp": "古顎類",
+            "name-cn": "古颚类",
+            "icon-children": [
+                {
+                    "name": "Struthioniformes",
+                    "name-jp": "ダチョウ目",
+                    "name-cn": "鸵鸟目",
+                    "icon": "/icon/ダチョウ.jpg"
+                },
+                {
+                    "name": "Rheiformes",
+                    "name-jp": "レア目",
+                    "name-cn": "美洲鸵目",
+                    "icon": "/icon/レア.jpg"
+                },
+                {
+                    "name": "Tinamiformes",
+                    "name-jp": "シギダチョウ目",
+                    "name-cn": "䳍形目",
+                    "icon": "/icon/カンムリシギダチョウ.jpg"
+                },
+                {
+                    "name": "Casuariiformes",
+                    "name-jp": "ヒクイドリ目",
+                    "name-cn": "鹤鸵目",
+                    "icon": "/icon/ヒクイドリ.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Neognathae",
+            "name-jp": "新顎類",
+            "name-cn": "新颚类",
+            "children": [
+                {
+                    "name": "Galloanserae",
+                    "name-jp": "キジカモ類",
+                    "name-cn": "鸡雁小纲",
+                    "icon-children": [
+                        {
+                            "name": "Anseriformes",
+                            "name-jp": "カモ目",
+                            "name-cn": "雁形目",
+                            "icon": "/icon/マガモ.jpg"
+                        },
+                        {
+                            "name": "Galliformes",
+                            "name-jp": "キジ目",
+                            "name-cn": "鸡形目",
+                            "icon": "/icon/コジュケイ.jpg"
+                        }
+                    ]
+                },
+                {
+                    "name": "Neoaves",
+                    "name-jp": "新鳥類",
+                    "name-cn": "新鸟小纲",
+                    "children": [
+                        {
+                            "name": "Mirandornithes",
+                            "name-jp": "賛鳥類",
+                            "name-cn": "奇迹鸟类",
+                            "icon-children": [
+                                {
+                                    "name": "Phoenicopteriformes",
+                                    "name-jp": "フラミンゴ目",
+                                    "name-cn": "火烈鸟目",
+                                    "icon": "/icon/ベニイロフラミンゴ.jpg"
+                                },
+                                {
+                                    "name": "Podicipediformes",
+                                    "name-jp": "カイツブリ目",
+                                    "name-cn": "䴙䴘目",
+                                    "icon": "/icon/カイツブリ.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Columbaves",
+                            "name-jp": "鳩鳥類",
+                            "name-cn": "鸽鸨类",
+                            "children": [
+                                {
+                                    "name": "Columbimorphae",
+                                    "name-jp": "鳩形類",
+                                    "name-cn": "鸽形总目",
+                                    "icon-children": [
+                                        {
+                                            "name": "Columbiformes",
+                                            "name-jp": "ハト目",
+                                            "name-cn": "鸽形目",
+                                            "icon": "/icon/カワラバト.jpg"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Otidimorphae",
+                                    "name-jp": "ノガン形類",
+                                    "name-cn": "鸨形总目",
+                                    "icon-children": [
+                                        {
+                                            "name": "Musophagiformes",
+                                            "name-jp": "エボシドリ目",
+                                            "name-cn": "蕉鹃目",
+                                            "icon": "/icon/リビングストンエボシドリ.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Elementaves",
+                            "name-jp": "元素鳥類",
+                            "name-cn": "元素鸟类",
+                            "children": [
+                                {
+                                    "name": "Gruimorphae",
+                                    "name-jp": "ツル形類",
+                                    "name-cn": "鹤形总目",
+                                    "icon-children": [
+                                        {
+                                            "name": "Gruiformes",
+                                            "name-jp": "ツル目",
+                                            "name-cn": "鹤形目",
+                                            "icon": "/icon/マナヅル.jpg"
+                                        },
+                                        {
+                                            "name": "Charadriiformes",
+                                            "name-jp": "チドリ目",
+                                            "name-cn": "鸻形目",
+                                            "icon": "/icon/コチドリ.jpg"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Strisores",
+                                    "name-jp": "夜鳥類",
+                                    "name-cn": "夜鸟类",
+                                    "icon-children": [
+                                        {
+                                            "name": "Caprimulgiformes",
+                                            "name-jp": "ヨタカ目",
+                                            "name-cn": "夜鹰目",
+                                            "icon": "/icon/オーストラリアガマグチヨタカ.jpg"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Ardeae",
+                                    "name-jp": "アルデアエ・クレード",
+                                    "name-cn": "鹭形类",
+                                    "children": [
+                                        {
+                                            "name": "Aequornithes",
+                                            "name-jp": "水禽類",
+                                            "name-cn": "水鸟类",
+                                            "icon-children": [
+                                                {
+                                                    "name": "Sphenisciformes",
+                                                    "name-jp": "ペンギン目",
+                                                    "name-cn": "企鹅目",
+                                                    "icon": "/icon/オウサマペンギン.jpg"
+                                                },
+                                                {
+                                                    "name": "Ciconiiformes",
+                                                    "name-jp": "コウノトリ目",
+                                                    "name-cn": "鹳形目",
+                                                    "icon": "/icon/コウノトリ.jpg"
+                                                },
+                                                {
+                                                    "name": "Suliformes",
+                                                    "name-jp": "カツオドリ目",
+                                                    "name-cn": "鲣鸟目",
+                                                    "icon": "/icon/ウミウ.jpg"
+                                                },
+                                                {
+                                                    "name": "Pelecaniformes",
+                                                    "name-jp": "ペリカン目",
+                                                    "name-cn": "鹈形目",
+                                                    "icon": "/icon/アオサギ.jpg"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Telluraves",
+                            "name-jp": "陸鳥類",
+                            "name-cn": "陆鸟类",
+                            "children": [
+                                {
+                                    "name": "Afroaves",
+                                    "name-jp": "アフリカ鳥類",
+                                    "name-cn": "非洲禽类",
+                                    "icon-children": [
+                                        {
+                                            "name": "Strigiformes",
+                                            "name-jp": "フクロウ目",
+                                            "name-cn": "鸮形目",
+                                            "icon": "/icon/アフリカワシミミズク.jpg"
+                                        },
+                                        {
+                                            "name": "Accipitriformes",
+                                            "name-jp": "タカ目",
+                                            "name-cn": "鹰形目",
+                                            "icon": "/icon/オオワシ.jpg"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Coraciimorphae",
+                                    "name-jp": "ブッポウソウ上目",
+                                    "name-cn": "佛法僧总目",
+                                    "icon-children": [
+                                        {
+                                            "name": "Bucerotiformes",
+                                            "name-jp": "サイチョウ目",
+                                            "name-cn": "犀鸟目",
+                                            "icon": "/icon/ギンガオサイチョウ.jpg"
+                                        },
+                                        {
+                                            "name": "Coraciiformes",
+                                            "name-jp": "ブッポウソウ目",
+                                            "name-cn": "佛法僧目",
+                                            "icon": "/icon/カワセミ.jpg"
+                                        },
+                                        {
+                                            "name": "Piciformes",
+                                            "name-jp": "キツツキ目",
+                                            "name-cn": "䴕形目",
+                                            "icon": "/icon/アカゲラ.jpg"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Australaves",
+                                    "name-jp": "オーストラリア鳥類",
+                                    "name-cn": "南鸟类",
+                                    "children": [
+                                        {
+                                            "name": "Eufalconimorphae",
+                                            "name-jp": "真ハヤブサ形類",
+                                            "name-cn": "真隼形类",
+                                            "icon-children": [
+                                                {
+                                                    "name": "Falconiformes",
+                                                    "name-jp": "ハヤブサ目",
+                                                    "name-cn": "隼形目",
+                                                    "icon": "/icon/チョウゲンボウ.jpg"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Psittacopasserae",
+                                            "name-jp": "オウム・スズメ類",
+                                            "name-cn": "鹦雀总目",
+                                            "icon-children": [
+                                                {
+                                                    "name": "Psittaciformes",
+                                                    "name-jp": "オウム目",
+                                                    "name-cn": "鹦鹉目",
+                                                    "icon": "/icon/ルリゴシボタンインコ.jpg"
+                                                },
+                                                {
+                                                    "name": "Passeriformes",
+                                                    "name-jp": "スズメ目",
+                                                    "name-cn": "雀形目",
+                                                    "icon": "/icon/スズメ.jpg"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

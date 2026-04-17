@@ -1,0 +1,71 @@
+{
+  "class": "aves",
+  "order": "musophagiformes",
+  "name": "musophagiformes",
+  "name-jp": "エボシドリ目",
+  "name-cn": "蕉鹃目",
+  "type": "order",
+  "children": [
+    {
+      "name": "musophagidae",
+      "name-jp": "エボシドリ科",
+      "name-cn": "蕉鹃科",
+      "type": "family",
+      "children": [
+        {
+          "name": "musophaginae",
+          "name-jp": "エボシドリ亜科",
+          "name-cn": "蕉鹃亚科",
+          "type": "subfamily",
+          "children": [
+            {
+              "name": "tauraco",
+              "name-jp": "エボシドリ属",
+              "name-cn": "冠蕉鹃属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "tauraco livingstonii",
+                  "name-jp": "リビングストンエボシドリ",
+                  "name-cn": "利氏冠蕉鹃",
+                  "type": "species",
+                  "icon": "/icon/リビングストンエボシドリ.jpg"
+                },
+                {
+                  "name": "tauraco violaceus",
+                  "name-jp": "ニシムラサキエボシドリ",
+                  "name-cn": "紫蕉鹃",
+                  "type": "species",
+                  "icon": "/icon/ニシムラサキエボシドリ.jpg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "criniferinae",
+          "name-jp": "ハイイロエボシドリ亜科",
+          "name-cn": "灰蕉鹃亚科",
+          "type": "subfamily",
+          "children": [
+            {
+              "name": "crinifer",
+              "name-jp": "ムジハイイロエボシドリ属",
+              "name-cn": "灰蕉鹃属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "crinifer leucogaster",
+                  "name-jp": "シロハラハイイロエボシドリ",
+                  "name-cn": "白腹灰蕉鹃",
+                  "type": "species",
+                  "icon": "/icon/シロハラハイイロエボシドリ.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

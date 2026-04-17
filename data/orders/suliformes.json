@@ -1,0 +1,40 @@
+{
+  "class": "aves",
+  "order": "suliformes",
+  "name": "suliformes",
+  "name-jp": "カツオドリ目",
+  "name-cn": "鲣鸟目",
+  "type": "order",
+  "children": [
+    {
+      "name": "phalacrocoracidae",
+      "name-jp": "ウ科",
+      "name-cn": "鸬鹚科",
+      "type": "family",
+      "children": [
+        {
+          "name": "phalacrocorax",
+          "name-jp": "ウ属",
+          "name-cn": "鸬鹚属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "phalacrocorax capillatus",
+              "name-jp": "ウミウ",
+              "name-cn": "暗绿背鸬鹚",
+              "type": "species",
+              "icon": "/icon/ウミウ.jpg"
+            },
+            {
+              "name": "phalacrocorax carbo",
+              "name-jp": "カワウ",
+              "name-cn": "普通鸬鹚",
+              "type": "species",
+              "icon": "/icon/カワウ.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

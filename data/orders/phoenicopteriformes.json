@@ -1,0 +1,62 @@
+{
+  "class": "aves",
+  "order": "phoenicopteriformes",
+  "name": "phoenicopteriformes",
+  "name-jp": "フラミンゴ目",
+  "name-cn": "火烈鸟目",
+  "type": "order",
+  "children": [
+    {
+      "name": "phoenicopteridae",
+      "name-jp": "フラミンゴ科",
+      "name-cn": "火烈鸟科",
+      "type": "family",
+      "children": [
+        {
+          "name": "phoenicopterus",
+          "name-jp": "フラミンゴ属",
+          "name-cn": "红鹳属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "phoenicopterus chilensis",
+              "name-jp": "チリーフラミンゴ",
+              "name-cn": "智利红鹳",
+              "type": "species",
+              "icon": "/icon/チリーフラミンゴ.jpg"
+            },
+            {
+              "name": "phoenicopterus roseus",
+              "name-jp": "オオフラミンゴ",
+              "name-cn": "大红鹳",
+              "type": "species",
+              "icon": "/icon/オオフラミンゴ.jpg"
+            },
+            {
+              "name": "phoenicopterus ruber",
+              "name-jp": "ベニイロフラミンゴ",
+              "name-cn": "加勒比海红鹳",
+              "type": "species",
+              "icon": "/icon/ベニイロフラミンゴ.jpg"
+            }
+          ]
+        },
+        {
+          "name": "phoeniconaias",
+          "name-jp": "コフラミンゴ属",
+          "name-cn": "小红鹳属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "phoeniconaias minor",
+              "name-jp": "コフラミンゴ",
+              "name-cn": "小红鹳",
+              "type": "species",
+              "icon": "/icon/コフラミンゴ.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

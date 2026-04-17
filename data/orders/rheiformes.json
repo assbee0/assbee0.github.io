@@ -1,0 +1,33 @@
+{
+  "class": "aves",
+  "order": "rheiformes",
+  "name": "rheiformes",
+  "name-jp": "レア目",
+  "name-cn": "美洲鸵目",
+  "type": "order",
+  "children": [
+    {
+      "name": "rheidae",
+      "name-jp": "レア科",
+      "name-cn": "美洲鸵科",
+      "type": "family",
+      "children": [
+        {
+          "name": "rhea",
+          "name-jp": "レア属",
+          "name-cn": "美洲鸵属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "rhea americana",
+              "name-jp": "レア",
+              "name-cn": "大美洲鸵",
+              "type": "species",
+              "icon": "/icon/レア.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

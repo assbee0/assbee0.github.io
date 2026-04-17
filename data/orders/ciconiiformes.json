@@ -1,0 +1,70 @@
+{
+  "class": "aves",
+  "order": "ciconiiformes",
+  "name": "ciconiiformes",
+  "name-jp": "コウノトリ目",
+  "name-cn": "鹳形目",
+  "type": "order",
+  "children": [
+    {
+      "name": "ciconiidae",
+      "name-jp": "コウノトリ科",
+      "name-cn": "鹳科",
+      "type": "family",
+      "children": [
+        {
+          "name": "leptoptilos",
+          "name-jp": "ハゲコウ属",
+          "name-cn": "秃鹳属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "leptoptilos crumenifer",
+              "name-jp": "アフリカハゲコウ",
+              "name-cn": "非洲秃鹳",
+              "type": "species",
+              "icon": "/icon/アフリカハゲコウ.jpg"
+            }
+          ]
+        },
+        {
+          "name": "mycteria",
+          "name-jp": "トキコウ属",
+          "name-cn": "鹮鹳属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "mycteria ibis",
+              "name-jp": "アフリカトキコウ",
+              "name-cn": "黄嘴鹮鹳",
+              "type": "species",
+              "icon": "/icon/アフリカトキコウ.jpg"
+            }
+          ]
+        },
+        {
+          "name": "ciconia",
+          "name-jp": "コウノトリ属",
+          "name-cn": "鹳属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "ciconia boyciana",
+              "name-jp": "コウノトリ",
+              "name-cn": "东方白鹳",
+              "type": "species",
+              "icon": "/icon/コウノトリ.jpg"
+            },
+            {
+              "name": "ciconia nigra",
+              "name-jp": "ナベコウ",
+              "name-cn": "黑鹳",
+              "type": "species",
+              "icon": "/icon/ナベコウ.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

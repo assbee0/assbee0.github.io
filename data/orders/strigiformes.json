@@ -1,0 +1,144 @@
+{
+  "class": "aves",
+  "order": "strigiformes",
+  "name": "strigiformes",
+  "name-jp": "フクロウ目",
+  "name-cn": "鸮形目",
+  "type": "order",
+  "children": [
+    {
+      "name": "tytonidae",
+      "name-jp": "メンフクロウ科",
+      "name-cn": "草鸮科",
+      "type": "family",
+      "children": [
+        {
+          "name": "tyto",
+          "name-jp": "メンフクロウ属",
+          "name-cn": "草鸮属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "tyto alba",
+              "name-jp": "メンフクロウ",
+              "name-cn": "苍鸮",
+              "type": "species",
+              "icon": "/icon/メンフクロウ.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "strigidae",
+      "name-jp": "フクロウ科",
+      "name-cn": "鸱鸮科",
+      "type": "family",
+      "children": [
+        {
+          "name": "ninox",
+          "name-jp": "アオバズク属",
+          "name-cn": "鹰鸮属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "ninox japonica",
+              "name-jp": "アオバズク",
+              "name-cn": "日本鹰鸮",
+              "type": "species",
+              "icon": "/icon/アオバズク.jpg"
+            }
+          ]
+        },
+        {
+          "name": "athene",
+          "name-jp": "コキンメフクロウ属",
+          "name-cn": "小鸮属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "athene cunicularia",
+              "name-jp": "アナホリフクロウ",
+              "name-cn": "穴小鸮",
+              "type": "species",
+              "icon": "/icon/アナホリフクロウ.jpg"
+            },
+            {
+              "name": "athene noctua",
+              "name-jp": "コキンメフクロウ",
+              "name-cn": "纵纹腹小鸮",
+              "type": "species",
+              "icon": "/icon/コキンメフクロウ.jpg"
+            }
+          ]
+        },
+        {
+          "name": "bubo",
+          "name-jp": "ワシミミズク属",
+          "name-cn": "雕鸮属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "bubo africanus",
+              "name-jp": "アフリカワシミミズク",
+              "name-cn": "斑点雕鸮",
+              "type": "species",
+              "icon": "/icon/アフリカワシミミズク.jpg"
+            },
+            {
+              "name": "bubo scandiacus",
+              "name-jp": "シロフクロウ",
+              "name-cn": "雪鸮",
+              "type": "species",
+              "icon": "/icon/シロフクロウ.jpg"
+            }
+          ]
+        },
+        {
+          "name": "strix",
+          "name-jp": "フクロウ属",
+          "name-cn": "林鸮属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "strix chacoensis",
+              "name-jp": "チャコモリフクロウ",
+              "name-cn": "查科林鸮",
+              "type": "species",
+              "icon": "/icon/チャコモリフクロウ.jpg"
+            },
+            {
+              "name": "strix nebulosa",
+              "name-jp": "カラフトフクロウ",
+              "name-cn": "乌林鸮",
+              "type": "species",
+              "icon": "/icon/カラフトフクロウ.jpg"
+            },
+            {
+              "name": "strix uralensis",
+              "name-jp": "フクロウ",
+              "name-cn": "长尾林鸮",
+              "type": "species",
+              "icon": "/icon/フクロウ.jpg"
+            }
+          ]
+        },
+        {
+          "name": "pulsatrix",
+          "name-jp": "メガネフクロウ属",
+          "name-cn": "眼镜鸮属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "pulsatrix perspicillata",
+              "name-jp": "メガネフクロウ",
+              "name-cn": "眼镜鸮",
+              "type": "species",
+              "icon": "/icon/メガネフクロウ.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

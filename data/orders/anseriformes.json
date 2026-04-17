@@ -1,0 +1,434 @@
+{
+  "class": "aves",
+  "order": "anseriformes",
+  "name": "anseriformes",
+  "name-jp": "カモ目",
+  "name-cn": "雁形目",
+  "type": "order",
+  "children": [
+    {
+      "name": "anseranatidae",
+      "name-jp": "カササギガン科",
+      "name-cn": "鹊雁科",
+      "type": "family",
+      "children": [
+        {
+          "name": "anseranas",
+          "name-jp": "カササギガン属",
+          "name-cn": "鹊雁属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "anseranas semipalmata",
+              "name-jp": "カササギガン",
+              "name-cn": "鹊雁",
+              "type": "species",
+              "icon": "/icon/カササギガン.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "anatidae",
+      "name-jp": "カモ科",
+      "name-cn": "鸭科",
+      "type": "family",
+      "children": [
+        {
+          "name": "anserinae",
+          "name-jp": "ガン亜科",
+          "name-cn": "雁亚科",
+          "type": "subfamily",
+          "children": [
+            {
+              "name": "anserini",
+              "name-jp": "ガン族",
+              "name-cn": "雁族",
+              "type": "tribe",
+              "children": [
+                {
+                  "name": "cereopsis",
+                  "name-jp": "ロウバシガン属",
+                  "name-cn": "蜡嘴雁属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "cereopsis novaehollandiae",
+                      "name-jp": "ロウバシガン",
+                      "name-cn": "蜡嘴雁",
+                      "type": "species",
+                      "icon": "/icon/ロウバシガン.jpg"
+                    }
+                  ]
+                },
+                {
+                  "name": "cygnus",
+                  "name-jp": "ハクチョウ属",
+                  "name-cn": "天鹅属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "cygnus atratus",
+                      "name-jp": "コクチョウ",
+                      "name-cn": "黑天鹅",
+                      "type": "species",
+                      "icon": "/icon/コクチョウ.jpg"
+                    },
+                    {
+                      "name": "cygnus columbianus",
+                      "name-jp": "コハクチョウ",
+                      "name-cn": "小天鹅",
+                      "type": "species",
+                      "icon": "/icon/コハクチョウ.jpg"
+                    },
+                    {
+                      "name": "cygnus cygnus",
+                      "name-jp": "オオハクチョウ",
+                      "name-cn": "大天鹅",
+                      "type": "species",
+                      "icon": "/icon/オオハクチョウ.jpg"
+                    }
+                  ]
+                },
+                {
+                  "name": "branta",
+                  "name-jp": "コクガン属",
+                  "name-cn": "黑雁属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "branta bernicla",
+                      "name-jp": "コクガン",
+                      "name-cn": "黑雁",
+                      "type": "species",
+                      "icon": "/icon/コクガン.jpg"
+                    },
+                    {
+                      "name": "branta canadensis",
+                      "name-jp": "カナダガン",
+                      "name-cn": "加拿大黑雁",
+                      "type": "species",
+                      "icon": "/icon/カナダガン.jpg"
+                    },
+                    {
+                      "name": "branta hutchinsii",
+                      "name-jp": "シジュウカラガン",
+                      "name-cn": "小美洲黑雁",
+                      "type": "species",
+                      "icon": "/icon/シジュウカラガン.jpg"
+                    },
+                    {
+                      "name": "branta sandvicensis",
+                      "name-jp": "ハワイガン",
+                      "name-cn": "夏威夷黑雁",
+                      "type": "species",
+                      "icon": "/icon/ハワイガン.jpg"
+                    }
+                  ]
+                },
+                {
+                  "name": "anser",
+                  "name-jp": "マガン属",
+                  "name-cn": "雁属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "anser albifrons",
+                      "name-jp": "マガン",
+                      "name-cn": "白额雁",
+                      "type": "species",
+                      "icon": "/icon/マガン.jpg"
+                    },
+                    {
+                      "name": "anser anser",
+                      "name-jp": "ハイイロガン",
+                      "name-cn": "灰雁",
+                      "type": "species",
+                      "icon": "/icon/ハイイロガン.jpg"
+                    },
+                    {
+                      "name": "anser caerulescens",
+                      "name-jp": "ハクガン",
+                      "name-cn": "雪雁",
+                      "type": "species",
+                      "icon": "/icon/ハクガン.jpg"
+                    },
+                    {
+                      "name": "anser cygnoides",
+                      "name-jp": "サカツラガン",
+                      "name-cn": "鸿雁",
+                      "type": "species",
+                      "icon": "/icon/サカツラガン.jpg"
+                    },
+                    {
+                      "name": "anser erythropus",
+                      "name-jp": "カリガネ",
+                      "name-cn": "小白额雁",
+                      "type": "species",
+                      "icon": "/icon/カリガネ.jpg"
+                    },
+                    {
+                      "name": "anser indicus",
+                      "name-jp": "インドガン",
+                      "name-cn": "斑头雁",
+                      "type": "species",
+                      "icon": "/icon/インドガン.jpg"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "anatinae",
+          "name-jp": "カモ亜科",
+          "name-cn": "鸭亚科",
+          "type": "subfamily",
+          "children": [
+            {
+              "name": "tadornini",
+              "name-jp": "ツクシガモ族",
+              "name-cn": "麻鸭族",
+              "type": "tribe",
+              "children": [
+                {
+                  "name": "tadorna",
+                  "name-jp": "ツクシガモ属",
+                  "name-cn": "麻鸭属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "tadorna ferruginea",
+                      "name-jp": "アカツクシガモ",
+                      "name-cn": "赤麻鸭",
+                      "type": "species",
+                      "icon": "/icon/アカツクシガモ.jpg"
+                    },
+                    {
+                      "name": "tadorna tadorna",
+                      "name-jp": "ツクシガモ",
+                      "name-cn": "翘鼻麻鸭",
+                      "type": "species",
+                      "icon": "/icon/ツクシガモ.jpg"
+                    }
+                  ]
+                },
+                {
+                  "name": "alopochen",
+                  "name-jp": "エジプトガン属",
+                  "name-cn": "埃及雁属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "alopochen aegyptiaca",
+                      "name-jp": "エジプトガン",
+                      "name-cn": "埃及雁",
+                      "type": "species",
+                      "icon": "/icon/エジプトガン.jpg"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "mergini",
+              "name-jp": "アイサ族",
+              "name-cn": "秋沙鸭族",
+              "type": "tribe",
+              "children": [
+                {
+                  "name": "mergus",
+                  "name-jp": "ウミアイサ属",
+                  "name-cn": "秋沙鸭属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "mergus merganser",
+                      "name-jp": "カワアイサ",
+                      "name-cn": "普通秋沙鸭",
+                      "type": "species",
+                      "icon": "/icon/カワアイサ.jpg"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "cairinini",
+              "name-jp": "バリケン族",
+              "name-cn": "栖鸭族",
+              "type": "tribe",
+              "children": [
+                {
+                  "name": "cairina",
+                  "name-jp": "バリケン属",
+                  "name-cn": "栖鸭属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "cairina moschata",
+                      "name-jp": "ノバリケン",
+                      "name-cn": "疣鼻栖鸭",
+                      "type": "species",
+                      "icon": "/icon/ノバリケン.jpg"
+                    }
+                  ]
+                },
+                {
+                  "name": "aix",
+                  "name-jp": "オシドリ属",
+                  "name-cn": "鸳鸯属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "aix galericulata",
+                      "name-jp": "オシドリ",
+                      "name-cn": "鸳鸯",
+                      "type": "species",
+                      "icon": "/icon/オシドリ.jpg"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "aythyini",
+              "name-jp": "スズガモ族",
+              "name-cn": "潜鸭族",
+              "type": "tribe",
+              "children": [
+                {
+                  "name": "netta",
+                  "name-jp": "アカハシハジロ属",
+                  "name-cn": "狭嘴潜鸭属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "netta rufina",
+                      "name-jp": "アカハシハジロ",
+                      "name-cn": "赤嘴潜鸭",
+                      "type": "species",
+                      "icon": "/icon/アカハシハジロ.jpg"
+                    }
+                  ]
+                },
+                {
+                  "name": "aythya",
+                  "name-jp": "ハジロ属",
+                  "name-cn": "潜鸭属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "aythya ferina",
+                      "name-jp": "ホシハジロ",
+                      "name-cn": "红头潜鸭",
+                      "type": "species",
+                      "icon": "/icon/ホシハジロ.jpg"
+                    },
+                    {
+                      "name": "aythya fuligula",
+                      "name-jp": "キンクロハジロ",
+                      "name-cn": "凤头潜鸭",
+                      "type": "species",
+                      "icon": "/icon/キンクロハジロ.jpg"
+                    },
+                    {
+                      "name": "aythya nyroca",
+                      "name-jp": "メジロガモ",
+                      "name-cn": "白眼潜鸭",
+                      "type": "species",
+                      "icon": "/icon/メジロガモ.jpg"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "anatini",
+              "name-jp": "カモ族",
+              "name-cn": "鸭族",
+              "type": "tribe",
+              "children": [
+                {
+                  "name": "anas",
+                  "name-jp": "マガモ属",
+                  "name-cn": "鸭属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "anas acuta",
+                      "name-jp": "オナガガモ",
+                      "name-cn": "针尾鸭",
+                      "type": "species",
+                      "icon": "/icon/オナガガモ.jpg"
+                    },
+                    {
+                      "name": "anas capensis",
+                      "name-jp": "アカハシコガモ",
+                      "name-cn": "绿翅灰斑鸭",
+                      "type": "species",
+                      "icon": "/icon/アカハシコガモ.jpg"
+                    },
+                    {
+                      "name": "anas crecca",
+                      "name-jp": "コガモ",
+                      "name-cn": "绿翅鸭",
+                      "type": "species",
+                      "icon": "/icon/コガモ.jpg"
+                    },
+                    {
+                      "name": "anas platyrhynchos",
+                      "name-jp": "マガモ",
+                      "name-cn": "绿头鸭",
+                      "type": "species",
+                      "icon": "/icon/マガモ.jpg"
+                    },
+                    {
+                      "name": "anas zonorhyncha",
+                      "name-jp": "カルガモ",
+                      "name-cn": "斑嘴鸭",
+                      "type": "species",
+                      "icon": "/icon/カルガモ.jpg"
+                    }
+                  ]
+                },
+                {
+                  "name": "mareca",
+                  "name-jp": "ヨシガモ属",
+                  "name-cn": "亚鸭属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "mareca penelope",
+                      "name-jp": "ヒドリガモ",
+                      "name-cn": "赤颈鸭",
+                      "type": "species",
+                      "icon": "/icon/ヒドリガモ.jpg"
+                    }
+                  ]
+                },
+                {
+                  "name": "spatula",
+                  "name-jp": "ハシビロガモ属",
+                  "name-cn": "琵嘴鸭属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "spatula clypeata",
+                      "name-jp": "ハシビロガモ",
+                      "name-cn": "琵嘴鸭",
+                      "type": "species",
+                      "icon": "/icon/ハシビロガモ.jpg"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
