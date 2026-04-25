@@ -13,6 +13,21 @@
       "type": "family",
       "children": [
         {
+          "name": "anastomus",
+          "name-jp": "スキハシコウ属",
+          "name-cn": "钳嘴鹤属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "anastomus oscitans",
+              "name-jp": "シロスキハシコウ",
+              "name-cn": "钳嘴鹤",
+              "type": "species",
+              "icon": "/icon/シロスキハシコウ.jpg"
+            }
+          ]
+        },
+        {
           "name": "leptoptilos",
           "name-jp": "ハゲコウ属",
           "name-cn": "秃鹳属",

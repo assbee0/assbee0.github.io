@@ -1,0 +1,620 @@
+{
+  "class": "mammalia",
+  "order": "primates",
+  "name": "primates",
+  "name-jp": "霊長目",
+  "name-cn": "灵长目",
+  "type": "order",
+  "children": [
+    {
+      "name": "strepsirrhini",
+      "name-jp": "曲鼻亜目",
+      "name-cn": "原猴亚目",
+      "type": "suborder",
+      "children": [
+        {
+          "name": "lemuriformes",
+          "name-jp": "キツネザル型下目",
+          "name-cn": "狐猴型次目",
+          "type": "infraorder",
+          "children": [
+            {
+              "name": "lemuroidea",
+              "name-jp": "キツネザル上科",
+              "name-cn": "狐猴总科",
+              "type": "superfamily",
+              "children": [
+                {
+                  "name": "lemuridae",
+                  "name-jp": "キツネザル科",
+                  "name-cn": "狐猴科",
+                  "type": "family",
+                  "children": [
+                    {
+                      "name": "lemur",
+                      "name-jp": "ワオキツネザル属",
+                      "name-cn": "狐猴属",
+                      "type": "genus",
+                      "icon-children": [
+                        {
+                          "name": "lemur catta",
+                          "name-jp": "ワオキツネザル",
+                          "name-cn": "环尾狐猴",
+                          "type": "species",
+                          "icon": "/icon/ワオキツネザル.jpg"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "eulemur",
+                      "name-jp": "キツネザル属",
+                      "name-cn": "美狐猴属",
+                      "type": "genus",
+                      "icon-children": [
+                        {
+                          "name": "eulemur fulvus",
+                          "name-jp": "ブラウンキツネザル",
+                          "name-cn": "褐美狐猴",
+                          "type": "species",
+                          "icon": "/icon/ブラウンキツネザル.jpg"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "varecia",
+                      "name-jp": "エリマキキツネザル属",
+                      "name-cn": "领狐猴属",
+                      "type": "genus",
+                      "icon-children": [
+                        {
+                          "name": "varecia variegata",
+                          "name-jp": "クロシロエリマキキツネザル",
+                          "name-cn": "领狐猴",
+                          "type": "species",
+                          "icon": "/icon/クロシロエリマキキツネザル.jpg"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "lorisiformes",
+          "name-jp": "ロリス型下目",
+          "name-cn": "懒猴次目",
+          "type": "infraorder",
+          "children": [
+            {
+              "name": "galagidae",
+              "name-jp": "ガラゴ科",
+              "name-cn": "婴猴科",
+              "type": "family",
+              "children": [
+                {
+                  "name": "galago",
+                  "name-jp": "ガラゴ属",
+                  "name-cn": "婴猴属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "galago senegalensis",
+                      "name-jp": "ショウガラゴ",
+                      "name-cn": "婴猴",
+                      "type": "species",
+                      "icon": "/icon/ショウガラゴ.jpg"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "haplorhini",
+      "name-jp": "直鼻亜目",
+      "name-cn": "简鼻亚目",
+      "type": "suborder",
+      "children": [
+        {
+          "name": "simiiformes",
+          "name-jp": "真猿型下目",
+          "name-cn": "类人猿下目",
+          "type": "infraorder",
+          "children": [
+            {
+              "name": "platyrrhini",
+              "name-jp": "広鼻小目",
+              "name-cn": "阔鼻小目",
+              "type": "parvorder",
+              "children": [
+                {
+                  "name": "atelidae",
+                  "name-jp": "クモザル科",
+                  "name-cn": "蜘蛛猴科",
+                  "type": "family",
+                  "children": [
+                    {
+                      "name": "atelinae",
+                      "name-jp": "クモザル亜科",
+                      "name-cn": "蜘蛛猴亚科",
+                      "type": "subfamily",
+                      "children": [
+                        {
+                          "name": "ateles",
+                          "name-jp": "クモザル属",
+                          "name-cn": "蜘蛛猴属",
+                          "type": "genus",
+                          "icon-children": [
+                            {
+                              "name": "ateles geoffroyi",
+                              "name-jp": "ジェフロイクモザル",
+                              "name-cn": "黑掌蜘蛛猴",
+                              "type": "species",
+                              "icon": "/icon/ジェフロイクモザル.jpg"
+                            },
+                            {
+                              "name": "ateles hybridus",
+                              "name-jp": "ブラウンケナガクモザル",
+                              "name-cn": "棕蜘蛛猴",
+                              "type": "species",
+                              "icon": "/icon/ブラウンケナガクモザル.jpg"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "cebidae",
+                  "name-jp": "オマキザル科",
+                  "name-cn": "卷尾猴科",
+                  "type": "family",
+                  "children": [
+                    {
+                      "name": "capuchins",
+                      "name-jp": "オマキザル亜科",
+                      "name-cn": "卷尾猴亚科",
+                      "type": "subfamily",
+                      "children": [
+                        {
+                          "name": "sapajus",
+                          "name-jp": "フサオマキザル属",
+                          "name-cn": "悬猴属",
+                          "type": "genus",
+                          "icon-children": [
+                            {
+                              "name": "sapajus apella",
+                              "name-jp": "フサオマキザル",
+                              "name-cn": "黑帽悬猴",
+                              "type": "species",
+                              "icon": "/icon/フサオマキザル.jpg"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "saimiriinae",
+                      "name-jp": "リスザル亜科",
+                      "name-cn": "松鼠猴亚科",
+                      "type": "subfamily",
+                      "children": [
+                        {
+                          "name": "saimiri",
+                          "name-jp": "リスザル属",
+                          "name-cn": "松鼠猴属",
+                          "type": "genus",
+                          "icon-children": [
+                            {
+                              "name": "saimiri boliviensis",
+                              "name-jp": "ボリビアリスザル",
+                              "name-cn": "亚马逊松鼠猴",
+                              "type": "species",
+                              "icon": "/icon/ボリビアリスザル.jpg"
+                            },
+                            {
+                              "name": "saimiri sciureus",
+                              "name-jp": "コモンリスザル",
+                              "name-cn": "松鼠猴",
+                              "type": "species",
+                              "icon": "/icon/コモンリスザル.jpg"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "callitrichidae",
+                  "name-jp": "マーモセット科",
+                  "name-cn": "狨科",
+                  "type": "family",
+                  "children": [
+                    {
+                      "name": "saguinus",
+                      "name-jp": "タマリン属",
+                      "name-cn": "柽柳猴属",
+                      "type": "genus",
+                      "icon-children": [
+                        {
+                          "name": "saguinus oedipus",
+                          "name-jp": "ワタボウシタマリン",
+                          "name-cn": "绒顶柽柳猴",
+                          "type": "species",
+                          "icon": "/icon/ワタボウシタマリン.jpg"
+                        },
+                        {
+                          "name": "saguinus midas",
+                          "name-jp": "アカテタマリン",
+                          "name-cn": "赤掌柽柳猴",
+                          "type": "species",
+                          "icon": "/icon/アカテタマリン.jpg"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "callithrix",
+                      "name-jp": "マーモセット属",
+                      "name-cn": "狨属",
+                      "type": "genus",
+                      "icon-children": [
+                        {
+                          "name": "callithrix jacchus",
+                          "name-jp": "コモンマーモセット",
+                          "name-cn": "普通狨",
+                          "type": "species",
+                          "icon": "/icon/コモンマーモセット.jpg"
+                        },
+                        {
+                          "name": "callithrix penicillata",
+                          "name-jp": "クロミミマーモセット",
+                          "name-cn": "黑羽狨",
+                          "type": "species",
+                          "icon": "/icon/クロミミマーモセット.jpg"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "catarrhini",
+              "name-jp": "狭鼻小目",
+              "name-cn": "狭鼻小目",
+              "type": "parvorder",
+              "children": [
+                {
+                  "name": "cercopithecidae",
+                  "name-jp": "オナガザル科",
+                  "name-cn": "猴科",
+                  "type": "family",
+                  "children": [
+                    {
+                      "name": "cercopithecinae",
+                      "name-jp": "オナガザル亜科",
+                      "name-cn": "猕猴亚科",
+                      "type": "subfamily",
+                      "children": [
+                        {
+                          "name": "cercopithecini",
+                          "name-jp": "オナガザル族",
+                          "name-cn": "长尾猴族",
+                          "type": "tribe",
+                          "children": [
+                            {
+                              "name": "cercopithecus",
+                              "name-jp": "オナガザル属",
+                              "name-cn": "长尾猴属",
+                              "type": "genus",
+                              "icon-children": [
+                                {
+                                  "name": "cercopithecus mitis",
+                                  "name-jp": "ブルーモンキー",
+                                  "name-cn": "青长尾猴",
+                                  "type": "species",
+                                  "icon": "/icon/ブルーモンキー.jpg"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "erythrocebus",
+                              "name-jp": "パタスモンキー属",
+                              "name-cn": "赤猴属",
+                              "type": "genus",
+                              "icon-children": [
+                                {
+                                  "name": "erythrocebus patas",
+                                  "name-jp": "パタスモンキー",
+                                  "name-cn": "赤猴",
+                                  "type": "species",
+                                  "icon": "/icon/パタスモンキー.jpg"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "papionini",
+                          "name-jp": "ヒヒ族",
+                          "name-cn": "狒狒族",
+                          "type": "tribe",
+                          "children": [
+                            {
+                              "name": "macaca",
+                              "name-jp": "マカク属",
+                              "name-cn": "猕猴属",
+                              "type": "genus",
+                              "icon-children": [
+                                {
+                                  "name": "macaca fuscata",
+                                  "name-jp": "ニホンザル",
+                                  "name-cn": "日本猕猴",
+                                  "type": "species",
+                                  "icon": "/icon/ニホンザル.jpg"
+                                },
+                                {
+                                  "name": "macaca leonina",
+                                  "name-jp": "キタブタオザル",
+                                  "name-cn": "北方豚尾猕猴",
+                                  "type": "species",
+                                  "icon": "/icon/キタブタオザル.jpg"
+                                },
+                                {
+                                  "name": "macaca mulatta",
+                                  "name-jp": "アカゲザル",
+                                  "name-cn": "普通猕猴",
+                                  "type": "species",
+                                  "icon": "/icon/アカゲザル.jpg"
+                                },
+                                {
+                                  "name": "macaca thibetana",
+                                  "name-jp": "チベットモンキー",
+                                  "name-cn": "藏酉猴",
+                                  "type": "species",
+                                  "icon": "/icon/チベットモンキー.jpg"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "colobinae",
+                      "name-jp": "コロブス亜科",
+                      "name-cn": "疣猴亚科",
+                      "type": "subfamily",
+                      "children": [
+                        {
+                          "name": "presbytini",
+                          "name-jp": "リーフモンキー族",
+                          "name-cn": "叶猴族",
+                          "type": "tribe",
+                          "children": [
+                            {
+                              "name": "trachypithecus",
+                              "name-jp": "ラングール属",
+                              "name-cn": "乌叶猴属",
+                              "type": "genus",
+                              "icon-children": [
+                                {
+                                  "name": "trachypithecus francoisi",
+                                  "name-jp": "フランソワルトン",
+                                  "name-cn": "黑叶猴",
+                                  "type": "species",
+                                  "icon": "/icon/フランソワルトン.jpg"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "pygathrix",
+                              "name-jp": "ドゥクラングール属",
+                              "name-cn": "白臀叶猴属",
+                              "type": "genus",
+                              "icon-children": [
+                                {
+                                  "name": "pygathrix nemaeus",
+                                  "name-jp": "アカアシドゥクラングール",
+                                  "name-cn": "红腿白臀叶猴",
+                                  "type": "species",
+                                  "icon": "/icon/アカアシドゥクラングール.jpg"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "rhinopithecus",
+                              "name-jp": "シシバナザル属",
+                              "name-cn": "仰鼻猴属",
+                              "type": "genus",
+                              "icon-children": [
+                                {
+                                  "name": "rhinopithecus bieti",
+                                  "name-jp": "ウンナンシシバナザル",
+                                  "name-cn": "滇金丝猴",
+                                  "type": "species",
+                                  "icon": "/icon/ウンナンシシバナザル.jpg"
+                                },
+                                {
+                                  "name": "rhinopithecus brelichi",
+                                  "name-jp": "ハイイロシシバナザル",
+                                  "name-cn": "黔金丝猴",
+                                  "type": "species",
+                                  "icon": "/icon/ハイイロシシバナザル.jpg"
+                                },
+                                {
+                                  "name": "rhinopithecus roxellana",
+                                  "name-jp": "キンシコウ",
+                                  "name-cn": "川金丝猴",
+                                  "type": "species",
+                                  "icon": "/icon/キンシコウ.jpg"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "nasalis",
+                              "name-jp": "テングザル属",
+                              "name-cn": "长鼻猴属",
+                              "type": "genus",
+                              "icon-children": [
+                                {
+                                  "name": "nasalis larvatus",
+                                  "name-jp": "テングザル",
+                                  "name-cn": "长鼻猴",
+                                  "type": "species",
+                                  "icon": "/icon/テングザル.jpg"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "hominoidea",
+                  "name-jp": "ヒト上科",
+                  "name-cn": "人猿总科",
+                  "type": "superfamily",
+                  "children": [
+                    {
+                      "name": "hylobatidae",
+                      "name-jp": "テナガザル科",
+                      "name-cn": "长臂猿科",
+                      "type": "family",
+                      "children": [
+                        {
+                          "name": "hylobates",
+                          "name-jp": "テナガザル属",
+                          "name-cn": "长臂猿属",
+                          "type": "genus",
+                          "icon-children": [
+                            {
+                              "name": "hylobates lar",
+                              "name-jp": "シロテテナガザル",
+                              "name-cn": "白掌长臂猿",
+                              "type": "species",
+                              "icon": "/icon/シロテテナガザル.jpg"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "symphalangus",
+                          "name-jp": "フクロテナガザル属",
+                          "name-cn": "合趾猿属",
+                          "type": "genus",
+                          "icon-children": [
+                            {
+                              "name": "symphalangus syndactylus",
+                              "name-jp": "フクロテナガザル",
+                              "name-cn": "合趾猿",
+                              "type": "species",
+                              "icon": "/icon/フクロテナガザル.jpg"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "hominidae",
+                      "name-jp": "ヒト科",
+                      "name-cn": "人科",
+                      "type": "family",
+                      "children": [
+                        {
+                          "name": "ponginae",
+                          "name-jp": "オランウータン亜科",
+                          "name-cn": "猩猩亚科",
+                          "type": "subfamily",
+                          "children": [
+                            {
+                              "name": "pongo",
+                              "name-jp": "オランウータン属",
+                              "name-cn": "猩猩属",
+                              "type": "genus",
+                              "icon-children": [
+                                {
+                                  "name": "pongo pygmaeus",
+                                  "name-jp": "ボルネオオランウータン",
+                                  "name-cn": "婆罗洲猩猩",
+                                  "type": "species",
+                                  "icon": "/icon/ボルネオオランウータン.jpg"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "homininae",
+                          "name-jp": "ヒト亜科",
+                          "name-cn": "人亚科",
+                          "type": "subfamily",
+                          "children": [
+                            {
+                              "name": "gorillini",
+                              "name-jp": "ゴリラ族",
+                              "name-cn": "大猩猩族",
+                              "type": "tribe",
+                              "children": [
+                                {
+                                  "name": "gorilla",
+                                  "name-jp": "ゴリラ属",
+                                  "name-cn": "大猩猩属",
+                                  "type": "genus",
+                                  "icon-children": [
+                                    {
+                                      "name": "gorilla gorilla",
+                                      "name-jp": "ニシゴリラ",
+                                      "name-cn": "西部大猩猩",
+                                      "type": "species",
+                                      "icon": "/icon/ニシゴリラ.jpg"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "hominini",
+                              "name-jp": "ヒト族",
+                              "name-cn": "人族",
+                              "type": "tribe",
+                              "children": [
+                                {
+                                  "name": "pan",
+                                  "name-jp": "チンパンジー属",
+                                  "name-cn": "黑猩猩属",
+                                  "type": "genus",
+                                  "icon-children": [
+                                    {
+                                      "name": "pan troglodytes",
+                                      "name-jp": "チンパンジー",
+                                      "name-cn": "黑猩猩",
+                                      "type": "species",
+                                      "icon": "/icon/チンパンジー.jpg"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

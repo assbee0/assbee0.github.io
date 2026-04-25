@@ -1,0 +1,49 @@
+{
+  "class": "mammalia",
+  "order": "dasyuromorphia",
+  "name": "dasyuromorphia",
+  "name-jp": "フクロネコ形目",
+  "name-cn": "袋鼬目",
+  "type": "order",
+  "children": [
+    {
+      "name": "dasyuridae",
+      "name-jp": "フクロネコ科",
+      "name-cn": "袋鼬科",
+      "type": "family",
+      "children": [
+        {
+          "name": "dasyurinae",
+          "name-jp": "フクロネコ亜科",
+          "name-cn": "袋鼬亚科",
+          "type": "subfamily",
+          "children": [
+            {
+              "name": "dasyurini",
+              "name-jp": "フクロネコ族",
+              "name-cn": "袋鼬族",
+              "type": "tribe",
+              "children": [
+                {
+                  "name": "sarcophilus",
+                  "name-jp": "タスマニアデビル属",
+                  "name-cn": "袋獾属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "sarcophilus harrisii",
+                      "name-jp": "タスマニアデビル",
+                      "name-cn": "袋獾",
+                      "type": "species",
+                      "icon": "/icon/タスマニアデビル.jpg"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -3,25 +3,25 @@
   "order": "podicipediformes",
   "name": "podicipediformes",
   "name-jp": "カイツブリ目",
-  "name-cn": "??目",
+  "name-cn": "䴙䴘目",
   "type": "order",
   "children": [
     {
       "name": "podicipedidae",
       "name-jp": "カイツブリ科",
-      "name-cn": "??科",
+      "name-cn": "䴙䴘科",
       "type": "family",
       "children": [
         {
           "name": "tachybaptus",
           "name-jp": "カイツブリ属",
-          "name-cn": "小??属",
+          "name-cn": "小䴙䴘属",
           "type": "genus",
           "icon-children": [
             {
               "name": "tachybaptus ruficollis",
               "name-jp": "カイツブリ",
-              "name-cn": "小??",
+              "name-cn": "小䴙䴘",
               "type": "species",
               "icon": "/icon/カイツブリ.jpg"
             }
@@ -30,13 +30,13 @@
         {
           "name": "podiceps",
           "name-jp": "カンムリカイツブリ属",
-          "name-cn": "??属",
+          "name-cn": "䴙䴘属",
           "type": "genus",
           "icon-children": [
             {
               "name": "podiceps cristatus",
               "name-jp": "カンムリカイツブリ",
-              "name-cn": "凤头??",
+              "name-cn": "凤头䴙䴘",
               "type": "species",
               "icon": "/icon/カンムリカイツブリ.jpg"
             }

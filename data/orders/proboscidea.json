@@ -1,0 +1,48 @@
+{
+  "class": "mammalia",
+  "order": "proboscidea",
+  "name": "proboscidea",
+  "name-jp": "長鼻目",
+  "name-cn": "长鼻目",
+  "type": "order",
+  "children": [
+    {
+      "name": "elephantidae",
+      "name-jp": "ゾウ科",
+      "name-cn": "象科",
+      "type": "family",
+      "children": [
+        {
+          "name": "loxodonta",
+          "name-jp": "アフリカゾウ属",
+          "name-cn": "非洲象属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "loxodonta africana",
+              "name-jp": "アフリカゾウ",
+              "name-cn": "非洲草原象",
+              "type": "species",
+              "icon": "/icon/アフリカゾウ.jpg"
+            }
+          ]
+        },
+        {
+          "name": "elephas",
+          "name-jp": "アジアゾウ属",
+          "name-cn": "象属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "elephas maximus",
+              "name-jp": "アジアゾウ",
+              "name-cn": "亚洲象",
+              "type": "species",
+              "icon": "/icon/アジアゾウ.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

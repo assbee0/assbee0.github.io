@@ -207,6 +207,29 @@
                   ]
                 },
                 {
+                  "name": "hirundinidae",
+                  "name-jp": "ツバメ科",
+                  "name-cn": "燕科",
+                  "type": "family",
+                  "children": [
+                    {
+                      "name": "hirundo",
+                      "name-jp": "ツバメ属",
+                      "name-cn": "燕属",
+                      "type": "genus",
+                      "icon-children": [
+                        {
+                          "name": "hirundo rustica",
+                          "name-jp": "ツバメ",
+                          "name-cn": "家燕",
+                          "type": "species",
+                          "icon": "/icon/ツバメ.jpg"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
                   "name": "aegithaloidea",
                   "name-jp": "エナガ上科",
                   "name-cn": "长尾山雀总科",

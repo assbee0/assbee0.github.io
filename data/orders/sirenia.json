@@ -1,0 +1,63 @@
+{
+  "class": "mammalia",
+  "order": "sirenia",
+  "name": "sirenia",
+  "name-jp": "海牛目",
+  "name-cn": "海牛目",
+  "type": "order",
+  "children": [
+    {
+      "name": "dugongidae",
+      "name-jp": "ジュゴン科",
+      "name-cn": "儒艮科",
+      "type": "family",
+      "children": [
+        {
+          "name": "dugong",
+          "name-jp": "ジュゴン属",
+          "name-cn": "儒艮属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "dugong dugon",
+              "name-jp": "ジュゴン",
+              "name-cn": "儒艮",
+              "type": "species",
+              "icon": "/icon/ジュゴン.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "trichechidae",
+      "name-jp": "マナティー科",
+      "name-cn": "海牛科",
+      "type": "family",
+      "children": [
+        {
+          "name": "trichechus",
+          "name-jp": "マナティー属",
+          "name-cn": "海牛属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "trichechus manatus",
+              "name-jp": "ニシインドマナティー",
+              "name-cn": "西印度海牛",
+              "type": "species",
+              "icon": "/icon/ニシインドマナティー.jpg"
+            },
+            {
+              "name": "trichechus senegalensis",
+              "name-jp": "アフリカマナティー",
+              "name-cn": "西非海牛",
+              "type": "species",
+              "icon": "/icon/アフリカマナティー.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

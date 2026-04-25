@@ -1,0 +1,269 @@
+{
+  "class": "mammalia",
+  "order": "diprotodontia",
+  "name": "diprotodontia",
+  "name-jp": "双前歯目",
+  "name-cn": "双门齿目",
+  "type": "order",
+  "children": [
+    {
+      "name": "vombatiformes",
+      "name-jp": "ウォンバット型亜目",
+      "name-cn": "袋熊亚目",
+      "type": "suborder",
+      "children": [
+        {
+          "name": "phascolarctidae",
+          "name-jp": "コアラ科",
+          "name-cn": "树袋熊科",
+          "type": "family",
+          "children": [
+            {
+              "name": "phascolarctos",
+              "name-jp": "コアラ属",
+              "name-cn": "树袋熊属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "phascolarctos cinereus",
+                  "name-jp": "コアラ",
+                  "name-cn": "树袋熊",
+                  "type": "species",
+                  "icon": "/icon/コアラ.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "phalangeriformes",
+      "name-jp": "クスクス型亜目",
+      "name-cn": "袋貂亚目",
+      "type": "suborder",
+      "children": [
+        {
+          "name": "phalangeroidea",
+          "name-jp": "クスクス上科",
+          "name-cn": "袋貂总科",
+          "type": "superfamily",
+          "children": [
+            {
+              "name": "phalangeridae",
+              "name-jp": "クスクス科",
+              "name-cn": "袋貂科",
+              "type": "family",
+              "children": [
+                {
+                  "name": "trichosurus",
+                  "name-jp": "フクロギツネ属",
+                  "name-cn": "帚尾袋貂属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "trichosurus vulpecula",
+                      "name-jp": "フクロギツネ",
+                      "name-cn": "帚尾袋貂",
+                      "type": "species",
+                      "icon": "/icon/フクロギツネ.jpg"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "petauroidea",
+          "name-jp": "フクロモモンガ上科",
+          "name-cn": "袋鼯总科",
+          "type": "superfamily",
+          "children": [
+            {
+              "name": "petauridae",
+              "name-jp": "フクロモモンガ科",
+              "name-cn": "袋鼯科",
+              "type": "family",
+              "children": [
+                {
+                  "name": "petaurus",
+                  "name-jp": "フクロモモンガ属",
+                  "name-cn": "袋鼯属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "petaurus breviceps",
+                      "name-jp": "フクロモモンガ",
+                      "name-cn": "蜜袋鼯",
+                      "type": "species",
+                      "icon": "/icon/フクロモモンガ.jpg"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "macropodiformes",
+      "name-jp": "カンガルー型亜目",
+      "name-cn": "袋鼠亚目",
+      "type": "suborder",
+      "children": [
+        {
+          "name": "potoroidae",
+          "name-jp": "ネズミカンガルー科",
+          "name-cn": "鼠袋鼠科",
+          "type": "family",
+          "children": [
+            {
+              "name": "bettongia",
+              "name-jp": "フサオネズミカンガルー属",
+              "name-cn": "草原袋鼠属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "bettongia penicillata",
+                  "name-jp": "フサオネズミカンガルー",
+                  "name-cn": "毛尾袋鼠",
+                  "type": "species",
+                  "icon": "/icon/フサオネズミカンガルー.jpg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "macropodidae",
+          "name-jp": "カンガルー科",
+          "name-cn": "袋鼠科",
+          "type": "family",
+          "children": [
+            {
+              "name": "macropodinae",
+              "name-jp": "カンガルー亜科",
+              "name-cn": "袋鼠亚科",
+              "type": "subfamily",
+              "children": [
+                {
+                  "name": "dendrolagus",
+                  "name-jp": "キノボリカンガルー属",
+                  "name-cn": "树袋鼠属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "dendrolagus goodfellowi",
+                      "name-jp": "セスジキノボリカンガルー",
+                      "name-cn": "古氏树袋鼠",
+                      "type": "species",
+                      "icon": "/icon/セスジキノボリカンガルー.jpg"
+                    }
+                  ]
+                },
+                {
+                  "name": "macropus",
+                  "name-jp": "カンガルー属",
+                  "name-cn": "大袋鼠属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "macropus fuliginosus",
+                      "name-jp": "クロカンガルー",
+                      "name-cn": "西部灰袋鼠",
+                      "type": "species",
+                      "icon": "/icon/クロカンガルー.jpg"
+                    },
+                    {
+                      "name": "macropus giganteus",
+                      "name-jp": "オオカンガルー",
+                      "name-cn": "东部灰袋鼠",
+                      "type": "species",
+                      "icon": "/icon/オオカンガルー.jpg"
+                    }
+                  ]
+                },
+                {
+                  "name": "notamacropus",
+                  "name-jp": "ワラビー属",
+                  "name-cn": "小袋鼠属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "notamacropus parma",
+                      "name-jp": "パルマワラビー",
+                      "name-cn": "圆盾大袋鼠",
+                      "type": "species",
+                      "icon": "/icon/パルマワラビー.jpg"
+                    },
+                    {
+                      "name": "notamacropus rufogriseus",
+                      "name-jp": "アカクビワラビー",
+                      "name-cn": "红颈袋鼠",
+                      "type": "species",
+                      "icon": "/icon/アカクビワラビー.jpg"
+                    }
+                  ]
+                },
+                {
+                  "name": "osphranter",
+                  "name-jp": "ワラルー属",
+                  "name-cn": "岩大袋鼠属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "osphranter robustus",
+                      "name-jp": "ケナガワラルー",
+                      "name-cn": "岩大袋鼠",
+                      "type": "species",
+                      "icon": "/icon/ケナガワラルー.jpg"
+                    },
+                    {
+                      "name": "osphranter rufus",
+                      "name-jp": "アカカンガルー",
+                      "name-cn": "红大袋鼠",
+                      "type": "species",
+                      "icon": "/icon/アカカンガルー.jpg"
+                    }
+                  ]
+                },
+                {
+                  "name": "petrogale",
+                  "name-jp": "イワワラビー属",
+                  "name-cn": "岩袋鼠属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "petrogale xanthopus",
+                      "name-jp": "シマオイワワラビー",
+                      "name-cn": "黄脚岩袋鼠",
+                      "type": "species",
+                      "icon": "/icon/シマオイワワラビー.jpg"
+                    }
+                  ]
+                },
+                {
+                  "name": "setonix",
+                  "name-jp": "クアッカワラビー属",
+                  "name-cn": "矮袋鼠属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "setonix brachyurus",
+                      "name-jp": "クアッカワラビー",
+                      "name-cn": "短尾矮袋鼠",
+                      "type": "species",
+                      "icon": "/icon/クアッカワラビー.jpg"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

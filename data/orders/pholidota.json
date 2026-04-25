@@ -1,0 +1,33 @@
+{
+  "class": "mammalia",
+  "order": "pholidota",
+  "name": "pholidota",
+  "name-jp": "鱗甲目",
+  "name-cn": "鳞甲目",
+  "type": "order",
+  "children": [
+    {
+      "name": "manidae",
+      "name-jp": "センザンコウ科",
+      "name-cn": "穿山甲科",
+      "type": "family",
+      "children": [
+        {
+          "name": "manis",
+          "name-jp": "センザンコウ属",
+          "name-cn": "穿山甲属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "manis pentadactyla",
+              "name-jp": "ミミセンザンコウ",
+              "name-cn": "中华穿山甲",
+              "type": "species",
+              "icon": "/icon/ミミセンザンコウ.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

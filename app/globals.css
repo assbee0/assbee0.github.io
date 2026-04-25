@@ -251,6 +251,8 @@
   --lv4: #C0672E;
   --lv5: #D9823B;
   --lv6: #E69B5A;
+  --lv7: #F2B37E;
+  --lv8: #F9CBAA;
 }
 
 .head-background-base {
@@ -296,8 +298,12 @@
 .level-3,
 .level-4,
 .level-5,
-.level-6 {
+.level-6,
+.level-7,
+.level-8 {
   text-align: center;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
 
 /* 字号结构固定 */
@@ -329,6 +335,16 @@
 .level-6 {
   font-size: 1.0em;
   color: var(--lv6);
+}
+
+.level-7 {
+  font-size: 0.9em;
+  color: var(--lv7);
+}
+
+.level-8 {
+  font-size: 0.8em;
+  color: var(--lv8);
 }
 
 .nav-bar {
@@ -423,5 +439,15 @@
   .level-6 {
     font-size: 14px;
     margin: 8px 0 4px;
+  }
+
+  .level-7 {
+    font-size: 13px;
+    margin: 6px 0 3px;
+  }
+
+  .level-8 {
+    font-size: 12px;
+    margin: 6px 0 2px;
   }
 }

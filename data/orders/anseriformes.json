@@ -88,6 +88,13 @@
                       "name-cn": "大天鹅",
                       "type": "species",
                       "icon": "/icon/オオハクチョウ.jpg"
+                    },
+                    {
+                      "name": "cygnus olor",
+                      "name-jp": "コブハクチョウ",
+                      "name-cn": "疣鼻天鹅",
+                      "type": "species",
+                      "icon": "/icon/コブハクチョウ.jpg"
                     }
                   ]
                 },

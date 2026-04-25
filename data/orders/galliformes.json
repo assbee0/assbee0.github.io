@@ -191,6 +191,21 @@
               ]
             },
             {
+              "name": "gallus",
+              "name-jp": "ヤケイ属",
+              "name-cn": "原鸡属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "gallus gallus",
+                  "name-jp": "セキショクヤケイ",
+                  "name-cn": "红原鸡",
+                  "type": "species",
+                  "icon": "/icon/セキショクヤケイ.jpg"
+                }
+              ]
+            },
+            {
               "name": "alectoris",
               "name-jp": "イワシャコ属",
               "name-cn": "石鸡属",

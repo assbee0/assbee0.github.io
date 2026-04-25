@@ -60,6 +60,29 @@
       ]
     },
     {
+      "name": "pandionidae",
+      "name-jp": "ミサゴ科",
+      "name-cn": "鹗科",
+      "type": "family",
+      "children": [
+        {
+          "name": "pandion",
+          "name-jp": "ミサゴ属",
+          "name-cn": "鹗属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "pandion haliaetus",
+              "name-jp": "ミサゴ",
+              "name-cn": "鹗",
+              "type": "species",
+              "icon": "/icon/ミサゴ.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "sagittariidae",
       "name-jp": "ヘビクイワシ科",
       "name-cn": "蛇鹫科",
@@ -213,7 +236,7 @@
         {
           "name": "buteoninae",
           "name-jp": "ノスリ亜科",
-          "name-cn": "??亚科",
+          "name-cn": "𫛭亚科",
           "type": "subfamily",
           "children": [
             {

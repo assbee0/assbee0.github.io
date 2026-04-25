@@ -3,19 +3,19 @@
   "order": "piciformes",
   "name": "piciformes",
   "name-jp": "キツツキ目",
-  "name-cn": "?形目",
+  "name-cn": "䴕形目",
   "type": "order",
   "children": [
     {
       "name": "pici",
       "name-jp": "キツツキ亜目",
-      "name-cn": "?亚目",
+      "name-cn": "䴕亚目",
       "type": "suborder",
       "children": [
         {
           "name": "picides",
           "name-jp": "キツツキ下目",
-          "name-cn": "?下目",
+          "name-cn": "䴕下目",
           "type": "infraorder",
           "children": [
             {

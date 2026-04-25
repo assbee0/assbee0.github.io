@@ -1,0 +1,33 @@
+{
+  "class": "mammalia",
+  "order": "lagomorpha",
+  "name": "lagomorpha",
+  "name-jp": "兎形目",
+  "name-cn": "兔形目",
+  "type": "order",
+  "children": [
+    {
+      "name": "leporidae",
+      "name-jp": "ウサギ科",
+      "name-cn": "兔科",
+      "type": "family",
+      "children": [
+        {
+          "name": "lepus",
+          "name-jp": "ノウサギ属",
+          "name-cn": "兔属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "lepus brachyurus",
+              "name-jp": "ニホンノウサギ",
+              "name-cn": "日本兔",
+              "type": "species",
+              "icon": "/icon/ニホンノウサギ.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

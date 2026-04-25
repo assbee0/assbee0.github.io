@@ -9,7 +9,7 @@ function renderName(node: any) {
         <>
             {node["name-jp"]}{" "}
             <br />
-            {(node.type === "genus" || node.type === "species") ? (
+            {(node.type === "species") ? (
                 <i>{formattedName}</i>
             ) : (
                 formattedName

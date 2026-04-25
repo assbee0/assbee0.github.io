@@ -1,0 +1,48 @@
+{
+  "class": "mammalia",
+  "order": "hyracoidea",
+  "name": "hyracoidea",
+  "name-jp": "イワダヌキ目",
+  "name-cn": "蹄兔目",
+  "type": "order",
+  "children": [
+    {
+      "name": "procaviidae",
+      "name-jp": "ハイラックス科",
+      "name-cn": "蹄兔科",
+      "type": "family",
+      "children": [
+        {
+          "name": "heterohyrax",
+          "name-jp": "イワハイラックス属",
+          "name-cn": "岩蹄兔属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "heterohyrax brucei",
+              "name-jp": "キボシイワハイラックス",
+              "name-cn": "黄斑蹄兔",
+              "type": "species",
+              "icon": "/icon/キボシイワハイラックス.jpg"
+            }
+          ]
+        },
+        {
+          "name": "procavia",
+          "name-jp": "ハイラックス属",
+          "name-cn": "蹄兔属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "procavia capensis",
+              "name-jp": "ケープハイラックス",
+              "name-cn": "蹄兔",
+              "type": "species",
+              "icon": "/icon/ケープハイラックス.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

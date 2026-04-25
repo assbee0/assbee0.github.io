@@ -1,0 +1,33 @@
+{
+  "class": "mammalia",
+  "order": "scandentia",
+  "name": "scandentia",
+  "name-jp": "登木目",
+  "name-cn": "树鼩目",
+  "type": "order",
+  "children": [
+    {
+      "name": "tupaiidae",
+      "name-jp": "ツパイ科",
+      "name-cn": "树鼩科",
+      "type": "family",
+      "children": [
+        {
+          "name": "tupaia",
+          "name-jp": "ツパイ属",
+          "name-cn": "树鼩属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "tupaia glis",
+              "name-jp": "コモンツパイ",
+              "name-cn": "普通树鼩",
+              "type": "species",
+              "icon": "/icon/コモンツパイ.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

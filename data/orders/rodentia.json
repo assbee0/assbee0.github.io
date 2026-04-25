@@ -1,0 +1,480 @@
+{
+  "class": "mammalia",
+  "order": "rodentia",
+  "name": "rodentia",
+  "name-jp": "齧歯目",
+  "name-cn": "啮齿目",
+  "type": "order",
+  "children": [
+    {
+      "name": "hystricomorpha",
+      "name-jp": "ヤマアラシ形亜目",
+      "name-cn": "豪猪亚目",
+      "type": "suborder",
+      "children": [
+        {
+          "name": "ctenodactylomorphi",
+          "name-jp": "グンディ形下目",
+          "name-cn": "梳齿鼠下目",
+          "type": "infraorder",
+          "children": [
+            {
+              "name": "ctenodactylidae",
+              "name-jp": "グンディ科",
+              "name-cn": "梳齿鼠科",
+              "type": "family",
+              "children": [
+                {
+                  "name": "ctenodactylus",
+                  "name-jp": "アトラスグンディ属",
+                  "name-cn": "梳齿鼠属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "ctenodactylus gundi",
+                      "name-jp": "アトラスグンディ",
+                      "name-cn": "梳齿鼠",
+                      "type": "species",
+                      "icon": "/icon/アトラスグンディ.jpg"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "hystricognathi",
+          "name-jp": "ヤマアラシ顎下目",
+          "name-cn": "豪猪下目",
+          "type": "infraorder",
+          "children": [
+            {
+              "name": "hystricidae",
+              "name-jp": "ヤマアラシ科",
+              "name-cn": "豪猪科",
+              "type": "family",
+              "children": [
+                {
+                  "name": "hystrix",
+                  "name-jp": "ヤマアラシ属",
+                  "name-cn": "豪猪属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "hystrix brachyura",
+                      "name-jp": "マレーヤマアラシ",
+                      "name-cn": "马来豪猪",
+                      "type": "species",
+                      "icon": "/icon/マレーヤマアラシ.jpg"
+                    },
+                    {
+                      "name": "hystrix cristata",
+                      "name-jp": "タテガミヤマアラシ",
+                      "name-cn": "非洲冕豪猪",
+                      "type": "species",
+                      "icon": "/icon/タテガミヤマアラシ.jpg"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "cavioidea",
+              "name-jp": "テンジクネズミ上科",
+              "name-cn": "豚鼠总科",
+              "type": "superfamily",
+              "children": [
+                {
+                  "name": "cuniculidae",
+                  "name-jp": "パカ科",
+                  "name-cn": "兔豚鼠科",
+                  "type": "family",
+                  "children": [
+                    {
+                      "name": "cuniculus",
+                      "name-jp": "パカ属",
+                      "name-cn": "兔豚鼠属",
+                      "type": "genus",
+                      "icon-children": [
+                        {
+                          "name": "cuniculus paca",
+                          "name-jp": "パカ",
+                          "name-cn": "低地斑刺豚鼠",
+                          "type": "species",
+                          "icon": "/icon/パカ.jpg"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "caviidae",
+                  "name-jp": "テンジクネズミ科",
+                  "name-cn": "豚鼠科",
+                  "type": "family",
+                  "children": [
+                    {
+                      "name": "caviinae",
+                      "name-jp": "テンジクネズミ亜科",
+                      "name-cn": "豚鼠亚科",
+                      "type": "subfamily",
+                      "children": [
+                        {
+                          "name": "cavia",
+                          "name-jp": "テンジクネズミ属",
+                          "name-cn": "豚鼠属",
+                          "type": "genus",
+                          "icon-children": [
+                            {
+                              "name": "cavia aperea",
+                              "name-jp": "パンパステンジクネズミ",
+                              "name-cn": "巴西豚鼠",
+                              "type": "species",
+                              "icon": "/icon/パンパステンジクネズミ.jpg"
+                            },
+                            {
+                              "name": "cavia porcellus",
+                              "name-jp": "テンジクネズミ",
+                              "name-cn": "豚鼠",
+                              "type": "species",
+                              "icon": "/icon/テンジクネズミ.jpg"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "dolichotinae",
+                      "name-jp": "マーラ亜科",
+                      "name-cn": "长耳豚鼠亚科",
+                      "type": "subfamily",
+                      "children": [
+                        {
+                          "name": "dolichotis",
+                          "name-jp": "マーラ属",
+                          "name-cn": "长耳豚鼠属",
+                          "type": "genus",
+                          "icon-children": [
+                            {
+                              "name": "dolichotis patagonum",
+                              "name-jp": "マーラ",
+                              "name-cn": "巴塔哥尼亚豚鼠",
+                              "type": "species",
+                              "icon": "/icon/マーラ.jpg"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "hydrochoerinae",
+                      "name-jp": "カピバラ亜科",
+                      "name-cn": "水豚亚科",
+                      "type": "subfamily",
+                      "children": [
+                        {
+                          "name": "hydrochoerus",
+                          "name-jp": "カピバラ属",
+                          "name-cn": "水豚属",
+                          "type": "genus",
+                          "icon-children": [
+                            {
+                              "name": "hydrochoerus hydrochaeris",
+                              "name-jp": "カピバラ",
+                              "name-cn": "水豚",
+                              "type": "species",
+                              "icon": "/icon/カピバラ.jpg"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "octodontoidea",
+              "name-jp": "デグー上科",
+              "name-cn": "八齿鼠总科",
+              "type": "superfamily",
+              "children": [
+                {
+                  "name": "octodontidae",
+                  "name-jp": "デグー科",
+                  "name-cn": "八齿鼠科",
+                  "type": "family",
+                  "children": [
+                    {
+                      "name": "octodon",
+                      "name-jp": "デグー属",
+                      "name-cn": "八齿鼠属",
+                      "type": "genus",
+                      "icon-children": [
+                        {
+                          "name": "octodon degus",
+                          "name-jp": "デグー",
+                          "name-cn": "智利八齿鼠",
+                          "type": "species",
+                          "icon": "/icon/デグー.jpg"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "echimyidae",
+                  "name-jp": "アメリカトゲネズミ科",
+                  "name-cn": "棘鼠科",
+                  "type": "family",
+                  "children": [
+                    {
+                      "name": "echimyinae",
+                      "name-jp": "キノボリトゲネズミ亜科",
+                      "name-cn": "美洲棘鼠亚科",
+                      "type": "subfamily",
+                      "children": [
+                        {
+                          "name": "myocastor",
+                          "name-jp": "ヌートリア属",
+                          "name-cn": "海狸鼠属",
+                          "type": "genus",
+                          "icon-children": [
+                            {
+                              "name": "myocastor coypus",
+                              "name-jp": "ヌートリア",
+                              "name-cn": "海狸鼠",
+                              "type": "species",
+                              "icon": "/icon/ヌートリア.jpg"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sciuromorpha",
+      "name-jp": "リス形亜目",
+      "name-cn": "松鼠亚目",
+      "type": "suborder",
+      "children": [
+        {
+          "name": "sciuridae",
+          "name-jp": "リス科",
+          "name-cn": "松鼠科",
+          "type": "family",
+          "children": [
+            {
+              "name": "sciurinae",
+              "name-jp": "リス亜科",
+              "name-cn": "松鼠亚科",
+              "type": "subfamily",
+              "children": [
+                {
+                  "name": "sciurini",
+                  "name-jp": "リス族",
+                  "name-cn": "松鼠族",
+                  "type": "tribe",
+                  "children": [
+                    {
+                      "name": "tamiasciurus",
+                      "name-jp": "アメリカアカリス属",
+                      "name-cn": "美洲红松鼠属",
+                      "type": "genus",
+                      "icon-children": [
+                        {
+                          "name": "tamiasciurus hudsonicus",
+                          "name-jp": "アメリカアカリス",
+                          "name-cn": "北美红松鼠",
+                          "type": "species",
+                          "icon": "/icon/アメリカアカリス.jpg"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "sciurus",
+                      "name-jp": "リス属",
+                      "name-cn": "松鼠属",
+                      "type": "genus",
+                      "icon-children": [
+                        {
+                          "name": "sciurus lis",
+                          "name-jp": "ニホンリス",
+                          "name-cn": "日本松鼠",
+                          "type": "species",
+                          "icon": "/icon/ニホンリス.jpg"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "callosciurinae",
+              "name-jp": "タイワンリス亜科",
+              "name-cn": "丽松鼠亚科",
+              "type": "subfamily",
+              "children": [
+                {
+                  "name": "callosciurus",
+                  "name-jp": "タイワンリス属",
+                  "name-cn": "丽松鼠属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "callosciurus erythraeus",
+                      "name-jp": "クリハラリス",
+                      "name-cn": "赤腹松鼠",
+                      "type": "species",
+                      "icon": "/icon/クリハラリス.jpg"
+                    },
+                    {
+                      "name": "callosciurus prevostii",
+                      "name-jp": "ミケリス",
+                      "name-cn": "普氏丽松鼠",
+                      "type": "species",
+                      "icon": "/icon/ミケリス.jpg"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "xerinae",
+              "name-jp": "ジリス亜科",
+              "name-cn": "非洲地松鼠亚科",
+              "type": "subfamily",
+              "children": [
+                {
+                  "name": "marmotini",
+                  "name-jp": "マーモット族",
+                  "name-cn": "旱獭族",
+                  "type": "tribe",
+                  "children": [
+                    {
+                      "name": "cynomys",
+                      "name-jp": "プレーリードッグ属",
+                      "name-cn": "草原犬鼠属",
+                      "type": "genus",
+                      "icon-children": [
+                        {
+                          "name": "cynomys ludovicianus",
+                          "name-jp": "オグロプレーリードッグ",
+                          "name-cn": "黑尾草原犬鼠",
+                          "type": "species",
+                          "icon": "/icon/オグロプレーリードッグ.jpg"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "castorimorpha",
+      "name-jp": "ビーバー形亜目",
+      "name-cn": "河狸亚目",
+      "type": "suborder",
+      "children": [
+        {
+          "name": "castoridae",
+          "name-jp": "ビーバー科",
+          "name-cn": "河狸科",
+          "type": "family",
+          "children": [
+            {
+              "name": "castor",
+              "name-jp": "ビーバー属",
+              "name-cn": "河狸属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "castor canadensis",
+                  "name-jp": "アメリカビーバー",
+                  "name-cn": "美洲河狸",
+                  "type": "species",
+                  "icon": "/icon/アメリカビーバー.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "myomorpha",
+      "name-jp": "ネズミ形亜目",
+      "name-cn": "鼠形亚目",
+      "type": "suborder",
+      "children": [
+        {
+          "name": "muroidea",
+          "name-jp": "ネズミ上科",
+          "name-cn": "鼠总科",
+          "type": "superfamily",
+          "children": [
+            {
+              "name": "muridae",
+              "name-jp": "ネズミ科",
+              "name-cn": "鼠科",
+              "type": "family",
+              "children": [
+                {
+                  "name": "murinae",
+                  "name-jp": "ネズミ亜科",
+                  "name-cn": "鼠亚科",
+                  "type": "subfamily",
+                  "children": [
+                    {
+                      "name": "phloeomys",
+                      "name-jp": "ホソオクモネズミ属",
+                      "name-cn": "云鼠属",
+                      "type": "genus",
+                      "icon-children": [
+                        {
+                          "name": "phloeomys pallidus",
+                          "name-jp": "ウスイロホソオクモネズミ",
+                          "name-cn": "白云鼠",
+                          "type": "species",
+                          "icon": "/icon/ウスイロホソオクモネズミ.jpg"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "micromys",
+                      "name-jp": "カヤネズミ属",
+                      "name-cn": "巢鼠属",
+                      "type": "genus",
+                      "icon-children": [
+                        {
+                          "name": "micromys minutus",
+                          "name-jp": "カヤネズミ",
+                          "name-cn": "巢鼠",
+                          "type": "species",
+                          "icon": "/icon/カヤネズミ.jpg"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

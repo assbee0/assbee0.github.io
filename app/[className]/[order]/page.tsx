@@ -1,4 +1,5 @@
 import { getOrderData } from "@/lib/data";
+import { formatScientificName } from "@/lib/data";
 import { TreeNode } from "@/components/tree-node";
 import { BackButton } from "@/components/back-button";
 import fs from "fs"
@@ -14,8 +15,11 @@ export async function generateStaticParams() {
         .map(file => {
             const order = file.replace(".json", "")
 
+            const filePath = path.join(ordersDir, file)
+            const json = JSON.parse(fs.readFileSync(filePath, "utf-8"))
+
             return {
-                className: "aves",
+                className: json.class,
                 order,
             }
         })
@@ -46,7 +50,7 @@ export default async function OrderPage({
                 <div className="nav-title">{data["name-jp"]}</div>
             </div>
             <div className={`head-background-base head-background-${className}`}>
-                <h1 className="head-title">{data["name-jp"] + " " + data.name}</h1>
+                <h1 className="head-title">{data["name-jp"] + " " + formatScientificName(data.name)}</h1>
             </div>
             <TreeNode node={data} className={className} />
         </div>

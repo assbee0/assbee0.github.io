@@ -166,6 +166,21 @@
                   "icon": "/icon/オオバン.jpg"
                 }
               ]
+            },
+            {
+              "name": "amaurornis",
+              "name-jp": "シロハラクイナ属",
+              "name-cn": "苦恶鸟属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "amaurornis phoenicurus",
+                  "name-jp": "シロハラクイナ",
+                  "name-cn": "白腹秧鸡",
+                  "type": "species",
+                  "icon": "/icon/シロハラクイナ.jpg"
+                }
+              ]
             }
           ]
         }

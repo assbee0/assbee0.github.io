@@ -1,0 +1,597 @@
+{
+  "class": "mammalia",
+  "order": "artiodactyla",
+  "name": "artiodactyla",
+  "name-jp": "偶蹄目",
+  "name-cn": "偶蹄目",
+  "type": "order",
+  "children": [
+    {
+      "name": "tylopoda",
+      "name-jp": "核脚亜目",
+      "name-cn": "胼足亚目",
+      "type": "suborder",
+      "children": [
+        {
+          "name": "camelidae",
+          "name-jp": "ラクダ科",
+          "name-cn": "骆驼科",
+          "type": "family",
+          "children": [
+            {
+              "name": "lamini",
+              "name-jp": "ラマ族",
+              "name-cn": "羊驼族",
+              "type": "tribe",
+              "children": [
+                {
+                  "name": "lama",
+                  "name-jp": "ラマ属",
+                  "name-cn": "羊驼属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "lama glama",
+                      "name-jp": "ラマ",
+                      "name-cn": "大羊驼",
+                      "type": "species",
+                      "icon": "/icon/ラマ.jpg"
+                    },
+                    {
+                      "name": "lama guanicoe",
+                      "name-jp": "グアナコ",
+                      "name-cn": "原驼",
+                      "type": "species",
+                      "icon": "/icon/グアナコ.jpg"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "suina",
+      "name-jp": "猪豚亜目",
+      "name-cn": "猪形亚目",
+      "type": "suborder",
+      "children": [
+        {
+          "name": "suidae",
+          "name-jp": "イノシシ科",
+          "name-cn": "猪科",
+          "type": "family",
+          "children": [
+            {
+              "name": "potamochoerini",
+              "name-jp": "カワイノシシ族",
+              "name-cn": "非洲野猪族",
+              "type": "tribe",
+              "children": [
+                {
+                  "name": "potamochoerus",
+                  "name-jp": "カワイノシシ属",
+                  "name-cn": "非洲野猪属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "potamochoerus porcus",
+                      "name-jp": "アカカワイノシシ",
+                      "name-cn": "红河猪",
+                      "type": "species",
+                      "icon": "/icon/アカカワイノシシ.jpg"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "suini",
+              "name-jp": "イノシシ族",
+              "name-cn": "猪族",
+              "type": "tribe",
+              "children": [
+                {
+                  "name": "sus",
+                  "name-jp": "イノシシ属",
+                  "name-cn": "猪属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "sus scrofa",
+                      "name-jp": "イノシシ",
+                      "name-cn": "野猪",
+                      "type": "species",
+                      "icon": "/icon/イノシシ.jpg"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "tayassuidae",
+          "name-jp": "ペッカリー科",
+          "name-cn": "西猯科",
+          "type": "family",
+          "children": [
+            {
+              "name": "dicotyles",
+              "name-jp": "クビワペッカリー属",
+              "name-cn": "领西猯属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "dicotyles tajacu",
+                  "name-jp": "クビワペッカリー",
+                  "name-cn": "领西猯",
+                  "type": "species",
+                  "icon": "/icon/クビワペッカリー.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ruminantia",
+      "name-jp": "反芻亜目",
+      "name-cn": "反刍亚目",
+      "type": "suborder",
+      "children": [
+        {
+          "name": "giraffidae",
+          "name-jp": "キリン科",
+          "name-cn": "长颈鹿科",
+          "type": "family",
+          "children": [
+            {
+              "name": "giraffa",
+              "name-jp": "キリン属",
+              "name-cn": "长颈鹿属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "giraffa reticulata",
+                  "name-jp": "アミメキリン",
+                  "name-cn": "网纹长颈鹿",
+                  "type": "species",
+                  "icon": "/icon/アミメキリン.jpg"
+                }
+              ]
+            },
+            {
+              "name": "okapia",
+              "name-jp": "オカピ属",
+              "name-cn": "霍加狓属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "okapia johnstoni",
+                  "name-jp": "オカピ",
+                  "name-cn": "霍加狓",
+                  "type": "species",
+                  "icon": "/icon/オカピ.jpg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "cervidae",
+          "name-jp": "シカ科",
+          "name-cn": "鹿科",
+          "type": "family",
+          "children": [
+            {
+              "name": "cervinae",
+              "name-jp": "シカ亜科",
+              "name-cn": "鹿亚科",
+              "type": "subfamily",
+              "children": [
+                {
+                  "name": "muntiacini",
+                  "name-jp": "ホエジカ族",
+                  "name-cn": "麂族",
+                  "type": "tribe",
+                  "children": [
+                    {
+                      "name": "muntiacus",
+                      "name-jp": "ホエジカ属",
+                      "name-cn": "麂属",
+                      "type": "genus",
+                      "icon-children": [
+                        {
+                          "name": "muntiacus crinifrons",
+                          "name-jp": "マエガミホエジカ",
+                          "name-cn": "黑麂",
+                          "type": "species",
+                          "icon": "/icon/マエガミホエジカ.jpg"
+                        },
+                        {
+                          "name": "muntiacus reevesi",
+                          "name-jp": "キョン",
+                          "name-cn": "小麂",
+                          "type": "species",
+                          "icon": "/icon/キョン.jpg"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "cervini",
+                  "name-jp": "シカ族",
+                  "name-cn": "鹿族",
+                  "type": "tribe",
+                  "children": [
+                    {
+                      "name": "elaphurus",
+                      "name-jp": "シフゾウ属",
+                      "name-cn": "麋鹿属",
+                      "type": "genus",
+                      "icon-children": [
+                        {
+                          "name": "elaphurus davidianus",
+                          "name-jp": "シフゾウ",
+                          "name-cn": "麋鹿",
+                          "type": "species",
+                          "icon": "/icon/シフゾウ.jpg"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "capreolinae",
+              "name-jp": "ノロ亜科",
+              "name-cn": "空齿鹿亚科",
+              "type": "subfamily",
+              "children": [
+                {
+                  "name": "odocoileini",
+                  "name-jp": "オジロジカ族",
+                  "name-cn": "空齿鹿族",
+                  "type": "tribe",
+                  "children": [
+                    {
+                      "name": "rangifer",
+                      "name-jp": "トナカイ属",
+                      "name-cn": "驯鹿属",
+                      "type": "genus",
+                      "icon-children": [
+                        {
+                          "name": "rangifer tarandus",
+                          "name-jp": "トナカイ",
+                          "name-cn": "驯鹿",
+                          "type": "species",
+                          "icon": "/icon/トナカイ.jpg"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "pudu",
+                      "name-jp": "プーズー属",
+                      "name-cn": "普度鹿属",
+                      "type": "genus",
+                      "icon-children": [
+                        {
+                          "name": "pudu puda",
+                          "name-jp": "プーズー",
+                          "name-cn": "南普度鹿",
+                          "type": "species",
+                          "icon": "/icon/プーズー.jpg"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "capreolini",
+                  "name-jp": "ノロジカ族",
+                  "name-cn": "狍族",
+                  "type": "tribe",
+                  "children": [
+                    {
+                      "name": "capreolus",
+                      "name-jp": "ノロジカ属",
+                      "name-cn": "狍属",
+                      "type": "genus",
+                      "icon-children": [
+                        {
+                          "name": "capreolus pygargus",
+                          "name-jp": "シベリアノロジカ",
+                          "name-cn": "西伯利亚狍",
+                          "type": "species",
+                          "icon": "/icon/シベリアノロジカ.jpg"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "bovidae",
+          "name-jp": "ウシ科",
+          "name-cn": "牛科",
+          "type": "family",
+          "children": [
+            {
+              "name": "bovinae",
+              "name-jp": "ウシ亜科",
+              "name-cn": "牛亚科",
+              "type": "subfamily",
+              "children": [
+                {
+                  "name": "bovini",
+                  "name-jp": "ウシ族",
+                  "name-cn": "牛族",
+                  "type": "tribe",
+                  "children": [
+                    {
+                      "name": "bubalus",
+                      "name-jp": "アジアスイギュウ属",
+                      "name-cn": "水牛属",
+                      "type": "genus",
+                      "icon-children": [
+                        {
+                          "name": "bubalus bubalis",
+                          "name-jp": "スイギュウ",
+                          "name-cn": "水牛",
+                          "type": "species",
+                          "icon": "/icon/スイギュウ.jpg"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "bos",
+                      "name-jp": "ウシ属",
+                      "name-cn": "牛属",
+                      "type": "genus",
+                      "icon-children": [
+                        {
+                          "name": "bos taurus",
+                          "name-jp": "ウシ",
+                          "name-cn": "家牛",
+                          "type": "species",
+                          "icon": "/icon/ウシ.jpg"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "tragelaphini",
+                  "name-jp": "ブッシュバック族",
+                  "name-cn": "薮羚族",
+                  "type": "tribe",
+                  "children": [
+                    {
+                      "name": "taurotragus",
+                      "name-jp": "イランド属",
+                      "name-cn": "巨羚属",
+                      "type": "genus",
+                      "icon-children": [
+                        {
+                          "name": "taurotragus oryx",
+                          "name-jp": "イランド",
+                          "name-cn": "伊兰羚羊",
+                          "type": "species",
+                          "icon": "/icon/イランド.jpg"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "caprinae",
+              "name-jp": "ヤギ亜科",
+              "name-cn": "羊亚科",
+              "type": "subfamily",
+              "children": [
+                {
+                  "name": "caprini",
+                  "name-jp": "ヤギ族",
+                  "name-cn": "羊族",
+                  "type": "tribe",
+                  "children": [
+                    {
+                      "name": "ovis",
+                      "name-jp": "ヒツジ属",
+                      "name-cn": "羊属",
+                      "type": "genus",
+                      "icon-children": [
+                        {
+                          "name": "ovis aries",
+                          "name-jp": "ヒツジ",
+                          "name-cn": "绵羊",
+                          "type": "species",
+                          "icon": "/icon/ヒツジ.jpg"
+                        },
+                        {
+                          "name": "ovis canadensis",
+                          "name-jp": "ビッグホーン",
+                          "name-cn": "大角羊",
+                          "type": "species",
+                          "icon": "/icon/ビッグホーン.jpg"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "budorcas",
+                      "name-jp": "ターキン属",
+                      "name-cn": "羚牛属",
+                      "type": "genus",
+                      "icon-children": [
+                        {
+                          "name": "budorcas tibetana",
+                          "name-jp": "ターキン",
+                          "name-cn": "羚牛",
+                          "type": "species",
+                          "icon": "/icon/ターキン.jpg"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "ammotragus",
+                      "name-jp": "バーバリーシープ属",
+                      "name-cn": "蛮羊属",
+                      "type": "genus",
+                      "icon-children": [
+                        {
+                          "name": "ammotragus lervia",
+                          "name-jp": "バーバリーシープ",
+                          "name-cn": "蛮羊",
+                          "type": "species",
+                          "icon": "/icon/バーバリーシープ.jpg"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "pseudois",
+                      "name-jp": "バーラル属",
+                      "name-cn": "岩羊属",
+                      "type": "genus",
+                      "icon-children": [
+                        {
+                          "name": "pseudois nayaur",
+                          "name-jp": "バーラル",
+                          "name-cn": "岩羊",
+                          "type": "species",
+                          "icon": "/icon/バーラル.jpg"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "capra",
+                      "name-jp": "ヤギ属",
+                      "name-cn": "山羊属",
+                      "type": "genus",
+                      "icon-children": [
+                        {
+                          "name": "capra falconeri",
+                          "name-jp": "マーコール",
+                          "name-cn": "捻角山羊",
+                          "type": "species",
+                          "icon": "/icon/マーコール.jpg"
+                        },
+                        {
+                          "name": "capra hircus",
+                          "name-jp": "ヤギ",
+                          "name-cn": "山羊",
+                          "type": "species",
+                          "icon": "/icon/ヤギ.jpg"
+                        },
+                        {
+                          "name": "capra sibirica",
+                          "name-jp": "シベリアアイベックス",
+                          "name-cn": "北山羊",
+                          "type": "species",
+                          "icon": "/icon/シベリアアイベックス.jpg"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "hippotraginae",
+              "name-jp": "ブルーバック亜科",
+              "name-cn": "马羚亚科",
+              "type": "subfamily",
+              "children": [
+                {
+                  "name": "oryx",
+                  "name-jp": "オリックス属",
+                  "name-cn": "剑羚属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "oryx dammah",
+                      "name-jp": "シロオリックス",
+                      "name-cn": "弯角剑羚",
+                      "type": "species",
+                      "icon": "/icon/シロオリックス.jpg"
+                    },
+                    {
+                      "name": "oryx gazella",
+                      "name-jp": "オリックス",
+                      "name-cn": "南非剑羚",
+                      "type": "species",
+                      "icon": "/icon/オリックス.jpg"
+                    },
+                    {
+                      "name": "oryx leucoryx",
+                      "name-jp": "アラビアオリックス",
+                      "name-cn": "阿拉伯剑羚",
+                      "type": "species",
+                      "icon": "/icon/アラビアオリックス.jpg"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "whippomorpha",
+      "name-jp": "鯨河馬形亜目",
+      "name-cn": "鲸河马亚目",
+      "type": "suborder",
+      "children": [
+        {
+          "name": "hippopotamidae",
+          "name-jp": "カバ科",
+          "name-cn": "河马科",
+          "type": "family",
+          "children": [
+            {
+              "name": "hippopotamus",
+              "name-jp": "カバ属",
+              "name-cn": "河马属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "hippopotamus amphibius",
+                  "name-jp": "カバ",
+                  "name-cn": "河马",
+                  "type": "species",
+                  "icon": "/icon/カバ.jpg"
+                }
+              ]
+            },
+            {
+              "name": "choeropsis",
+              "name-jp": "コビトカバ属",
+              "name-cn": "倭河马属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "choeropsis liberiensis",
+                  "name-jp": "コビトカバ",
+                  "name-cn": "倭河马",
+                  "type": "species",
+                  "icon": "/icon/コビトカバ.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "class": "mammalia",
+  "order": "pilosa",
+  "name": "pilosa",
+  "name-jp": "有毛目",
+  "name-cn": "披毛目",
+  "type": "order",
+  "children": [
+    {
+      "name": "folivora",
+      "name-jp": "食葉亜目",
+      "name-cn": "树懒亚目",
+      "type": "suborder",
+      "children": [
+        {
+          "name": "choloepodidae",
+          "name-jp": "フタユビナマケモノ科",
+          "name-cn": "二趾树懒科",
+          "type": "family",
+          "children": [
+            {
+              "name": "choloepus",
+              "name-jp": "フタユビナマケモノ属",
+              "name-cn": "二趾树懒属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "choloepus didactylus",
+                  "name-jp": "フタユビナマケモノ",
+                  "name-cn": "二趾树懒",
+                  "type": "species",
+                  "icon": "/icon/フタユビナマケモノ.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "vermilingua",
+      "name-jp": "舌虫亜目",
+      "name-cn": "蠕舌亚目",
+      "type": "suborder",
+      "children": [
+        {
+          "name": "myrmecophagidae",
+          "name-jp": "アリクイ科",
+          "name-cn": "食蚁兽科",
+          "type": "family",
+          "children": [
+            {
+              "name": "myrmecophaga",
+              "name-jp": "オオアリクイ属",
+              "name-cn": "大食蚁兽属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "myrmecophaga tridactyla",
+                  "name-jp": "オオアリクイ",
+                  "name-cn": "大食蚁兽",
+                  "type": "species",
+                  "icon": "/icon/オオアリクイ.jpg"
+                }
+              ]
+            },
+            {
+              "name": "tamandua",
+              "name-jp": "コアリクイ属",
+              "name-cn": "小食蚁兽属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "tamandua tetradactyla",
+                  "name-jp": "ミナミコアリクイ",
+                  "name-cn": "小食蚁兽",
+                  "type": "species",
+                  "icon": "/icon/ミナミコアリクイ.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

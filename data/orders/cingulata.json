@@ -1,0 +1,41 @@
+{
+  "class": "mammalia",
+  "order": "cingulata",
+  "name": "cingulata",
+  "name-jp": "被甲目",
+  "name-cn": "有甲目",
+  "type": "order",
+  "children": [
+    {
+      "name": "chlamyphoridae",
+      "name-jp": "クラミフォルス科",
+      "name-cn": "倭犰狳科",
+      "type": "family",
+      "children": [
+        {
+          "name": "euphractinae",
+          "name-jp": "ムツオビアルマジロ亜科",
+          "name-cn": "六带犰狳亚科",
+          "type": "subfamily",
+          "children": [
+            {
+              "name": "euphractus",
+              "name-jp": "ムツオビアルマジロ属",
+              "name-cn": "六带犰狳属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "euphractus sexcinctus",
+                  "name-jp": "ムツオビアルマジロ",
+                  "name-cn": "六带犰狳",
+                  "type": "species",
+                  "icon": "/icon/ムツオビアルマジロ.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -32,3 +32,15 @@ export function formatScientificName(name: string) {
 
     return parts.join(" ");
 }
+
+export function formatSubgenusScientificName(name: string) {
+    if (!name) return name;
+
+    const parts = name.split(" ");
+    parts[0] = parts[0].charAt(0).toUpperCase() + parts[0].slice(1);
+    if (parts[1].startsWith("(")) {
+        parts[1] = parts[1].charAt(0) + parts[1].charAt(1).toUpperCase() + parts[1].slice(2);
+    }
+
+    return parts.join(" ");
+}
