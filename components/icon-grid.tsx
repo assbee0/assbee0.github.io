@@ -1,13 +1,21 @@
 import Image from "next/image";
 import Link from "next/link";
-import { formatScientificName } from "@/lib/data";
+import { formatScientificName } from "@/lib/utils";
+import { Lang } from "@/types/lang";
 
-function renderName(node: any) {
+function getName(node: any, lang: Lang) {
+    if (lang === "cn") return node["name-cn"];
+    if (lang === "jp") return node["name-jp"];
+    return node["name"];
+}
+
+function renderName(node: any, lang: Lang) {
     const formattedName = formatScientificName(node.name);
+    const displayName = getName(node, lang);
 
     return (
         <>
-            {node["name-jp"]}{" "}
+            {displayName}{" "}
             <br />
             {(node.type === "species") ? (
                 <i>{formattedName}</i>
@@ -20,10 +28,12 @@ function renderName(node: any) {
 
 export function IconGrid({
     items,
-    className
+    className,
+    lang
 }: {
     items: any[];
     className: string;
+    lang: Lang;
 }) {
     return (
         <div className="page-container">
@@ -40,7 +50,7 @@ export function IconGrid({
                                 className="card-img"
                             />
                             <div className="card-text">
-                                {renderName(item)}
+                                {renderName(item, lang)}
                             </div>
                         </div>
                     </Link>

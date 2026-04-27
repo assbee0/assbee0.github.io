@@ -1,7 +1,5 @@
-import { getOrderData } from "@/lib/data";
-import { formatScientificName } from "@/lib/data";
-import { TreeNode } from "@/components/tree-node";
-import { BackButton } from "@/components/back-button";
+import { getOrderData } from "@/lib/server-data";
+import { OrderPageClient } from "@/components/order-page-client";
 import fs from "fs"
 import path from "path"
 
@@ -32,27 +30,5 @@ export default async function OrderPage({
 }) {
     const { className, order } = await params;
     const data = getOrderData(order);
-    return (
-        <div className={`body-${className}`}>
-            <div className="nav-bar">
-                <BackButton>
-                    <svg width="20" height="20" viewBox="0 0 24 24">
-                        <path
-                            d="M15 18l-6-6 6-6"
-                            stroke="black"
-                            strokeWidth="2"
-                            fill="none"
-                            strokeLinecap="round"
-                            strokeLinejoin="round"
-                        />
-                    </svg>
-                </BackButton>
-                <div className="nav-title">{data["name-jp"]}</div>
-            </div>
-            <div className={`head-background-base head-background-${className}`}>
-                <h1 className="head-title">{data["name-jp"] + " " + formatScientificName(data.name)}</h1>
-            </div>
-            <TreeNode node={data} className={className} />
-        </div>
-    );
+    return <OrderPageClient data={data} className={className} />;
 }

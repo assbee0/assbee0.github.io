@@ -381,6 +381,30 @@
   opacity: 0.6;
 }
 
+.lang-switch {
+  display: flex;
+  gap: 6px;
+  margin-left: auto;
+}
+
+.lang-switch button {
+  background: none;
+  border: none;
+  cursor: pointer;
+
+  color: rgba(255, 255, 255, 0.6);
+  transition: all 0.2s ease;
+}
+
+.lang-switch button:hover {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.lang-switch .active {
+  color: #ffffff;
+  font-weight: bold;
+}
+
 /* 手机 */
 @media (max-width: 640px) {
   .icon-grid {

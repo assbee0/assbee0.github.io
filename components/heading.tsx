@@ -1,4 +1,4 @@
-import { getHeadingTag } from "@/lib/data";
+import { getHeadingTag } from "@/lib/utils";
 
 export function Heading({
     depth,
