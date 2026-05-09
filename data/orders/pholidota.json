@@ -23,7 +23,8 @@
               "name-jp": "ミミセンザンコウ",
               "name-cn": "中华穿山甲",
               "type": "species",
-              "icon": "/icon/ミミセンザンコウ.jpg"
+              "icon": "/icon/ミミセンザンコウ.jpg",
+              "hasWild": false
             }
           ]
         }

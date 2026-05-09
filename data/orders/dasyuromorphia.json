@@ -35,7 +35,8 @@
                       "name-jp": "タスマニアデビル",
                       "name-cn": "袋獾",
                       "type": "species",
-                      "icon": "/icon/タスマニアデビル.jpg"
+                      "icon": "/icon/タスマニアデビル.jpg",
+                      "hasWild": false
                     }
                   ]
                 }

@@ -29,7 +29,8 @@
                   "name-jp": "ナイルチドリ",
                   "name-cn": "蓝腿燕鸻",
                   "type": "species",
-                  "icon": "/icon/ナイルチドリ.jpg"
+                  "icon": "/icon/ナイルチドリ.jpg",
+                  "hasWild": false
                 }
               ]
             }
@@ -52,7 +53,8 @@
                   "name-jp": "シロクロゲリ",
                   "name-cn": "黑背麦鸡",
                   "type": "species",
-                  "icon": "/icon/シロクロゲリ.jpg"
+                  "icon": "/icon/シロクロゲリ.jpg",
+                  "hasWild": false
                 }
               ]
             },
@@ -67,7 +69,8 @@
                   "name-jp": "ダイゼン",
                   "name-cn": "灰斑鸻",
                   "type": "species",
-                  "icon": "/icon/ダイゼン.jpg"
+                  "icon": "/icon/ダイゼン.jpg",
+                  "hasWild": true
                 }
               ]
             },
@@ -82,7 +85,24 @@
                   "name-jp": "コチドリ",
                   "name-cn": "金眶鸻",
                   "type": "species",
-                  "icon": "/icon/コチドリ.jpg"
+                  "icon": "/icon/コチドリ.jpg",
+                  "hasWild": true
+                }
+              ]
+            },
+            {
+              "name": "anarhynchus",
+              "name-jp": "ハシマガリチドリ属",
+              "name-cn": "弯嘴鸻属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "anarhynchus mongolus",
+                  "name-jp": "メダイチドリ",
+                  "name-cn": "蒙古沙鸻",
+                  "type": "species",
+                  "icon": "/icon/メダイチドリ.jpg",
+                  "hasWild": true
                 }
               ]
             }
@@ -105,7 +125,8 @@
                   "name-jp": "クロエリセイタカシギ",
                   "name-cn": "黑颈长脚鹬",
                   "type": "species",
-                  "icon": "/icon/クロエリセイタカシギ.jpg"
+                  "icon": "/icon/クロエリセイタカシギ.jpg",
+                  "hasWild": false
                 }
               ]
             }
@@ -128,7 +149,8 @@
                   "name-jp": "ミヤコドリ",
                   "name-cn": "蛎鹬",
                   "type": "species",
-                  "icon": "/icon/ミヤコドリ.jpg"
+                  "icon": "/icon/ミヤコドリ.jpg",
+                  "hasWild": true
                 }
               ]
             }
@@ -159,7 +181,8 @@
                   "name-jp": "チュウシャクシギ",
                   "name-cn": "中杓鹬",
                   "type": "species",
-                  "icon": "/icon/チュウシャクシギ.jpg"
+                  "icon": "/icon/チュウシャクシギ.jpg",
+                  "hasWild": true
                 }
               ]
             },
@@ -174,14 +197,16 @@
                   "name-jp": "オオソリハシシギ",
                   "name-cn": "斑尾塍鹬",
                   "type": "species",
-                  "icon": "/icon/オオソリハシシギ.jpg"
+                  "icon": "/icon/オオソリハシシギ.jpg",
+                  "hasWild": true
                 },
                 {
                   "name": "limosa limosa",
                   "name-jp": "オグロシギ",
                   "name-cn": "黑尾塍鹬",
                   "type": "species",
-                  "icon": "/icon/オグロシギ.jpg"
+                  "icon": "/icon/オグロシギ.jpg",
+                  "hasWild": false
                 }
               ]
             },
@@ -196,7 +221,8 @@
                   "name-jp": "イソシギ",
                   "name-cn": "矶鹬",
                   "type": "species",
-                  "icon": "/icon/イソシギ.jpg"
+                  "icon": "/icon/イソシギ.jpg",
+                  "hasWild": true
                 }
               ]
             },
@@ -211,7 +237,8 @@
                   "name-jp": "キアシシギ",
                   "name-cn": "灰尾漂鹬",
                   "type": "species",
-                  "icon": "/icon/キアシシギ.jpg"
+                  "icon": "/icon/キアシシギ.jpg",
+                  "hasWild": true
                 }
               ]
             },
@@ -226,7 +253,8 @@
                   "name-jp": "キョウジョシギ",
                   "name-cn": "翻石鹬",
                   "type": "species",
-                  "icon": "/icon/キョウジョシギ.jpg"
+                  "icon": "/icon/キョウジョシギ.jpg",
+                  "hasWild": true
                 }
               ]
             },
@@ -241,28 +269,32 @@
                   "name-jp": "ミユビシギ",
                   "name-cn": "三趾滨鹬",
                   "type": "species",
-                  "icon": "/icon/ミユビシギ.jpg"
+                  "icon": "/icon/ミユビシギ.jpg",
+                  "hasWild": true
                 },
                 {
                   "name": "calidris alpina",
                   "name-jp": "ハマシギ",
                   "name-cn": "黑腹滨鹬",
                   "type": "species",
-                  "icon": "/icon/ハマシギ.jpg"
+                  "icon": "/icon/ハマシギ.jpg",
+                  "hasWild": true
                 },
                 {
                   "name": "calidris ruficollis",
                   "name-jp": "トウネン",
                   "name-cn": "红颈滨鹬",
                   "type": "species",
-                  "icon": "/icon/トウネン.jpg"
+                  "icon": "/icon/トウネン.jpg",
+                  "hasWild": true
                 },
                 {
                   "name": "calidris tenuirostris",
                   "name-jp": "オバシギ",
                   "name-cn": "大滨鹬",
                   "type": "species",
-                  "icon": "/icon/オバシギ.jpg"
+                  "icon": "/icon/オバシギ.jpg",
+                  "hasWild": true
                 }
               ]
             }
@@ -299,7 +331,8 @@
                       "name-jp": "インカアジサシ",
                       "name-cn": "印加燕鸥",
                       "type": "species",
-                      "icon": "/icon/インカアジサシ.jpg"
+                      "icon": "/icon/インカアジサシ.jpg",
+                      "hasWild": false
                     }
                   ]
                 }
@@ -322,7 +355,8 @@
                       "name-jp": "ユリカモメ",
                       "name-cn": "红嘴鸥",
                       "type": "species",
-                      "icon": "/icon/ユリカモメ.jpg"
+                      "icon": "/icon/ユリカモメ.jpg",
+                      "hasWild": true
                     }
                   ]
                 },
@@ -337,28 +371,32 @@
                       "name-jp": "キアシセグロカモメ",
                       "name-cn": "黄脚银鸥",
                       "type": "species",
-                      "icon": "/icon/キアシセグロカモメ.jpg"
+                      "icon": "/icon/キアシセグロカモメ.jpg",
+                      "hasWild": false
                     },
                     {
                       "name": "larus canus",
                       "name-jp": "カモメ",
                       "name-cn": "普通海鸥",
                       "type": "species",
-                      "icon": "/icon/カモメ.jpg"
+                      "icon": "/icon/カモメ.jpg",
+                      "hasWild": true
                     },
                     {
                       "name": "larus crassirostris",
                       "name-jp": "ウミネコ",
                       "name-cn": "黑尾鸥",
                       "type": "species",
-                      "icon": "/icon/ウミネコ.jpg"
+                      "icon": "/icon/ウミネコ.jpg",
+                      "hasWild": true
                     },
                     {
                       "name": "larus vegae",
                       "name-jp": "セグロカモメ",
                       "name-cn": "西伯利亚银鸥",
                       "type": "species",
-                      "icon": "/icon/セグロカモメ.jpg"
+                      "icon": "/icon/セグロカモメ.jpg",
+                      "hasWild": true
                     }
                   ]
                 }
@@ -383,7 +421,8 @@
                   "name-jp": "ウミガラス",
                   "name-cn": "崖海鸦",
                   "type": "species",
-                  "icon": "/icon/ウミガラス.jpg"
+                  "icon": "/icon/ウミガラス.jpg",
+                  "hasWild": false
                 }
               ]
             },
@@ -398,7 +437,8 @@
                   "name-jp": "エトピリカ",
                   "name-cn": "簇海鹦",
                   "type": "species",
-                  "icon": "/icon/エトピリカ.jpg"
+                  "icon": "/icon/エトピリカ.jpg",
+                  "hasWild": false
                 }
               ]
             }

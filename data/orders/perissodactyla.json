@@ -35,7 +35,8 @@
                       "name-jp": "ノウマ",
                       "name-cn": "野马",
                       "type": "species",
-                      "icon": "/icon/ノウマ.jpg"
+                      "icon": "/icon/ノウマ.jpg",
+                      "hasWild": false
                     }
                   ]
                 },
@@ -50,21 +51,24 @@
                       "name-jp": "グレビーシマウマ",
                       "name-cn": "细纹斑马",
                       "type": "species",
-                      "icon": "/icon/グレビーシマウマ.jpg"
+                      "icon": "/icon/グレビーシマウマ.jpg",
+                      "hasWild": false
                     },
                     {
                       "name": "equus quagga",
                       "name-jp": "サバンナシマウマ",
                       "name-cn": "平原斑马",
                       "type": "species",
-                      "icon": "/icon/サバンナシマウマ.jpg"
+                      "icon": "/icon/サバンナシマウマ.jpg",
+                      "hasWild": false
                     },
                     {
                       "name": "equus zebra",
                       "name-jp": "ヤマシマウマ",
                       "name-cn": "山斑马",
                       "type": "species",
-                      "icon": "/icon/ヤマシマウマ.jpg"
+                      "icon": "/icon/ヤマシマウマ.jpg",
+                      "hasWild": false
                     }
                   ]
                 },
@@ -79,7 +83,8 @@
                       "name-jp": "アジアノロバ",
                       "name-cn": "亚洲野驴",
                       "type": "species",
-                      "icon": "/icon/アジアノロバ.jpg"
+                      "icon": "/icon/アジアノロバ.jpg",
+                      "hasWild": false
                     }
                   ]
                 }
@@ -112,21 +117,24 @@
                   "name-jp": "ベアードバク",
                   "name-cn": "中美貘",
                   "type": "species",
-                  "icon": "/icon/ベアードバク.jpg"
+                  "icon": "/icon/ベアードバク.jpg",
+                  "hasWild": false
                 },
                 {
                   "name": "tapirus indicus",
                   "name-jp": "マレーバク",
                   "name-cn": "马来貘",
                   "type": "species",
-                  "icon": "/icon/マレーバク.jpg"
+                  "icon": "/icon/マレーバク.jpg",
+                  "hasWild": false
                 },
                 {
                   "name": "tapirus terrestris",
                   "name-jp": "アメリカバク",
                   "name-cn": "南美貘",
                   "type": "species",
-                  "icon": "/icon/アメリカバク.jpg"
+                  "icon": "/icon/アメリカバク.jpg",
+                  "hasWild": false
                 }
               ]
             }
@@ -149,7 +157,8 @@
                   "name-jp": "シロサイ",
                   "name-cn": "白犀",
                   "type": "species",
-                  "icon": "/icon/シロサイ.jpg"
+                  "icon": "/icon/シロサイ.jpg",
+                  "hasWild": false
                 }
               ]
             },
@@ -164,7 +173,8 @@
                   "name-jp": "クロサイ",
                   "name-cn": "黑犀",
                   "type": "species",
-                  "icon": "/icon/クロサイ.jpg"
+                  "icon": "/icon/クロサイ.jpg",
+                  "hasWild": false
                 }
               ]
             },
@@ -179,7 +189,8 @@
                   "name-jp": "インドサイ",
                   "name-cn": "印度犀",
                   "type": "species",
-                  "icon": "/icon/インドサイ.jpg"
+                  "icon": "/icon/インドサイ.jpg",
+                  "hasWild": false
                 }
               ]
             }

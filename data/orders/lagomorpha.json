@@ -23,7 +23,8 @@
               "name-jp": "ニホンノウサギ",
               "name-cn": "日本兔",
               "type": "species",
-              "icon": "/icon/ニホンノウサギ.jpg"
+              "icon": "/icon/ニホンノウサギ.jpg",
+              "hasWild": false
             }
           ]
         }

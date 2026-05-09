@@ -29,14 +29,16 @@
                   "name-jp": "ハヤブサ",
                   "name-cn": "游隼",
                   "type": "species",
-                  "icon": "/icon/ハヤブサ.jpg"
+                  "icon": "/icon/ハヤブサ.jpg",
+                  "hasWild": true
                 },
                 {
                   "name": "falco tinnunculus",
                   "name-jp": "チョウゲンボウ",
                   "name-cn": "红隼",
                   "type": "species",
-                  "icon": "/icon/チョウゲンボウ.jpg"
+                  "icon": "/icon/チョウゲンボウ.jpg",
+                  "hasWild": false
                 }
               ]
             }

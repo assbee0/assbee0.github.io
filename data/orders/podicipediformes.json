@@ -23,7 +23,8 @@
               "name-jp": "カイツブリ",
               "name-cn": "小䴙䴘",
               "type": "species",
-              "icon": "/icon/カイツブリ.jpg"
+              "icon": "/icon/カイツブリ.jpg",
+              "hasWild": true
             }
           ]
         },
@@ -38,7 +39,8 @@
               "name-jp": "カンムリカイツブリ",
               "name-cn": "凤头䴙䴘",
               "type": "species",
-              "icon": "/icon/カンムリカイツブリ.jpg"
+              "icon": "/icon/カンムリカイツブリ.jpg",
+              "hasWild": true
             }
           ]
         }

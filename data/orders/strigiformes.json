@@ -23,7 +23,8 @@
               "name-jp": "メンフクロウ",
               "name-cn": "苍鸮",
               "type": "species",
-              "icon": "/icon/メンフクロウ.jpg"
+              "icon": "/icon/メンフクロウ.jpg",
+              "hasWild": false
             }
           ]
         }
@@ -46,7 +47,8 @@
               "name-jp": "アオバズク",
               "name-cn": "日本鹰鸮",
               "type": "species",
-              "icon": "/icon/アオバズク.jpg"
+              "icon": "/icon/アオバズク.jpg",
+              "hasWild": false
             }
           ]
         },
@@ -61,14 +63,16 @@
               "name-jp": "アナホリフクロウ",
               "name-cn": "穴小鸮",
               "type": "species",
-              "icon": "/icon/アナホリフクロウ.jpg"
+              "icon": "/icon/アナホリフクロウ.jpg",
+              "hasWild": false
             },
             {
               "name": "athene noctua",
               "name-jp": "コキンメフクロウ",
               "name-cn": "纵纹腹小鸮",
               "type": "species",
-              "icon": "/icon/コキンメフクロウ.jpg"
+              "icon": "/icon/コキンメフクロウ.jpg",
+              "hasWild": false
             }
           ]
         },
@@ -83,14 +87,16 @@
               "name-jp": "アフリカワシミミズク",
               "name-cn": "斑点雕鸮",
               "type": "species",
-              "icon": "/icon/アフリカワシミミズク.jpg"
+              "icon": "/icon/アフリカワシミミズク.jpg",
+              "hasWild": false
             },
             {
               "name": "bubo scandiacus",
               "name-jp": "シロフクロウ",
               "name-cn": "雪鸮",
               "type": "species",
-              "icon": "/icon/シロフクロウ.jpg"
+              "icon": "/icon/シロフクロウ.jpg",
+              "hasWild": false
             }
           ]
         },
@@ -105,21 +111,24 @@
               "name-jp": "チャコモリフクロウ",
               "name-cn": "查科林鸮",
               "type": "species",
-              "icon": "/icon/チャコモリフクロウ.jpg"
+              "icon": "/icon/チャコモリフクロウ.jpg",
+              "hasWild": false
             },
             {
               "name": "strix nebulosa",
               "name-jp": "カラフトフクロウ",
               "name-cn": "乌林鸮",
               "type": "species",
-              "icon": "/icon/カラフトフクロウ.jpg"
+              "icon": "/icon/カラフトフクロウ.jpg",
+              "hasWild": false
             },
             {
               "name": "strix uralensis",
               "name-jp": "フクロウ",
               "name-cn": "长尾林鸮",
               "type": "species",
-              "icon": "/icon/フクロウ.jpg"
+              "icon": "/icon/フクロウ.jpg",
+              "hasWild": false
             }
           ]
         },
@@ -134,7 +143,8 @@
               "name-jp": "メガネフクロウ",
               "name-cn": "眼镜鸮",
               "type": "species",
-              "icon": "/icon/メガネフクロウ.jpg"
+              "icon": "/icon/メガネフクロウ.jpg",
+              "hasWild": false
             }
           ]
         }

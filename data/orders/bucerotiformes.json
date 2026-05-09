@@ -29,7 +29,8 @@
                   "name-jp": "ミナミジサイチョウ",
                   "name-cn": "红脸地犀鸟",
                   "type": "species",
-                  "icon": "/icon/ミナミジサイチョウ.jpg"
+                  "icon": "/icon/ミナミジサイチョウ.jpg",
+                  "hasWild": false
                 }
               ]
             }
@@ -52,7 +53,8 @@
                   "name-jp": "カンムリコサイチョウ",
                   "name-cn": "冕弯嘴犀鸟",
                   "type": "species",
-                  "icon": "/icon/カンムリコサイチョウ.jpg"
+                  "icon": "/icon/カンムリコサイチョウ.jpg",
+                  "hasWild": false
                 }
               ]
             },
@@ -67,7 +69,8 @@
                   "name-jp": "ギンガオサイチョウ",
                   "name-cn": "银颊噪犀鸟",
                   "type": "species",
-                  "icon": "/icon/ギンガオサイチョウ.jpg"
+                  "icon": "/icon/ギンガオサイチョウ.jpg",
+                  "hasWild": false
                 }
               ]
             },
@@ -82,14 +85,16 @@
                   "name-jp": "オオサイチョウ",
                   "name-cn": "双角犀鸟",
                   "type": "species",
-                  "icon": "/icon/オオサイチョウ.jpg"
+                  "icon": "/icon/オオサイチョウ.jpg",
+                  "hasWild": false
                 },
                 {
                   "name": "buceros rhinoceros",
                   "name-jp": "サイチョウ",
                   "name-cn": "马来犀鸟",
                   "type": "species",
-                  "icon": "/icon/サイチョウ.jpg"
+                  "icon": "/icon/サイチョウ.jpg",
+                  "hasWild": false
                 }
               ]
             },
@@ -104,7 +109,8 @@
                   "name-jp": "シワコブサイチョウ",
                   "name-cn": "花冠皱盔犀鸟",
                   "type": "species",
-                  "icon": "/icon/シワコブサイチョウ.jpg"
+                  "icon": "/icon/シワコブサイチョウ.jpg",
+                  "hasWild": false
                 }
               ]
             }

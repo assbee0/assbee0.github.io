@@ -23,7 +23,8 @@
               "name-jp": "ジュゴン",
               "name-cn": "儒艮",
               "type": "species",
-              "icon": "/icon/ジュゴン.jpg"
+              "icon": "/icon/ジュゴン.jpg",
+              "hasWild": false
             }
           ]
         }
@@ -46,14 +47,16 @@
               "name-jp": "ニシインドマナティー",
               "name-cn": "西印度海牛",
               "type": "species",
-              "icon": "/icon/ニシインドマナティー.jpg"
+              "icon": "/icon/ニシインドマナティー.jpg",
+              "hasWild": false
             },
             {
               "name": "trichechus senegalensis",
               "name-jp": "アフリカマナティー",
               "name-cn": "西非海牛",
               "type": "species",
-              "icon": "/icon/アフリカマナティー.jpg"
+              "icon": "/icon/アフリカマナティー.jpg",
+              "hasWild": false
             }
           ]
         }

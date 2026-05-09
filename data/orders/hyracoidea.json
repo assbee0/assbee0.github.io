@@ -23,7 +23,8 @@
               "name-jp": "キボシイワハイラックス",
               "name-cn": "黄斑蹄兔",
               "type": "species",
-              "icon": "/icon/キボシイワハイラックス.jpg"
+              "icon": "/icon/キボシイワハイラックス.jpg",
+              "hasWild": false
             }
           ]
         },
@@ -38,7 +39,8 @@
               "name-jp": "ケープハイラックス",
               "name-cn": "蹄兔",
               "type": "species",
-              "icon": "/icon/ケープハイラックス.jpg"
+              "icon": "/icon/ケープハイラックス.jpg",
+              "hasWild": false
             }
           ]
         }

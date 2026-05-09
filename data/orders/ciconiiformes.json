@@ -23,7 +23,8 @@
               "name-jp": "シロスキハシコウ",
               "name-cn": "钳嘴鹤",
               "type": "species",
-              "icon": "/icon/シロスキハシコウ.jpg"
+              "icon": "/icon/シロスキハシコウ.jpg",
+              "hasWild": true
             }
           ]
         },
@@ -38,7 +39,8 @@
               "name-jp": "アフリカハゲコウ",
               "name-cn": "非洲秃鹳",
               "type": "species",
-              "icon": "/icon/アフリカハゲコウ.jpg"
+              "icon": "/icon/アフリカハゲコウ.jpg",
+              "hasWild": false
             }
           ]
         },
@@ -53,7 +55,8 @@
               "name-jp": "アフリカトキコウ",
               "name-cn": "黄嘴鹮鹳",
               "type": "species",
-              "icon": "/icon/アフリカトキコウ.jpg"
+              "icon": "/icon/アフリカトキコウ.jpg",
+              "hasWild": false
             }
           ]
         },
@@ -68,14 +71,16 @@
               "name-jp": "コウノトリ",
               "name-cn": "东方白鹳",
               "type": "species",
-              "icon": "/icon/コウノトリ.jpg"
+              "icon": "/icon/コウノトリ.jpg",
+              "hasWild": false
             },
             {
               "name": "ciconia nigra",
               "name-jp": "ナベコウ",
               "name-cn": "黑鹳",
               "type": "species",
-              "icon": "/icon/ナベコウ.jpg"
+              "icon": "/icon/ナベコウ.jpg",
+              "hasWild": false
             }
           ]
         }

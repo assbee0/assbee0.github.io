@@ -23,7 +23,8 @@
               "name-jp": "オーストラリアガマグチヨタカ",
               "name-cn": "茶色蛙口夜鹰",
               "type": "species",
-              "icon": "/icon/オーストラリアガマグチヨタカ.jpg"
+              "icon": "/icon/オーストラリアガマグチヨタカ.jpg",
+              "hasWild": false
             }
           ]
         }

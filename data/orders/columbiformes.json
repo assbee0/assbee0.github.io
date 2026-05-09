@@ -13,21 +13,6 @@
       "type": "family",
       "children": [
         {
-          "name": "ducula",
-          "name-jp": "ミカドバト属",
-          "name-cn": "皇鸠属",
-          "type": "genus",
-          "icon-children": [
-            {
-              "name": "ducula bicolor",
-              "name-jp": "ソデグロバト",
-              "name-cn": "斑皇鸠",
-              "type": "species",
-              "icon": "/icon/ソデグロバト.jpg"
-            }
-          ]
-        },
-        {
           "name": "treron",
           "name-jp": "アオバト属",
           "name-cn": "绿鸠属",
@@ -38,7 +23,40 @@
               "name-jp": "アオバト",
               "name-cn": "红翅绿鸠",
               "type": "species",
-              "icon": "/icon/アオバト.jpg"
+              "icon": "/icon/アオバト.jpg",
+              "hasWild": false
+            }
+          ]
+        },
+        {
+          "name": "ducula",
+          "name-jp": "ミカドバト属",
+          "name-cn": "皇鸠属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "ducula bicolor",
+              "name-jp": "ソデグロバト",
+              "name-cn": "斑皇鸠",
+              "type": "species",
+              "icon": "/icon/ソデグロバト.jpg",
+              "hasWild": false
+            }
+          ]
+        },
+        {
+          "name": "geopelia",
+          "name-jp": "チョウショウバト属",
+          "name-cn": "姬地鸠属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "geopelia striata",
+              "name-jp": "チョウショウバト",
+              "name-cn": "斑姬地鸠",
+              "type": "species",
+              "icon": "/icon/チョウショウバト.jpg",
+              "hasWild": true
             }
           ]
         },
@@ -53,7 +71,8 @@
               "name-jp": "カワラバト",
               "name-cn": "原鸽",
               "type": "species",
-              "icon": "/icon/カワラバト.jpg"
+              "icon": "/icon/カワラバト.jpg",
+              "hasWild": true
             }
           ]
         },
@@ -68,14 +87,16 @@
               "name-jp": "シラコバト",
               "name-cn": "灰斑鸠",
               "type": "species",
-              "icon": "/icon/シラコバト.jpg"
+              "icon": "/icon/シラコバト.jpg",
+              "hasWild": false
             },
             {
               "name": "streptopelia orientalis",
               "name-jp": "キジバト",
               "name-cn": "山斑鸠",
               "type": "species",
-              "icon": "/icon/キジバト.jpg"
+              "icon": "/icon/キジバト.jpg",
+              "hasWild": true
             }
           ]
         },
@@ -90,7 +111,8 @@
               "name-jp": "カノコバト",
               "name-cn": "珠颈斑鸠",
               "type": "species",
-              "icon": "/icon/カノコバト.jpg"
+              "icon": "/icon/カノコバト.jpg",
+              "hasWild": true
             }
           ]
         }

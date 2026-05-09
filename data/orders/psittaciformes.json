@@ -23,7 +23,8 @@
               "name-jp": "オカメインコ",
               "name-cn": "鸡尾鹦鹉",
               "type": "species",
-              "icon": "/icon/オカメインコ.jpg"
+              "icon": "/icon/オカメインコ.jpg",
+              "hasWild": false
             }
           ]
         },
@@ -38,14 +39,16 @@
               "name-jp": "キバタン",
               "name-cn": "葵花凤头鹦鹉",
               "type": "species",
-              "icon": "/icon/キバタン.jpg"
+              "icon": "/icon/キバタン.jpg",
+              "hasWild": false
             },
             {
               "name": "cacatua goffiniana",
               "name-jp": "シロビタイムジオウム",
               "name-cn": "戈芬氏凤头鹦鹉",
               "type": "species",
-              "icon": "/icon/シロビタイムジオウム.jpg"
+              "icon": "/icon/シロビタイムジオウム.jpg",
+              "hasWild": false
             }
           ]
         }
@@ -74,7 +77,8 @@
                   "name-jp": "ヨウム",
                   "name-cn": "非洲灰鹦鹉",
                   "type": "species",
-                  "icon": "/icon/ヨウム.jpg"
+                  "icon": "/icon/ヨウム.jpg",
+                  "hasWild": false
                 }
               ]
             }
@@ -103,7 +107,8 @@
                       "name-jp": "コガネメキシコインコ",
                       "name-cn": "太阳锥尾鹦鹉",
                       "type": "species",
-                      "icon": "/icon/コガネメキシコインコ.jpg"
+                      "icon": "/icon/コガネメキシコインコ.jpg",
+                      "hasWild": false
                     }
                   ]
                 },
@@ -118,28 +123,32 @@
                       "name-jp": "ルリコンゴウインコ",
                       "name-cn": "黄蓝金刚鹦鹉",
                       "type": "species",
-                      "icon": "/icon/ルリコンゴウインコ.jpg"
+                      "icon": "/icon/ルリコンゴウインコ.jpg",
+                      "hasWild": false
                     },
                     {
                       "name": "ara chloropterus",
                       "name-jp": "ベニコンゴウインコ",
                       "name-cn": "红绿金刚鹦鹉",
                       "type": "species",
-                      "icon": "/icon/ベニコンゴウインコ.jpg"
+                      "icon": "/icon/ベニコンゴウインコ.jpg",
+                      "hasWild": false
                     },
                     {
                       "name": "ara macao",
                       "name-jp": "コンゴウインコ",
                       "name-cn": "五彩金刚鹦鹉",
                       "type": "species",
-                      "icon": "/icon/コンゴウインコ.jpg"
+                      "icon": "/icon/コンゴウインコ.jpg",
+                      "hasWild": false
                     },
                     {
                       "name": "ara militaris",
                       "name-jp": "ミドリコンゴウインコ",
                       "name-cn": "军金刚鹦鹉",
                       "type": "species",
-                      "icon": "/icon/ミドリコンゴウインコ.jpg"
+                      "icon": "/icon/ミドリコンゴウインコ.jpg",
+                      "hasWild": false
                     }
                   ]
                 },
@@ -154,7 +163,8 @@
                       "name-jp": "コミドリコンゴウインコ",
                       "name-cn": "红肩金刚鹦鹉",
                       "type": "species",
-                      "icon": "/icon/コミドリコンゴウインコ.jpg"
+                      "icon": "/icon/コミドリコンゴウインコ.jpg",
+                      "hasWild": false
                     }
                   ]
                 }
@@ -187,7 +197,8 @@
                   "name-jp": "ルリゴシボタンインコ",
                   "name-cn": "费氏牡丹鹦鹉",
                   "type": "species",
-                  "icon": "/icon/ルリゴシボタンインコ.jpg"
+                  "icon": "/icon/ルリゴシボタンインコ.jpg",
+                  "hasWild": false
                 }
               ]
             }
@@ -210,7 +221,8 @@
                   "name-jp": "セキセイインコ",
                   "name-cn": "虎皮鹦鹉",
                   "type": "species",
-                  "icon": "/icon/セキセイインコ.jpg"
+                  "icon": "/icon/セキセイインコ.jpg",
+                  "hasWild": false
                 }
               ]
             },
@@ -231,7 +243,8 @@
                       "name-jp": "ニューギニアゴシキセイガイインコ",
                       "name-cn": "椰果鹦鹉",
                       "type": "species",
-                      "icon": "/icon/ニューギニアゴシキセイガイインコ.jpg"
+                      "icon": "/icon/ニューギニアゴシキセイガイインコ.jpg",
+                      "hasWild": false
                     }
                   ]
                 }

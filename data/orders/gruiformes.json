@@ -29,14 +29,16 @@
                   "name-jp": "カンムリヅル",
                   "name-cn": "黑冠鹤",
                   "type": "species",
-                  "icon": "/icon/カンムリヅル.jpg"
+                  "icon": "/icon/カンムリヅル.jpg",
+                  "hasWild": false
                 },
                 {
                   "name": "balearica regulorum",
                   "name-jp": "ホオジロカンムリヅル",
                   "name-cn": "灰冠鹤",
                   "type": "species",
-                  "icon": "/icon/ホオジロカンムリヅル.jpg"
+                  "icon": "/icon/ホオジロカンムリヅル.jpg",
+                  "hasWild": false
                 }
               ]
             }
@@ -59,7 +61,8 @@
                   "name-jp": "ソデグロヅル",
                   "name-cn": "白鹤",
                   "type": "species",
-                  "icon": "/icon/ソデグロヅル.jpg"
+                  "icon": "/icon/ソデグロヅル.jpg",
+                  "hasWild": false
                 }
               ]
             },
@@ -74,14 +77,16 @@
                   "name-jp": "オオヅル",
                   "name-cn": "赤颈鹤",
                   "type": "species",
-                  "icon": "/icon/オオヅル.jpg"
+                  "icon": "/icon/オオヅル.jpg",
+                  "hasWild": false
                 },
                 {
                   "name": "antigone vipio",
                   "name-jp": "マナヅル",
                   "name-cn": "白枕鹤",
                   "type": "species",
-                  "icon": "/icon/マナヅル.jpg"
+                  "icon": "/icon/マナヅル.jpg",
+                  "hasWild": false
                 }
               ]
             },
@@ -96,28 +101,32 @@
                   "name-jp": "ホオカザリヅル",
                   "name-cn": "肉垂鹤",
                   "type": "species",
-                  "icon": "/icon/ホオカザリヅル.jpg"
+                  "icon": "/icon/ホオカザリヅル.jpg",
+                  "hasWild": false
                 },
                 {
                   "name": "grus grus",
                   "name-jp": "クロヅル",
                   "name-cn": "灰鹤",
                   "type": "species",
-                  "icon": "/icon/クロヅル.jpg"
+                  "icon": "/icon/クロヅル.jpg",
+                  "hasWild": false
                 },
                 {
                   "name": "grus japonensis",
                   "name-jp": "タンチョウ",
                   "name-cn": "丹顶鹤",
                   "type": "species",
-                  "icon": "/icon/タンチョウ.jpg"
+                  "icon": "/icon/タンチョウ.jpg",
+                  "hasWild": false
                 },
                 {
                   "name": "grus virgo",
                   "name-jp": "アネハヅル",
                   "name-cn": "蓑羽鹤",
                   "type": "species",
-                  "icon": "/icon/アネハヅル.jpg"
+                  "icon": "/icon/アネハヅル.jpg",
+                  "hasWild": false
                 }
               ]
             }
@@ -148,7 +157,8 @@
                   "name-jp": "バン",
                   "name-cn": "黑水鸡",
                   "type": "species",
-                  "icon": "/icon/バン.jpg"
+                  "icon": "/icon/バン.jpg",
+                  "hasWild": true
                 }
               ]
             },
@@ -163,7 +173,8 @@
                   "name-jp": "オオバン",
                   "name-cn": "白骨顶",
                   "type": "species",
-                  "icon": "/icon/オオバン.jpg"
+                  "icon": "/icon/オオバン.jpg",
+                  "hasWild": true
                 }
               ]
             },
@@ -176,9 +187,10 @@
                 {
                   "name": "amaurornis phoenicurus",
                   "name-jp": "シロハラクイナ",
-                  "name-cn": "白腹秧鸡",
+                  "name-cn": "白胸苦恶鸟",
                   "type": "species",
-                  "icon": "/icon/シロハラクイナ.jpg"
+                  "icon": "/icon/シロハラクイナ.jpg",
+                  "hasWild": true
                 }
               ]
             }

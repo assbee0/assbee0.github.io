@@ -23,7 +23,8 @@
               "name-jp": "ダチョウ",
               "name-cn": "非洲鸵鸟",
               "type": "species",
-              "icon": "/icon/ダチョウ.jpg"
+              "icon": "/icon/ダチョウ.jpg",
+              "hasWild": false
             }
           ]
         }

@@ -23,7 +23,8 @@
               "name-jp": "アフリカゾウ",
               "name-cn": "非洲草原象",
               "type": "species",
-              "icon": "/icon/アフリカゾウ.jpg"
+              "icon": "/icon/アフリカゾウ.jpg",
+              "hasWild": false
             }
           ]
         },
@@ -38,7 +39,8 @@
               "name-jp": "アジアゾウ",
               "name-cn": "亚洲象",
               "type": "species",
-              "icon": "/icon/アジアゾウ.jpg"
+              "icon": "/icon/アジアゾウ.jpg",
+              "hasWild": false
             }
           ]
         }

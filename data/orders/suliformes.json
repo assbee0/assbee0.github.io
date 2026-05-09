@@ -23,14 +23,16 @@
               "name-jp": "ウミウ",
               "name-cn": "暗绿背鸬鹚",
               "type": "species",
-              "icon": "/icon/ウミウ.jpg"
+              "icon": "/icon/ウミウ.jpg",
+              "hasWild": true
             },
             {
               "name": "phalacrocorax carbo",
               "name-jp": "カワウ",
               "name-cn": "普通鸬鹚",
               "type": "species",
-              "icon": "/icon/カワウ.jpg"
+              "icon": "/icon/カワウ.jpg",
+              "hasWild": true
             }
           ]
         }

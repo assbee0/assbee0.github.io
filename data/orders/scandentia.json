@@ -23,7 +23,8 @@
               "name-jp": "コモンツパイ",
               "name-cn": "普通树鼩",
               "type": "species",
-              "icon": "/icon/コモンツパイ.jpg"
+              "icon": "/icon/コモンツパイ.jpg",
+              "hasWild": false
             }
           ]
         }

@@ -23,7 +23,8 @@
               "name-jp": "カンムリシギダチョウ",
               "name-cn": "凤头䳍",
               "type": "species",
-              "icon": "/icon/カンムリシギダチョウ.jpg"
+              "icon": "/icon/カンムリシギダチョウ.jpg",
+              "hasWild": false
             }
           ]
         }

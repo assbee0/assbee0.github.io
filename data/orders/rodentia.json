@@ -35,7 +35,8 @@
                       "name-jp": "アトラスグンディ",
                       "name-cn": "梳齿鼠",
                       "type": "species",
-                      "icon": "/icon/アトラスグンディ.jpg"
+                      "icon": "/icon/アトラスグンディ.jpg",
+                      "hasWild": false
                     }
                   ]
                 }
@@ -66,14 +67,16 @@
                       "name-jp": "マレーヤマアラシ",
                       "name-cn": "马来豪猪",
                       "type": "species",
-                      "icon": "/icon/マレーヤマアラシ.jpg"
+                      "icon": "/icon/マレーヤマアラシ.jpg",
+                      "hasWild": false
                     },
                     {
                       "name": "hystrix cristata",
                       "name-jp": "タテガミヤマアラシ",
                       "name-cn": "非洲冕豪猪",
                       "type": "species",
-                      "icon": "/icon/タテガミヤマアラシ.jpg"
+                      "icon": "/icon/タテガミヤマアラシ.jpg",
+                      "hasWild": false
                     }
                   ]
                 }
@@ -102,7 +105,8 @@
                           "name-jp": "パカ",
                           "name-cn": "低地斑刺豚鼠",
                           "type": "species",
-                          "icon": "/icon/パカ.jpg"
+                          "icon": "/icon/パカ.jpg",
+                          "hasWild": false
                         }
                       ]
                     }
@@ -131,14 +135,16 @@
                               "name-jp": "パンパステンジクネズミ",
                               "name-cn": "巴西豚鼠",
                               "type": "species",
-                              "icon": "/icon/パンパステンジクネズミ.jpg"
+                              "icon": "/icon/パンパステンジクネズミ.jpg",
+                              "hasWild": false
                             },
                             {
                               "name": "cavia porcellus",
                               "name-jp": "テンジクネズミ",
                               "name-cn": "豚鼠",
                               "type": "species",
-                              "icon": "/icon/テンジクネズミ.jpg"
+                              "icon": "/icon/テンジクネズミ.jpg",
+                              "hasWild": false
                             }
                           ]
                         }
@@ -161,7 +167,8 @@
                               "name-jp": "マーラ",
                               "name-cn": "巴塔哥尼亚豚鼠",
                               "type": "species",
-                              "icon": "/icon/マーラ.jpg"
+                              "icon": "/icon/マーラ.jpg",
+                              "hasWild": false
                             }
                           ]
                         }
@@ -184,7 +191,8 @@
                               "name-jp": "カピバラ",
                               "name-cn": "水豚",
                               "type": "species",
-                              "icon": "/icon/カピバラ.jpg"
+                              "icon": "/icon/カピバラ.jpg",
+                              "hasWild": false
                             }
                           ]
                         }
@@ -217,7 +225,8 @@
                           "name-jp": "デグー",
                           "name-cn": "智利八齿鼠",
                           "type": "species",
-                          "icon": "/icon/デグー.jpg"
+                          "icon": "/icon/デグー.jpg",
+                          "hasWild": false
                         }
                       ]
                     }
@@ -246,7 +255,8 @@
                               "name-jp": "ヌートリア",
                               "name-cn": "海狸鼠",
                               "type": "species",
-                              "icon": "/icon/ヌートリア.jpg"
+                              "icon": "/icon/ヌートリア.jpg",
+                              "hasWild": false
                             }
                           ]
                         }
@@ -295,7 +305,8 @@
                           "name-jp": "アメリカアカリス",
                           "name-cn": "北美红松鼠",
                           "type": "species",
-                          "icon": "/icon/アメリカアカリス.jpg"
+                          "icon": "/icon/アメリカアカリス.jpg",
+                          "hasWild": false
                         }
                       ]
                     },
@@ -310,7 +321,8 @@
                           "name-jp": "ニホンリス",
                           "name-cn": "日本松鼠",
                           "type": "species",
-                          "icon": "/icon/ニホンリス.jpg"
+                          "icon": "/icon/ニホンリス.jpg",
+                          "hasWild": false
                         }
                       ]
                     }
@@ -335,14 +347,16 @@
                       "name-jp": "クリハラリス",
                       "name-cn": "赤腹松鼠",
                       "type": "species",
-                      "icon": "/icon/クリハラリス.jpg"
+                      "icon": "/icon/クリハラリス.jpg",
+                      "hasWild": true
                     },
                     {
                       "name": "callosciurus prevostii",
                       "name-jp": "ミケリス",
                       "name-cn": "普氏丽松鼠",
                       "type": "species",
-                      "icon": "/icon/ミケリス.jpg"
+                      "icon": "/icon/ミケリス.jpg",
+                      "hasWild": false
                     }
                   ]
                 }
@@ -371,7 +385,8 @@
                           "name-jp": "オグロプレーリードッグ",
                           "name-cn": "黑尾草原犬鼠",
                           "type": "species",
-                          "icon": "/icon/オグロプレーリードッグ.jpg"
+                          "icon": "/icon/オグロプレーリードッグ.jpg",
+                          "hasWild": false
                         }
                       ]
                     }
@@ -406,7 +421,8 @@
                   "name-jp": "アメリカビーバー",
                   "name-cn": "美洲河狸",
                   "type": "species",
-                  "icon": "/icon/アメリカビーバー.jpg"
+                  "icon": "/icon/アメリカビーバー.jpg",
+                  "hasWild": false
                 }
               ]
             }
@@ -449,7 +465,8 @@
                           "name-jp": "ウスイロホソオクモネズミ",
                           "name-cn": "白云鼠",
                           "type": "species",
-                          "icon": "/icon/ウスイロホソオクモネズミ.jpg"
+                          "icon": "/icon/ウスイロホソオクモネズミ.jpg",
+                          "hasWild": false
                         }
                       ]
                     },
@@ -464,7 +481,8 @@
                           "name-jp": "カヤネズミ",
                           "name-cn": "巢鼠",
                           "type": "species",
-                          "icon": "/icon/カヤネズミ.jpg"
+                          "icon": "/icon/カヤネズミ.jpg",
+                          "hasWild": false
                         }
                       ]
                     }

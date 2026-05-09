@@ -29,7 +29,8 @@
                   "name-jp": "コアラ",
                   "name-cn": "树袋熊",
                   "type": "species",
-                  "icon": "/icon/コアラ.jpg"
+                  "icon": "/icon/コアラ.jpg",
+                  "hasWild": false
                 }
               ]
             }
@@ -66,7 +67,8 @@
                       "name-jp": "フクロギツネ",
                       "name-cn": "帚尾袋貂",
                       "type": "species",
-                      "icon": "/icon/フクロギツネ.jpg"
+                      "icon": "/icon/フクロギツネ.jpg",
+                      "hasWild": false
                     }
                   ]
                 }
@@ -97,7 +99,8 @@
                       "name-jp": "フクロモモンガ",
                       "name-cn": "蜜袋鼯",
                       "type": "species",
-                      "icon": "/icon/フクロモモンガ.jpg"
+                      "icon": "/icon/フクロモモンガ.jpg",
+                      "hasWild": false
                     }
                   ]
                 }
@@ -130,7 +133,8 @@
                   "name-jp": "フサオネズミカンガルー",
                   "name-cn": "毛尾袋鼠",
                   "type": "species",
-                  "icon": "/icon/フサオネズミカンガルー.jpg"
+                  "icon": "/icon/フサオネズミカンガルー.jpg",
+                  "hasWild": false
                 }
               ]
             }
@@ -159,7 +163,8 @@
                       "name-jp": "セスジキノボリカンガルー",
                       "name-cn": "古氏树袋鼠",
                       "type": "species",
-                      "icon": "/icon/セスジキノボリカンガルー.jpg"
+                      "icon": "/icon/セスジキノボリカンガルー.jpg",
+                      "hasWild": false
                     }
                   ]
                 },
@@ -174,14 +179,16 @@
                       "name-jp": "クロカンガルー",
                       "name-cn": "西部灰袋鼠",
                       "type": "species",
-                      "icon": "/icon/クロカンガルー.jpg"
+                      "icon": "/icon/クロカンガルー.jpg",
+                      "hasWild": false
                     },
                     {
                       "name": "macropus giganteus",
                       "name-jp": "オオカンガルー",
                       "name-cn": "东部灰袋鼠",
                       "type": "species",
-                      "icon": "/icon/オオカンガルー.jpg"
+                      "icon": "/icon/オオカンガルー.jpg",
+                      "hasWild": false
                     }
                   ]
                 },
@@ -196,14 +203,16 @@
                       "name-jp": "パルマワラビー",
                       "name-cn": "圆盾大袋鼠",
                       "type": "species",
-                      "icon": "/icon/パルマワラビー.jpg"
+                      "icon": "/icon/パルマワラビー.jpg",
+                      "hasWild": false
                     },
                     {
                       "name": "notamacropus rufogriseus",
                       "name-jp": "アカクビワラビー",
                       "name-cn": "红颈袋鼠",
                       "type": "species",
-                      "icon": "/icon/アカクビワラビー.jpg"
+                      "icon": "/icon/アカクビワラビー.jpg",
+                      "hasWild": false
                     }
                   ]
                 },
@@ -218,14 +227,16 @@
                       "name-jp": "ケナガワラルー",
                       "name-cn": "岩大袋鼠",
                       "type": "species",
-                      "icon": "/icon/ケナガワラルー.jpg"
+                      "icon": "/icon/ケナガワラルー.jpg",
+                      "hasWild": false
                     },
                     {
                       "name": "osphranter rufus",
                       "name-jp": "アカカンガルー",
                       "name-cn": "红大袋鼠",
                       "type": "species",
-                      "icon": "/icon/アカカンガルー.jpg"
+                      "icon": "/icon/アカカンガルー.jpg",
+                      "hasWild": false
                     }
                   ]
                 },
@@ -240,7 +251,8 @@
                       "name-jp": "シマオイワワラビー",
                       "name-cn": "黄脚岩袋鼠",
                       "type": "species",
-                      "icon": "/icon/シマオイワワラビー.jpg"
+                      "icon": "/icon/シマオイワワラビー.jpg",
+                      "hasWild": false
                     }
                   ]
                 },
@@ -255,7 +267,8 @@
                       "name-jp": "クアッカワラビー",
                       "name-cn": "短尾矮袋鼠",
                       "type": "species",
-                      "icon": "/icon/クアッカワラビー.jpg"
+                      "icon": "/icon/クアッカワラビー.jpg",
+                      "hasWild": false
                     }
                   ]
                 }

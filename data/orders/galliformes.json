@@ -23,7 +23,8 @@
               "name-jp": "フサホロホロチョウ",
               "name-cn": "鹫珠鸡",
               "type": "species",
-              "icon": "/icon/フサホロホロチョウ.jpg"
+              "icon": "/icon/フサホロホロチョウ.jpg",
+              "hasWild": false
             }
           ]
         }
@@ -52,7 +53,8 @@
                   "name-jp": "カンムリシャコ",
                   "name-cn": "冕鹧鸪",
                   "type": "species",
-                  "icon": "/icon/カンムリシャコ.jpg"
+                  "icon": "/icon/カンムリシャコ.jpg",
+                  "hasWild": false
                 }
               ]
             }
@@ -75,7 +77,8 @@
                   "name-jp": "ベニジュケイ",
                   "name-cn": "红腹角雉",
                   "type": "species",
-                  "icon": "/icon/ベニジュケイ.jpg"
+                  "icon": "/icon/ベニジュケイ.jpg",
+                  "hasWild": false
                 }
               ]
             },
@@ -90,7 +93,8 @@
                   "name-jp": "ライチョウ",
                   "name-cn": "岩雷鸟",
                   "type": "species",
-                  "icon": "/icon/ライチョウ.jpg"
+                  "icon": "/icon/ライチョウ.jpg",
+                  "hasWild": false
                 }
               ]
             },
@@ -105,14 +109,16 @@
                   "name-jp": "オナガキジ",
                   "name-cn": "白冠长尾雉",
                   "type": "species",
-                  "icon": "/icon/オナガキジ.jpg"
+                  "icon": "/icon/オナガキジ.jpg",
+                  "hasWild": false
                 },
                 {
                   "name": "syrmaticus soemmerringii",
                   "name-jp": "ヤマドリ",
                   "name-cn": "铜长尾雉",
                   "type": "species",
-                  "icon": "/icon/ヤマドリ.jpg"
+                  "icon": "/icon/ヤマドリ.jpg",
+                  "hasWild": false
                 }
               ]
             },
@@ -127,7 +133,8 @@
                   "name-jp": "キンケイ",
                   "name-cn": "红腹锦鸡",
                   "type": "species",
-                  "icon": "/icon/キンケイ.jpg"
+                  "icon": "/icon/キンケイ.jpg",
+                  "hasWild": false
                 }
               ]
             },
@@ -142,14 +149,16 @@
                   "name-jp": "アオミミキジ",
                   "name-cn": "蓝马鸡",
                   "type": "species",
-                  "icon": "/icon/アオミミキジ.jpg"
+                  "icon": "/icon/アオミミキジ.jpg",
+                  "hasWild": false
                 },
                 {
                   "name": "crossoptilon crossoptilon",
                   "name-jp": "シロミミキジ",
                   "name-cn": "白马鸡",
                   "type": "species",
-                  "icon": "/icon/シロミミキジ.jpg"
+                  "icon": "/icon/シロミミキジ.jpg",
+                  "hasWild": false
                 }
               ]
             },
@@ -164,14 +173,16 @@
                   "name-jp": "コサンケイ",
                   "name-cn": "爱氏鹇",
                   "type": "species",
-                  "icon": "/icon/コサンケイ.jpg"
+                  "icon": "/icon/コサンケイ.jpg",
+                  "hasWild": false
                 },
                 {
                   "name": "lophura nycthemera",
                   "name-jp": "ハッカン",
                   "name-cn": "白鹇",
                   "type": "species",
-                  "icon": "/icon/ハッカン.jpg"
+                  "icon": "/icon/ハッカン.jpg",
+                  "hasWild": false
                 }
               ]
             },
@@ -186,7 +197,8 @@
                   "name-jp": "コジュケイ",
                   "name-cn": "灰胸竹鸡",
                   "type": "species",
-                  "icon": "/icon/コジュケイ.jpg"
+                  "icon": "/icon/コジュケイ.jpg",
+                  "hasWild": true
                 }
               ]
             },
@@ -201,7 +213,8 @@
                   "name-jp": "セキショクヤケイ",
                   "name-cn": "红原鸡",
                   "type": "species",
-                  "icon": "/icon/セキショクヤケイ.jpg"
+                  "icon": "/icon/セキショクヤケイ.jpg",
+                  "hasWild": true
                 }
               ]
             },
@@ -216,7 +229,8 @@
                   "name-jp": "イワシャコ",
                   "name-cn": "石鸡",
                   "type": "species",
-                  "icon": "/icon/イワシャコ.jpg"
+                  "icon": "/icon/イワシャコ.jpg",
+                  "hasWild": false
                 }
               ]
             }

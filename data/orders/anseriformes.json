@@ -23,7 +23,8 @@
               "name-jp": "カササギガン",
               "name-cn": "鹊雁",
               "type": "species",
-              "icon": "/icon/カササギガン.jpg"
+              "icon": "/icon/カササギガン.jpg",
+              "hasWild": false
             }
           ]
         }
@@ -58,7 +59,8 @@
                       "name-jp": "ロウバシガン",
                       "name-cn": "蜡嘴雁",
                       "type": "species",
-                      "icon": "/icon/ロウバシガン.jpg"
+                      "icon": "/icon/ロウバシガン.jpg",
+                      "hasWild": false
                     }
                   ]
                 },
@@ -73,28 +75,32 @@
                       "name-jp": "コクチョウ",
                       "name-cn": "黑天鹅",
                       "type": "species",
-                      "icon": "/icon/コクチョウ.jpg"
+                      "icon": "/icon/コクチョウ.jpg",
+                      "hasWild": true
                     },
                     {
                       "name": "cygnus columbianus",
                       "name-jp": "コハクチョウ",
                       "name-cn": "小天鹅",
                       "type": "species",
-                      "icon": "/icon/コハクチョウ.jpg"
+                      "icon": "/icon/コハクチョウ.jpg",
+                      "hasWild": false
                     },
                     {
                       "name": "cygnus cygnus",
                       "name-jp": "オオハクチョウ",
                       "name-cn": "大天鹅",
                       "type": "species",
-                      "icon": "/icon/オオハクチョウ.jpg"
+                      "icon": "/icon/オオハクチョウ.jpg",
+                      "hasWild": false
                     },
                     {
                       "name": "cygnus olor",
                       "name-jp": "コブハクチョウ",
                       "name-cn": "疣鼻天鹅",
                       "type": "species",
-                      "icon": "/icon/コブハクチョウ.jpg"
+                      "icon": "/icon/コブハクチョウ.jpg",
+                      "hasWild": true
                     }
                   ]
                 },
@@ -109,28 +115,32 @@
                       "name-jp": "コクガン",
                       "name-cn": "黑雁",
                       "type": "species",
-                      "icon": "/icon/コクガン.jpg"
+                      "icon": "/icon/コクガン.jpg",
+                      "hasWild": false
                     },
                     {
                       "name": "branta canadensis",
                       "name-jp": "カナダガン",
                       "name-cn": "加拿大黑雁",
                       "type": "species",
-                      "icon": "/icon/カナダガン.jpg"
+                      "icon": "/icon/カナダガン.jpg",
+                      "hasWild": false
                     },
                     {
                       "name": "branta hutchinsii",
                       "name-jp": "シジュウカラガン",
                       "name-cn": "小美洲黑雁",
                       "type": "species",
-                      "icon": "/icon/シジュウカラガン.jpg"
+                      "icon": "/icon/シジュウカラガン.jpg",
+                      "hasWild": false
                     },
                     {
                       "name": "branta sandvicensis",
                       "name-jp": "ハワイガン",
                       "name-cn": "夏威夷黑雁",
                       "type": "species",
-                      "icon": "/icon/ハワイガン.jpg"
+                      "icon": "/icon/ハワイガン.jpg",
+                      "hasWild": false
                     }
                   ]
                 },
@@ -145,42 +155,48 @@
                       "name-jp": "マガン",
                       "name-cn": "白额雁",
                       "type": "species",
-                      "icon": "/icon/マガン.jpg"
+                      "icon": "/icon/マガン.jpg",
+                      "hasWild": false
                     },
                     {
                       "name": "anser anser",
                       "name-jp": "ハイイロガン",
                       "name-cn": "灰雁",
                       "type": "species",
-                      "icon": "/icon/ハイイロガン.jpg"
+                      "icon": "/icon/ハイイロガン.jpg",
+                      "hasWild": false
                     },
                     {
                       "name": "anser caerulescens",
                       "name-jp": "ハクガン",
                       "name-cn": "雪雁",
                       "type": "species",
-                      "icon": "/icon/ハクガン.jpg"
+                      "icon": "/icon/ハクガン.jpg",
+                      "hasWild": false
                     },
                     {
                       "name": "anser cygnoides",
                       "name-jp": "サカツラガン",
                       "name-cn": "鸿雁",
                       "type": "species",
-                      "icon": "/icon/サカツラガン.jpg"
+                      "icon": "/icon/サカツラガン.jpg",
+                      "hasWild": true
                     },
                     {
                       "name": "anser erythropus",
                       "name-jp": "カリガネ",
                       "name-cn": "小白额雁",
                       "type": "species",
-                      "icon": "/icon/カリガネ.jpg"
+                      "icon": "/icon/カリガネ.jpg",
+                      "hasWild": false
                     },
                     {
                       "name": "anser indicus",
                       "name-jp": "インドガン",
                       "name-cn": "斑头雁",
                       "type": "species",
-                      "icon": "/icon/インドガン.jpg"
+                      "icon": "/icon/インドガン.jpg",
+                      "hasWild": false
                     }
                   ]
                 }
@@ -211,14 +227,16 @@
                       "name-jp": "アカツクシガモ",
                       "name-cn": "赤麻鸭",
                       "type": "species",
-                      "icon": "/icon/アカツクシガモ.jpg"
+                      "icon": "/icon/アカツクシガモ.jpg",
+                      "hasWild": false
                     },
                     {
                       "name": "tadorna tadorna",
                       "name-jp": "ツクシガモ",
                       "name-cn": "翘鼻麻鸭",
                       "type": "species",
-                      "icon": "/icon/ツクシガモ.jpg"
+                      "icon": "/icon/ツクシガモ.jpg",
+                      "hasWild": false
                     }
                   ]
                 },
@@ -233,7 +251,8 @@
                       "name-jp": "エジプトガン",
                       "name-cn": "埃及雁",
                       "type": "species",
-                      "icon": "/icon/エジプトガン.jpg"
+                      "icon": "/icon/エジプトガン.jpg",
+                      "hasWild": false
                     }
                   ]
                 }
@@ -256,7 +275,8 @@
                       "name-jp": "カワアイサ",
                       "name-cn": "普通秋沙鸭",
                       "type": "species",
-                      "icon": "/icon/カワアイサ.jpg"
+                      "icon": "/icon/カワアイサ.jpg",
+                      "hasWild": true
                     }
                   ]
                 }
@@ -279,7 +299,8 @@
                       "name-jp": "ノバリケン",
                       "name-cn": "疣鼻栖鸭",
                       "type": "species",
-                      "icon": "/icon/ノバリケン.jpg"
+                      "icon": "/icon/ノバリケン.jpg",
+                      "hasWild": true
                     }
                   ]
                 },
@@ -294,7 +315,8 @@
                       "name-jp": "オシドリ",
                       "name-cn": "鸳鸯",
                       "type": "species",
-                      "icon": "/icon/オシドリ.jpg"
+                      "icon": "/icon/オシドリ.jpg",
+                      "hasWild": true
                     }
                   ]
                 }
@@ -317,7 +339,8 @@
                       "name-jp": "アカハシハジロ",
                       "name-cn": "赤嘴潜鸭",
                       "type": "species",
-                      "icon": "/icon/アカハシハジロ.jpg"
+                      "icon": "/icon/アカハシハジロ.jpg",
+                      "hasWild": false
                     }
                   ]
                 },
@@ -332,21 +355,24 @@
                       "name-jp": "ホシハジロ",
                       "name-cn": "红头潜鸭",
                       "type": "species",
-                      "icon": "/icon/ホシハジロ.jpg"
+                      "icon": "/icon/ホシハジロ.jpg",
+                      "hasWild": true
                     },
                     {
                       "name": "aythya fuligula",
                       "name-jp": "キンクロハジロ",
                       "name-cn": "凤头潜鸭",
                       "type": "species",
-                      "icon": "/icon/キンクロハジロ.jpg"
+                      "icon": "/icon/キンクロハジロ.jpg",
+                      "hasWild": true
                     },
                     {
                       "name": "aythya nyroca",
                       "name-jp": "メジロガモ",
                       "name-cn": "白眼潜鸭",
                       "type": "species",
-                      "icon": "/icon/メジロガモ.jpg"
+                      "icon": "/icon/メジロガモ.jpg",
+                      "hasWild": false
                     }
                   ]
                 }
@@ -369,35 +395,40 @@
                       "name-jp": "オナガガモ",
                       "name-cn": "针尾鸭",
                       "type": "species",
-                      "icon": "/icon/オナガガモ.jpg"
+                      "icon": "/icon/オナガガモ.jpg",
+                      "hasWild": true
                     },
                     {
                       "name": "anas capensis",
                       "name-jp": "アカハシコガモ",
                       "name-cn": "绿翅灰斑鸭",
                       "type": "species",
-                      "icon": "/icon/アカハシコガモ.jpg"
+                      "icon": "/icon/アカハシコガモ.jpg",
+                      "hasWild": false
                     },
                     {
                       "name": "anas crecca",
                       "name-jp": "コガモ",
                       "name-cn": "绿翅鸭",
                       "type": "species",
-                      "icon": "/icon/コガモ.jpg"
+                      "icon": "/icon/コガモ.jpg",
+                      "hasWild": true
                     },
                     {
                       "name": "anas platyrhynchos",
                       "name-jp": "マガモ",
                       "name-cn": "绿头鸭",
                       "type": "species",
-                      "icon": "/icon/マガモ.jpg"
+                      "icon": "/icon/マガモ.jpg",
+                      "hasWild": true
                     },
                     {
                       "name": "anas zonorhyncha",
                       "name-jp": "カルガモ",
                       "name-cn": "斑嘴鸭",
                       "type": "species",
-                      "icon": "/icon/カルガモ.jpg"
+                      "icon": "/icon/カルガモ.jpg",
+                      "hasWild": true
                     }
                   ]
                 },
@@ -412,7 +443,8 @@
                       "name-jp": "ヒドリガモ",
                       "name-cn": "赤颈鸭",
                       "type": "species",
-                      "icon": "/icon/ヒドリガモ.jpg"
+                      "icon": "/icon/ヒドリガモ.jpg",
+                      "hasWild": true
                     }
                   ]
                 },
@@ -427,7 +459,8 @@
                       "name-jp": "ハシビロガモ",
                       "name-cn": "琵嘴鸭",
                       "type": "species",
-                      "icon": "/icon/ハシビロガモ.jpg"
+                      "icon": "/icon/ハシビロガモ.jpg",
+                      "hasWild": true
                     }
                   ]
                 }

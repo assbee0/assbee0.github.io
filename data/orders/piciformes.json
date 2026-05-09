@@ -41,7 +41,8 @@
                           "name-jp": "ヤマゲラ",
                           "name-cn": "灰头绿啄木鸟",
                           "type": "species",
-                          "icon": "/icon/ヤマゲラ.jpg"
+                          "icon": "/icon/ヤマゲラ.jpg",
+                          "hasWild": true
                         }
                       ]
                     },
@@ -56,14 +57,16 @@
                           "name-jp": "ハイガシラコゲラ",
                           "name-cn": "星头啄木鸟",
                           "type": "species",
-                          "icon": "/icon/ハイガシラコゲラ.jpg"
+                          "icon": "/icon/ハイガシラコゲラ.jpg",
+                          "hasWild": true
                         },
                         {
                           "name": "yungipicus kizuki",
                           "name-jp": "コゲラ",
                           "name-cn": "小星头啄木鸟",
                           "type": "species",
-                          "icon": "/icon/コゲラ.jpg"
+                          "icon": "/icon/コゲラ.jpg",
+                          "hasWild": true
                         }
                       ]
                     },
@@ -78,7 +81,8 @@
                           "name-jp": "アカゲラ",
                           "name-cn": "大斑啄木鸟",
                           "type": "species",
-                          "icon": "/icon/アカゲラ.jpg"
+                          "icon": "/icon/アカゲラ.jpg",
+                          "hasWild": true
                         }
                       ]
                     }
@@ -111,14 +115,16 @@
                       "name-jp": "オニオオハシ",
                       "name-cn": "托哥巨嘴鸟",
                       "type": "species",
-                      "icon": "/icon/オニオオハシ.jpg"
+                      "icon": "/icon/オニオオハシ.jpg",
+                      "hasWild": false
                     },
                     {
                       "name": "ramphastos tucanus",
                       "name-jp": "シロムネオオハシ",
                       "name-cn": "红嘴巨嘴鸟",
                       "type": "species",
-                      "icon": "/icon/シロムネオオハシ.jpg"
+                      "icon": "/icon/シロムネオオハシ.jpg",
+                      "hasWild": false
                     }
                   ]
                 }

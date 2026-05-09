@@ -41,7 +41,8 @@
                           "name-jp": "ワオキツネザル",
                           "name-cn": "环尾狐猴",
                           "type": "species",
-                          "icon": "/icon/ワオキツネザル.jpg"
+                          "icon": "/icon/ワオキツネザル.jpg",
+                          "hasWild": false
                         }
                       ]
                     },
@@ -56,7 +57,8 @@
                           "name-jp": "ブラウンキツネザル",
                           "name-cn": "褐美狐猴",
                           "type": "species",
-                          "icon": "/icon/ブラウンキツネザル.jpg"
+                          "icon": "/icon/ブラウンキツネザル.jpg",
+                          "hasWild": false
                         }
                       ]
                     },
@@ -71,7 +73,8 @@
                           "name-jp": "クロシロエリマキキツネザル",
                           "name-cn": "领狐猴",
                           "type": "species",
-                          "icon": "/icon/クロシロエリマキキツネザル.jpg"
+                          "icon": "/icon/クロシロエリマキキツネザル.jpg",
+                          "hasWild": false
                         }
                       ]
                     }
@@ -104,7 +107,8 @@
                       "name-jp": "ショウガラゴ",
                       "name-cn": "婴猴",
                       "type": "species",
-                      "icon": "/icon/ショウガラゴ.jpg"
+                      "icon": "/icon/ショウガラゴ.jpg",
+                      "hasWild": false
                     }
                   ]
                 }
@@ -155,14 +159,16 @@
                               "name-jp": "ジェフロイクモザル",
                               "name-cn": "黑掌蜘蛛猴",
                               "type": "species",
-                              "icon": "/icon/ジェフロイクモザル.jpg"
+                              "icon": "/icon/ジェフロイクモザル.jpg",
+                              "hasWild": false
                             },
                             {
                               "name": "ateles hybridus",
                               "name-jp": "ブラウンケナガクモザル",
                               "name-cn": "棕蜘蛛猴",
                               "type": "species",
-                              "icon": "/icon/ブラウンケナガクモザル.jpg"
+                              "icon": "/icon/ブラウンケナガクモザル.jpg",
+                              "hasWild": false
                             }
                           ]
                         }
@@ -193,7 +199,8 @@
                               "name-jp": "フサオマキザル",
                               "name-cn": "黑帽悬猴",
                               "type": "species",
-                              "icon": "/icon/フサオマキザル.jpg"
+                              "icon": "/icon/フサオマキザル.jpg",
+                              "hasWild": false
                             }
                           ]
                         }
@@ -216,14 +223,16 @@
                               "name-jp": "ボリビアリスザル",
                               "name-cn": "亚马逊松鼠猴",
                               "type": "species",
-                              "icon": "/icon/ボリビアリスザル.jpg"
+                              "icon": "/icon/ボリビアリスザル.jpg",
+                              "hasWild": false
                             },
                             {
                               "name": "saimiri sciureus",
                               "name-jp": "コモンリスザル",
                               "name-cn": "松鼠猴",
                               "type": "species",
-                              "icon": "/icon/コモンリスザル.jpg"
+                              "icon": "/icon/コモンリスザル.jpg",
+                              "hasWild": false
                             }
                           ]
                         }
@@ -248,14 +257,16 @@
                           "name-jp": "ワタボウシタマリン",
                           "name-cn": "绒顶柽柳猴",
                           "type": "species",
-                          "icon": "/icon/ワタボウシタマリン.jpg"
+                          "icon": "/icon/ワタボウシタマリン.jpg",
+                          "hasWild": false
                         },
                         {
                           "name": "saguinus midas",
                           "name-jp": "アカテタマリン",
                           "name-cn": "赤掌柽柳猴",
                           "type": "species",
-                          "icon": "/icon/アカテタマリン.jpg"
+                          "icon": "/icon/アカテタマリン.jpg",
+                          "hasWild": false
                         }
                       ]
                     },
@@ -270,14 +281,16 @@
                           "name-jp": "コモンマーモセット",
                           "name-cn": "普通狨",
                           "type": "species",
-                          "icon": "/icon/コモンマーモセット.jpg"
+                          "icon": "/icon/コモンマーモセット.jpg",
+                          "hasWild": false
                         },
                         {
                           "name": "callithrix penicillata",
                           "name-jp": "クロミミマーモセット",
                           "name-cn": "黑羽狨",
                           "type": "species",
-                          "icon": "/icon/クロミミマーモセット.jpg"
+                          "icon": "/icon/クロミミマーモセット.jpg",
+                          "hasWild": false
                         }
                       ]
                     }
@@ -320,7 +333,8 @@
                                   "name-jp": "ブルーモンキー",
                                   "name-cn": "青长尾猴",
                                   "type": "species",
-                                  "icon": "/icon/ブルーモンキー.jpg"
+                                  "icon": "/icon/ブルーモンキー.jpg",
+                                  "hasWild": false
                                 }
                               ]
                             },
@@ -335,7 +349,8 @@
                                   "name-jp": "パタスモンキー",
                                   "name-cn": "赤猴",
                                   "type": "species",
-                                  "icon": "/icon/パタスモンキー.jpg"
+                                  "icon": "/icon/パタスモンキー.jpg",
+                                  "hasWild": false
                                 }
                               ]
                             }
@@ -358,28 +373,32 @@
                                   "name-jp": "ニホンザル",
                                   "name-cn": "日本猕猴",
                                   "type": "species",
-                                  "icon": "/icon/ニホンザル.jpg"
+                                  "icon": "/icon/ニホンザル.jpg",
+                                  "hasWild": false
                                 },
                                 {
                                   "name": "macaca leonina",
                                   "name-jp": "キタブタオザル",
                                   "name-cn": "北方豚尾猕猴",
                                   "type": "species",
-                                  "icon": "/icon/キタブタオザル.jpg"
+                                  "icon": "/icon/キタブタオザル.jpg",
+                                  "hasWild": false
                                 },
                                 {
                                   "name": "macaca mulatta",
                                   "name-jp": "アカゲザル",
                                   "name-cn": "普通猕猴",
                                   "type": "species",
-                                  "icon": "/icon/アカゲザル.jpg"
+                                  "icon": "/icon/アカゲザル.jpg",
+                                  "hasWild": false
                                 },
                                 {
                                   "name": "macaca thibetana",
                                   "name-jp": "チベットモンキー",
                                   "name-cn": "藏酉猴",
                                   "type": "species",
-                                  "icon": "/icon/チベットモンキー.jpg"
+                                  "icon": "/icon/チベットモンキー.jpg",
+                                  "hasWild": false
                                 }
                               ]
                             }
@@ -410,7 +429,8 @@
                                   "name-jp": "フランソワルトン",
                                   "name-cn": "黑叶猴",
                                   "type": "species",
-                                  "icon": "/icon/フランソワルトン.jpg"
+                                  "icon": "/icon/フランソワルトン.jpg",
+                                  "hasWild": false
                                 }
                               ]
                             },
@@ -425,7 +445,8 @@
                                   "name-jp": "アカアシドゥクラングール",
                                   "name-cn": "红腿白臀叶猴",
                                   "type": "species",
-                                  "icon": "/icon/アカアシドゥクラングール.jpg"
+                                  "icon": "/icon/アカアシドゥクラングール.jpg",
+                                  "hasWild": false
                                 }
                               ]
                             },
@@ -440,21 +461,24 @@
                                   "name-jp": "ウンナンシシバナザル",
                                   "name-cn": "滇金丝猴",
                                   "type": "species",
-                                  "icon": "/icon/ウンナンシシバナザル.jpg"
+                                  "icon": "/icon/ウンナンシシバナザル.jpg",
+                                  "hasWild": false
                                 },
                                 {
                                   "name": "rhinopithecus brelichi",
                                   "name-jp": "ハイイロシシバナザル",
                                   "name-cn": "黔金丝猴",
                                   "type": "species",
-                                  "icon": "/icon/ハイイロシシバナザル.jpg"
+                                  "icon": "/icon/ハイイロシシバナザル.jpg",
+                                  "hasWild": false
                                 },
                                 {
                                   "name": "rhinopithecus roxellana",
                                   "name-jp": "キンシコウ",
                                   "name-cn": "川金丝猴",
                                   "type": "species",
-                                  "icon": "/icon/キンシコウ.jpg"
+                                  "icon": "/icon/キンシコウ.jpg",
+                                  "hasWild": false
                                 }
                               ]
                             },
@@ -469,7 +493,8 @@
                                   "name-jp": "テングザル",
                                   "name-cn": "长鼻猴",
                                   "type": "species",
-                                  "icon": "/icon/テングザル.jpg"
+                                  "icon": "/icon/テングザル.jpg",
+                                  "hasWild": false
                                 }
                               ]
                             }
@@ -502,7 +527,8 @@
                               "name-jp": "シロテテナガザル",
                               "name-cn": "白掌长臂猿",
                               "type": "species",
-                              "icon": "/icon/シロテテナガザル.jpg"
+                              "icon": "/icon/シロテテナガザル.jpg",
+                              "hasWild": false
                             }
                           ]
                         },
@@ -517,7 +543,8 @@
                               "name-jp": "フクロテナガザル",
                               "name-cn": "合趾猿",
                               "type": "species",
-                              "icon": "/icon/フクロテナガザル.jpg"
+                              "icon": "/icon/フクロテナガザル.jpg",
+                              "hasWild": false
                             }
                           ]
                         }
@@ -546,7 +573,8 @@
                                   "name-jp": "ボルネオオランウータン",
                                   "name-cn": "婆罗洲猩猩",
                                   "type": "species",
-                                  "icon": "/icon/ボルネオオランウータン.jpg"
+                                  "icon": "/icon/ボルネオオランウータン.jpg",
+                                  "hasWild": false
                                 }
                               ]
                             }
@@ -575,7 +603,8 @@
                                       "name-jp": "ニシゴリラ",
                                       "name-cn": "西部大猩猩",
                                       "type": "species",
-                                      "icon": "/icon/ニシゴリラ.jpg"
+                                      "icon": "/icon/ニシゴリラ.jpg",
+                                      "hasWild": false
                                     }
                                   ]
                                 }
@@ -598,7 +627,8 @@
                                       "name-jp": "チンパンジー",
                                       "name-cn": "黑猩猩",
                                       "type": "species",
-                                      "icon": "/icon/チンパンジー.jpg"
+                                      "icon": "/icon/チンパンジー.jpg",
+                                      "hasWild": false
                                     }
                                   ]
                                 }

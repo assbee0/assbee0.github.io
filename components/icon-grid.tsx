@@ -41,6 +41,18 @@ export function IconGrid({
                 {items.map((item) => (
                     <Link href={`/${className}/${item.name.toLowerCase()}`} key={item.name}>
                         <div className="card">
+
+                            {item.hasWild && (
+                                <div className="wild-badge">
+                                    <Image
+                                        src="/image/wild.png"
+                                        alt="Wild observed"
+                                        width={32}
+                                        height={32}
+                                    />
+                                </div>
+                            )}
+
                             <Image
                                 src={item.icon}
                                 alt={item.name}

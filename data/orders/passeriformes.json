@@ -41,7 +41,8 @@
                           "name-jp": "コウライウグイス",
                           "name-cn": "黑枕黄鹂",
                           "type": "species",
-                          "icon": "/icon/コウライウグイス.jpg"
+                          "icon": "/icon/コウライウグイス.jpg",
+                          "hasWild": false
                         }
                       ]
                     }
@@ -72,7 +73,8 @@
                           "name-jp": "サンジャク",
                           "name-cn": "红嘴蓝鹊",
                           "type": "species",
-                          "icon": "/icon/サンジャク.jpg"
+                          "icon": "/icon/サンジャク.jpg",
+                          "hasWild": false
                         }
                       ]
                     },
@@ -87,7 +89,8 @@
                           "name-jp": "オナガ",
                           "name-cn": "灰喜鹊",
                           "type": "species",
-                          "icon": "/icon/オナガ.jpg"
+                          "icon": "/icon/オナガ.jpg",
+                          "hasWild": true
                         }
                       ]
                     },
@@ -102,14 +105,16 @@
                           "name-jp": "カケス",
                           "name-cn": "松鸦",
                           "type": "species",
-                          "icon": "/icon/カケス.jpg"
+                          "icon": "/icon/カケス.jpg",
+                          "hasWild": false
                         },
                         {
                           "name": "garrulus lidthi",
                           "name-jp": "ルリカケス",
                           "name-cn": "琉球松鸦",
                           "type": "species",
-                          "icon": "/icon/ルリカケス.jpg"
+                          "icon": "/icon/ルリカケス.jpg",
+                          "hasWild": false
                         }
                       ]
                     },
@@ -124,7 +129,8 @@
                           "name-jp": "カササギ",
                           "name-cn": "喜鹊",
                           "type": "species",
-                          "icon": "/icon/カササギ.jpg"
+                          "icon": "/icon/カササギ.jpg",
+                          "hasWild": true
                         }
                       ]
                     },
@@ -139,14 +145,16 @@
                           "name-jp": "ハシボソガラス",
                           "name-cn": "小嘴乌鸦",
                           "type": "species",
-                          "icon": "/icon/ハシボソガラス.jpg"
+                          "icon": "/icon/ハシボソガラス.jpg",
+                          "hasWild": true
                         },
                         {
                           "name": "corvus macrorhynchos",
                           "name-jp": "ハシブトガラス",
                           "name-cn": "大嘴乌鸦",
                           "type": "species",
-                          "icon": "/icon/ハシブトガラス.jpg"
+                          "icon": "/icon/ハシブトガラス.jpg",
+                          "hasWild": true
                         }
                       ]
                     }
@@ -185,7 +193,8 @@
                           "name-jp": "ヤマガラ",
                           "name-cn": "杂色山雀",
                           "type": "species",
-                          "icon": "/icon/ヤマガラ.jpg"
+                          "icon": "/icon/ヤマガラ.jpg",
+                          "hasWild": true
                         }
                       ]
                     },
@@ -200,7 +209,8 @@
                           "name-jp": "シジュウカラ",
                           "name-cn": "大山雀",
                           "type": "species",
-                          "icon": "/icon/シジュウカラ.jpg"
+                          "icon": "/icon/シジュウカラ.jpg",
+                          "hasWild": true
                         }
                       ]
                     }
@@ -219,11 +229,20 @@
                       "type": "genus",
                       "icon-children": [
                         {
+                          "name": "hirundo javanica",
+                          "name-jp": "リュウキュウツバメ",
+                          "name-cn": "洋燕",
+                          "type": "species",
+                          "icon": "/icon/リュウキュウツバメ.jpg",
+                          "hasWild": true
+                        },
+                        {
                           "name": "hirundo rustica",
                           "name-jp": "ツバメ",
                           "name-cn": "家燕",
                           "type": "species",
-                          "icon": "/icon/ツバメ.jpg"
+                          "icon": "/icon/ツバメ.jpg",
+                          "hasWild": true
                         }
                       ]
                     }
@@ -252,7 +271,8 @@
                               "name-jp": "エナガ",
                               "name-cn": "北长尾山雀",
                               "type": "species",
-                              "icon": "/icon/エナガ.jpg"
+                              "icon": "/icon/エナガ.jpg",
+                              "hasWild": true
                             }
                           ]
                         }
@@ -283,7 +303,8 @@
                               "name-jp": "シロガシラ",
                               "name-cn": "白头鹎",
                               "type": "species",
-                              "icon": "/icon/シロガシラ.jpg"
+                              "icon": "/icon/シロガシラ.jpg",
+                              "hasWild": true
                             }
                           ]
                         },
@@ -298,7 +319,8 @@
                               "name-jp": "ヒヨドリ",
                               "name-cn": "栗耳短脚鹎",
                               "type": "species",
-                              "icon": "/icon/ヒヨドリ.jpg"
+                              "icon": "/icon/ヒヨドリ.jpg",
+                              "hasWild": true
                             }
                           ]
                         }
@@ -321,7 +343,8 @@
                               "name-jp": "ダルマエナガ",
                               "name-cn": "棕头鸦雀",
                               "type": "species",
-                              "icon": "/icon/ダルマエナガ.jpg"
+                              "icon": "/icon/ダルマエナガ.jpg",
+                              "hasWild": true
                             }
                           ]
                         }
@@ -344,7 +367,8 @@
                               "name-jp": "メジロ",
                               "name-cn": "日本绣眼鸟",
                               "type": "species",
-                              "icon": "/icon/メジロ.jpg"
+                              "icon": "/icon/メジロ.jpg",
+                              "hasWild": true
                             }
                           ]
                         }
@@ -367,7 +391,8 @@
                               "name-jp": "アカバネガビチョウ",
                               "name-cn": "红翅噪鹛",
                               "type": "species",
-                              "icon": "/icon/アカバネガビチョウ.jpg"
+                              "icon": "/icon/アカバネガビチョウ.jpg",
+                              "hasWild": false
                             }
                           ]
                         },
@@ -382,14 +407,16 @@
                               "name-jp": "ガビチョウ",
                               "name-cn": "画眉",
                               "type": "species",
-                              "icon": "/icon/ガビチョウ.jpg"
+                              "icon": "/icon/ガビチョウ.jpg",
+                              "hasWild": true
                             },
                             {
                               "name": "garrulax leucolophus",
                               "name-jp": "ハクオウチョウ",
                               "name-cn": "白冠噪鹛",
                               "type": "species",
-                              "icon": "/icon/ハクオウチョウ.jpg"
+                              "icon": "/icon/ハクオウチョウ.jpg",
+                              "hasWild": false
                             }
                           ]
                         },
@@ -404,7 +431,8 @@
                               "name-jp": "タイカンチョウ",
                               "name-cn": "黑喉噪鹛",
                               "type": "species",
-                              "icon": "/icon/タイカンチョウ.jpg"
+                              "icon": "/icon/タイカンチョウ.jpg",
+                              "hasWild": false
                             }
                           ]
                         }
@@ -443,14 +471,16 @@
                               "name-jp": "キレンジャク",
                               "name-cn": "太平鸟",
                               "type": "species",
-                              "icon": "/icon/キレンジャク.jpg"
+                              "icon": "/icon/キレンジャク.jpg",
+                              "hasWild": true
                             },
                             {
                               "name": "bombycilla japonica",
                               "name-jp": "ヒレンジャク",
                               "name-cn": "小太平鸟",
                               "type": "species",
-                              "icon": "/icon/ヒレンジャク.jpg"
+                              "icon": "/icon/ヒレンジャク.jpg",
+                              "hasWild": true
                             }
                           ]
                         }
@@ -481,7 +511,8 @@
                               "name-jp": "ノゴマ",
                               "name-cn": "红喉歌鸲",
                               "type": "species",
-                              "icon": "/icon/ノゴマ.jpg"
+                              "icon": "/icon/ノゴマ.jpg",
+                              "hasWild": false
                             }
                           ]
                         },
@@ -496,7 +527,8 @@
                               "name-jp": "キビタキ",
                               "name-cn": "黄眉姬鹟",
                               "type": "species",
-                              "icon": "/icon/キビタキ.jpg"
+                              "icon": "/icon/キビタキ.jpg",
+                              "hasWild": false
                             }
                           ]
                         },
@@ -511,7 +543,24 @@
                               "name-jp": "ジョウビタキ",
                               "name-cn": "北红尾鸲",
                               "type": "species",
-                              "icon": "/icon/ジョウビタキ.jpg"
+                              "icon": "/icon/ジョウビタキ.jpg",
+                              "hasWild": true
+                            }
+                          ]
+                        },
+                        {
+                          "name": "saxicola",
+                          "name-jp": "ノビタキ属",
+                          "name-cn": "石䳭属",
+                          "type": "genus",
+                          "icon-children": [
+                            {
+                              "name": "saxicola maurus",
+                              "name-jp": "ノビタキ",
+                              "name-cn": "黑喉石䳭",
+                              "type": "species",
+                              "icon": "/icon/ノビタキ.jpg",
+                              "hasWild": true
                             }
                           ]
                         }
@@ -534,28 +583,32 @@
                               "name-jp": "クロツグミ",
                               "name-cn": "乌灰鸫",
                               "type": "species",
-                              "icon": "/icon/クロツグミ.jpg"
+                              "icon": "/icon/クロツグミ.jpg",
+                              "hasWild": false
                             },
                             {
                               "name": "turdus eunomus",
                               "name-jp": "ツグミ",
                               "name-cn": "斑鸫",
                               "type": "species",
-                              "icon": "/icon/ツグミ.jpg"
+                              "icon": "/icon/ツグミ.jpg",
+                              "hasWild": true
                             },
                             {
                               "name": "turdus mandarinus",
                               "name-jp": "クロウタドリ",
                               "name-cn": "乌鸫",
                               "type": "species",
-                              "icon": "/icon/クロウタドリ.jpg"
+                              "icon": "/icon/クロウタドリ.jpg",
+                              "hasWild": true
                             },
                             {
                               "name": "turdus pallidus",
                               "name-jp": "シロハラ",
                               "name-cn": "白腹鸫",
                               "type": "species",
-                              "icon": "/icon/シロハラ.jpg"
+                              "icon": "/icon/シロハラ.jpg",
+                              "hasWild": true
                             }
                           ]
                         }
@@ -578,7 +631,8 @@
                               "name-jp": "キュウカンチョウ",
                               "name-cn": "鹩哥",
                               "type": "species",
-                              "icon": "/icon/キュウカンチョウ.jpg"
+                              "icon": "/icon/キュウカンチョウ.jpg",
+                              "hasWild": false
                             }
                           ]
                         },
@@ -593,7 +647,8 @@
                               "name-jp": "カンムリシロムク",
                               "name-cn": "长冠八哥",
                               "type": "species",
-                              "icon": "/icon/カンムリシロムク.jpg"
+                              "icon": "/icon/カンムリシロムク.jpg",
+                              "hasWild": false
                             }
                           ]
                         },
@@ -608,7 +663,8 @@
                               "name-jp": "ムクドリ",
                               "name-cn": "灰椋鸟",
                               "type": "species",
-                              "icon": "/icon/ムクドリ.jpg"
+                              "icon": "/icon/ムクドリ.jpg",
+                              "hasWild": true
                             }
                           ]
                         },
@@ -623,7 +679,16 @@
                               "name-jp": "ハッカチョウ",
                               "name-cn": "八哥",
                               "type": "species",
-                              "icon": "/icon/ハッカチョウ.jpg"
+                              "icon": "/icon/ハッカチョウ.jpg",
+                              "hasWild": true
+                            },
+                            {
+                              "name": "acridotheres tristis",
+                              "name-jp": "インドハッカ",
+                              "name-cn": "家八哥",
+                              "type": "species",
+                              "icon": "/icon/インドハッカ.jpg",
+                              "hasWild": true
                             }
                           ]
                         },
@@ -638,14 +703,16 @@
                               "name-jp": "セイキムクドリ",
                               "name-cn": "蓝耳丽椋鸟",
                               "type": "species",
-                              "icon": "/icon/セイキムクドリ.jpg"
+                              "icon": "/icon/セイキムクドリ.jpg",
+                              "hasWild": false
                             },
                             {
                               "name": "lamprotornis superbus",
                               "name-jp": "ツキノワテリムク",
                               "name-cn": "栗头丽椋鸟",
                               "type": "species",
-                              "icon": "/icon/ツキノワテリムク.jpg"
+                              "icon": "/icon/ツキノワテリムク.jpg",
+                              "hasWild": false
                             }
                           ]
                         }
@@ -676,7 +743,8 @@
                               "name-jp": "ミソサザイ",
                               "name-cn": "鹪鹩",
                               "type": "species",
-                              "icon": "/icon/ミソサザイ.jpg"
+                              "icon": "/icon/ミソサザイ.jpg",
+                              "hasWild": true
                             }
                           ]
                         }
@@ -715,7 +783,8 @@
                               "name-jp": "ズグロウロコハタオリ",
                               "name-cn": "黑头织布鸟",
                               "type": "species",
-                              "icon": "/icon/ズグロウロコハタオリ.jpg"
+                              "icon": "/icon/ズグロウロコハタオリ.jpg",
+                              "hasWild": false
                             }
                           ]
                         }
@@ -738,7 +807,8 @@
                               "name-jp": "カノコスズメ",
                               "name-cn": "双斑草雀",
                               "type": "species",
-                              "icon": "/icon/カノコスズメ.jpg"
+                              "icon": "/icon/カノコスズメ.jpg",
+                              "hasWild": false
                             }
                           ]
                         }
@@ -761,9 +831,10 @@
                         {
                           "name": "passer montanus",
                           "name-jp": "スズメ",
-                          "name-cn": "树麻雀",
+                          "name-cn": "麻雀",
                           "type": "species",
-                          "icon": "/icon/スズメ.jpg"
+                          "icon": "/icon/スズメ.jpg",
+                          "hasWild": true
                         }
                       ]
                     }
@@ -786,21 +857,24 @@
                           "name-jp": "ハクセキレイ",
                           "name-cn": "白鹡鸰",
                           "type": "species",
-                          "icon": "/icon/ハクセキレイ.jpg"
+                          "icon": "/icon/ハクセキレイ.jpg",
+                          "hasWild": true
                         },
                         {
                           "name": "motacilla cinerea",
                           "name-jp": "キセキレイ",
                           "name-cn": "灰鹡鸰",
                           "type": "species",
-                          "icon": "/icon/キセキレイ.jpg"
+                          "icon": "/icon/キセキレイ.jpg",
+                          "hasWild": true
                         },
                         {
                           "name": "motacilla grandis",
                           "name-jp": "セグロセキレイ",
                           "name-cn": "日本鹡鸰",
                           "type": "species",
-                          "icon": "/icon/セグロセキレイ.jpg"
+                          "icon": "/icon/セグロセキレイ.jpg",
+                          "hasWild": true
                         }
                       ]
                     },
@@ -815,7 +889,8 @@
                           "name-jp": "タヒバリ",
                           "name-cn": "黄腹鹨",
                           "type": "species",
-                          "icon": "/icon/タヒバリ.jpg"
+                          "icon": "/icon/タヒバリ.jpg",
+                          "hasWild": true
                         }
                       ]
                     }
@@ -838,7 +913,8 @@
                           "name-jp": "アトリ",
                           "name-cn": "燕雀",
                           "type": "species",
-                          "icon": "/icon/アトリ.jpg"
+                          "icon": "/icon/アトリ.jpg",
+                          "hasWild": false
                         }
                       ]
                     },
@@ -853,7 +929,8 @@
                           "name-jp": "コイカル",
                           "name-cn": "黑尾蜡嘴雀",
                           "type": "species",
-                          "icon": "/icon/コイカル.jpg"
+                          "icon": "/icon/コイカル.jpg",
+                          "hasWild": true
                         }
                       ]
                     },
@@ -868,7 +945,8 @@
                           "name-jp": "カワラヒワ",
                           "name-cn": "金翅雀",
                           "type": "species",
-                          "icon": "/icon/カワラヒワ.jpg"
+                          "icon": "/icon/カワラヒワ.jpg",
+                          "hasWild": true
                         }
                       ]
                     },
@@ -883,7 +961,8 @@
                           "name-jp": "マヒワ",
                           "name-cn": "黄雀",
                           "type": "species",
-                          "icon": "/icon/マヒワ.jpg"
+                          "icon": "/icon/マヒワ.jpg",
+                          "hasWild": false
                         }
                       ]
                     }
@@ -912,14 +991,16 @@
                               "name-jp": "ホオジロ",
                               "name-cn": "三道眉草鹀",
                               "type": "species",
-                              "icon": "/icon/ホオジロ.jpg"
+                              "icon": "/icon/ホオジロ.jpg",
+                              "hasWild": true
                             },
                             {
                               "name": "emberiza personata",
                               "name-jp": "アオジ",
                               "name-cn": "日本灰头鹀",
                               "type": "species",
-                              "icon": "/icon/アオジ.jpg"
+                              "icon": "/icon/アオジ.jpg",
+                              "hasWild": true
                             }
                           ]
                         }

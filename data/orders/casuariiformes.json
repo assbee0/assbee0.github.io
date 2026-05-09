@@ -23,7 +23,8 @@
               "name-jp": "ヒクイドリ",
               "name-cn": "双垂鹤鸵",
               "type": "species",
-              "icon": "/icon/ヒクイドリ.jpg"
+              "icon": "/icon/ヒクイドリ.jpg",
+              "hasWild": false
             }
           ]
         },
@@ -38,7 +39,8 @@
               "name-jp": "エミュー",
               "name-cn": "鸸鹋",
               "type": "species",
-              "icon": "/icon/エミュー.jpg"
+              "icon": "/icon/エミュー.jpg",
+              "hasWild": false
             }
           ]
         }

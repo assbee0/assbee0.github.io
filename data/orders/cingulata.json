@@ -29,7 +29,8 @@
                   "name-jp": "ムツオビアルマジロ",
                   "name-cn": "六带犰狳",
                   "type": "species",
-                  "icon": "/icon/ムツオビアルマジロ.jpg"
+                  "icon": "/icon/ムツオビアルマジロ.jpg",
+                  "hasWild": false
                 }
               ]
             }

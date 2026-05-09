@@ -29,7 +29,8 @@
                   "name-jp": "ショウジョウトキ",
                   "name-cn": "美洲红鹮",
                   "type": "species",
-                  "icon": "/icon/ショウジョウトキ.jpg"
+                  "icon": "/icon/ショウジョウトキ.jpg",
+                  "hasWild": false
                 }
               ]
             },
@@ -44,7 +45,8 @@
                   "name-jp": "ホオアカトキ",
                   "name-cn": "隐鹮",
                   "type": "species",
-                  "icon": "/icon/ホオアカトキ.jpg"
+                  "icon": "/icon/ホオアカトキ.jpg",
+                  "hasWild": false
                 }
               ]
             },
@@ -59,7 +61,8 @@
                   "name-jp": "マダガスカルトキ",
                   "name-cn": "凤头林鹮",
                   "type": "species",
-                  "icon": "/icon/マダガスカルトキ.jpg"
+                  "icon": "/icon/マダガスカルトキ.jpg",
+                  "hasWild": false
                 }
               ]
             },
@@ -74,7 +77,8 @@
                   "name-jp": "アンデスブロンズトキ",
                   "name-cn": "秘鲁彩鹮",
                   "type": "species",
-                  "icon": "/icon/アンデスブロンズトキ.jpg"
+                  "icon": "/icon/アンデスブロンズトキ.jpg",
+                  "hasWild": false
                 }
               ]
             },
@@ -89,21 +93,24 @@
                   "name-jp": "アフリカクロトキ",
                   "name-cn": "埃及圣鹮",
                   "type": "species",
-                  "icon": "/icon/アフリカクロトキ.jpg"
+                  "icon": "/icon/アフリカクロトキ.jpg",
+                  "hasWild": false
                 },
                 {
                   "name": "threskiornis melanocephalus",
                   "name-jp": "クロトキ",
                   "name-cn": "黑头白鹮",
                   "type": "species",
-                  "icon": "/icon/クロトキ.jpg"
+                  "icon": "/icon/クロトキ.jpg",
+                  "hasWild": false
                 },
                 {
                   "name": "threskiornis spinicollis",
                   "name-jp": "ムギワラトキ",
                   "name-cn": "蓑颈白鹮",
                   "type": "species",
-                  "icon": "/icon/ムギワラトキ.jpg"
+                  "icon": "/icon/ムギワラトキ.jpg",
+                  "hasWild": false
                 }
               ]
             }
@@ -126,7 +133,8 @@
                   "name-jp": "クロツラヘラサギ",
                   "name-cn": "黑脸琵鹭",
                   "type": "species",
-                  "icon": "/icon/クロツラヘラサギ.jpg"
+                  "icon": "/icon/クロツラヘラサギ.jpg",
+                  "hasWild": false
                 }
               ]
             }
@@ -157,7 +165,8 @@
                   "name-jp": "ヒロハシサギ",
                   "name-cn": "船嘴鹭",
                   "type": "species",
-                  "icon": "/icon/ヒロハシサギ.jpg"
+                  "icon": "/icon/ヒロハシサギ.jpg",
+                  "hasWild": false
                 }
               ]
             }
@@ -180,7 +189,8 @@
                   "name-jp": "ミゾゴイ",
                   "name-cn": "栗头鳽",
                   "type": "species",
-                  "icon": "/icon/ミゾゴイ.jpg"
+                  "icon": "/icon/ミゾゴイ.jpg",
+                  "hasWild": false
                 }
               ]
             },
@@ -195,7 +205,8 @@
                   "name-jp": "コサギ",
                   "name-cn": "白鹭",
                   "type": "species",
-                  "icon": "/icon/コサギ.jpg"
+                  "icon": "/icon/コサギ.jpg",
+                  "hasWild": true
                 }
               ]
             },
@@ -210,7 +221,8 @@
                   "name-jp": "ゴイサギ",
                   "name-cn": "夜鹭",
                   "type": "species",
-                  "icon": "/icon/ゴイサギ.jpg"
+                  "icon": "/icon/ゴイサギ.jpg",
+                  "hasWild": true
                 }
               ]
             },
@@ -225,7 +237,8 @@
                   "name-jp": "アマサギ",
                   "name-cn": "牛背鹭",
                   "type": "species",
-                  "icon": "/icon/アマサギ.jpg"
+                  "icon": "/icon/アマサギ.jpg",
+                  "hasWild": false
                 }
               ]
             },
@@ -240,14 +253,16 @@
                   "name-jp": "ダイサギ",
                   "name-cn": "大白鹭",
                   "type": "species",
-                  "icon": "/icon/ダイサギ.jpg"
+                  "icon": "/icon/ダイサギ.jpg",
+                  "hasWild": true
                 },
                 {
                   "name": "ardea cinerea",
                   "name-jp": "アオサギ",
                   "name-cn": "苍鹭",
                   "type": "species",
-                  "icon": "/icon/アオサギ.jpg"
+                  "icon": "/icon/アオサギ.jpg",
+                  "hasWild": true
                 }
               ]
             }
@@ -272,7 +287,8 @@
               "name-jp": "モモイロペリカン",
               "name-cn": "白鹈鹕",
               "type": "species",
-              "icon": "/icon/モモイロペリカン.jpg"
+              "icon": "/icon/モモイロペリカン.jpg",
+              "hasWild": false
             }
           ]
         }
@@ -295,7 +311,8 @@
               "name-jp": "ハシビロコウ",
               "name-cn": "鲸头鹳",
               "type": "species",
-              "icon": "/icon/ハシビロコウ.jpg"
+              "icon": "/icon/ハシビロコウ.jpg",
+              "hasWild": false
             }
           ]
         }

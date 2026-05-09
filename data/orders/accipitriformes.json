@@ -23,7 +23,8 @@
               "name-jp": "クロコンドル",
               "name-cn": "黑美洲鹫",
               "type": "species",
-              "icon": "/icon/クロコンドル.jpg"
+              "icon": "/icon/クロコンドル.jpg",
+              "hasWild": false
             }
           ]
         },
@@ -38,7 +39,8 @@
               "name-jp": "ヒメコンドル",
               "name-cn": "红头美洲鹫",
               "type": "species",
-              "icon": "/icon/ヒメコンドル.jpg"
+              "icon": "/icon/ヒメコンドル.jpg",
+              "hasWild": false
             }
           ]
         },
@@ -53,7 +55,8 @@
               "name-jp": "コンドル",
               "name-cn": "安第斯神鹫",
               "type": "species",
-              "icon": "/icon/コンドル.jpg"
+              "icon": "/icon/コンドル.jpg",
+              "hasWild": false
             }
           ]
         }
@@ -76,7 +79,8 @@
               "name-jp": "ミサゴ",
               "name-cn": "鹗",
               "type": "species",
-              "icon": "/icon/ミサゴ.jpg"
+              "icon": "/icon/ミサゴ.jpg",
+              "hasWild": true
             }
           ]
         }
@@ -99,7 +103,8 @@
               "name-jp": "ヘビクイワシ",
               "name-cn": "蛇鹫",
               "type": "species",
-              "icon": "/icon/ヘビクイワシ.jpg"
+              "icon": "/icon/ヘビクイワシ.jpg",
+              "hasWild": false
             }
           ]
         }
@@ -128,7 +133,8 @@
                   "name-jp": "エジプトハゲワシ",
                   "name-cn": "白兀鹫",
                   "type": "species",
-                  "icon": "/icon/エジプトハゲワシ.jpg"
+                  "icon": "/icon/エジプトハゲワシ.jpg",
+                  "hasWild": false
                 }
               ]
             }
@@ -151,7 +157,8 @@
                   "name-jp": "コシジロハゲワシ",
                   "name-cn": "非洲兀鹫",
                   "type": "species",
-                  "icon": "/icon/コシジロハゲワシ.jpg"
+                  "icon": "/icon/コシジロハゲワシ.jpg",
+                  "hasWild": false
                 }
               ]
             }
@@ -174,7 +181,8 @@
                   "name-jp": "クマタカ",
                   "name-cn": "鹰雕",
                   "type": "species",
-                  "icon": "/icon/クマタカ.jpg"
+                  "icon": "/icon/クマタカ.jpg",
+                  "hasWild": false
                 }
               ]
             },
@@ -189,7 +197,8 @@
                   "name-jp": "イヌワシ",
                   "name-cn": "金雕",
                   "type": "species",
-                  "icon": "/icon/イヌワシ.jpg"
+                  "icon": "/icon/イヌワシ.jpg",
+                  "hasWild": false
                 }
               ]
             }
@@ -212,7 +221,8 @@
                   "name-jp": "ツミ",
                   "name-cn": "日本松雀鹰",
                   "type": "species",
-                  "icon": "/icon/ツミ.jpg"
+                  "icon": "/icon/ツミ.jpg",
+                  "hasWild": false
                 }
               ]
             },
@@ -227,7 +237,8 @@
                   "name-jp": "オオタカ",
                   "name-cn": "苍鹰",
                   "type": "species",
-                  "icon": "/icon/オオタカ.jpg"
+                  "icon": "/icon/オオタカ.jpg",
+                  "hasWild": false
                 }
               ]
             }
@@ -250,7 +261,8 @@
                   "name-jp": "トビ",
                   "name-cn": "黑鸢",
                   "type": "species",
-                  "icon": "/icon/トビ.jpg"
+                  "icon": "/icon/トビ.jpg",
+                  "hasWild": true
                 }
               ]
             },
@@ -265,21 +277,24 @@
                   "name-jp": "オジロワシ",
                   "name-cn": "白尾海雕",
                   "type": "species",
-                  "icon": "/icon/オジロワシ.jpg"
+                  "icon": "/icon/オジロワシ.jpg",
+                  "hasWild": false
                 },
                 {
                   "name": "haliaeetus leucocephalus",
                   "name-jp": "ハクトウワシ",
                   "name-cn": "白头海雕",
                   "type": "species",
-                  "icon": "/icon/ハクトウワシ.jpg"
+                  "icon": "/icon/ハクトウワシ.jpg",
+                  "hasWild": false
                 },
                 {
                   "name": "haliaeetus pelagicus",
                   "name-jp": "オオワシ",
                   "name-cn": "虎头海雕",
                   "type": "species",
-                  "icon": "/icon/オオワシ.jpg"
+                  "icon": "/icon/オオワシ.jpg",
+                  "hasWild": false
                 }
               ]
             }

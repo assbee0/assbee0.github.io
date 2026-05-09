@@ -23,21 +23,24 @@
               "name-jp": "チリーフラミンゴ",
               "name-cn": "智利红鹳",
               "type": "species",
-              "icon": "/icon/チリーフラミンゴ.jpg"
+              "icon": "/icon/チリーフラミンゴ.jpg",
+              "hasWild": false
             },
             {
               "name": "phoenicopterus roseus",
               "name-jp": "オオフラミンゴ",
               "name-cn": "大红鹳",
               "type": "species",
-              "icon": "/icon/オオフラミンゴ.jpg"
+              "icon": "/icon/オオフラミンゴ.jpg",
+              "hasWild": false
             },
             {
               "name": "phoenicopterus ruber",
               "name-jp": "ベニイロフラミンゴ",
               "name-cn": "加勒比海红鹳",
               "type": "species",
-              "icon": "/icon/ベニイロフラミンゴ.jpg"
+              "icon": "/icon/ベニイロフラミンゴ.jpg",
+              "hasWild": false
             }
           ]
         },
@@ -52,7 +55,8 @@
               "name-jp": "コフラミンゴ",
               "name-cn": "小红鹳",
               "type": "species",
-              "icon": "/icon/コフラミンゴ.jpg"
+              "icon": "/icon/コフラミンゴ.jpg",
+              "hasWild": false
             }
           ]
         }

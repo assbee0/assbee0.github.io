@@ -23,7 +23,8 @@
               "name-jp": "キタベニハチクイ",
               "name-cn": "北方洋红蜂虎",
               "type": "species",
-              "icon": "/icon/キタベニハチクイ.jpg"
+              "icon": "/icon/キタベニハチクイ.jpg",
+              "hasWild": false
             }
           ]
         }
@@ -46,7 +47,8 @@
               "name-jp": "ライラックニシブッポウソウ",
               "name-cn": "紫胸佛法僧",
               "type": "species",
-              "icon": "/icon/ライラックニシブッポウソウ.jpg"
+              "icon": "/icon/ライラックニシブッポウソウ.jpg",
+              "hasWild": false
             }
           ]
         }
@@ -75,7 +77,8 @@
                   "name-jp": "カワセミ",
                   "name-cn": "普通翠鸟",
                   "type": "species",
-                  "icon": "/icon/カワセミ.jpg"
+                  "icon": "/icon/カワセミ.jpg",
+                  "hasWild": true
                 }
               ]
             }
@@ -98,7 +101,8 @@
                   "name-jp": "アカショウビン",
                   "name-cn": "赤翡翠",
                   "type": "species",
-                  "icon": "/icon/アカショウビン.jpg"
+                  "icon": "/icon/アカショウビン.jpg",
+                  "hasWild": false
                 }
               ]
             },
@@ -113,7 +117,8 @@
                   "name-jp": "ワライカワセミ",
                   "name-cn": "笑翠鸟",
                   "type": "species",
-                  "icon": "/icon/ワライカワセミ.jpg"
+                  "icon": "/icon/ワライカワセミ.jpg",
+                  "hasWild": false
                 }
               ]
             }

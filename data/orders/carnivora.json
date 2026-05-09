@@ -35,7 +35,8 @@
                       "name-jp": "ビントロング",
                       "name-cn": "熊狸",
                       "type": "species",
-                      "icon": "/icon/ビントロング.jpg"
+                      "icon": "/icon/ビントロング.jpg",
+                      "hasWild": false
                     }
                   ]
                 },
@@ -50,7 +51,8 @@
                       "name-jp": "ハクビシン",
                       "name-cn": "花面狸",
                       "type": "species",
-                      "icon": "/icon/ハクビシン.jpg"
+                      "icon": "/icon/ハクビシン.jpg",
+                      "hasWild": false
                     }
                   ]
                 }
@@ -81,7 +83,8 @@
                       "name-jp": "ミーアキャット",
                       "name-cn": "细尾獴",
                       "type": "species",
-                      "icon": "/icon/ミーアキャット.jpg"
+                      "icon": "/icon/ミーアキャット.jpg",
+                      "hasWild": false
                     }
                   ]
                 },
@@ -96,7 +99,8 @@
                       "name-jp": "シママングース",
                       "name-cn": "缟獴",
                       "type": "species",
-                      "icon": "/icon/シママングース.jpg"
+                      "icon": "/icon/シママングース.jpg",
+                      "hasWild": false
                     }
                   ]
                 },
@@ -111,7 +115,8 @@
                       "name-jp": "コビトマングース",
                       "name-cn": "侏獴",
                       "type": "species",
-                      "icon": "/icon/コビトマングース.jpg"
+                      "icon": "/icon/コビトマングース.jpg",
+                      "hasWild": false
                     }
                   ]
                 }
@@ -142,7 +147,8 @@
                       "name-jp": "ブチハイエナ",
                       "name-cn": "斑鬣狗",
                       "type": "species",
-                      "icon": "/icon/ブチハイエナ.jpg"
+                      "icon": "/icon/ブチハイエナ.jpg",
+                      "hasWild": false
                     }
                   ]
                 }
@@ -173,28 +179,32 @@
                       "name-jp": "ライオン",
                       "name-cn": "狮",
                       "type": "species",
-                      "icon": "/icon/ライオン.jpg"
+                      "icon": "/icon/ライオン.jpg",
+                      "hasWild": false
                     },
                     {
                       "name": "panthera onca",
                       "name-jp": "ジャガー",
                       "name-cn": "美洲豹",
                       "type": "species",
-                      "icon": "/icon/ジャガー.jpg"
+                      "icon": "/icon/ジャガー.jpg",
+                      "hasWild": false
                     },
                     {
                       "name": "panthera tigris",
                       "name-jp": "トラ",
                       "name-cn": "虎",
                       "type": "species",
-                      "icon": "/icon/トラ.jpg"
+                      "icon": "/icon/トラ.jpg",
+                      "hasWild": false
                     },
                     {
                       "name": "panthera uncia",
                       "name-jp": "ユキヒョウ",
                       "name-cn": "雪豹",
                       "type": "species",
-                      "icon": "/icon/ユキヒョウ.jpg"
+                      "icon": "/icon/ユキヒョウ.jpg",
+                      "hasWild": false
                     }
                   ]
                 }
@@ -217,7 +227,8 @@
                       "name-jp": "サーバル",
                       "name-cn": "薮猫",
                       "type": "species",
-                      "icon": "/icon/サーバル.jpg"
+                      "icon": "/icon/サーバル.jpg",
+                      "hasWild": false
                     }
                   ]
                 },
@@ -232,7 +243,8 @@
                       "name-jp": "カラカル",
                       "name-cn": "狞猫",
                       "type": "species",
-                      "icon": "/icon/カラカル.jpg"
+                      "icon": "/icon/カラカル.jpg",
+                      "hasWild": false
                     }
                   ]
                 },
@@ -247,7 +259,8 @@
                       "name-jp": "オオヤマネコ",
                       "name-cn": "欧亚猞猁",
                       "type": "species",
-                      "icon": "/icon/オオヤマネコ.jpg"
+                      "icon": "/icon/オオヤマネコ.jpg",
+                      "hasWild": false
                     }
                   ]
                 },
@@ -262,7 +275,8 @@
                       "name-jp": "チーター",
                       "name-cn": "猎豹",
                       "type": "species",
-                      "icon": "/icon/チーター.jpg"
+                      "icon": "/icon/チーター.jpg",
+                      "hasWild": false
                     }
                   ]
                 },
@@ -277,7 +291,8 @@
                       "name-jp": "マヌルネコ",
                       "name-cn": "兔狲",
                       "type": "species",
-                      "icon": "/icon/マヌルネコ.jpg"
+                      "icon": "/icon/マヌルネコ.jpg",
+                      "hasWild": false
                     }
                   ]
                 },
@@ -292,14 +307,16 @@
                       "name-jp": "ベンガルヤマネコ",
                       "name-cn": "豹猫",
                       "type": "species",
-                      "icon": "/icon/ベンガルヤマネコ.jpg"
+                      "icon": "/icon/ベンガルヤマネコ.jpg",
+                      "hasWild": false
                     },
                     {
                       "name": "prionailurus viverrinus",
                       "name-jp": "スナドリネコ",
                       "name-cn": "渔猫",
                       "type": "species",
-                      "icon": "/icon/スナドリネコ.jpg"
+                      "icon": "/icon/スナドリネコ.jpg",
+                      "hasWild": false
                     }
                   ]
                 },
@@ -314,14 +331,16 @@
                       "name-jp": "イエネコ",
                       "name-cn": "家猫",
                       "type": "species",
-                      "icon": "/icon/イエネコ.jpg"
+                      "icon": "/icon/イエネコ.jpg",
+                      "hasWild": true
                     },
                     {
                       "name": "felis margarita",
                       "name-jp": "スナネコ",
                       "name-cn": "沙猫",
                       "type": "species",
-                      "icon": "/icon/スナネコ.jpg"
+                      "icon": "/icon/スナネコ.jpg",
+                      "hasWild": false
                     }
                   ]
                 }
@@ -360,7 +379,8 @@
                       "name-jp": "ヤブイヌ",
                       "name-cn": "薮犬",
                       "type": "species",
-                      "icon": "/icon/ヤブイヌ.jpg"
+                      "icon": "/icon/ヤブイヌ.jpg",
+                      "hasWild": false
                     }
                   ]
                 },
@@ -375,7 +395,8 @@
                       "name-jp": "セグロジャッカル",
                       "name-cn": "黑背胡狼",
                       "type": "species",
-                      "icon": "/icon/セグロジャッカル.jpg"
+                      "icon": "/icon/セグロジャッカル.jpg",
+                      "hasWild": false
                     }
                   ]
                 },
@@ -390,7 +411,8 @@
                       "name-jp": "リカオン",
                       "name-cn": "非洲野犬",
                       "type": "species",
-                      "icon": "/icon/リカオン.jpg"
+                      "icon": "/icon/リカオン.jpg",
+                      "hasWild": false
                     }
                   ]
                 },
@@ -405,7 +427,8 @@
                       "name-jp": "ドール",
                       "name-cn": "豺",
                       "type": "species",
-                      "icon": "/icon/ドール.jpg"
+                      "icon": "/icon/ドール.jpg",
+                      "hasWild": false
                     }
                   ]
                 }
@@ -428,14 +451,16 @@
                       "name-jp": "タイリクタヌキ",
                       "name-cn": "貉",
                       "type": "species",
-                      "icon": "/icon/タイリクタヌキ.jpg"
+                      "icon": "/icon/タイリクタヌキ.jpg",
+                      "hasWild": false
                     },
                     {
                       "name": "nyctereutes viverrinus",
                       "name-jp": "ホンドタヌキ",
                       "name-cn": "日本貉",
                       "type": "species",
-                      "icon": "/icon/ホンドタヌキ.jpg"
+                      "icon": "/icon/ホンドタヌキ.jpg",
+                      "hasWild": true
                     }
                   ]
                 },
@@ -450,14 +475,16 @@
                       "name-jp": "アカギツネ",
                       "name-cn": "赤狐",
                       "type": "species",
-                      "icon": "/icon/アカギツネ.jpg"
+                      "icon": "/icon/アカギツネ.jpg",
+                      "hasWild": false
                     },
                     {
                       "name": "vulpes zerda",
                       "name-jp": "フェネック",
                       "name-cn": "耳廓狐",
                       "type": "species",
-                      "icon": "/icon/フェネック.jpg"
+                      "icon": "/icon/フェネック.jpg",
+                      "hasWild": false
                     }
                   ]
                 }
@@ -494,7 +521,8 @@
                           "name-jp": "ジャイアントパンダ",
                           "name-cn": "大熊猫",
                           "type": "species",
-                          "icon": "/icon/ジャイアントパンダ.jpg"
+                          "icon": "/icon/ジャイアントパンダ.jpg",
+                          "hasWild": false
                         }
                       ]
                     }
@@ -517,7 +545,8 @@
                           "name-jp": "メガネグマ",
                           "name-cn": "眼镜熊",
                           "type": "species",
-                          "icon": "/icon/メガネグマ.jpg"
+                          "icon": "/icon/メガネグマ.jpg",
+                          "hasWild": false
                         }
                       ]
                     }
@@ -540,7 +569,8 @@
                           "name-jp": "マレーグマ",
                           "name-cn": "马来熊",
                           "type": "species",
-                          "icon": "/icon/マレーグマ.jpg"
+                          "icon": "/icon/マレーグマ.jpg",
+                          "hasWild": false
                         }
                       ]
                     },
@@ -555,21 +585,24 @@
                           "name-jp": "ヒグマ",
                           "name-cn": "棕熊",
                           "type": "species",
-                          "icon": "/icon/ヒグマ.jpg"
+                          "icon": "/icon/ヒグマ.jpg",
+                          "hasWild": false
                         },
                         {
                           "name": "ursus maritimus",
                           "name-jp": "ホッキョクグマ",
                           "name-cn": "北极熊",
                           "type": "species",
-                          "icon": "/icon/ホッキョクグマ.jpg"
+                          "icon": "/icon/ホッキョクグマ.jpg",
+                          "hasWild": false
                         },
                         {
                           "name": "ursus thibetanus",
                           "name-jp": "ツキノワグマ",
                           "name-cn": "亚洲黑熊",
                           "type": "species",
-                          "icon": "/icon/ツキノワグマ.jpg"
+                          "icon": "/icon/ツキノワグマ.jpg",
+                          "hasWild": false
                         }
                       ]
                     }
@@ -606,7 +639,8 @@
                               "name-jp": "レッサーパンダ",
                               "name-cn": "小熊猫",
                               "type": "species",
-                              "icon": "/icon/レッサーパンダ.jpg"
+                              "icon": "/icon/レッサーパンダ.jpg",
+                              "hasWild": false
                             }
                           ]
                         }
@@ -629,7 +663,8 @@
                               "name-jp": "キンカジュー",
                               "name-cn": "蜜熊",
                               "type": "species",
-                              "icon": "/icon/キンカジュー.jpg"
+                              "icon": "/icon/キンカジュー.jpg",
+                              "hasWild": false
                             }
                           ]
                         },
@@ -644,7 +679,8 @@
                               "name-jp": "アカハナグマ",
                               "name-cn": "南美浣熊",
                               "type": "species",
-                              "icon": "/icon/アカハナグマ.jpg"
+                              "icon": "/icon/アカハナグマ.jpg",
+                              "hasWild": false
                             }
                           ]
                         }
@@ -673,7 +709,8 @@
                                   "name-jp": "ブタバナアナグマ",
                                   "name-cn": "北部猪獾",
                                   "type": "species",
-                                  "icon": "/icon/ブタバナアナグマ.jpg"
+                                  "icon": "/icon/ブタバナアナグマ.jpg",
+                                  "hasWild": false
                                 }
                               ]
                             },
@@ -688,14 +725,16 @@
                                   "name-jp": "ニホンアナグマ",
                                   "name-cn": "日本狗獾",
                                   "type": "species",
-                                  "icon": "/icon/ニホンアナグマ.jpg"
+                                  "icon": "/icon/ニホンアナグマ.jpg",
+                                  "hasWild": false
                                 },
                                 {
                                   "name": "meles leucurus",
                                   "name-jp": "アジアアナグマ",
                                   "name-cn": "亚洲狗獾",
                                   "type": "species",
-                                  "icon": "/icon/アジアアナグマ.jpg"
+                                  "icon": "/icon/アジアアナグマ.jpg",
+                                  "hasWild": false
                                 }
                               ]
                             }
@@ -718,7 +757,8 @@
                                   "name-jp": "ラッコ",
                                   "name-cn": "海獭",
                                   "type": "species",
-                                  "icon": "/icon/ラッコ.jpg"
+                                  "icon": "/icon/ラッコ.jpg",
+                                  "hasWild": false
                                 }
                               ]
                             },
@@ -733,7 +773,8 @@
                                   "name-jp": "ユーラシアカワウソ",
                                   "name-cn": "欧亚水獭",
                                   "type": "species",
-                                  "icon": "/icon/ユーラシアカワウソ.jpg"
+                                  "icon": "/icon/ユーラシアカワウソ.jpg",
+                                  "hasWild": false
                                 }
                               ]
                             },
@@ -748,7 +789,8 @@
                                   "name-jp": "コツメカワウソ",
                                   "name-cn": "亚洲小爪水獭",
                                   "type": "species",
-                                  "icon": "/icon/コツメカワウソ.jpg"
+                                  "icon": "/icon/コツメカワウソ.jpg",
+                                  "hasWild": false
                                 }
                               ]
                             }
@@ -785,7 +827,8 @@
                       "name-jp": "オタリア",
                       "name-cn": "南海狮",
                       "type": "species",
-                      "icon": "/icon/オタリア.jpg"
+                      "icon": "/icon/オタリア.jpg",
+                      "hasWild": false
                     }
                   ]
                 },
@@ -800,7 +843,8 @@
                       "name-jp": "ミナミアフリカオットセイ",
                       "name-cn": "南非海狗",
                       "type": "species",
-                      "icon": "/icon/ミナミアフリカオットセイ.jpg"
+                      "icon": "/icon/ミナミアフリカオットセイ.jpg",
+                      "hasWild": false
                     }
                   ]
                 }
@@ -829,7 +873,8 @@
                           "name-jp": "ハイイロアザラシ",
                           "name-cn": "灰海豹",
                           "type": "species",
-                          "icon": "/icon/ハイイロアザラシ.jpg"
+                          "icon": "/icon/ハイイロアザラシ.jpg",
+                          "hasWild": false
                         }
                       ]
                     },
@@ -844,7 +889,8 @@
                           "name-jp": "ゴマフアザラシ",
                           "name-cn": "斑海豹",
                           "type": "species",
-                          "icon": "/icon/ゴマフアザラシ.jpg"
+                          "icon": "/icon/ゴマフアザラシ.jpg",
+                          "hasWild": false
                         }
                       ]
                     },
@@ -859,7 +905,8 @@
                           "name-jp": "バイカルアザラシ",
                           "name-cn": "贝加尔海豹",
                           "type": "species",
-                          "icon": "/icon/バイカルアザラシ.jpg"
+                          "icon": "/icon/バイカルアザラシ.jpg",
+                          "hasWild": false
                         }
                       ]
                     }

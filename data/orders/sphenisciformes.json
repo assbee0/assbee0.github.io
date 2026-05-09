@@ -23,14 +23,16 @@
               "name-jp": "コウテイペンギン",
               "name-cn": "帝企鹅",
               "type": "species",
-              "icon": "/icon/コウテイペンギン.jpg"
+              "icon": "/icon/コウテイペンギン.jpg",
+              "hasWild": false
             },
             {
               "name": "aptenodytes patagonicus",
               "name-jp": "オウサマペンギン",
               "name-cn": "王企鹅",
               "type": "species",
-              "icon": "/icon/オウサマペンギン.jpg"
+              "icon": "/icon/オウサマペンギン.jpg",
+              "hasWild": false
             }
           ]
         },
@@ -45,21 +47,24 @@
               "name-jp": "アデリーペンギン",
               "name-cn": "阿德利企鹅",
               "type": "species",
-              "icon": "/icon/アデリーペンギン.jpg"
+              "icon": "/icon/アデリーペンギン.jpg",
+              "hasWild": false
             },
             {
               "name": "pygoscelis antarcticus",
               "name-jp": "ヒゲペンギン",
               "name-cn": "帽带企鹅",
               "type": "species",
-              "icon": "/icon/ヒゲペンギン.jpg"
+              "icon": "/icon/ヒゲペンギン.jpg",
+              "hasWild": false
             },
             {
               "name": "pygoscelis papua",
               "name-jp": "ジェンツーペンギン",
               "name-cn": "巴布亚企鹅",
               "type": "species",
-              "icon": "/icon/ジェンツーペンギン.jpg"
+              "icon": "/icon/ジェンツーペンギン.jpg",
+              "hasWild": false
             }
           ]
         },
@@ -74,7 +79,8 @@
               "name-jp": "ミナミイワトビペンギン",
               "name-cn": "凤头黄眉企鹅",
               "type": "species",
-              "icon": "/icon/ミナミイワトビペンギン.jpg"
+              "icon": "/icon/ミナミイワトビペンギン.jpg",
+              "hasWild": false
             }
           ]
         },
@@ -89,7 +95,8 @@
               "name-jp": "コガタペンギン",
               "name-cn": "小蓝企鹅",
               "type": "species",
-              "icon": "/icon/コガタペンギン.jpg"
+              "icon": "/icon/コガタペンギン.jpg",
+              "hasWild": false
             }
           ]
         },
@@ -104,21 +111,24 @@
               "name-jp": "ケープペンギン",
               "name-cn": "斑嘴环企鹅",
               "type": "species",
-              "icon": "/icon/ケープペンギン.jpg"
+              "icon": "/icon/ケープペンギン.jpg",
+              "hasWild": false
             },
             {
               "name": "spheniscus humboldti",
               "name-jp": "フンボルトペンギン",
               "name-cn": "洪堡企鹅",
               "type": "species",
-              "icon": "/icon/フンボルトペンギン.jpg"
+              "icon": "/icon/フンボルトペンギン.jpg",
+              "hasWild": false
             },
             {
               "name": "spheniscus magellanicus",
               "name-jp": "マゼランペンギン",
               "name-cn": "麦哲伦企鹅",
               "type": "species",
-              "icon": "/icon/マゼランペンギン.jpg"
+              "icon": "/icon/マゼランペンギン.jpg",
+              "hasWild": false
             }
           ]
         }
