@@ -689,6 +689,14 @@
                               "type": "species",
                               "icon": "/icon/インドハッカ.jpg",
                               "hasWild": true
+                            },
+                            {
+                              "name": "acridotheres javanicus",
+                              "name-jp": "ジャワハッカ",
+                              "name-cn": "爪哇八哥",
+                              "type": "species",
+                              "icon": "/icon/ジャワハッカ.jpg",
+                              "hasWild": true
                             }
                           ]
                         },

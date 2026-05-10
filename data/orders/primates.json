@@ -369,6 +369,14 @@
                               "type": "genus",
                               "icon-children": [
                                 {
+                                  "name": "macaca fascicularis",
+                                  "name-jp": "カニクイザル",
+                                  "name-cn": "食蟹猕猴",
+                                  "type": "species",
+                                  "icon": "/icon/カニクイザル.jpg",
+                                  "hasWild": true
+                                },
+                                {
                                   "name": "macaca fuscata",
                                   "name-jp": "ニホンザル",
                                   "name-cn": "日本猕猴",
@@ -390,6 +398,14 @@
                                   "name-cn": "普通猕猴",
                                   "type": "species",
                                   "icon": "/icon/アカゲザル.jpg",
+                                  "hasWild": false
+                                },
+                                {
+                                  "name": "macaca silenus",
+                                  "name-jp": "シシオザル",
+                                  "name-cn": "狮尾猴",
+                                  "type": "species",
+                                  "icon": "/icon/シシオザル.jpg",
                                   "hasWild": false
                                 },
                                 {

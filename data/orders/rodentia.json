@@ -351,12 +351,36 @@
                       "hasWild": true
                     },
                     {
+                      "name": "callosciurus notatus",
+                      "name-jp": "バナナリス",
+                      "name-cn": "大蕉松鼠",
+                      "type": "species",
+                      "icon": "/icon/バナナリス.jpg",
+                      "hasWild": true
+                    },
+                    {
                       "name": "callosciurus prevostii",
                       "name-jp": "ミケリス",
                       "name-cn": "普氏丽松鼠",
                       "type": "species",
                       "icon": "/icon/ミケリス.jpg",
                       "hasWild": false
+                    }
+                  ]
+                },
+                {
+                  "name": "sundasciurus",
+                  "name-jp": "スンダリス属",
+                  "name-cn": "马尾松鼠属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "sundasciurus tenuis",
+                      "name-jp": "ホソスンダリス",
+                      "name-cn": "纤小马尾松鼠",
+                      "type": "species",
+                      "icon": "/icon/ホソスンダリス.jpg",
+                      "hasWild": true
                     }
                   ]
                 }
