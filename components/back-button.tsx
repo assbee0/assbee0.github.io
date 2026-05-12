@@ -19,7 +19,7 @@ export function BackButton({ children }: any) {
     }
 
     return (
-        <button onClick={goParent} className="back-btn">
+        <button onClick={() => router.back()} className="back-btn">
             {children || "← 返回"}
         </button>
     );

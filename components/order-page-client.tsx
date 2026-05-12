@@ -51,7 +51,12 @@ export function OrderPageClient({ data, className }: Props) {
 
             <div className={`head-background-base head-background-${className}`}>
                 <h1 className="head-title">
-                    {getName(data, lang)} {formatScientificName(data.name)}
+                    <div>
+                        {getName(data, lang)}
+                    </div>
+                    <div className="head-subtitle">
+                        {formatScientificName(data.name)}
+                    </div>
                 </h1>
             </div>
 

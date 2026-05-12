@@ -39,7 +39,14 @@ export function IconGrid({
         <div className="page-container">
             <div className="icon-grid">
                 {items.map((item) => (
-                    <Link href={`/${className}/${item.name.toLowerCase()}`} key={item.name}>
+                    <Link
+                        href={
+                            item.type === "species"
+                                ? `/species/${item.name.replaceAll(" ", "_")}`
+                                : `/${className}/${item.name.toLowerCase()}`
+                        }
+                        key={item.name}
+                    >
                         <div className="card">
 
                             {item.hasWild && (
