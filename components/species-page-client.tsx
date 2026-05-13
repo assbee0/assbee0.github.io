@@ -6,6 +6,7 @@ import Image from "next/image";
 import { Navbar } from "@/components/nav-bar";
 import { Lang } from "@/types/lang";
 import { formatScientificName } from "@/lib/utils"
+import { getImageUrl, getObservationDate } from "@/lib/image"
 
 function getName(data: any, lang: Lang) {
     if (lang === "cn") return data["name-cn"];
@@ -77,7 +78,7 @@ export default function SpeciesPageClient({
                         {getName(data, lang)}
                     </div>
                     <div className="head-subtitle scientific-name">
-                        {formatScientificName(data.scientificName)}
+                        {formatScientificName(data.id)}
                     </div>
                 </h1>
             </div>
@@ -97,14 +98,14 @@ export default function SpeciesPageClient({
                         </button>
 
                         <a
-                            href={currentPhoto.original}
+                            href={getImageUrl(currentPhoto.id, "full")}
                             target="_blank"
                             className="main-photo-link"
                         >
                             <div className="main-photo-frame">
 
                                 <Image
-                                    src={currentPhoto.medium}
+                                    src={getImageUrl(currentPhoto.id, "medium")}
                                     alt={currentPhoto.id}
                                     fill
                                     priority
@@ -127,13 +128,13 @@ export default function SpeciesPageClient({
 
                     <div className="photo-meta">
 
-                        {currentPhoto.date && (
+                        {getObservationDate(currentPhoto.id) && (
                             <div className="meta-item">
 
                                 <Calendar size={16} />
 
                                 <span>
-                                    {currentPhoto.date}
+                                    {getObservationDate(currentPhoto.id)}
                                 </span>
 
                             </div>
@@ -186,7 +187,7 @@ export default function SpeciesPageClient({
                                     }
                                 >
                                     <Image
-                                        src={photo.thumb}
+                                        src={getImageUrl(photo.id, "thumb")}
                                         alt={photo.id}
                                         width={200}
                                         height={200}

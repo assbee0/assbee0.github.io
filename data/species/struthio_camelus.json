@@ -3,24 +3,16 @@
     "class": "aves",
     "name-jp": "ダチョウ",
     "name-cn": "非洲鸵鸟",
-    "scientificName": "Struthio camelus",
-    "description": "",
     "photos": [
         {
-            "id": "ダチョウ_202404281325",
-            "thumb": "https://s41.ax1x.com/2026/05/12/peXVpDI.th.jpg",
-            "medium": "https://s41.ax1x.com/2026/05/12/peXVpDI.jpg",
-            "original": "https://s41.ax1x.com/2026/05/12/peXVpDI.jpg",
-            "date": "2024-04-28",
-            "location": "北京野生动物园"
+            "id": "struthio_camelus_202404281325",
+            "location": "北京野生动物园",
+            "description": ""
         },
         {
-            "id": "ダチョウ_202408131625",
-            "thumb": "https://s41.ax1x.com/2026/05/12/peXV9bt.th.jpg",
-            "medium": "https://s41.ax1x.com/2026/05/12/peXV9bt.jpg",
-            "original": "https://s41.ax1x.com/2026/05/12/peXV9bt.jpg",
-            "date": "2024-08-13",
-            "location": "北京野生动物园"
+            "id": "struthio_camelus_202408131625",
+            "location": "北京野生动物园",
+            "description": ""
         }
     ]
 }

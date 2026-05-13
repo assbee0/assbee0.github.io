@@ -8,8 +8,15 @@ export function getHeadingTag(depth: number): keyof JSX.IntrinsicElements {
 export function formatScientificName(name: string) {
     if (!name) return name;
 
-    const parts = name.split(" ");
-    parts[0] = parts[0].charAt(0).toUpperCase() + parts[0].slice(1);
+    const parts = name
+        .replace(/_/g, " ")
+        .trim()
+        .toLowerCase()
+        .split(/\s+/);
+
+    parts[0] =
+        parts[0].charAt(0).toUpperCase() +
+        parts[0].slice(1);
 
     return parts.join(" ");
 }
