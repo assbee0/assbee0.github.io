@@ -1,0 +1,45 @@
+{
+    "id": "aix_galericulata",
+    "class": "aves",
+    "order": "anseriformes",
+    "name-jp": "オシドリ",
+    "name-cn": "鸳鸯",
+    "photos": [
+        {
+            "id": "aix_galericulata_202308131520",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "aix_galericulata_202310081227",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "aix_galericulata_202311241531",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "aix_galericulata_202407201042",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "aix_galericulata_202503201447",
+            "location": "新宿御苑",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "aix_galericulata_202512291341",
+            "location": "北海公园",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

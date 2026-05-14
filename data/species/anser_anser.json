@@ -1,0 +1,15 @@
+{
+    "id": "anser_anser",
+    "class": "aves",
+    "order": "anseriformes",
+    "name-jp": "ハイイロガン",
+    "name-cn": "灰雁",
+    "photos": [
+        {
+            "id": "anser_anser_202407201020",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

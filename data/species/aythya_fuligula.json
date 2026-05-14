@@ -1,0 +1,21 @@
+{
+    "id": "aythya_fuligula",
+    "class": "aves",
+    "order": "anseriformes",
+    "name-jp": "キンクロハジロ",
+    "name-cn": "凤头潜鸭",
+    "photos": [
+        {
+            "id": "aythya_fuligula_202502111333",
+            "location": "不忍池",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "aythya_fuligula_202511241519",
+            "location": "不忍池",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

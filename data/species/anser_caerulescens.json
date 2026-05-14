@@ -1,0 +1,21 @@
+{
+    "id": "anser_caerulescens",
+    "class": "aves",
+    "order": "anseriformes",
+    "name-jp": "ハクガン",
+    "name-cn": "雪雁",
+    "photos": [
+        {
+            "id": "anser_caerulescens_202409221533",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "anser_caerulescens_202409221538",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

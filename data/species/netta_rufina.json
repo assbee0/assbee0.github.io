@@ -1,12 +1,12 @@
 {
-    "id": "rhea_americana",
+    "id": "netta_rufina",
     "class": "aves",
-    "order": "rheiformes",
-    "name-jp": "レア",
-    "name-cn": "大美洲鸵",
+    "order": "anseriformes",
+    "name-jp": "アカハシハジロ",
+    "name-cn": "赤嘴潜鸭",
     "photos": [
         {
-            "id": "rhea_americana_202404281724",
+            "id": "netta_rufina_202508141237",
             "location": "北京野生动物园",
             "isWild": false,
             "description": ""

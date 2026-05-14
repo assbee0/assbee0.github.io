@@ -1,0 +1,15 @@
+{
+    "id": "branta_bernicla",
+    "class": "aves",
+    "order": "anseriformes",
+    "name-jp": "コクガン",
+    "name-cn": "黑雁",
+    "photos": [
+        {
+            "id": "branta_bernicla_202310081211",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

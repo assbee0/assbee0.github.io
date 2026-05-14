@@ -1,0 +1,15 @@
+{
+    "id": "aythya_ferina",
+    "class": "aves",
+    "order": "anseriformes",
+    "name-jp": "ホシハジロ",
+    "name-cn": "红头潜鸭",
+    "photos": [
+        {
+            "id": "aythya_ferina_202505111331",
+            "location": "東京港野鳥公園",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

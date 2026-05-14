@@ -1,0 +1,15 @@
+{
+    "id": "cygnus_cygnus",
+    "class": "aves",
+    "order": "anseriformes",
+    "name-jp": "オオハクチョウ",
+    "name-cn": "大天鹅",
+    "photos": [
+        {
+            "id": "cygnus_cygnus_202501021403",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

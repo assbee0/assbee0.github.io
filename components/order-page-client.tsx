@@ -47,6 +47,7 @@ export function OrderPageClient({ data, className }: Props) {
                 title={getName(data, lang)}
                 lang={lang}
                 setLang={setLang}
+                fallback={`/${data.class}`}
             />
 
             <div className={`head-background-base head-background-${className}`}>

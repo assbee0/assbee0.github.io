@@ -1,0 +1,45 @@
+{
+    "id": "anser_cygnoides",
+    "class": "aves",
+    "order": "anseriformes",
+    "name-jp": "サカツラガン",
+    "name-cn": "鸿雁",
+    "photos": [
+        {
+            "id": "anser_cygnoides_202309031534",
+            "location": "井の頭自然文化園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "anser_cygnoides_202309031542",
+            "location": "井の頭自然文化園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "anser_cygnoides_202405031218_1",
+            "location": "奥林匹克森林公园",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "anser_cygnoides_202405031218_2",
+            "location": "奥林匹克森林公园",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "anser_cygnoides_202405031220",
+            "location": "奥林匹克森林公园",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "anser_cygnoides_202407201019",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

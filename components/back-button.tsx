@@ -1,25 +1,21 @@
 "use client";
 
-import { useRouter, usePathname } from "next/navigation";
+import { useRouter } from "next/navigation";
 
-export function BackButton({ children }: any) {
+export function BackButton({ children, fallback = "/", }: any) {
     const router = useRouter();
-    const pathname = usePathname();
 
-    function goParent() {
-        const segments = pathname.split("/").filter(Boolean);
+    function handleBack() {
 
-        if (segments.length <= 1) {
-            router.push("/"); // 已经在一级
-            return;
+        if (window.history.length > 1) {
+            router.back();
+        } else {
+            router.push(fallback);
         }
-
-        const parentPath = "/" + segments.slice(0, -1).join("/");
-        router.push(parentPath);
     }
 
     return (
-        <button onClick={() => router.back()} className="back-btn">
+        <button onClick={handleBack} className="back-btn">
             {children || "← 返回"}
         </button>
     );

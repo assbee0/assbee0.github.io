@@ -1,0 +1,15 @@
+{
+    "id": "cygnus_columbianus",
+    "class": "aves",
+    "order": "anseriformes",
+    "name-jp": "コハクチョウ",
+    "name-cn": "小天鹅",
+    "photos": [
+        {
+            "id": "cygnus_columbianus_202408311530",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

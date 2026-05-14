@@ -1,12 +1,12 @@
 {
-    "id": "rhea_americana",
+    "id": "aythya_nyroca",
     "class": "aves",
-    "order": "rheiformes",
-    "name-jp": "レア",
-    "name-cn": "大美洲鸵",
+    "order": "anseriformes",
+    "name-jp": "メジロガモ",
+    "name-cn": "白眼潜鸭",
     "photos": [
         {
-            "id": "rhea_americana_202404281724",
+            "id": "aythya_nyroca_202404281747",
             "location": "北京野生动物园",
             "isWild": false,
             "description": ""

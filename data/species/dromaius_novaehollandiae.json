@@ -1,17 +1,20 @@
 {
     "id": "dromaius_novaehollandiae",
     "class": "aves",
+    "order": "casuariiformes",
     "name-jp": "エミュー",
     "name-cn": "鸸鹋",
     "photos": [
         {
             "id": "dromaius_novaehollandiae_202402181334",
             "location": "千葉市動物公園",
+            "isWild": false,
             "description": ""
         },
         {
             "id": "dromaius_novaehollandiae_202405251227",
             "location": "よこはま動物園ズーラシア",
+            "isWild": false,
             "description": ""
         }
     ]

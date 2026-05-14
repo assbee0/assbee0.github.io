@@ -1,18 +1,18 @@
 {
-    "id": "struthio_camelus",
+    "id": "cereopsis_novaehollandiae",
     "class": "aves",
-    "order": "struthioniformes",
-    "name-jp": "ダチョウ",
-    "name-cn": "非洲鸵鸟",
+    "order": "anseriformes",
+    "name-jp": "ロウバシガン",
+    "name-cn": "蜡嘴雁",
     "photos": [
         {
-            "id": "struthio_camelus_202404281325",
+            "id": "cereopsis_novaehollandiae_202408131630_1",
             "location": "北京野生动物园",
             "isWild": false,
             "description": ""
         },
         {
-            "id": "struthio_camelus_202408131625",
+            "id": "cereopsis_novaehollandiae_202408131630_2",
             "location": "北京野生动物园",
             "isWild": false,
             "description": ""

@@ -1,0 +1,27 @@
+{
+    "id": "anseranas_semipalmata",
+    "class": "aves",
+    "order": "anseriformes",
+    "name-jp": "カササギガン",
+    "name-cn": "鹊雁",
+    "photos": [
+        {
+            "id": "anseranas_semipalmata_202308131513",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "anseranas_semipalmata_202407201031",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "anseranas_semipalmata_202409221549",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

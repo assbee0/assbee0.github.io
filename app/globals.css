@@ -512,8 +512,8 @@
 
   color: #4a5a6a;
 
+  font-family: "Noto Sans SC", "Noto Sans JP", sans-serif;
   font-size: 0.95rem;
-
   font-weight: 500;
 
   line-height: 1.5;
@@ -700,6 +700,10 @@
     font-size: 32px;
   }
 
+  .head-subtitle {
+    font-size: 24px;
+  }
+
   .species-page {
     padding: 20px 12px 48px;
   }
@@ -710,9 +714,7 @@
 
   .thumbnail-grid {
     grid-template-columns:
-      repeat(auto-fill, minmax(120px, 1fr));
-
-    gap: 10px;
+      repeat(3, 1fr);
   }
 
   .photo-meta {

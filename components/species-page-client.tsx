@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { Calendar, MapPin } from "lucide-react";
+import { Calendar, MapPin, Trees } from "lucide-react";
 import Image from "next/image";
 import { Navbar } from "@/components/nav-bar";
 import { Lang } from "@/types/lang";
@@ -70,6 +70,7 @@ export default function SpeciesPageClient({
                 title={getName(data, lang)}
                 lang={lang}
                 setLang={setLang}
+                fallback={`/${data.class}/${data.order}`}
             />
 
             <div className={`head-background-base head-background-${data.class}`}>
@@ -127,6 +128,18 @@ export default function SpeciesPageClient({
                     </div>
 
                     <div className="photo-meta">
+
+                        {currentPhoto.isWild && (
+                            <div className="meta-item wild">
+
+                                <Trees size={16} />
+
+                                <span>
+                                    野生
+                                </span>
+
+                            </div>
+                        )}
 
                         {getObservationDate(currentPhoto.id) && (
                             <div className="meta-item">

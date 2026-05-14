@@ -1,0 +1,27 @@
+{
+    "id": "tadorna_ferruginea",
+    "class": "aves",
+    "order": "anseriformes",
+    "name-jp": "アカツクシガモ",
+    "name-cn": "赤麻鸭",
+    "photos": [
+        {
+            "id": "tadorna_ferruginea_202401041325",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "tadorna_ferruginea_202410051219",
+            "location": "伊豆シャボテン動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "tadorna_ferruginea_202505241519",
+            "location": "千葉市動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

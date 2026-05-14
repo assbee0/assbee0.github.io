@@ -47,6 +47,7 @@ export function ClassPageClient({ data, className }: Props) {
                 title={getName(data, lang)}
                 lang={lang}
                 setLang={setLang}
+                fallback="/"
             />
 
             <div className={`head-background-base head-background-${className}`}>

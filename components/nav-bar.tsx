@@ -7,12 +7,13 @@ type NavbarProps = {
     title: string;
     lang: Lang;
     setLang: (lang: Lang) => void;
+    fallback: string;
 };
 
-export function Navbar({ title, lang, setLang }: NavbarProps) {
+export function Navbar({ title, lang, setLang, fallback }: NavbarProps) {
     return (
         <div className="nav-bar">
-            <BackButton>
+            <BackButton fallback={fallback}>
                 <svg width="20" height="20" viewBox="0 0 24 24">
                     <path
                         d="M15 18l-6-6 6-6"

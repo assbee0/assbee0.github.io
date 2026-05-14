@@ -1,0 +1,33 @@
+{
+    "id": "anas_zonorhyncha",
+    "class": "aves",
+    "order": "anseriformes",
+    "name-jp": "カルガモ",
+    "name-cn": "斑嘴鸭",
+    "photos": [
+        {
+            "id": "anas_zonorhyncha_202308201408",
+            "location": "しながわ水族館",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "anas_zonorhyncha_202309161510",
+            "location": "元渕江公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "anas_zonorhyncha_202507061648",
+            "location": "府中の森公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "anas_zonorhyncha_202507061719",
+            "location": "府中の森公園",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

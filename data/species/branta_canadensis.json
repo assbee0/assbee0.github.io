@@ -1,0 +1,15 @@
+{
+    "id": "branta_canadensis",
+    "class": "aves",
+    "order": "anseriformes",
+    "name-jp": "カナダガン",
+    "name-cn": "加拿大黑雁",
+    "photos": [
+        {
+            "id": "branta_canadensis_202501021356",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

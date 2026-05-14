@@ -1,0 +1,15 @@
+{
+    "id": "anser_albifrons",
+    "class": "aves",
+    "order": "anseriformes",
+    "name-jp": "マガン",
+    "name-cn": "白额雁",
+    "photos": [
+        {
+            "id": "anser_albifrons_202407201038",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

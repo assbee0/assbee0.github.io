@@ -1,0 +1,27 @@
+{
+    "id": "anser_erythropus",
+    "class": "aves",
+    "order": "anseriformes",
+    "name-jp": "カリガネ",
+    "name-cn": "小白额雁",
+    "photos": [
+        {
+            "id": "anser_erythropus_202506191152_1",
+            "location": "井の頭自然文化園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "anser_erythropus_202506191152_2",
+            "location": "井の頭自然文化園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "anser_erythropus_202509231108",
+            "location": "東山動植物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

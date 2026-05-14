@@ -1,0 +1,21 @@
+{
+    "id": "mergus_merganser",
+    "class": "aves",
+    "order": "anseriformes",
+    "name-jp": "カワアイサ",
+    "name-cn": "普通秋沙鸭",
+    "photos": [
+        {
+            "id": "mergus_merganser_202512291511",
+            "location": "北海公园",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "mergus_merganser_202512291514",
+            "location": "北海公园",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "cygnus_olor",
+    "class": "aves",
+    "order": "anseriformes",
+    "name-jp": "コブハクチョウ",
+    "name-cn": "疣鼻天鹅",
+    "photos": [
+        {
+            "id": "cygnus_olor_202604031029",
+            "location": "Singapore Botanic Gardens",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "anas_crecca",
+    "class": "aves",
+    "order": "anseriformes",
+    "name-jp": "コガモ",
+    "name-cn": "绿翅鸭",
+    "photos": [
+        {
+            "id": "anas_crecca_202407201033",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "anas_crecca_202601171302",
+            "location": "東京都多摩市関戸",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "alopochen_aegyptiaca",
+    "class": "aves",
+    "order": "anseriformes",
+    "name-jp": "エジプトガン",
+    "name-cn": "埃及雁",
+    "photos": [
+        {
+            "id": "alopochen_aegyptiaca_202410051216",
+            "location": "伊豆シャボテン動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "alopochen_aegyptiaca_202410051221",
+            "location": "伊豆シャボテン動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

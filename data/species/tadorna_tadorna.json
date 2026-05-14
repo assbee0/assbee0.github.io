@@ -1,0 +1,21 @@
+{
+    "id": "tadorna_tadorna",
+    "class": "aves",
+    "order": "anseriformes",
+    "name-jp": "ツクシガモ",
+    "name-cn": "翘鼻麻鸭",
+    "photos": [
+        {
+            "id": "tadorna_tadorna_202310081212",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "tadorna_tadorna_202407201026",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

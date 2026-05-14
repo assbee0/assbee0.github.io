@@ -1,0 +1,15 @@
+{
+    "id": "anas_capensis",
+    "class": "aves",
+    "order": "anseriformes",
+    "name-jp": "アカハシコガモ",
+    "name-cn": "绿翅灰斑鸭",
+    "photos": [
+        {
+            "id": "anas_capensis_202407201243",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

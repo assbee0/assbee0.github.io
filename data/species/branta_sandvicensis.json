@@ -1,0 +1,15 @@
+{
+    "id": "branta_sandvicensis",
+    "class": "aves",
+    "order": "anseriformes",
+    "name-jp": "ハワイガン",
+    "name-cn": "夏威夷黑雁",
+    "photos": [
+        {
+            "id": "branta_sandvicensis_202311241301",
+            "location": "埼玉県こども動物自然公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

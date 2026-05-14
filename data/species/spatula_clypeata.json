@@ -1,0 +1,33 @@
+{
+    "id": "spatula_clypeata",
+    "class": "aves",
+    "order": "anseriformes",
+    "name-jp": "ハシビロガモ",
+    "name-cn": "琵嘴鸭",
+    "photos": [
+        {
+            "id": "spatula_clypeata_202503201504",
+            "location": "新宿御苑",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "spatula_clypeata_202503201514",
+            "location": "新宿御苑",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "spatula_clypeata_202503201518",
+            "location": "新宿御苑",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "spatula_clypeata_202503201519",
+            "location": "新宿御苑",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

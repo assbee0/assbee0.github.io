@@ -1,0 +1,27 @@
+{
+    "id": "cygnus_atratus",
+    "class": "aves",
+    "order": "anseriformes",
+    "name-jp": "コクチョウ",
+    "name-cn": "黑天鹅",
+    "photos": [
+        {
+            "id": "cygnus_atratus_202408131333_1",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "cygnus_atratus_202408131333_2",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "cygnus_atratus_202605011511",
+            "location": "上海世纪公园",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

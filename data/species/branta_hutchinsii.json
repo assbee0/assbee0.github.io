@@ -1,0 +1,33 @@
+{
+    "id": "branta_hutchinsii",
+    "class": "aves",
+    "order": "anseriformes",
+    "name-jp": "シジュウカラガン",
+    "name-cn": "小美洲黑雁",
+    "photos": [
+        {
+            "id": "branta_hutchinsii_202309031534",
+            "location": "井の頭自然文化園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "branta_hutchinsii_202407201021",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "branta_hutchinsii_202407201022",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "branta_hutchinsii_202505241520",
+            "location": "千葉市動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

@@ -23,7 +23,7 @@ export function getObservationDate(
 ) {
     const match =
         observationId.match(
-            /_(\d{12})$/
+            /_(\d{12})(?:_\d+)?$/
         );
 
     if (!match) return "";
