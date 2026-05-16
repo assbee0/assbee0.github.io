@@ -1,0 +1,15 @@
+{
+    "id": "ducula_bicolor",
+    "class": "aves",
+    "order": "columbiformes",
+    "name-jp": "ソデグロバト",
+    "name-cn": "斑皇鸠",
+    "photos": [
+        {
+            "id": "ducula_bicolor_202408311607",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

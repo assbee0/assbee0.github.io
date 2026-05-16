@@ -6,12 +6,7 @@ export function BackButton({ children, fallback = "/", }: any) {
     const router = useRouter();
 
     function handleBack() {
-
-        if (window.history.length > 1) {
-            router.back();
-        } else {
-            router.push(fallback);
-        }
+        router.push(fallback);
     }
 
     return (

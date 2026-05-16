@@ -1,0 +1,33 @@
+{
+    "id": "calidris_ruficollis",
+    "class": "aves",
+    "order": "charadriiformes",
+    "name-jp": "トウネン",
+    "name-cn": "红颈滨鹬",
+    "photos": [
+        {
+            "id": "calidris_ruficollis_202510051306",
+            "location": "ふなばし三番瀬海浜公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "calidris_ruficollis_202510051307",
+            "location": "ふなばし三番瀬海浜公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "calidris_ruficollis_202510051308",
+            "location": "ふなばし三番瀬海浜公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "calidris_ruficollis_202605091418",
+            "location": "ふなばし三番瀬海浜公園",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

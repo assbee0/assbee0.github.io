@@ -1,0 +1,33 @@
+{
+    "id": "fulica_atra",
+    "class": "aves",
+    "order": "gruiformes",
+    "name-jp": "オオバン",
+    "name-cn": "白骨顶",
+    "photos": [
+        {
+            "id": "fulica_atra_202412011218",
+            "location": "水元公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "fulica_atra_202412311407",
+            "location": "奥林匹克森林公园",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "fulica_atra_202502111321",
+            "location": "不忍池",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "fulica_atra_202502111333",
+            "location": "不忍池",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "phoenicopterus_chilensis",
+    "class": "aves",
+    "order": "phoenicopteriformes",
+    "name-jp": "チリーフラミンゴ",
+    "name-cn": "智利红鹳",
+    "photos": [
+        {
+            "id": "phoenicopterus_chilensis_202507191421",
+            "location": "埼玉県こども動物自然公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

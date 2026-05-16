@@ -1,0 +1,15 @@
+{
+    "id": "grus_grus",
+    "class": "aves",
+    "order": "gruiformes",
+    "name-jp": "クロヅル",
+    "name-cn": "灰鹤",
+    "photos": [
+        {
+            "id": "grus_grus_202404281227",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

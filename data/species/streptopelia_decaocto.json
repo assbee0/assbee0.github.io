@@ -1,0 +1,15 @@
+{
+    "id": "streptopelia_decaocto",
+    "class": "aves",
+    "order": "columbiformes",
+    "name-jp": "シラコバト",
+    "name-cn": "灰斑鸠",
+    "photos": [
+        {
+            "id": "streptopelia_decaocto_202507191309",
+            "location": "埼玉県こども動物自然公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

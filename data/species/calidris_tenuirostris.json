@@ -1,0 +1,15 @@
+{
+    "id": "calidris_tenuirostris",
+    "class": "aves",
+    "order": "charadriiformes",
+    "name-jp": "オバシギ",
+    "name-cn": "大滨鹬",
+    "photos": [
+        {
+            "id": "calidris_tenuirostris_202509061345",
+            "location": "ふなばし三番瀬海浜公園",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

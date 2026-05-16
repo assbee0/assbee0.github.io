@@ -1,5 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
+import { useEffect } from "react";
 import { formatScientificName } from "@/lib/utils";
 import { Lang } from "@/types/lang";
 
@@ -35,6 +37,26 @@ export function IconGrid({
     className: string;
     lang: Lang;
 }) {
+    const pathname = usePathname();
+
+    useEffect(() => {
+
+        const saved =
+            sessionStorage.getItem(
+                `scroll:${pathname}`
+            );
+
+        if (saved) {
+
+            window.scrollTo({
+                top: Number(saved),
+                behavior: "instant",
+            });
+
+        }
+
+    }, [pathname]);
+
     return (
         <div className="page-container">
             <div className="icon-grid">
@@ -46,6 +68,12 @@ export function IconGrid({
                                 : `/${className}/${item.name.toLowerCase()}`
                         }
                         key={item.name}
+                        onClick={() => {
+                            sessionStorage.setItem(
+                                `scroll:${pathname}`,
+                                String(window.scrollY)
+                            );
+                        }}
                     >
                         <div className="card">
 

@@ -1,0 +1,21 @@
+{
+    "id": "anarhynchus_mongolus",
+    "class": "aves",
+    "order": "charadriiformes",
+    "name-jp": "メダイチドリ",
+    "name-cn": "蒙古沙鸻",
+    "photos": [
+        {
+            "id": "anarhynchus_mongolus_202605091342",
+            "location": "ふなばし三番瀬海浜公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "anarhynchus_mongolus_202605091511",
+            "location": "ふなばし三番瀬海浜公園",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

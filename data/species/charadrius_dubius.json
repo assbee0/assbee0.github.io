@@ -1,0 +1,21 @@
+{
+    "id": "charadrius_dubius",
+    "class": "aves",
+    "order": "charadriiformes",
+    "name-jp": "コチドリ",
+    "name-cn": "金眶鸻",
+    "photos": [
+        {
+            "id": "charadrius_dubius_202505111405",
+            "location": "東京港野鳥公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "charadrius_dubius_202506211559",
+            "location": "東京都府中市南町",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

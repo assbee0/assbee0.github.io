@@ -1,0 +1,15 @@
+{
+    "id": "syrmaticus_reevesii",
+    "class": "aves",
+    "order": "galliformes",
+    "name-jp": "オナガキジ",
+    "name-cn": "白冠长尾雉",
+    "photos": [
+        {
+            "id": "syrmaticus_reevesii_202504291536",
+            "location": "上海动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

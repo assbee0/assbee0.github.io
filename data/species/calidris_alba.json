@@ -1,0 +1,15 @@
+{
+    "id": "calidris_alba",
+    "class": "aves",
+    "order": "charadriiformes",
+    "name-jp": "ミユビシギ",
+    "name-cn": "三趾滨鹬",
+    "photos": [
+        {
+            "id": "calidris_alba_202509061343",
+            "location": "ふなばし三番瀬海浜公園",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

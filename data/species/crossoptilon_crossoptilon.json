@@ -1,0 +1,21 @@
+{
+    "id": "crossoptilon_crossoptilon",
+    "class": "aves",
+    "order": "galliformes",
+    "name-jp": "シロミミキジ",
+    "name-cn": "白马鸡",
+    "photos": [
+        {
+            "id": "crossoptilon_crossoptilon_202404281539",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "crossoptilon_crossoptilon_202504291603",
+            "location": "上海动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "amaurornis_phoenicurus",
+    "class": "aves",
+    "order": "gruiformes",
+    "name-jp": "シロハラクイナ",
+    "name-cn": "白胸苦恶鸟",
+    "photos": [
+        {
+            "id": "amaurornis_phoenicurus_202604031047",
+            "location": "Singapore Botanic Gardens",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "amaurornis_phoenicurus_202604031048",
+            "location": "Singapore Botanic Gardens",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

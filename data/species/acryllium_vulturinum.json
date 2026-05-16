@@ -1,0 +1,15 @@
+{
+    "id": "acryllium_vulturinum",
+    "class": "aves",
+    "order": "galliformes",
+    "name-jp": "フサホロホロチョウ",
+    "name-cn": "鹫珠鸡",
+    "photos": [
+        {
+            "id": "acryllium_vulturinum_202405251432",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

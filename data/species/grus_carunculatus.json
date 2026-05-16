@@ -1,0 +1,15 @@
+{
+    "id": "grus_carunculatus",
+    "class": "aves",
+    "order": "gruiformes",
+    "name-jp": "ホオカザリヅル",
+    "name-cn": "肉垂鹤",
+    "photos": [
+        {
+            "id": "grus_carunculatus_202404211602",
+            "location": "八木山動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

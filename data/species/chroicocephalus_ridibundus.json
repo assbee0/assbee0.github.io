@@ -1,0 +1,75 @@
+{
+    "id": "chroicocephalus_ridibundus",
+    "class": "aves",
+    "order": "charadriiformes",
+    "name-jp": "ユリカモメ",
+    "name-cn": "红嘴鸥",
+    "photos": [
+        {
+            "id": "chroicocephalus_ridibundus_202404131605",
+            "location": "不忍池",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "chroicocephalus_ridibundus_202404131606",
+            "location": "不忍池",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "chroicocephalus_ridibundus_202412011235",
+            "location": "水元公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "chroicocephalus_ridibundus_202412011249",
+            "location": "水元公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "chroicocephalus_ridibundus_202511241521",
+            "location": "不忍池",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "chroicocephalus_ridibundus_202511241522",
+            "location": "不忍池",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "chroicocephalus_ridibundus_202511241531",
+            "location": "不忍池",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "chroicocephalus_ridibundus_202511241532",
+            "location": "不忍池",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "chroicocephalus_ridibundus_202601031422",
+            "location": "东疆亲海公园",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "chroicocephalus_ridibundus_202601031429",
+            "location": "东疆亲海公园",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "chroicocephalus_ridibundus_202601031436",
+            "location": "东疆亲海公园",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

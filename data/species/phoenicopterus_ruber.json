@@ -1,0 +1,27 @@
+{
+    "id": "phoenicopterus_ruber",
+    "class": "aves",
+    "order": "phoenicopteriformes",
+    "name-jp": "ベニイロフラミンゴ",
+    "name-cn": "加勒比海红鹳",
+    "photos": [
+        {
+            "id": "phoenicopterus_ruber_202306101323",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "phoenicopterus_ruber_202408131331",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "phoenicopterus_ruber_202408311502",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

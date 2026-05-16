@@ -1,0 +1,21 @@
+{
+    "id": "tringa_brevipes",
+    "class": "aves",
+    "order": "charadriiformes",
+    "name-jp": "キアシシギ",
+    "name-cn": "灰尾漂鹬",
+    "photos": [
+        {
+            "id": "tringa_brevipes_202505111344",
+            "location": "東京港野鳥公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "tringa_brevipes_202605091446",
+            "location": "ふなばし三番瀬海浜公園",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

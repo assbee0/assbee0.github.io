@@ -1,0 +1,27 @@
+{
+    "id": "larus_cachinnans",
+    "class": "aves",
+    "order": "charadriiformes",
+    "name-jp": "キアシセグロカモメ",
+    "name-cn": "黄脚银鸥",
+    "photos": [
+        {
+            "id": "larus_cachinnans_202405251214",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "larus_cachinnans_202405251215_1",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "larus_cachinnans_202405251215_2",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

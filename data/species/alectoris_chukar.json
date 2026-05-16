@@ -1,0 +1,15 @@
+{
+    "id": "alectoris_chukar",
+    "class": "aves",
+    "order": "galliformes",
+    "name-jp": "イワシャコ",
+    "name-cn": "石鸡",
+    "photos": [
+        {
+            "id": "alectoris_chukar_202407201420",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

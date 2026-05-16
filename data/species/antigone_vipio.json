@@ -1,0 +1,27 @@
+{
+    "id": "antigone_vipio",
+    "class": "aves",
+    "order": "gruiformes",
+    "name-jp": "マナヅル",
+    "name-cn": "白枕鹤",
+    "photos": [
+        {
+            "id": "antigone_vipio_202310221207",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "antigone_vipio_202408131629",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "antigone_vipio_202507191309",
+            "location": "埼玉県こども動物自然公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

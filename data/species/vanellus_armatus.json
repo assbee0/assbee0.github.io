@@ -1,0 +1,15 @@
+{
+    "id": "vanellus_armatus",
+    "class": "aves",
+    "order": "charadriiformes",
+    "name-jp": "シロクロゲリ",
+    "name-cn": "黑背麦鸡",
+    "photos": [
+        {
+            "id": "vanellus_armatus_202310011419",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

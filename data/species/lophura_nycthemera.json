@@ -1,0 +1,15 @@
+{
+    "id": "lophura_nycthemera",
+    "class": "aves",
+    "order": "galliformes",
+    "name-jp": "ハッカン",
+    "name-cn": "白鹇",
+    "photos": [
+        {
+            "id": "lophura_nycthemera_202404281633",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

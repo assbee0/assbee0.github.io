@@ -1,0 +1,15 @@
+{
+    "id": "columba_livia",
+    "class": "aves",
+    "order": "columbiformes",
+    "name-jp": "カワラバト",
+    "name-cn": "原鸽",
+    "photos": [
+        {
+            "id": "columba_livia_202506071555",
+            "location": "新宿中央公園",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

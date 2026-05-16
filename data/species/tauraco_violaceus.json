@@ -1,0 +1,15 @@
+{
+    "id": "tauraco_violaceus",
+    "class": "aves",
+    "order": "musophagiformes",
+    "name-jp": "ニシムラサキエボシドリ",
+    "name-cn": "紫蕉鹃",
+    "photos": [
+        {
+            "id": "tauraco_violaceus_202507191312",
+            "location": "埼玉県こども動物自然公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

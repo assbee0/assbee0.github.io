@@ -1,0 +1,21 @@
+{
+    "id": "tauraco_livingstonii",
+    "class": "aves",
+    "order": "musophagiformes",
+    "name-jp": "リビングストンエボシドリ",
+    "name-cn": "利氏冠蕉鹃",
+    "photos": [
+        {
+            "id": "tauraco_livingstonii_202505241436_1",
+            "location": "千葉市動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "tauraco_livingstonii_202505241436_2",
+            "location": "千葉市動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

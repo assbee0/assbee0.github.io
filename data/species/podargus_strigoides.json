@@ -1,0 +1,21 @@
+{
+    "id": "podargus_strigoides",
+    "class": "aves",
+    "order": "caprimulgiformes",
+    "name-jp": "オーストラリアガマグチヨタカ",
+    "name-cn": "茶色蛙口夜鹰",
+    "photos": [
+        {
+            "id": "podargus_strigoides_202407201100",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "podargus_strigoides_202501191520",
+            "location": "野毛山動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

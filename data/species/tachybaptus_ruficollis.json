@@ -1,0 +1,39 @@
+{
+    "id": "tachybaptus_ruficollis",
+    "class": "aves",
+    "order": "podicipediformes",
+    "name-jp": "カイツブリ",
+    "name-cn": "小䴙䴘",
+    "photos": [
+        {
+            "id": "tachybaptus_ruficollis_202309031500",
+            "location": "井の頭自然文化園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "tachybaptus_ruficollis_202503201525",
+            "location": "新宿御苑",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "tachybaptus_ruficollis_202506191141",
+            "location": "井の頭恩賜公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "tachybaptus_ruficollis_202506191143",
+            "location": "井の頭恩賜公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "tachybaptus_ruficollis_202506191623",
+            "location": "井の頭恩賜公園",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

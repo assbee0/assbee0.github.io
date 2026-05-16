@@ -1,0 +1,15 @@
+{
+    "id": "pluvianus_aegyptius",
+    "class": "aves",
+    "order": "charadriiformes",
+    "name-jp": "ナイルチドリ",
+    "name-cn": "蓝腿燕鸻",
+    "photos": [
+        {
+            "id": "pluvianus_aegyptius_202505101455",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

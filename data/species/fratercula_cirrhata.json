@@ -1,0 +1,15 @@
+{
+    "id": "fratercula_cirrhata",
+    "class": "aves",
+    "order": "charadriiformes",
+    "name-jp": "エトピリカ",
+    "name-cn": "簇海鹦",
+    "photos": [
+        {
+            "id": "fratercula_cirrhata_202409281621",
+            "location": "葛西臨海水族園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

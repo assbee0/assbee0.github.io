@@ -1,0 +1,15 @@
+{
+    "id": "crinifer_leucogaster",
+    "class": "aves",
+    "order": "musophagiformes",
+    "name-jp": "シロハラハイイロエボシドリ",
+    "name-cn": "白腹灰蕉鹃",
+    "photos": [
+        {
+            "id": "crinifer_leucogaster_202408311616",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

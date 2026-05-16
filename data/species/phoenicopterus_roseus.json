@@ -1,0 +1,51 @@
+{
+    "id": "phoenicopterus_roseus",
+    "class": "aves",
+    "order": "phoenicopteriformes",
+    "name-jp": "オオフラミンゴ",
+    "name-cn": "大红鹳",
+    "photos": [
+        {
+            "id": "phoenicopterus_roseus_202407201242",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "phoenicopterus_roseus_202407201247",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "phoenicopterus_roseus_202408131332",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "phoenicopterus_roseus_202411091401",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "phoenicopterus_roseus_202411091402_1",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "phoenicopterus_roseus_202411091402_2",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "phoenicopterus_roseus_202411091405",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

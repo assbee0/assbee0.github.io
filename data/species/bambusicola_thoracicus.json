@@ -1,0 +1,21 @@
+{
+    "id": "bambusicola_thoracicus",
+    "class": "aves",
+    "order": "galliformes",
+    "name-jp": "コジュケイ",
+    "name-cn": "灰胸竹鸡",
+    "photos": [
+        {
+            "id": "bambusicola_thoracicus_202407201428",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "bambusicola_thoracicus_202410041454",
+            "location": "城ヶ崎海岸",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "uria_aalge",
+    "class": "aves",
+    "order": "charadriiformes",
+    "name-jp": "ウミガラス",
+    "name-cn": "崖海鸦",
+    "photos": [
+        {
+            "id": "uria_aalge_202409281619",
+            "location": "葛西臨海水族園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "uria_aalge_202409281623",
+            "location": "葛西臨海水族園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

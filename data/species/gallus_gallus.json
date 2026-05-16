@@ -1,0 +1,27 @@
+{
+    "id": "gallus_gallus",
+    "class": "aves",
+    "order": "galliformes",
+    "name-jp": "セキショクヤケイ",
+    "name-cn": "红原鸡",
+    "photos": [
+        {
+            "id": "gallus_gallus_202604031402",
+            "location": "Singapore Botanic Gardens",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "gallus_gallus_202604061658",
+            "location": "Pasir Ris Park",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "gallus_gallus_202604061659",
+            "location": "Pasir Ris Park",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

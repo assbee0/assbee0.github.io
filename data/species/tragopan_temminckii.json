@@ -1,0 +1,21 @@
+{
+    "id": "tragopan_temminckii",
+    "class": "aves",
+    "order": "galliformes",
+    "name-jp": "ベニジュケイ",
+    "name-cn": "红腹角雉",
+    "photos": [
+        {
+            "id": "tragopan_temminckii_202502091527_1",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "tragopan_temminckii_202502091527_2",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": "larus_canus",
+    "class": "aves",
+    "order": "charadriiformes",
+    "name-jp": "カモメ",
+    "name-cn": "普通海鸥",
+    "photos": [
+        {
+            "id": "larus_canus_202601031350",
+            "location": "东疆亲海公园",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "larus_canus_202601031351",
+            "location": "东疆亲海公园",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "larus_canus_202601031355",
+            "location": "东疆亲海公园",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

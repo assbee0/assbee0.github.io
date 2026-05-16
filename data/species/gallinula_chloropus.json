@@ -1,0 +1,33 @@
+{
+    "id": "gallinula_chloropus",
+    "class": "aves",
+    "order": "gruiformes",
+    "name-jp": "バン",
+    "name-cn": "黑水鸡",
+    "photos": [
+        {
+            "id": "gallinula_chloropus_202412311416",
+            "location": "奥林匹克森林公园",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "gallinula_chloropus_202412311423",
+            "location": "奥林匹克森林公园",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "gallinula_chloropus_202504281629",
+            "location": "新江湾城公园",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "gallinula_chloropus_202512281419",
+            "location": "奥林匹克森林公园",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

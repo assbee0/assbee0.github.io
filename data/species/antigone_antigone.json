@@ -1,0 +1,15 @@
+{
+    "id": "antigone_antigone",
+    "class": "aves",
+    "order": "gruiformes",
+    "name-jp": "オオヅル",
+    "name-cn": "赤颈鹤",
+    "photos": [
+        {
+            "id": "antigone_antigone_202408131039",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

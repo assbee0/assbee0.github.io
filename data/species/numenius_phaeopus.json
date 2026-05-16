@@ -1,0 +1,21 @@
+{
+    "id": "numenius_phaeopus",
+    "class": "aves",
+    "order": "charadriiformes",
+    "name-jp": "チュウシャクシギ",
+    "name-cn": "中杓鹬",
+    "photos": [
+        {
+            "id": "numenius_phaeopus_202505111325",
+            "location": "東京港野鳥公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "numenius_phaeopus_202505111347",
+            "location": "東京港野鳥公園",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "lophura_edwardsi",
+    "class": "aves",
+    "order": "galliformes",
+    "name-jp": "コサンケイ",
+    "name-cn": "爱氏鹇",
+    "photos": [
+        {
+            "id": "lophura_edwardsi_202502091528",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

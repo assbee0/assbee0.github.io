@@ -1,0 +1,27 @@
+{
+    "id": "haematopus_ostralegus",
+    "class": "aves",
+    "order": "charadriiformes",
+    "name-jp": "ミヤコドリ",
+    "name-cn": "蛎鹬",
+    "photos": [
+        {
+            "id": "haematopus_ostralegus_202310011407",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "haematopus_ostralegus_202408311603",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "haematopus_ostralegus_202509061458",
+            "location": "ふなばし三番瀬海浜公園",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": "podiceps_cristatus",
+    "class": "aves",
+    "order": "podicipediformes",
+    "name-jp": "カンムリカイツブリ",
+    "name-cn": "凤头䴙䴘",
+    "photos": [
+        {
+            "id": "podiceps_cristatus_202412011230",
+            "location": "水元公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "podiceps_cristatus_202511241550",
+            "location": "不忍池",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "podiceps_cristatus_202511301515",
+            "location": "国営昭和記念公園",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

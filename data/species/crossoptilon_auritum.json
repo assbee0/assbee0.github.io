@@ -1,0 +1,21 @@
+{
+    "id": "crossoptilon_auritum",
+    "class": "aves",
+    "order": "galliformes",
+    "name-jp": "アオミミキジ",
+    "name-cn": "蓝马鸡",
+    "photos": [
+        {
+            "id": "crossoptilon_auritum_202504291604",
+            "location": "上海动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "crossoptilon_auritum_202504291605",
+            "location": "上海动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

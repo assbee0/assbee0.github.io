@@ -1,0 +1,15 @@
+{
+    "id": "larus_vegae",
+    "class": "aves",
+    "order": "charadriiformes",
+    "name-jp": "セグロカモメ",
+    "name-cn": "西伯利亚银鸥",
+    "photos": [
+        {
+            "id": "larus_vegae_202511241547",
+            "location": "不忍池",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

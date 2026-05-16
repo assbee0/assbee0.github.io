@@ -99,7 +99,7 @@ export default function SpeciesPageClient({
                         </button>
 
                         <a
-                            href={getImageUrl(currentPhoto.id, "full")}
+                            href={getImageUrl(currentPhoto.id, "medium")}
                             target="_blank"
                             className="main-photo-link"
                         >
@@ -129,18 +129,6 @@ export default function SpeciesPageClient({
 
                     <div className="photo-meta">
 
-                        {currentPhoto.isWild && (
-                            <div className="meta-item wild">
-
-                                <Trees size={16} />
-
-                                <span>
-                                    野生
-                                </span>
-
-                            </div>
-                        )}
-
                         {getObservationDate(currentPhoto.id) && (
                             <div className="meta-item">
 
@@ -160,6 +148,22 @@ export default function SpeciesPageClient({
 
                                 <span>
                                     {currentPhoto.location}
+                                </span>
+
+                            </div>
+                        )}
+
+                        {currentPhoto.isWild && (
+                            <div className={
+                                currentPhoto.isWild
+                                    ? "meta-item wild"
+                                    : "meta-item wild hidden"
+                            }>
+
+                                <Trees size={16} />
+
+                                <span>
+                                    野生
                                 </span>
 
                             </div>

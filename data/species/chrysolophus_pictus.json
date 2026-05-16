@@ -1,0 +1,33 @@
+{
+    "id": "chrysolophus_pictus",
+    "class": "aves",
+    "order": "galliformes",
+    "name-jp": "キンケイ",
+    "name-cn": "红腹锦鸡",
+    "photos": [
+        {
+            "id": "chrysolophus_pictus_202404281629",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "chrysolophus_pictus_202408131634",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "chrysolophus_pictus_202504291533_1",
+            "location": "上海动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "chrysolophus_pictus_202504291533_2",
+            "location": "上海动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

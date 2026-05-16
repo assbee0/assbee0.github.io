@@ -1,0 +1,15 @@
+{
+    "id": "geopelia_striata",
+    "class": "aves",
+    "order": "columbiformes",
+    "name-jp": "チョウショウバト",
+    "name-cn": "斑姬地鸠",
+    "photos": [
+        {
+            "id": "geopelia_striata_202604061551",
+            "location": "Pasir Ris Park",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

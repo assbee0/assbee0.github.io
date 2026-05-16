@@ -1,0 +1,21 @@
+{
+    "id": "larosterna_inca",
+    "class": "aves",
+    "order": "charadriiformes",
+    "name-jp": "インカアジサシ",
+    "name-cn": "印加燕鸥",
+    "photos": [
+        {
+            "id": "larosterna_inca_202407201547",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "larosterna_inca_202408311410",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

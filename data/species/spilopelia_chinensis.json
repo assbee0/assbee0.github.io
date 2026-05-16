@@ -1,0 +1,15 @@
+{
+    "id": "spilopelia_chinensis",
+    "class": "aves",
+    "order": "columbiformes",
+    "name-jp": "カノコバト",
+    "name-cn": "珠颈斑鸠",
+    "photos": [
+        {
+            "id": "spilopelia_chinensis_202504281549",
+            "location": "上海市杨浦区",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "limosa_lapponica",
+    "class": "aves",
+    "order": "charadriiformes",
+    "name-jp": "オオソリハシシギ",
+    "name-cn": "斑尾塍鹬",
+    "photos": [
+        {
+            "id": "limosa_lapponica_202510051251",
+            "location": "ふなばし三番瀬海浜公園",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "streptopelia_orientalis",
+    "class": "aves",
+    "order": "columbiformes",
+    "name-jp": "キジバト",
+    "name-cn": "山斑鸠",
+    "photos": [
+        {
+            "id": "streptopelia_orientalis_202409231529",
+            "location": "等々力渓谷公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "streptopelia_orientalis_202506211427",
+            "location": "東京都多摩市関戸",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

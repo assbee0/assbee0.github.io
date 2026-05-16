@@ -1,0 +1,15 @@
+{
+    "id": "actitis_hypoleucos",
+    "class": "aves",
+    "order": "charadriiformes",
+    "name-jp": "イソシギ",
+    "name-cn": "矶鹬",
+    "photos": [
+        {
+            "id": "actitis_hypoleucos_202505111404",
+            "location": "東京港野鳥公園",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

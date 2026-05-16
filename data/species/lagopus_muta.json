@@ -1,0 +1,15 @@
+{
+    "id": "lagopus_muta",
+    "class": "aves",
+    "order": "galliformes",
+    "name-jp": "ライチョウ",
+    "name-cn": "岩雷鸟",
+    "photos": [
+        {
+            "id": "lagopus_muta_202410271448",
+            "location": "金沢動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

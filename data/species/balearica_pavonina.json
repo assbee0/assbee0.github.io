@@ -1,0 +1,15 @@
+{
+    "id": "balearica_pavonina",
+    "class": "aves",
+    "order": "gruiformes",
+    "name-jp": "カンムリヅル",
+    "name-cn": "黑冠鹤",
+    "photos": [
+        {
+            "id": "balearica_pavonina_202504291705",
+            "location": "上海动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "syrmaticus_soemmerringii",
+    "class": "aves",
+    "order": "galliformes",
+    "name-jp": "ヤマドリ",
+    "name-cn": "铜长尾雉",
+    "photos": [
+        {
+            "id": "syrmaticus_soemmerringii_202506191502",
+            "location": "井の頭自然文化園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "syrmaticus_soemmerringii_202506191503",
+            "location": "井の頭自然文化園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

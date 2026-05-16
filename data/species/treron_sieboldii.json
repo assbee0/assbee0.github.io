@@ -1,0 +1,21 @@
+{
+    "id": "treron_sieboldii",
+    "class": "aves",
+    "order": "columbiformes",
+    "name-jp": "アオバト",
+    "name-cn": "红翅绿鸠",
+    "photos": [
+        {
+            "id": "treron_sieboldii_202407201425",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "treron_sieboldii_202407201428",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

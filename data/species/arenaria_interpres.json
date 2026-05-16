@@ -1,0 +1,15 @@
+{
+    "id": "arenaria_interpres",
+    "class": "aves",
+    "order": "charadriiformes",
+    "name-jp": "キョウジョシギ",
+    "name-cn": "翻石鹬",
+    "photos": [
+        {
+            "id": "arenaria_interpres_202505111343",
+            "location": "東京港野鳥公園",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

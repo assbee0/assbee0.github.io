@@ -1,0 +1,33 @@
+{
+    "id": "pluvialis_squatarola",
+    "class": "aves",
+    "order": "charadriiformes",
+    "name-jp": "ダイゼン",
+    "name-cn": "灰斑鸻",
+    "photos": [
+        {
+            "id": "pluvialis_squatarola_202509061345",
+            "location": "ふなばし三番瀬海浜公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "pluvialis_squatarola_202510051300",
+            "location": "ふなばし三番瀬海浜公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "pluvialis_squatarola_202605091422",
+            "location": "ふなばし三番瀬海浜公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "pluvialis_squatarola_202605091425",
+            "location": "ふなばし三番瀬海浜公園",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

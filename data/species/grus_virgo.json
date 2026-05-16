@@ -1,0 +1,15 @@
+{
+    "id": "grus_virgo",
+    "class": "aves",
+    "order": "gruiformes",
+    "name-jp": "アネハヅル",
+    "name-cn": "蓑羽鹤",
+    "photos": [
+        {
+            "id": "grus_virgo_202404281546",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

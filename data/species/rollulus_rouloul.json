@@ -1,0 +1,15 @@
+{
+    "id": "rollulus_rouloul",
+    "class": "aves",
+    "order": "galliformes",
+    "name-jp": "カンムリシャコ",
+    "name-cn": "冕鹧鸪",
+    "photos": [
+        {
+            "id": "rollulus_rouloul_202505101501",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

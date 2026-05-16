@@ -1,0 +1,21 @@
+{
+    "id": "leucogeranus_leucogeranus",
+    "class": "aves",
+    "order": "gruiformes",
+    "name-jp": "ソデグロヅル",
+    "name-cn": "白鹤",
+    "photos": [
+        {
+            "id": "leucogeranus_leucogeranus_202404211600",
+            "location": "八木山動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "leucogeranus_leucogeranus_202404211601",
+            "location": "八木山動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

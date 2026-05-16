@@ -1,0 +1,27 @@
+{
+    "id": "grus_japonensis",
+    "class": "aves",
+    "order": "gruiformes",
+    "name-jp": "タンチョウ",
+    "name-cn": "丹顶鹤",
+    "photos": [
+        {
+            "id": "grus_japonensis_202310081220",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "grus_japonensis_202407201038",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "grus_japonensis_202410271411",
+            "location": "金沢動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

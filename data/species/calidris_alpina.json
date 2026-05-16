@@ -1,0 +1,21 @@
+{
+    "id": "calidris_alpina",
+    "class": "aves",
+    "order": "charadriiformes",
+    "name-jp": "ハマシギ",
+    "name-cn": "黑腹滨鹬",
+    "photos": [
+        {
+            "id": "calidris_alpina_202510051259",
+            "location": "ふなばし三番瀬海浜公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "calidris_alpina_202605091427",
+            "location": "ふなばし三番瀬海浜公園",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

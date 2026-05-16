@@ -1,0 +1,27 @@
+{
+    "id": "himantopus_mexicanus",
+    "class": "aves",
+    "order": "charadriiformes",
+    "name-jp": "クロエリセイタカシギ",
+    "name-cn": "黑颈长脚鹬",
+    "photos": [
+        {
+            "id": "himantopus_mexicanus_202310011414",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "himantopus_mexicanus_202408311604",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "himantopus_mexicanus_202408311607",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}
