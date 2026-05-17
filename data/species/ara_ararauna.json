@@ -1,0 +1,21 @@
+{
+    "id": "ara_ararauna",
+    "class": "aves",
+    "order": "psittaciformes",
+    "name-jp": "ルリコンゴウインコ",
+    "name-cn": "黄蓝金刚鹦鹉",
+    "photos": [
+        {
+            "id": "ara_ararauna_202403201406",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ara_ararauna_202410051358",
+            "location": "伊豆シャボテン動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

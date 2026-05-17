@@ -1,0 +1,33 @@
+{
+    "id": "threskiornis_melanocephalus",
+    "class": "aves",
+    "order": "pelecaniformes",
+    "name-jp": "クロトキ",
+    "name-cn": "黑头白鹮",
+    "photos": [
+        {
+            "id": "threskiornis_melanocephalus_202308131511",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "threskiornis_melanocephalus_202310081213",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "threskiornis_melanocephalus_202407201028",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "threskiornis_melanocephalus_202407201029",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

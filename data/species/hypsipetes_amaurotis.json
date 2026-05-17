@@ -1,0 +1,33 @@
+{
+    "id": "hypsipetes_amaurotis",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "ヒヨドリ",
+    "name-cn": "栗耳短脚鹎",
+    "photos": [
+        {
+            "id": "hypsipetes_amaurotis_202502091437",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "hypsipetes_amaurotis_202503201602",
+            "location": "新宿御苑",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "hypsipetes_amaurotis_202503201609",
+            "location": "新宿御苑",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "hypsipetes_amaurotis_202506211515",
+            "location": "東京都府中市南町",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

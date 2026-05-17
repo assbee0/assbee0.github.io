@@ -1,0 +1,27 @@
+{
+    "id": "sagittarius_serpentarius",
+    "class": "aves",
+    "order": "accipitriformes",
+    "name-jp": "ヘビクイワシ",
+    "name-cn": "蛇鹫",
+    "photos": [
+        {
+            "id": "sagittarius_serpentarius_202505241510",
+            "location": "千葉市動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "sagittarius_serpentarius_202505241514_1",
+            "location": "千葉市動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "sagittarius_serpentarius_202505241514_2",
+            "location": "千葉市動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

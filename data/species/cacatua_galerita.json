@@ -1,0 +1,15 @@
+{
+    "id": "cacatua_galerita",
+    "class": "aves",
+    "order": "psittaciformes",
+    "name-jp": "キバタン",
+    "name-cn": "葵花凤头鹦鹉",
+    "photos": [
+        {
+            "id": "cacatua_galerita_202408311610",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

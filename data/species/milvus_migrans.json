@@ -1,0 +1,21 @@
+{
+    "id": "milvus_migrans",
+    "class": "aves",
+    "order": "accipitriformes",
+    "name-jp": "トビ",
+    "name-cn": "黑鸢",
+    "photos": [
+        {
+            "id": "milvus_migrans_202405111418_1",
+            "location": "横浜・八景島シーパラダイス",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "milvus_migrans_202405111418_2",
+            "location": "横浜・八景島シーパラダイス",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

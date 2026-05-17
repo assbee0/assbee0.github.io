@@ -1,0 +1,15 @@
+{
+    "id": "diopsittaca_nobilis",
+    "class": "aves",
+    "order": "psittaciformes",
+    "name-jp": "コミドリコンゴウインコ",
+    "name-cn": "红肩金刚鹦鹉",
+    "photos": [
+        {
+            "id": "diopsittaca_nobilis_202401041310",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

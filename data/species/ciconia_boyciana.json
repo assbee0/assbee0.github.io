@@ -1,0 +1,27 @@
+{
+    "id": "ciconia_boyciana",
+    "class": "aves",
+    "order": "ciconiiformes",
+    "name-jp": "コウノトリ",
+    "name-cn": "东方白鹳",
+    "photos": [
+        {
+            "id": "ciconia_boyciana_202308131517",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ciconia_boyciana_202404281604",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ciconia_boyciana_202404281606",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

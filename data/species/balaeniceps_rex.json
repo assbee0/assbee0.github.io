@@ -1,0 +1,33 @@
+{
+    "id": "balaeniceps_rex",
+    "class": "aves",
+    "order": "pelecaniformes",
+    "name-jp": "ハシビロコウ",
+    "name-cn": "鲸头鹳",
+    "photos": [
+        {
+            "id": "balaeniceps_rex_202402181536",
+            "location": "千葉市動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "balaeniceps_rex_202408311423",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "balaeniceps_rex_202408311428",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "balaeniceps_rex_202408311430",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "vultur_gryphus",
+    "class": "aves",
+    "order": "accipitriformes",
+    "name-jp": "コンドル",
+    "name-cn": "安第斯神鹫",
+    "photos": [
+        {
+            "id": "vultur_gryphus_202408311537",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "vultur_gryphus_202505101534",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

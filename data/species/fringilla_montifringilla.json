@@ -1,0 +1,21 @@
+{
+    "id": "fringilla_montifringilla",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "アトリ",
+    "name-cn": "燕雀",
+    "photos": [
+        {
+            "id": "fringilla_montifringilla_202505101543",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "fringilla_montifringilla_202505101553",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

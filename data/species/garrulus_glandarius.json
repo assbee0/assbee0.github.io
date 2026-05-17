@@ -1,0 +1,21 @@
+{
+    "id": "garrulus_glandarius",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "カケス",
+    "name-cn": "松鸦",
+    "photos": [
+        {
+            "id": "garrulus_glandarius_202408131523_1",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "garrulus_glandarius_202408131523_2",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

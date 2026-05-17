@@ -1,0 +1,15 @@
+{
+    "id": "nymphicus_hollandicus",
+    "class": "aves",
+    "order": "psittaciformes",
+    "name-jp": "オカメインコ",
+    "name-cn": "鸡尾鹦鹉",
+    "photos": [
+        {
+            "id": "nymphicus_hollandicus_202408131451",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "ara_macao",
+    "class": "aves",
+    "order": "psittaciformes",
+    "name-jp": "コンゴウインコ",
+    "name-cn": "五彩金刚鹦鹉",
+    "photos": [
+        {
+            "id": "ara_macao_202410051358",
+            "location": "伊豆シャボテン動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

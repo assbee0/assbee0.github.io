@@ -1,0 +1,15 @@
+{
+    "id": "calliope_calliope",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "ノゴマ",
+    "name-cn": "红喉歌鸲",
+    "photos": [
+        {
+            "id": "calliope_calliope_202505101544",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

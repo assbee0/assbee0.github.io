@@ -1,0 +1,15 @@
+{
+    "id": "anthus_japonicus",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "タヒバリ",
+    "name-cn": "黄腹鹨",
+    "photos": [
+        {
+            "id": "anthus_japonicus_202601311403",
+            "location": "一ノ宮公園",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

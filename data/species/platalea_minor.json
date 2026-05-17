@@ -1,0 +1,33 @@
+{
+    "id": "platalea_minor",
+    "class": "aves",
+    "order": "pelecaniformes",
+    "name-jp": "クロツラヘラサギ",
+    "name-cn": "黑脸琵鹭",
+    "photos": [
+        {
+            "id": "platalea_minor_202310081214",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "platalea_minor_202310081216",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "platalea_minor_202407201028",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "platalea_minor_202407201030",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

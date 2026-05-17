@@ -1,0 +1,15 @@
+{
+    "id": "urocissa_erythroryncha",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "サンジャク",
+    "name-cn": "红嘴蓝鹊",
+    "photos": [
+        {
+            "id": "urocissa_erythroryncha_202408131524",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

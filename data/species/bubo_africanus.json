@@ -1,0 +1,15 @@
+{
+    "id": "bubo_africanus",
+    "class": "aves",
+    "order": "strigiformes",
+    "name-jp": "アフリカワシミミズク",
+    "name-cn": "斑点雕鸮",
+    "photos": [
+        {
+            "id": "bubo_africanus_202405111246",
+            "location": "横浜・八景島シーパラダイス",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

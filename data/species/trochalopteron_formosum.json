@@ -1,0 +1,15 @@
+{
+    "id": "trochalopteron_formosum",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "アカバネガビチョウ",
+    "name-cn": "红翅噪鹛",
+    "photos": [
+        {
+            "id": "trochalopteron_formosum_202501021348",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

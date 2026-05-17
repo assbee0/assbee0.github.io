@@ -1,0 +1,21 @@
+{
+    "id": "ploceus_cucullatus",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "ズグロウロコハタオリ",
+    "name-cn": "黑头织布鸟",
+    "photos": [
+        {
+            "id": "ploceus_cucullatus_202405251431",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ploceus_cucullatus_202502091435",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

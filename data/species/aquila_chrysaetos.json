@@ -1,0 +1,15 @@
+{
+    "id": "aquila_chrysaetos",
+    "class": "aves",
+    "order": "accipitriformes",
+    "name-jp": "イヌワシ",
+    "name-cn": "金雕",
+    "photos": [
+        {
+            "id": "aquila_chrysaetos_202409221346",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

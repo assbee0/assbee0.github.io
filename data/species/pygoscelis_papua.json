@@ -1,0 +1,15 @@
+{
+    "id": "pygoscelis_papua",
+    "class": "aves",
+    "order": "sphenisciformes",
+    "name-jp": "ジェンツーペンギン",
+    "name-cn": "巴布亚企鹅",
+    "photos": [
+        {
+            "id": "pygoscelis_papua_202405111503",
+            "location": "横浜・八景島シーパラダイス",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

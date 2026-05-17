@@ -1,0 +1,21 @@
+{
+    "id": "nisaetus_nipalensis",
+    "class": "aves",
+    "order": "accipitriformes",
+    "name-jp": "クマタカ",
+    "name-cn": "鹰雕",
+    "photos": [
+        {
+            "id": "nisaetus_nipalensis_202407201127",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "nisaetus_nipalensis_202505101528",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "ara_militaris",
+    "class": "aves",
+    "order": "psittaciformes",
+    "name-jp": "ミドリコンゴウインコ",
+    "name-cn": "军金刚鹦鹉",
+    "photos": [
+        {
+            "id": "ara_militaris_202410051358",
+            "location": "伊豆シャボテン動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

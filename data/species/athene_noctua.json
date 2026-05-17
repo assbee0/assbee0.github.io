@@ -1,0 +1,15 @@
+{
+    "id": "athene_noctua",
+    "class": "aves",
+    "order": "strigiformes",
+    "name-jp": "コキンメフクロウ",
+    "name-cn": "纵纹腹小鸮",
+    "photos": [
+        {
+            "id": "athene_noctua_202410051321",
+            "location": "伊豆シャボテン動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

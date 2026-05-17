@@ -1,0 +1,15 @@
+{
+    "id": "trichoglossus_haematodus",
+    "class": "aves",
+    "order": "psittaciformes",
+    "name-jp": "ニューギニアゴシキセイガイインコ",
+    "name-cn": "椰果鹦鹉",
+    "photos": [
+        {
+            "id": "trichoglossus_haematodus_202408131445",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "pterorhinus_chinensis",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "タイカンチョウ",
+    "name-cn": "黑喉噪鹛",
+    "photos": [
+        {
+            "id": "pterorhinus_chinensis_202501021349",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

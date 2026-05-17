@@ -1,0 +1,15 @@
+{
+    "id": "lophoceros_alboterminatus",
+    "class": "aves",
+    "order": "bucerotiformes",
+    "name-jp": "カンムリコサイチョウ",
+    "name-cn": "冕弯嘴犀鸟",
+    "photos": [
+        {
+            "id": "lophoceros_alboterminatus_202507191314",
+            "location": "埼玉県こども動物自然公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

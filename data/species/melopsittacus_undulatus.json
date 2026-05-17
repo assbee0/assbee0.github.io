@@ -1,0 +1,21 @@
+{
+    "id": "melopsittacus_undulatus",
+    "class": "aves",
+    "order": "psittaciformes",
+    "name-jp": "セキセイインコ",
+    "name-cn": "虎皮鹦鹉",
+    "photos": [
+        {
+            "id": "melopsittacus_undulatus_202408131449",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "melopsittacus_undulatus_202408131450",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "bombycilla_japonica",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "ヒレンジャク",
+    "name-cn": "小太平鸟",
+    "photos": [
+        {
+            "id": "bombycilla_japonica_202512291421",
+            "location": "北海公园",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

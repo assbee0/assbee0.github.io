@@ -1,0 +1,15 @@
+{
+    "id": "coracias_caudatus",
+    "class": "aves",
+    "order": "coraciiformes",
+    "name-jp": "ライラックニシブッポウソウ",
+    "name-cn": "紫胸佛法僧",
+    "photos": [
+        {
+            "id": "coracias_caudatus_202502091431",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

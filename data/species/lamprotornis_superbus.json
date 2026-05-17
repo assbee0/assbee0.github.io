@@ -1,0 +1,15 @@
+{
+    "id": "lamprotornis_superbus",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "ツキノワテリムク",
+    "name-cn": "栗头丽椋鸟",
+    "photos": [
+        {
+            "id": "lamprotornis_superbus_202505241410",
+            "location": "千葉市動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

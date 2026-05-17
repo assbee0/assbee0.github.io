@@ -1,0 +1,15 @@
+{
+    "id": "lophotibis_cristata",
+    "class": "aves",
+    "order": "pelecaniformes",
+    "name-jp": "マダガスカルトキ",
+    "name-cn": "凤头林鹮",
+    "photos": [
+        {
+            "id": "lophotibis_cristata_202408311602",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

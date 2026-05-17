@@ -1,0 +1,27 @@
+{
+    "id": "lamprotornis_chalybaeus",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "セイキムクドリ",
+    "name-cn": "蓝耳丽椋鸟",
+    "photos": [
+        {
+            "id": "lamprotornis_chalybaeus_202405251426_1",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "lamprotornis_chalybaeus_202405251426_2",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "lamprotornis_chalybaeus_202505101515",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

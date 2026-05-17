@@ -1,0 +1,15 @@
+{
+    "id": "neophron_percnopterus",
+    "class": "aves",
+    "order": "accipitriformes",
+    "name-jp": "エジプトハゲワシ",
+    "name-cn": "白兀鹫",
+    "photos": [
+        {
+            "id": "neophron_percnopterus_202505241517",
+            "location": "千葉市動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

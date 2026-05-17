@@ -1,0 +1,15 @@
+{
+    "id": "corvus_corone",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "ハシボソガラス",
+    "name-cn": "小嘴乌鸦",
+    "photos": [
+        {
+            "id": "corvus_corone_202410271545",
+            "location": "金沢動物園",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

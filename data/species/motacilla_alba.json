@@ -1,0 +1,27 @@
+{
+    "id": "motacilla_alba",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "ハクセキレイ",
+    "name-cn": "白鹡鸰",
+    "photos": [
+        {
+            "id": "motacilla_alba_202412011422",
+            "location": "水元公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "motacilla_alba_202503201550",
+            "location": "新宿御苑",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "motacilla_alba_202506211339",
+            "location": "東京都日野市落川",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

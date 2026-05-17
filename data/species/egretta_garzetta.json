@@ -1,0 +1,45 @@
+{
+    "id": "egretta_garzetta",
+    "class": "aves",
+    "order": "pelecaniformes",
+    "name-jp": "コサギ",
+    "name-cn": "白鹭",
+    "photos": [
+        {
+            "id": "egretta_garzetta_202404131601",
+            "location": "不忍池",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "egretta_garzetta_202412011119",
+            "location": "水元公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "egretta_garzetta_202412011123",
+            "location": "水元公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "egretta_garzetta_202504291650",
+            "location": "上海动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "egretta_garzetta_202505111406",
+            "location": "東京港野鳥公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "egretta_garzetta_202505111446",
+            "location": "東京港野鳥公園",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

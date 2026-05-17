@@ -1,0 +1,15 @@
+{
+    "id": "turdus_cardis",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "クロツグミ",
+    "name-cn": "乌灰鸫",
+    "photos": [
+        {
+            "id": "turdus_cardis_202505101541",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

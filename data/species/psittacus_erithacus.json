@@ -1,0 +1,15 @@
+{
+    "id": "psittacus_erithacus",
+    "class": "aves",
+    "order": "psittaciformes",
+    "name-jp": "ヨウム",
+    "name-cn": "非洲灰鹦鹉",
+    "photos": [
+        {
+            "id": "psittacus_erithacus_202408131443",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

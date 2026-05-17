@@ -1,0 +1,27 @@
+{
+    "id": "saxicola_maurus",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "ノビタキ",
+    "name-cn": "黑喉石䳭",
+    "photos": [
+        {
+            "id": "saxicola_maurus_202605051002",
+            "location": "奥林匹克森林公园",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "saxicola_maurus_202605051003",
+            "location": "奥林匹克森林公园",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "saxicola_maurus_202605051008",
+            "location": "奥林匹克森林公园",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

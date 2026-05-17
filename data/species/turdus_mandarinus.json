@@ -1,0 +1,51 @@
+{
+    "id": "turdus_mandarinus",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "クロウタドリ",
+    "name-cn": "乌鸫",
+    "photos": [
+        {
+            "id": "turdus_mandarinus_202504281530",
+            "location": "新江湾湿地生态观鸟拍鸟基地",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "turdus_mandarinus_202504281532",
+            "location": "新江湾湿地生态观鸟拍鸟基地",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "turdus_mandarinus_202504281551",
+            "location": "上海市杨浦区",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "turdus_mandarinus_202504281656",
+            "location": "上海市杨浦区",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "turdus_mandarinus_202512291352",
+            "location": "北海公园",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "turdus_mandarinus_202605011516",
+            "location": "上海世纪公园",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "turdus_mandarinus_202605041648",
+            "location": "元大都城垣遗址公园",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

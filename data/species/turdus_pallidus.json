@@ -1,0 +1,15 @@
+{
+    "id": "turdus_pallidus",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "シロハラ",
+    "name-cn": "白腹鸫",
+    "photos": [
+        {
+            "id": "turdus_pallidus_202601271411",
+            "location": "多摩動物公園",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

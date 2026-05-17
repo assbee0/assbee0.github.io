@@ -1,0 +1,21 @@
+{
+    "id": "geronticus_eremita",
+    "class": "aves",
+    "order": "pelecaniformes",
+    "name-jp": "ホオアカトキ",
+    "name-cn": "隐鹮",
+    "photos": [
+        {
+            "id": "geronticus_eremita_202407201549",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "geronticus_eremita_202501131638",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

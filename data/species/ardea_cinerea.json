@@ -1,0 +1,51 @@
+{
+    "id": "ardea_cinerea",
+    "class": "aves",
+    "order": "pelecaniformes",
+    "name-jp": "アオサギ",
+    "name-cn": "苍鹭",
+    "photos": [
+        {
+            "id": "ardea_cinerea_202404281227_1",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ardea_cinerea_202404281227_2",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ardea_cinerea_202405031132",
+            "location": "奥林匹克森林公园",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "ardea_cinerea_202502091245",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "ardea_cinerea_202503201454",
+            "location": "新宿御苑",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "ardea_cinerea_202503201458",
+            "location": "新宿御苑",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "ardea_cinerea_202505111404",
+            "location": "東京港野鳥公園",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "strix_nebulosa",
+    "class": "aves",
+    "order": "strigiformes",
+    "name-jp": "カラフトフクロウ",
+    "name-cn": "乌林鸮",
+    "photos": [
+        {
+            "id": "strix_nebulosa_202410051353",
+            "location": "伊豆シャボテン動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

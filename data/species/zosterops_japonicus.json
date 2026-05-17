@@ -1,0 +1,39 @@
+{
+    "id": "zosterops_japonicus",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "メジロ",
+    "name-cn": "日本绣眼鸟",
+    "photos": [
+        {
+            "id": "zosterops_japonicus_202503221434",
+            "location": "代々木公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "zosterops_japonicus_202503221442_1",
+            "location": "代々木公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "zosterops_japonicus_202503221442_2",
+            "location": "代々木公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "zosterops_japonicus_202503221442_3",
+            "location": "代々木公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "zosterops_japonicus_202603211327",
+            "location": "桜ヶ丘公園",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

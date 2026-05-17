@@ -1,0 +1,21 @@
+{
+    "id": "pygoscelis_adeliae",
+    "class": "aves",
+    "order": "sphenisciformes",
+    "name-jp": "アデリーペンギン",
+    "name-cn": "阿德利企鹅",
+    "photos": [
+        {
+            "id": "pygoscelis_adeliae_202405111500",
+            "location": "横浜・八景島シーパラダイス",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "pygoscelis_adeliae_202509211549",
+            "location": "名古屋港水族館",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "bubulcus_coromandus",
+    "class": "aves",
+    "order": "pelecaniformes",
+    "name-jp": "アマサギ",
+    "name-cn": "牛背鹭",
+    "photos": [
+        {
+            "id": "bubulcus_coromandus_202407201033",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

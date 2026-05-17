@@ -1,0 +1,15 @@
+{
+    "id": "cochlearius_cochlearius",
+    "class": "aves",
+    "order": "pelecaniformes",
+    "name-jp": "ヒロハシサギ",
+    "name-cn": "船嘴鹭",
+    "photos": [
+        {
+            "id": "cochlearius_cochlearius_202402181534",
+            "location": "千葉市動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

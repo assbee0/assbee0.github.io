@@ -1,0 +1,27 @@
+{
+    "id": "dendrocopos_major",
+    "class": "aves",
+    "order": "piciformes",
+    "name-jp": "アカゲラ",
+    "name-cn": "大斑啄木鸟",
+    "photos": [
+        {
+            "id": "dendrocopos_major_202412311356",
+            "location": "奥林匹克森林公园",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "dendrocopos_major_202512291428",
+            "location": "北海公园",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "dendrocopos_major_202512311555",
+            "location": "北京动物园",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

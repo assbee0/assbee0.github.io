@@ -1,0 +1,21 @@
+{
+    "id": "falco_peregrinus",
+    "class": "aves",
+    "order": "falconiformes",
+    "name-jp": "ハヤブサ",
+    "name-cn": "游隼",
+    "photos": [
+        {
+            "id": "falco_peregrinus_202504291711",
+            "location": "上海动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "falco_peregrinus_202509061356",
+            "location": "ふなばし三番瀬海浜公園",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

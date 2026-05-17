@@ -1,0 +1,33 @@
+{
+    "id": "eophona_migratoria",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "コイカル",
+    "name-cn": "黑尾蜡嘴雀",
+    "photos": [
+        {
+            "id": "eophona_migratoria_202512311358",
+            "location": "北京动物园",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "eophona_migratoria_202512311519",
+            "location": "北京动物园",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "eophona_migratoria_202605011541",
+            "location": "上海世纪公园",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "eophona_migratoria_202605011545",
+            "location": "上海世纪公园",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

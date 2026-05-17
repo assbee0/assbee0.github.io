@@ -1,0 +1,15 @@
+{
+    "id": "buceros_rhinoceros",
+    "class": "aves",
+    "order": "bucerotiformes",
+    "name-jp": "サイチョウ",
+    "name-cn": "马来犀鸟",
+    "photos": [
+        {
+            "id": "buceros_rhinoceros_202508141456",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

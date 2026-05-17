@@ -1,0 +1,51 @@
+{
+    "id": "pycnonotus_sinensis",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "シロガシラ",
+    "name-cn": "白头鹎",
+    "photos": [
+        {
+            "id": "pycnonotus_sinensis_202408131520",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "pycnonotus_sinensis_202504281634",
+            "location": "新江湾城公园",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "pycnonotus_sinensis_202504281635",
+            "location": "新江湾城公园",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "pycnonotus_sinensis_202504281636",
+            "location": "新江湾城公园",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "pycnonotus_sinensis_202504281637_1",
+            "location": "新江湾城公园",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "pycnonotus_sinensis_202504281637_2",
+            "location": "新江湾城公园",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "pycnonotus_sinensis_202512291342",
+            "location": "北海公园",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

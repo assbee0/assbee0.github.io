@@ -1,0 +1,21 @@
+{
+    "id": "astur_gentilis",
+    "class": "aves",
+    "order": "accipitriformes",
+    "name-jp": "オオタカ",
+    "name-cn": "苍鹰",
+    "photos": [
+        {
+            "id": "astur_gentilis_202404281631",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "astur_gentilis_202408131527",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

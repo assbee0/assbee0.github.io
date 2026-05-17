@@ -1,0 +1,15 @@
+{
+    "id": "ninox_japonica",
+    "class": "aves",
+    "order": "strigiformes",
+    "name-jp": "アオバズク",
+    "name-cn": "日本鹰鸮",
+    "photos": [
+        {
+            "id": "ninox_japonica_202505101508",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

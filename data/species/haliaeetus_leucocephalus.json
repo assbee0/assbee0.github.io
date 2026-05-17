@@ -1,0 +1,15 @@
+{
+    "id": "haliaeetus_leucocephalus",
+    "class": "aves",
+    "order": "accipitriformes",
+    "name-jp": "ハクトウワシ",
+    "name-cn": "白头海雕",
+    "photos": [
+        {
+            "id": "haliaeetus_leucocephalus_202509231444",
+            "location": "東山動植物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

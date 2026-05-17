@@ -1,0 +1,21 @@
+{
+    "id": "rhyticeros_undulatus",
+    "class": "aves",
+    "order": "bucerotiformes",
+    "name-jp": "シワコブサイチョウ",
+    "name-cn": "花冠皱盔犀鸟",
+    "photos": [
+        {
+            "id": "rhyticeros_undulatus_202401041312",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "rhyticeros_undulatus_202501021346",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

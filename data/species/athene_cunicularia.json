@@ -1,0 +1,15 @@
+{
+    "id": "athene_cunicularia",
+    "class": "aves",
+    "order": "strigiformes",
+    "name-jp": "アナホリフクロウ",
+    "name-cn": "穴小鸮",
+    "photos": [
+        {
+            "id": "athene_cunicularia_202409161302",
+            "location": "江戸川区自然動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "ara_chloropterus",
+    "class": "aves",
+    "order": "psittaciformes",
+    "name-jp": "ベニコンゴウインコ",
+    "name-cn": "红绿金刚鹦鹉",
+    "photos": [
+        {
+            "id": "ara_chloropterus_202308131533",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": "motacilla_grandis",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "セグロセキレイ",
+    "name-cn": "日本鹡鸰",
+    "photos": [
+        {
+            "id": "motacilla_grandis_202505101546",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "motacilla_grandis_202511301504",
+            "location": "国営昭和記念公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "motacilla_grandis_202511301505",
+            "location": "国営昭和記念公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "motacilla_grandis_202601171247",
+            "location": "一ノ宮公園",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

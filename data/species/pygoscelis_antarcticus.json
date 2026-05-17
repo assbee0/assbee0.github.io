@@ -1,0 +1,27 @@
+{
+    "id": "pygoscelis_antarcticus",
+    "class": "aves",
+    "order": "sphenisciformes",
+    "name-jp": "ヒゲペンギン",
+    "name-cn": "帽带企鹅",
+    "photos": [
+        {
+            "id": "pygoscelis_antarcticus_202509211546",
+            "location": "名古屋港水族館",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "pygoscelis_antarcticus_202509211548",
+            "location": "名古屋港水族館",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "pygoscelis_antarcticus_202509211614",
+            "location": "名古屋港水族館",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

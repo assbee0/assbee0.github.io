@@ -1,0 +1,27 @@
+{
+    "id": "ramphastos_toco",
+    "class": "aves",
+    "order": "piciformes",
+    "name-jp": "オニオオハシ",
+    "name-cn": "托哥巨嘴鸟",
+    "photos": [
+        {
+            "id": "ramphastos_toco_202404281631",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ramphastos_toco_202408131528",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ramphastos_toco_202505241414",
+            "location": "千葉市動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

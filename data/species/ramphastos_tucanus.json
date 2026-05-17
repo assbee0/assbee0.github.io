@@ -1,0 +1,15 @@
+{
+    "id": "ramphastos_tucanus",
+    "class": "aves",
+    "order": "piciformes",
+    "name-jp": "シロムネオオハシ",
+    "name-cn": "红嘴巨嘴鸟",
+    "photos": [
+        {
+            "id": "ramphastos_tucanus_202410051319",
+            "location": "伊豆シャボテン動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

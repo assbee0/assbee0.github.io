@@ -1,0 +1,15 @@
+{
+    "id": "gyps_africanus",
+    "class": "aves",
+    "order": "accipitriformes",
+    "name-jp": "コシジロハゲワシ",
+    "name-cn": "非洲兀鹫",
+    "photos": [
+        {
+            "id": "gyps_africanus_202505101532",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "hirundo_rustica",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "ツバメ",
+    "name-cn": "家燕",
+    "photos": [
+        {
+            "id": "hirundo_rustica_202604121147",
+            "location": "東京都多摩市関戸",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "acridotheres_tristis",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "インドハッカ",
+    "name-cn": "家八哥",
+    "photos": [
+        {
+            "id": "acridotheres_tristis_202604061605",
+            "location": "Pasir Ris Park",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "oriolus_chinensis",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "コウライウグイス",
+    "name-cn": "黑枕黄鹂",
+    "photos": [
+        {
+            "id": "oriolus_chinensis_202505241418",
+            "location": "千葉市動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

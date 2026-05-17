@@ -1,0 +1,33 @@
+{
+    "id": "phalacrocorax_carbo",
+    "class": "aves",
+    "order": "suliformes",
+    "name-jp": "カワウ",
+    "name-cn": "普通鸬鹚",
+    "photos": [
+        {
+            "id": "phalacrocorax_carbo_202408131102",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "phalacrocorax_carbo_202408311407_1",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "phalacrocorax_carbo_202408311407_2",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "phalacrocorax_carbo_202409161445",
+            "location": "葛西臨海公園",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

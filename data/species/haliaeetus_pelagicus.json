@@ -1,0 +1,21 @@
+{
+    "id": "haliaeetus_pelagicus",
+    "class": "aves",
+    "order": "accipitriformes",
+    "name-jp": "オオワシ",
+    "name-cn": "虎头海雕",
+    "photos": [
+        {
+            "id": "haliaeetus_pelagicus_202310011640",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "haliaeetus_pelagicus_202409221340",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

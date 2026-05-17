@@ -1,0 +1,21 @@
+{
+    "id": "hirundo_javanica",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "リュウキュウツバメ",
+    "name-cn": "洋燕",
+    "photos": [
+        {
+            "id": "hirundo_javanica_202604061615",
+            "location": "Pasir Ris Park",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "hirundo_javanica_202604061616",
+            "location": "Pasir Ris Park",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

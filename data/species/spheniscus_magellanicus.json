@@ -1,0 +1,21 @@
+{
+    "id": "spheniscus_magellanicus",
+    "class": "aves",
+    "order": "sphenisciformes",
+    "name-jp": "マゼランペンギン",
+    "name-cn": "麦哲伦企鹅",
+    "photos": [
+        {
+            "id": "spheniscus_magellanicus_202401041254",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "spheniscus_magellanicus_202405111534",
+            "location": "横浜・八景島シーパラダイス",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

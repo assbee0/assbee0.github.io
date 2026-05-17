@@ -1,0 +1,33 @@
+{
+    "id": "garrulax_canorus",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "ガビチョウ",
+    "name-cn": "画眉",
+    "photos": [
+        {
+            "id": "garrulax_canorus_202408131513",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "garrulax_canorus_202408131515",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "garrulax_canorus_202604121202_1",
+            "location": "東京都多摩市関戸",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "garrulax_canorus_202604121202_2",
+            "location": "東京都多摩市関戸",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

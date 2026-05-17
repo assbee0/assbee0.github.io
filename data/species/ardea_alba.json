@@ -1,0 +1,21 @@
+{
+    "id": "ardea_alba",
+    "class": "aves",
+    "order": "pelecaniformes",
+    "name-jp": "ダイサギ",
+    "name-cn": "大白鹭",
+    "photos": [
+        {
+            "id": "ardea_alba_202309241439",
+            "location": "新宿御苑",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "ardea_alba_202507051409",
+            "location": "多摩動物公園",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

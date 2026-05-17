@@ -1,0 +1,15 @@
+{
+    "id": "garrulax_leucolophus",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "ハクオウチョウ",
+    "name-cn": "白冠噪鹛",
+    "photos": [
+        {
+            "id": "garrulax_leucolophus_202406031049",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

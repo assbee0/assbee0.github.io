@@ -1,0 +1,33 @@
+{
+    "id": "pelecanus_onocrotalus",
+    "class": "aves",
+    "order": "pelecaniformes",
+    "name-jp": "モモイロペリカン",
+    "name-cn": "白鹈鹕",
+    "photos": [
+        {
+            "id": "pelecanus_onocrotalus_202401041324",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "pelecanus_onocrotalus_202408131042",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "pelecanus_onocrotalus_202409221604",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "pelecanus_onocrotalus_202410271304",
+            "location": "金沢動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

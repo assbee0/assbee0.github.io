@@ -1,0 +1,21 @@
+{
+    "id": "bombycilla_garrulus",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "キレンジャク",
+    "name-cn": "太平鸟",
+    "photos": [
+        {
+            "id": "bombycilla_garrulus_202508141433",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "bombycilla_garrulus_202512291454",
+            "location": "北海公园",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

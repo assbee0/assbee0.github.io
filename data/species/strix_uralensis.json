@@ -1,0 +1,15 @@
+{
+    "id": "strix_uralensis",
+    "class": "aves",
+    "order": "strigiformes",
+    "name-jp": "フクロウ",
+    "name-cn": "长尾林鸮",
+    "photos": [
+        {
+            "id": "strix_uralensis_202506191453",
+            "location": "井の頭自然文化園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

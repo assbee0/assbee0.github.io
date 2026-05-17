@@ -1,0 +1,15 @@
+{
+    "id": "chloris_sinica",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "カワラヒワ",
+    "name-cn": "金翅雀",
+    "photos": [
+        {
+            "id": "chloris_sinica_202512291313",
+            "location": "北海公园",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

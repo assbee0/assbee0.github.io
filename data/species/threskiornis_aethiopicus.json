@@ -1,0 +1,21 @@
+{
+    "id": "threskiornis_aethiopicus",
+    "class": "aves",
+    "order": "pelecaniformes",
+    "name-jp": "アフリカクロトキ",
+    "name-cn": "埃及圣鹮",
+    "photos": [
+        {
+            "id": "threskiornis_aethiopicus_202410051211",
+            "location": "伊豆シャボテン動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "threskiornis_aethiopicus_202410051214",
+            "location": "伊豆シャボテン動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

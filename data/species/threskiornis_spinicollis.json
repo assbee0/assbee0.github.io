@@ -1,0 +1,15 @@
+{
+    "id": "threskiornis_spinicollis",
+    "class": "aves",
+    "order": "pelecaniformes",
+    "name-jp": "ムギワラトキ",
+    "name-cn": "蓑颈白鹮",
+    "photos": [
+        {
+            "id": "threskiornis_spinicollis_202407201548",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

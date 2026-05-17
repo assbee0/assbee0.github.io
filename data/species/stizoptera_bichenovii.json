@@ -1,0 +1,15 @@
+{
+    "id": "stizoptera_bichenovii",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "カノコスズメ",
+    "name-cn": "双斑草雀",
+    "photos": [
+        {
+            "id": "stizoptera_bichenovii_202408311614",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

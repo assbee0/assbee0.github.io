@@ -1,0 +1,15 @@
+{
+    "id": "strix_chacoensis",
+    "class": "aves",
+    "order": "strigiformes",
+    "name-jp": "チャコモリフクロウ",
+    "name-cn": "查科林鸮",
+    "photos": [
+        {
+            "id": "strix_chacoensis_202410051325",
+            "location": "伊豆シャボテン動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

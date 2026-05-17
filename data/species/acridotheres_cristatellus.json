@@ -1,0 +1,27 @@
+{
+    "id": "acridotheres_cristatellus",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "ハッカチョウ",
+    "name-cn": "八哥",
+    "photos": [
+        {
+            "id": "acridotheres_cristatellus_202504291611",
+            "location": "上海动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "acridotheres_cristatellus_202504291613",
+            "location": "上海动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "acridotheres_cristatellus_202512311512",
+            "location": "北京动物园",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

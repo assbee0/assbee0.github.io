@@ -1,0 +1,15 @@
+{
+    "id": "troglodytes_troglodytes",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "ミソサザイ",
+    "name-cn": "鹪鹩",
+    "photos": [
+        {
+            "id": "troglodytes_troglodytes_202412311504",
+            "location": "奥林匹克森林公园",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

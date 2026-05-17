@@ -1,0 +1,15 @@
+{
+    "id": "phalacrocorax_capillatus",
+    "class": "aves",
+    "order": "suliformes",
+    "name-jp": "ウミウ",
+    "name-cn": "暗绿背鸬鹚",
+    "photos": [
+        {
+            "id": "phalacrocorax_capillatus_202412011421",
+            "location": "水元公園",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

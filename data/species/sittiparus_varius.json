@@ -1,0 +1,33 @@
+{
+    "id": "sittiparus_varius",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "ヤマガラ",
+    "name-cn": "杂色山雀",
+    "photos": [
+        {
+            "id": "sittiparus_varius_202601171436",
+            "location": "桜ヶ丘公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "sittiparus_varius_202601171448",
+            "location": "桜ヶ丘公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "sittiparus_varius_202601311537",
+            "location": "桜ヶ丘公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "sittiparus_varius_202601311538",
+            "location": "桜ヶ丘公園",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

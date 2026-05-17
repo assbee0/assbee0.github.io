@@ -1,0 +1,21 @@
+{
+    "id": "plegadis_ridgwayi",
+    "class": "aves",
+    "order": "pelecaniformes",
+    "name-jp": "アンデスブロンズトキ",
+    "name-cn": "秘鲁彩鹮",
+    "photos": [
+        {
+            "id": "plegadis_ridgwayi_202407201546",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "plegadis_ridgwayi_202501131638",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

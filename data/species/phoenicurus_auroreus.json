@@ -1,0 +1,33 @@
+{
+    "id": "phoenicurus_auroreus",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "ジョウビタキ",
+    "name-cn": "北红尾鸲",
+    "photos": [
+        {
+            "id": "phoenicurus_auroreus_202501131520",
+            "location": "多摩動物公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "phoenicurus_auroreus_202502091423",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "phoenicurus_auroreus_202502091424",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "phoenicurus_auroreus_202603211324",
+            "location": "桜ヶ丘公園",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

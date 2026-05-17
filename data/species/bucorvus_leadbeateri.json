@@ -1,0 +1,21 @@
+{
+    "id": "bucorvus_leadbeateri",
+    "class": "aves",
+    "order": "bucerotiformes",
+    "name-jp": "ミナミジサイチョウ",
+    "name-cn": "红脸地犀鸟",
+    "photos": [
+        {
+            "id": "bucorvus_leadbeateri_202310221414",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "bucorvus_leadbeateri_202507191318",
+            "location": "埼玉県こども動物自然公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "buceros_bicornis",
+    "class": "aves",
+    "order": "bucerotiformes",
+    "name-jp": "オオサイチョウ",
+    "name-cn": "双角犀鸟",
+    "photos": [
+        {
+            "id": "buceros_bicornis_202504291639",
+            "location": "上海动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

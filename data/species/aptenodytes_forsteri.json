@@ -1,0 +1,15 @@
+{
+    "id": "aptenodytes_forsteri",
+    "class": "aves",
+    "order": "sphenisciformes",
+    "name-jp": "コウテイペンギン",
+    "name-cn": "帝企鹅",
+    "photos": [
+        {
+            "id": "aptenodytes_forsteri_202509211609",
+            "location": "名古屋港水族館",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

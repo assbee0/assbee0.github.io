@@ -1,0 +1,21 @@
+{
+    "id": "pandion_haliaetus",
+    "class": "aves",
+    "order": "accipitriformes",
+    "name-jp": "ミサゴ",
+    "name-cn": "鹗",
+    "photos": [
+        {
+            "id": "pandion_haliaetus_202604250838_1",
+            "location": "東京都多摩市関戸",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "pandion_haliaetus_202604250838_2",
+            "location": "東京都多摩市関戸",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

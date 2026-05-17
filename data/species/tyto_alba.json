@@ -1,0 +1,15 @@
+{
+    "id": "tyto_alba",
+    "class": "aves",
+    "order": "strigiformes",
+    "name-jp": "メンフクロウ",
+    "name-cn": "苍鸮",
+    "photos": [
+        {
+            "id": "tyto_alba_202410051126",
+            "location": "伊豆シャボテン動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

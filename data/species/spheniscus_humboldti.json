@@ -1,0 +1,63 @@
+{
+    "id": "spheniscus_humboldti",
+    "class": "aves",
+    "order": "sphenisciformes",
+    "name-jp": "フンボルトペンギン",
+    "name-cn": "洪堡企鹅",
+    "photos": [
+        {
+            "id": "spheniscus_humboldti_202307151130",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "spheniscus_humboldti_202309031550",
+            "location": "井の頭自然文化園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "spheniscus_humboldti_202311241545",
+            "location": "埼玉県こども動物自然公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "spheniscus_humboldti_202404211605_1",
+            "location": "八木山動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "spheniscus_humboldti_202404211605_2",
+            "location": "八木山動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "spheniscus_humboldti_202405251217_1",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "spheniscus_humboldti_202405251217_2",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "spheniscus_humboldti_202407151008",
+            "location": "鳥羽水族館",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "spheniscus_humboldti_202502111454",
+            "location": "夢見ヶ崎動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "turdus_eunomus",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "ツグミ",
+    "name-cn": "斑鸫",
+    "photos": [
+        {
+            "id": "turdus_eunomus_202601311409",
+            "location": "一ノ宮公園",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

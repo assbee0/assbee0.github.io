@@ -1,0 +1,15 @@
+{
+    "id": "gracula_religiosa",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "キュウカンチョウ",
+    "name-cn": "鹩哥",
+    "photos": [
+        {
+            "id": "gracula_religiosa_202504291717",
+            "location": "上海动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

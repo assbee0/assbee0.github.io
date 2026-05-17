@@ -1,0 +1,15 @@
+{
+    "id": "mycteria_ibis",
+    "class": "aves",
+    "order": "ciconiiformes",
+    "name-jp": "アフリカトキコウ",
+    "name-cn": "黄嘴鹮鹳",
+    "photos": [
+        {
+            "id": "mycteria_ibis_202504291614",
+            "location": "上海动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

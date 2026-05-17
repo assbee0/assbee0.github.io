@@ -1,0 +1,15 @@
+{
+    "id": "cathartes_aura",
+    "class": "aves",
+    "order": "accipitriformes",
+    "name-jp": "ヒメコンドル",
+    "name-cn": "红头美洲鹫",
+    "photos": [
+        {
+            "id": "cathartes_aura_202509231510",
+            "location": "東山動植物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

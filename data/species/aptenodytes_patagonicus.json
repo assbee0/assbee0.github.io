@@ -1,0 +1,27 @@
+{
+    "id": "aptenodytes_patagonicus",
+    "class": "aves",
+    "order": "sphenisciformes",
+    "name-jp": "オウサマペンギン",
+    "name-cn": "王企鹅",
+    "photos": [
+        {
+            "id": "aptenodytes_patagonicus_202405111454",
+            "location": "横浜・八景島シーパラダイス",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "aptenodytes_patagonicus_202412141353",
+            "location": "葛西臨海水族園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "aptenodytes_patagonicus_202412141400",
+            "location": "葛西臨海水族園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

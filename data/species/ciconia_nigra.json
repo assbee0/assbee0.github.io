@@ -1,0 +1,27 @@
+{
+    "id": "ciconia_nigra",
+    "class": "aves",
+    "order": "ciconiiformes",
+    "name-jp": "ナベコウ",
+    "name-cn": "黑鹳",
+    "photos": [
+        {
+            "id": "ciconia_nigra_202310081221",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ciconia_nigra_202401041314",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ciconia_nigra_202501021341",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

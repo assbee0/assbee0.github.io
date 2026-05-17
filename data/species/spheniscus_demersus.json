@@ -1,0 +1,33 @@
+{
+    "id": "spheniscus_demersus",
+    "class": "aves",
+    "order": "sphenisciformes",
+    "name-jp": "ケープペンギン",
+    "name-cn": "斑嘴环企鹅",
+    "photos": [
+        {
+            "id": "spheniscus_demersus_202306101318",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "spheniscus_demersus_202405111412_1",
+            "location": "横浜・八景島シーパラダイス",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "spheniscus_demersus_202405111412_2",
+            "location": "横浜・八景島シーパラダイス",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "spheniscus_demersus_202405111414",
+            "location": "横浜・八景島シーパラダイス",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

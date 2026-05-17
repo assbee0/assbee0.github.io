@@ -1,0 +1,15 @@
+{
+    "id": "anastomus_oscitans",
+    "class": "aves",
+    "order": "ciconiiformes",
+    "name-jp": "シロスキハシコウ",
+    "name-cn": "钳嘴鹤",
+    "photos": [
+        {
+            "id": "anastomus_oscitans_202604031408",
+            "location": "Singapore Botanic Gardens",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

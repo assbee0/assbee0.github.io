@@ -1,0 +1,15 @@
+{
+    "id": "pica_serica",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "カササギ",
+    "name-cn": "喜鹊",
+    "photos": [
+        {
+            "id": "pica_serica_202512281439",
+            "location": "奥林匹克森林公园",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

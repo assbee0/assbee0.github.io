@@ -1,0 +1,15 @@
+{
+    "id": "cyanopica_cyanus",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "オナガ",
+    "name-cn": "灰喜鹊",
+    "photos": [
+        {
+            "id": "cyanopica_cyanus_202512291323",
+            "location": "北海公园",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

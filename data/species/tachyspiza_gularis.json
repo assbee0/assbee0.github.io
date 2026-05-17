@@ -1,0 +1,21 @@
+{
+    "id": "tachyspiza_gularis",
+    "class": "aves",
+    "order": "accipitriformes",
+    "name-jp": "ツミ",
+    "name-cn": "日本松雀鹰",
+    "photos": [
+        {
+            "id": "tachyspiza_gularis_202506191454",
+            "location": "井の頭自然文化園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "tachyspiza_gularis_202506191455",
+            "location": "井の頭自然文化園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

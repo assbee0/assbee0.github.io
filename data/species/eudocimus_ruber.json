@@ -1,0 +1,33 @@
+{
+    "id": "eudocimus_ruber",
+    "class": "aves",
+    "order": "pelecaniformes",
+    "name-jp": "ショウジョウトキ",
+    "name-cn": "美洲红鹮",
+    "photos": [
+        {
+            "id": "eudocimus_ruber_202402181345",
+            "location": "千葉市動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "eudocimus_ruber_202407151147",
+            "location": "鳥羽水族館",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "eudocimus_ruber_202410051211",
+            "location": "伊豆シャボテン動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "eudocimus_ruber_202504291620",
+            "location": "上海动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

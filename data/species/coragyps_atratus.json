@@ -1,0 +1,15 @@
+{
+    "id": "coragyps_atratus",
+    "class": "aves",
+    "order": "accipitriformes",
+    "name-jp": "クロコンドル",
+    "name-cn": "黑美洲鹫",
+    "photos": [
+        {
+            "id": "coragyps_atratus_202509231513",
+            "location": "東山動植物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

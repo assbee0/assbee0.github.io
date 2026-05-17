@@ -1,0 +1,33 @@
+{
+    "id": "leptoptilos_crumenifer",
+    "class": "aves",
+    "order": "ciconiiformes",
+    "name-jp": "アフリカハゲコウ",
+    "name-cn": "非洲秃鹳",
+    "photos": [
+        {
+            "id": "leptoptilos_crumenifer_202404281316",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "leptoptilos_crumenifer_202501021336",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "leptoptilos_crumenifer_202504291526",
+            "location": "上海动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "leptoptilos_crumenifer_202504291527",
+            "location": "上海动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

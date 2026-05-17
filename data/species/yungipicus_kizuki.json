@@ -1,0 +1,21 @@
+{
+    "id": "yungipicus_kizuki",
+    "class": "aves",
+    "order": "piciformes",
+    "name-jp": "コゲラ",
+    "name-cn": "小星头啄木鸟",
+    "photos": [
+        {
+            "id": "yungipicus_kizuki_202603211514_1",
+            "location": "桜ヶ丘公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "yungipicus_kizuki_202603211514_2",
+            "location": "桜ヶ丘公園",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

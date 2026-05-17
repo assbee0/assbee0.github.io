@@ -1,0 +1,15 @@
+{
+    "id": "agapornis_fischeri",
+    "class": "aves",
+    "order": "psittaciformes",
+    "name-jp": "ルリゴシボタンインコ",
+    "name-cn": "费氏牡丹鹦鹉",
+    "photos": [
+        {
+            "id": "agapornis_fischeri_202408131452",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

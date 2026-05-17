@@ -1,0 +1,69 @@
+{
+    "id": "nycticorax_nycticorax",
+    "class": "aves",
+    "order": "pelecaniformes",
+    "name-jp": "ゴイサギ",
+    "name-cn": "夜鹭",
+    "photos": [
+        {
+            "id": "nycticorax_nycticorax_202310011405",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "nycticorax_nycticorax_202311111517",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "nycticorax_nycticorax_202406031033",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "nycticorax_nycticorax_202501021353",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "nycticorax_nycticorax_202504291649",
+            "location": "上海动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "nycticorax_nycticorax_202504291657",
+            "location": "上海动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "nycticorax_nycticorax_202504291705",
+            "location": "上海动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "nycticorax_nycticorax_202605011604",
+            "location": "上海世纪公园",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "nycticorax_nycticorax_202605011605",
+            "location": "上海世纪公园",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "nycticorax_nycticorax_202605011623",
+            "location": "上海世纪公园",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

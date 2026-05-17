@@ -1,0 +1,27 @@
+{
+    "id": "leucopsar_rothschildi",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "カンムリシロムク",
+    "name-cn": "长冠八哥",
+    "photos": [
+        {
+            "id": "leucopsar_rothschildi_202502091553",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "leucopsar_rothschildi_202502091554_1",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "leucopsar_rothschildi_202502091554_2",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

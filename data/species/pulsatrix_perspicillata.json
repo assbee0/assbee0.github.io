@@ -1,0 +1,15 @@
+{
+    "id": "pulsatrix_perspicillata",
+    "class": "aves",
+    "order": "strigiformes",
+    "name-jp": "メガネフクロウ",
+    "name-cn": "眼镜鸮",
+    "photos": [
+        {
+            "id": "pulsatrix_perspicillata_202410051326",
+            "location": "伊豆シャボテン動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}
