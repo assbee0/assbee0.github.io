@@ -6,6 +6,12 @@
     "name-cn": "大山雀",
     "photos": [
         {
+            "id": "parus_cinereus_202601171502",
+            "location": "桜ヶ丘公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
             "id": "parus_cinereus_202503201526",
             "location": "新宿御苑",
             "isWild": true,
@@ -26,12 +32,6 @@
         {
             "id": "parus_cinereus_202506191425_2",
             "location": "井の頭自然文化園",
-            "isWild": true,
-            "description": ""
-        },
-        {
-            "id": "parus_cinereus_202601171502",
-            "location": "桜ヶ丘公園",
             "isWild": true,
             "description": ""
         },

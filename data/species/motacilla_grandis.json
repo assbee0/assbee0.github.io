@@ -6,15 +6,15 @@
     "name-cn": "日本鹡鸰",
     "photos": [
         {
-            "id": "motacilla_grandis_202505101546",
-            "location": "上野動物園",
-            "isWild": false,
-            "description": ""
-        },
-        {
             "id": "motacilla_grandis_202511301504",
             "location": "国営昭和記念公園",
             "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "motacilla_grandis_202505101546",
+            "location": "上野動物園",
+            "isWild": false,
             "description": ""
         },
         {

@@ -6,6 +6,12 @@
     "name-cn": "栗头鳽",
     "photos": [
         {
+            "id": "gorsachius_goisagi_202506191213",
+            "location": "井の頭自然文化園",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "gorsachius_goisagi_202309031532",
             "location": "井の頭自然文化園",
             "isWild": false,
@@ -13,12 +19,6 @@
         },
         {
             "id": "gorsachius_goisagi_202506191211",
-            "location": "井の頭自然文化園",
-            "isWild": false,
-            "description": ""
-        },
-        {
-            "id": "gorsachius_goisagi_202506191213",
             "location": "井の頭自然文化園",
             "isWild": false,
             "description": ""

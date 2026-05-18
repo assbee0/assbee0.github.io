@@ -6,6 +6,12 @@
     "name-cn": "亚洲狗獾",
     "photos": [
         {
+            "id": "meles_leucurus_202504291729_2",
+            "location": "上海动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "meles_leucurus_202504291727",
             "location": "上海动物园",
             "isWild": false,
@@ -13,12 +19,6 @@
         },
         {
             "id": "meles_leucurus_202504291729_1",
-            "location": "上海动物园",
-            "isWild": false,
-            "description": ""
-        },
-        {
-            "id": "meles_leucurus_202504291729_2",
             "location": "上海动物园",
             "isWild": false,
             "description": ""

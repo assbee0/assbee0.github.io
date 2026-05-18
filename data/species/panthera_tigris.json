@@ -6,6 +6,12 @@
     "name-cn": "虎",
     "photos": [
         {
+            "id": "panthera_tigris_202401041510",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "panthera_tigris_202306101528",
             "location": "上野動物園",
             "isWild": false,
@@ -20,12 +26,6 @@
         {
             "id": "panthera_tigris_202308131425",
             "location": "多摩動物公園",
-            "isWild": false,
-            "description": ""
-        },
-        {
-            "id": "panthera_tigris_202401041510",
-            "location": "北京动物园",
             "isWild": false,
             "description": ""
         },

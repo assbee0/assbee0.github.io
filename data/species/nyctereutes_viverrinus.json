@@ -6,6 +6,12 @@
     "name-cn": "日本貉",
     "photos": [
         {
+            "id": "nyctereutes_viverrinus_202504261613",
+            "location": "葛西臨海公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
             "id": "nyctereutes_viverrinus_202401211348_1",
             "location": "多摩動物公園",
             "isWild": false,
@@ -21,12 +27,6 @@
             "id": "nyctereutes_viverrinus_202501131519",
             "location": "多摩動物公園",
             "isWild": false,
-            "description": ""
-        },
-        {
-            "id": "nyctereutes_viverrinus_202504261613",
-            "location": "葛西臨海公園",
-            "isWild": true,
             "description": ""
         }
     ]

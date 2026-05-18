@@ -6,6 +6,12 @@
     "name-cn": "黔金丝猴",
     "photos": [
         {
+            "id": "rhinopithecus_brelichi_202501021307",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "rhinopithecus_brelichi_202406031127",
             "location": "北京动物园",
             "isWild": false,
@@ -13,12 +19,6 @@
         },
         {
             "id": "rhinopithecus_brelichi_202501021304",
-            "location": "北京动物园",
-            "isWild": false,
-            "description": ""
-        },
-        {
-            "id": "rhinopithecus_brelichi_202501021307",
             "location": "北京动物园",
             "isWild": false,
             "description": ""

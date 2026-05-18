@@ -6,15 +6,15 @@
     "name-cn": "疣鼻栖鸭",
     "photos": [
         {
-            "id": "cairina_moschata_202410051409",
-            "location": "伊豆シャボテン動物公園",
-            "isWild": false,
-            "description": ""
-        },
-        {
             "id": "cairina_moschata_202412311406",
             "location": "奥林匹克森林公园",
             "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "cairina_moschata_202410051409",
+            "location": "伊豆シャボテン動物公園",
+            "isWild": false,
             "description": ""
         },
         {

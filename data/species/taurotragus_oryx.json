@@ -6,6 +6,12 @@
     "name-cn": "伊兰羚羊",
     "photos": [
         {
+            "id": "taurotragus_oryx_202405251356",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "taurotragus_oryx_202307151447",
             "location": "よこはま動物園ズーラシア",
             "isWild": false,
@@ -31,12 +37,6 @@
         },
         {
             "id": "taurotragus_oryx_202405251355",
-            "location": "よこはま動物園ズーラシア",
-            "isWild": false,
-            "description": ""
-        },
-        {
-            "id": "taurotragus_oryx_202405251356",
             "location": "よこはま動物園ズーラシア",
             "isWild": false,
             "description": ""

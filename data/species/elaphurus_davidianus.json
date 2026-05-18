@@ -6,6 +6,12 @@
     "name-cn": "麋鹿",
     "photos": [
         {
+            "id": "elaphurus_davidianus_202408131047",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "elaphurus_davidianus_202310081250",
             "location": "多摩動物公園",
             "isWild": false,
@@ -14,12 +20,6 @@
         {
             "id": "elaphurus_davidianus_202407201451",
             "location": "多摩動物公園",
-            "isWild": false,
-            "description": ""
-        },
-        {
-            "id": "elaphurus_davidianus_202408131047",
-            "location": "北京野生动物园",
             "isWild": false,
             "description": ""
         }

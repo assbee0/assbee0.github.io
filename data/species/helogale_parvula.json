@@ -6,6 +6,12 @@
     "name-cn": "侏獴",
     "photos": [
         {
+            "id": "helogale_parvula_202505101254",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "helogale_parvula_202312161436",
             "location": "上野動物園",
             "isWild": false,
@@ -13,12 +19,6 @@
         },
         {
             "id": "helogale_parvula_202312161437",
-            "location": "上野動物園",
-            "isWild": false,
-            "description": ""
-        },
-        {
-            "id": "helogale_parvula_202505101254",
             "location": "上野動物園",
             "isWild": false,
             "description": ""

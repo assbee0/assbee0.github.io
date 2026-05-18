@@ -6,6 +6,12 @@
     "name-cn": "红嘴鸥",
     "photos": [
         {
+            "id": "chroicocephalus_ridibundus_202511241531",
+            "location": "不忍池",
+            "isWild": true,
+            "description": ""
+        },
+        {
             "id": "chroicocephalus_ridibundus_202404131605",
             "location": "不忍池",
             "isWild": true,
@@ -37,12 +43,6 @@
         },
         {
             "id": "chroicocephalus_ridibundus_202511241522",
-            "location": "不忍池",
-            "isWild": true,
-            "description": ""
-        },
-        {
-            "id": "chroicocephalus_ridibundus_202511241531",
             "location": "不忍池",
             "isWild": true,
             "description": ""

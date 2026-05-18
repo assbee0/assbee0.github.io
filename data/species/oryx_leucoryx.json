@@ -6,6 +6,12 @@
     "name-cn": "阿拉伯剑羚",
     "photos": [
         {
+            "id": "oryx_leucoryx_202410271551",
+            "location": "金沢動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "oryx_leucoryx_202410271310",
             "location": "金沢動物園",
             "isWild": false,
@@ -13,12 +19,6 @@
         },
         {
             "id": "oryx_leucoryx_202410271548",
-            "location": "金沢動物園",
-            "isWild": false,
-            "description": ""
-        },
-        {
-            "id": "oryx_leucoryx_202410271551",
             "location": "金沢動物園",
             "isWild": false,
             "description": ""

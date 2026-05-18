@@ -6,6 +6,12 @@
     "name-cn": "豺",
     "photos": [
         {
+            "id": "cuon_alpinus_202405251515_1",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "cuon_alpinus_202307151243",
             "location": "よこはま動物園ズーラシア",
             "isWild": false,
@@ -13,12 +19,6 @@
         },
         {
             "id": "cuon_alpinus_202405251512",
-            "location": "よこはま動物園ズーラシア",
-            "isWild": false,
-            "description": ""
-        },
-        {
-            "id": "cuon_alpinus_202405251515_1",
             "location": "よこはま動物園ズーラシア",
             "isWild": false,
             "description": ""

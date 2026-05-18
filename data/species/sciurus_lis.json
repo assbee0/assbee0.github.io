@@ -6,14 +6,14 @@
     "name-cn": "日本松鼠",
     "photos": [
         {
-            "id": "sciurus_lis_202408311525",
-            "location": "上野動物園",
+            "id": "sciurus_lis_202409161250",
+            "location": "江戸川区自然動物園",
             "isWild": false,
             "description": ""
         },
         {
-            "id": "sciurus_lis_202409161250",
-            "location": "江戸川区自然動物園",
+            "id": "sciurus_lis_202408311525",
+            "location": "上野動物園",
             "isWild": false,
             "description": ""
         },

@@ -6,6 +6,12 @@
     "name-cn": "黑尾鸥",
     "photos": [
         {
+            "id": "larus_crassirostris_202510051238",
+            "location": "ふなばし三番瀬海浜公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
             "id": "larus_crassirostris_202404131604",
             "location": "不忍池",
             "isWild": true,
@@ -15,12 +21,6 @@
             "id": "larus_crassirostris_202405251213",
             "location": "よこはま動物園ズーラシア",
             "isWild": false,
-            "description": ""
-        },
-        {
-            "id": "larus_crassirostris_202510051238",
-            "location": "ふなばし三番瀬海浜公園",
-            "isWild": true,
             "description": ""
         },
         {

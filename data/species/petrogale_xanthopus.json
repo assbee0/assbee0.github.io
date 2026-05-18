@@ -6,6 +6,12 @@
     "name-cn": "黄脚岩袋鼠",
     "photos": [
         {
+            "id": "petrogale_xanthopus_202409221445",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "petrogale_xanthopus_202310081306",
             "location": "多摩動物公園",
             "isWild": false,
@@ -31,12 +37,6 @@
         },
         {
             "id": "petrogale_xanthopus_202409221444",
-            "location": "多摩動物公園",
-            "isWild": false,
-            "description": ""
-        },
-        {
-            "id": "petrogale_xanthopus_202409221445",
             "location": "多摩動物公園",
             "isWild": false,
             "description": ""

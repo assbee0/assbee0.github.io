@@ -6,6 +6,12 @@
     "name-cn": "野马",
     "photos": [
         {
+            "id": "equus_ferus_202502091511",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "equus_ferus_202308131325",
             "location": "多摩動物公園",
             "isWild": false,
@@ -26,12 +32,6 @@
         {
             "id": "equus_ferus_202411091342",
             "location": "多摩動物公園",
-            "isWild": false,
-            "description": ""
-        },
-        {
-            "id": "equus_ferus_202502091511",
-            "location": "よこはま動物園ズーラシア",
             "isWild": false,
             "description": ""
         }

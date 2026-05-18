@@ -6,6 +6,12 @@
     "name-cn": "霍加狓",
     "photos": [
         {
+            "id": "okapia_johnstoni_202405251446",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "okapia_johnstoni_202307151355",
             "location": "よこはま動物園ズーラシア",
             "isWild": false,
@@ -19,12 +25,6 @@
         },
         {
             "id": "okapia_johnstoni_202405251328",
-            "location": "よこはま動物園ズーラシア",
-            "isWild": false,
-            "description": ""
-        },
-        {
-            "id": "okapia_johnstoni_202405251446",
             "location": "よこはま動物園ズーラシア",
             "isWild": false,
             "description": ""

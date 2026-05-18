@@ -6,6 +6,12 @@
     "name-cn": "水豚",
     "photos": [
         {
+            "id": "hydrochoerus_hydrochaeris_202410051356",
+            "location": "伊豆シャボテン動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "hydrochoerus_hydrochaeris_202309031600_1",
             "location": "井の頭自然文化園",
             "isWild": false,
@@ -26,12 +32,6 @@
         {
             "id": "hydrochoerus_hydrochaeris_202311241500",
             "location": "埼玉県こども動物自然公園",
-            "isWild": false,
-            "description": ""
-        },
-        {
-            "id": "hydrochoerus_hydrochaeris_202410051356",
-            "location": "伊豆シャボテン動物公園",
             "isWild": false,
             "description": ""
         },

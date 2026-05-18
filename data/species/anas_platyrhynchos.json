@@ -6,6 +6,12 @@
     "name-cn": "绿头鸭",
     "photos": [
         {
+            "id": "anas_platyrhynchos_202605041612",
+            "location": "元大都城垣遗址公园",
+            "isWild": true,
+            "description": ""
+        },
+        {
             "id": "anas_platyrhynchos_202405031222",
             "location": "奥林匹克森林公园",
             "isWild": true,
@@ -26,12 +32,6 @@
         {
             "id": "anas_platyrhynchos_202412011143",
             "location": "水元公園",
-            "isWild": true,
-            "description": ""
-        },
-        {
-            "id": "anas_platyrhynchos_202605041612",
-            "location": "元大都城垣遗址公园",
             "isWild": true,
             "description": ""
         },

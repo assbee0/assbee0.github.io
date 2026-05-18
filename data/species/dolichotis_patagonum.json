@@ -6,6 +6,12 @@
     "name-cn": "巴塔哥尼亚豚鼠",
     "photos": [
         {
+            "id": "dolichotis_patagonum_202410051207",
+            "location": "伊豆シャボテン動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "dolichotis_patagonum_202309031555",
             "location": "井の頭自然文化園",
             "isWild": false,
@@ -14,12 +20,6 @@
         {
             "id": "dolichotis_patagonum_202311241617",
             "location": "埼玉県こども動物自然公園",
-            "isWild": false,
-            "description": ""
-        },
-        {
-            "id": "dolichotis_patagonum_202410051207",
-            "location": "伊豆シャボテン動物公園",
             "isWild": false,
             "description": ""
         }

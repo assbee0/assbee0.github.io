@@ -6,6 +6,12 @@
     "name-cn": "亚洲小爪水獭",
     "photos": [
         {
+            "id": "aonyx_cinerea_202311241334_2",
+            "location": "埼玉県こども動物自然公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "aonyx_cinerea_202311241332",
             "location": "埼玉県こども動物自然公園",
             "isWild": false,
@@ -19,12 +25,6 @@
         },
         {
             "id": "aonyx_cinerea_202311241334_1",
-            "location": "埼玉県こども動物自然公園",
-            "isWild": false,
-            "description": ""
-        },
-        {
-            "id": "aonyx_cinerea_202311241334_2",
             "location": "埼玉県こども動物自然公園",
             "isWild": false,
             "description": ""

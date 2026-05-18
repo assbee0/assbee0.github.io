@@ -6,6 +6,12 @@
     "name-cn": "黑猩猩",
     "photos": [
         {
+            "id": "pan_troglodytes_202405251336",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "pan_troglodytes_202307151403",
             "location": "よこはま動物園ズーラシア",
             "isWild": false,
@@ -14,12 +20,6 @@
         {
             "id": "pan_troglodytes_202404281734",
             "location": "北京野生动物园",
-            "isWild": false,
-            "description": ""
-        },
-        {
-            "id": "pan_troglodytes_202405251336",
-            "location": "よこはま動物園ズーラシア",
             "isWild": false,
             "description": ""
         },

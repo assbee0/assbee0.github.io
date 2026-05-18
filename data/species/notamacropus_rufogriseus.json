@@ -6,6 +6,12 @@
     "name-cn": "红颈袋鼠",
     "photos": [
         {
+            "id": "notamacropus_rufogriseus_202409161342_2",
+            "location": "江戸川区自然動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "notamacropus_rufogriseus_202311241403",
             "location": "埼玉県こども動物自然公園",
             "isWild": false,
@@ -31,12 +37,6 @@
         },
         {
             "id": "notamacropus_rufogriseus_202409161342_1",
-            "location": "江戸川区自然動物園",
-            "isWild": false,
-            "description": ""
-        },
-        {
-            "id": "notamacropus_rufogriseus_202409161342_2",
             "location": "江戸川区自然動物園",
             "isWild": false,
             "description": ""

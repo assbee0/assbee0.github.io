@@ -6,6 +6,12 @@
     "name-cn": "食蟹猕猴",
     "photos": [
         {
+            "id": "macaca_fascicularis_202604041743_2",
+            "location": "Singapore Zoo",
+            "isWild": true,
+            "description": ""
+        },
+        {
             "id": "macaca_fascicularis_202604041738",
             "location": "Singapore Zoo",
             "isWild": true,
@@ -19,12 +25,6 @@
         },
         {
             "id": "macaca_fascicularis_202604041743_1",
-            "location": "Singapore Zoo",
-            "isWild": true,
-            "description": ""
-        },
-        {
-            "id": "macaca_fascicularis_202604041743_2",
             "location": "Singapore Zoo",
             "isWild": true,
             "description": ""

@@ -6,6 +6,12 @@
     "name-cn": "普通狨",
     "photos": [
         {
+            "id": "callithrix_jacchus_202505241352",
+            "location": "千葉市動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "callithrix_jacchus_202310011608",
             "location": "上野動物園",
             "isWild": false,
@@ -14,12 +20,6 @@
         {
             "id": "callithrix_jacchus_202410051156",
             "location": "伊豆シャボテン動物公園",
-            "isWild": false,
-            "description": ""
-        },
-        {
-            "id": "callithrix_jacchus_202505241352",
-            "location": "千葉市動物公園",
             "isWild": false,
             "description": ""
         }

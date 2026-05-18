@@ -6,6 +6,12 @@
     "name-cn": "灰椋鸟",
     "photos": [
         {
+            "id": "spodiopsar_cineraceus_202508031437",
+            "location": "新宿中央公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
             "id": "spodiopsar_cineraceus_202405191613",
             "location": "新宿中央公園",
             "isWild": true,
@@ -26,12 +32,6 @@
         {
             "id": "spodiopsar_cineraceus_202502111341",
             "location": "不忍池",
-            "isWild": true,
-            "description": ""
-        },
-        {
-            "id": "spodiopsar_cineraceus_202508031437",
-            "location": "新宿中央公園",
             "isWild": true,
             "description": ""
         }

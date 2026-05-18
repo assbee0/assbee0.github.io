@@ -6,6 +6,12 @@
     "name-cn": "熊狸",
     "photos": [
         {
+            "id": "arctictis_binturong_202410051438",
+            "location": "伊豆シャボテン動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "arctictis_binturong_202410051429",
             "location": "伊豆シャボテン動物公園",
             "isWild": false,
@@ -13,12 +19,6 @@
         },
         {
             "id": "arctictis_binturong_202410051437",
-            "location": "伊豆シャボテン動物公園",
-            "isWild": false,
-            "description": ""
-        },
-        {
-            "id": "arctictis_binturong_202410051438",
             "location": "伊豆シャボテン動物公園",
             "isWild": false,
             "description": ""

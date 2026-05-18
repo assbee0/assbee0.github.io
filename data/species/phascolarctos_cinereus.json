@@ -6,6 +6,12 @@
     "name-cn": "树袋熊",
     "photos": [
         {
+            "id": "phascolarctos_cinereus_202508231627",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "phascolarctos_cinereus_202308131357",
             "location": "多摩動物公園",
             "isWild": false,
@@ -31,12 +37,6 @@
         },
         {
             "id": "phascolarctos_cinereus_202501131452",
-            "location": "多摩動物公園",
-            "isWild": false,
-            "description": ""
-        },
-        {
-            "id": "phascolarctos_cinereus_202508231627",
             "location": "多摩動物公園",
             "isWild": false,
             "description": ""

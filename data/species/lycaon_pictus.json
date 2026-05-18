@@ -6,6 +6,12 @@
     "name-cn": "非洲野犬",
     "photos": [
         {
+            "id": "lycaon_pictus_202502091406",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "lycaon_pictus_202405251402",
             "location": "よこはま動物園ズーラシア",
             "isWild": false,
@@ -13,12 +19,6 @@
         },
         {
             "id": "lycaon_pictus_202405251403",
-            "location": "よこはま動物園ズーラシア",
-            "isWild": false,
-            "description": ""
-        },
-        {
-            "id": "lycaon_pictus_202502091406",
             "location": "よこはま動物園ズーラシア",
             "isWild": false,
             "description": ""

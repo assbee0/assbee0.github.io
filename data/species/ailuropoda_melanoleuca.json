@@ -6,6 +6,12 @@
     "name-cn": "大熊猫",
     "photos": [
         {
+            "id": "ailuropoda_melanoleuca_202501021519",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "ailuropoda_melanoleuca_201910051307",
             "location": "上野動物園",
             "isWild": false,
@@ -31,12 +37,6 @@
         },
         {
             "id": "ailuropoda_melanoleuca_202501021514",
-            "location": "北京动物园",
-            "isWild": false,
-            "description": ""
-        },
-        {
-            "id": "ailuropoda_melanoleuca_202501021519",
             "location": "北京动物园",
             "isWild": false,
             "description": ""

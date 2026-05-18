@@ -6,6 +6,12 @@
     "name-cn": "针尾鸭",
     "photos": [
         {
+            "id": "anas_acuta_202502111325",
+            "location": "不忍池",
+            "isWild": true,
+            "description": ""
+        },
+        {
             "id": "anas_acuta_202502111315_1",
             "location": "不忍池",
             "isWild": true,
@@ -13,12 +19,6 @@
         },
         {
             "id": "anas_acuta_202502111315_2",
-            "location": "不忍池",
-            "isWild": true,
-            "description": ""
-        },
-        {
-            "id": "anas_acuta_202502111325",
             "location": "不忍池",
             "isWild": true,
             "description": ""

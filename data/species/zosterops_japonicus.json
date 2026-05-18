@@ -6,6 +6,12 @@
     "name-cn": "日本绣眼鸟",
     "photos": [
         {
+            "id": "zosterops_japonicus_202503221442_3",
+            "location": "代々木公園",
+            "isWild": true,
+            "description": ""
+        },
+        {
             "id": "zosterops_japonicus_202503221434",
             "location": "代々木公園",
             "isWild": true,
@@ -19,12 +25,6 @@
         },
         {
             "id": "zosterops_japonicus_202503221442_2",
-            "location": "代々木公園",
-            "isWild": true,
-            "description": ""
-        },
-        {
-            "id": "zosterops_japonicus_202503221442_3",
             "location": "代々木公園",
             "isWild": true,
             "description": ""

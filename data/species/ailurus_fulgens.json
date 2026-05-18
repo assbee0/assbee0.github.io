@@ -6,6 +6,12 @@
     "name-cn": "小熊猫",
     "photos": [
         {
+            "id": "ailurus_fulgens_202409221610",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "ailurus_fulgens_202404281539",
             "location": "北京野生动物园",
             "isWild": false,
@@ -26,12 +32,6 @@
         {
             "id": "ailurus_fulgens_202404281542",
             "location": "北京野生动物园",
-            "isWild": false,
-            "description": ""
-        },
-        {
-            "id": "ailurus_fulgens_202409221610",
-            "location": "多摩動物公園",
             "isWild": false,
             "description": ""
         },

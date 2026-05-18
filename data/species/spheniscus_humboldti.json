@@ -6,6 +6,12 @@
     "name-cn": "洪堡企鹅",
     "photos": [
         {
+            "id": "spheniscus_humboldti_202405251217_1",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "spheniscus_humboldti_202307151130",
             "location": "よこはま動物園ズーラシア",
             "isWild": false,
@@ -32,12 +38,6 @@
         {
             "id": "spheniscus_humboldti_202404211605_2",
             "location": "八木山動物公園",
-            "isWild": false,
-            "description": ""
-        },
-        {
-            "id": "spheniscus_humboldti_202405251217_1",
-            "location": "よこはま動物園ズーラシア",
             "isWild": false,
             "description": ""
         },

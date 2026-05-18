@@ -6,6 +6,12 @@
     "name-cn": "智利八齿鼠",
     "photos": [
         {
+            "id": "octodon_degus_202408311442",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "octodon_degus_202306101409_1",
             "location": "上野動物園",
             "isWild": false,
@@ -31,12 +37,6 @@
         },
         {
             "id": "octodon_degus_202408311441",
-            "location": "上野動物園",
-            "isWild": false,
-            "description": ""
-        },
-        {
-            "id": "octodon_degus_202408311442",
             "location": "上野動物園",
             "isWild": false,
             "description": ""

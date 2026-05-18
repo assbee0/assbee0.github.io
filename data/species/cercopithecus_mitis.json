@@ -6,6 +6,12 @@
     "name-cn": "青长尾猴",
     "photos": [
         {
+            "id": "cercopithecus_mitis_202408131419_1",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "cercopithecus_mitis_202401041335",
             "location": "北京动物园",
             "isWild": false,
@@ -19,12 +25,6 @@
         },
         {
             "id": "cercopithecus_mitis_202408131417_2",
-            "location": "北京野生动物园",
-            "isWild": false,
-            "description": ""
-        },
-        {
-            "id": "cercopithecus_mitis_202408131419_1",
             "location": "北京野生动物园",
             "isWild": false,
             "description": ""

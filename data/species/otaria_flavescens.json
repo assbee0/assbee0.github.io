@@ -6,6 +6,12 @@
     "name-cn": "南海狮",
     "photos": [
         {
+            "id": "otaria_flavescens_202409161320",
+            "location": "江戸川区自然動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "otaria_flavescens_202409161318_1",
             "location": "江戸川区自然動物園",
             "isWild": false,
@@ -19,12 +25,6 @@
         },
         {
             "id": "otaria_flavescens_202409161319",
-            "location": "江戸川区自然動物園",
-            "isWild": false,
-            "description": ""
-        },
-        {
-            "id": "otaria_flavescens_202409161320",
             "location": "江戸川区自然動物園",
             "isWild": false,
             "description": ""

@@ -6,6 +6,12 @@
     "name-cn": "黑羽狨",
     "photos": [
         {
+            "id": "callithrix_penicillata_202505241359",
+            "location": "千葉市動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "callithrix_penicillata_202410051157_1",
             "location": "伊豆シャボテン動物公園",
             "isWild": false,
@@ -14,12 +20,6 @@
         {
             "id": "callithrix_penicillata_202410051157_2",
             "location": "伊豆シャボテン動物公園",
-            "isWild": false,
-            "description": ""
-        },
-        {
-            "id": "callithrix_penicillata_202505241359",
-            "location": "千葉市動物公園",
             "isWild": false,
             "description": ""
         }

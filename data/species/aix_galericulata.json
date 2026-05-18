@@ -6,6 +6,12 @@
     "name-cn": "鸳鸯",
     "photos": [
         {
+            "id": "aix_galericulata_202512291341",
+            "location": "北海公园",
+            "isWild": true,
+            "description": ""
+        },
+        {
             "id": "aix_galericulata_202308131520",
             "location": "多摩動物公園",
             "isWild": false,
@@ -32,12 +38,6 @@
         {
             "id": "aix_galericulata_202503201447",
             "location": "新宿御苑",
-            "isWild": true,
-            "description": ""
-        },
-        {
-            "id": "aix_galericulata_202512291341",
-            "location": "北海公园",
             "isWild": true,
             "description": ""
         }

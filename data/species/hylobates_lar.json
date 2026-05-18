@@ -6,6 +6,12 @@
     "name-cn": "白掌长臂猿",
     "photos": [
         {
+            "id": "hylobates_lar_202601271510",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "hylobates_lar_202407201457",
             "location": "多摩動物公園",
             "isWild": false,
@@ -13,12 +19,6 @@
         },
         {
             "id": "hylobates_lar_202407201458",
-            "location": "多摩動物公園",
-            "isWild": false,
-            "description": ""
-        },
-        {
-            "id": "hylobates_lar_202601271510",
             "location": "多摩動物公園",
             "isWild": false,
             "description": ""

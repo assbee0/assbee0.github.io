@@ -6,6 +6,12 @@
     "name-cn": "夜鹭",
     "photos": [
         {
+            "id": "nycticorax_nycticorax_202605011605",
+            "location": "上海世纪公园",
+            "isWild": true,
+            "description": ""
+        },
+        {
             "id": "nycticorax_nycticorax_202310011405",
             "location": "上野動物園",
             "isWild": false,
@@ -49,12 +55,6 @@
         },
         {
             "id": "nycticorax_nycticorax_202605011604",
-            "location": "上海世纪公园",
-            "isWild": true,
-            "description": ""
-        },
-        {
-            "id": "nycticorax_nycticorax_202605011605",
             "location": "上海世纪公园",
             "isWild": true,
             "description": ""

@@ -6,6 +6,12 @@
     "name-cn": "短尾矮袋鼠",
     "photos": [
         {
+            "id": "setonix_brachyurus_202507191207",
+            "location": "埼玉県こども動物自然公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "setonix_brachyurus_202311241429",
             "location": "埼玉県こども動物自然公園",
             "isWild": false,
@@ -19,12 +25,6 @@
         },
         {
             "id": "setonix_brachyurus_202507191201",
-            "location": "埼玉県こども動物自然公園",
-            "isWild": false,
-            "description": ""
-        },
-        {
-            "id": "setonix_brachyurus_202507191207",
             "location": "埼玉県こども動物自然公園",
             "isWild": false,
             "description": ""

@@ -6,6 +6,12 @@
     "name-cn": "猎豹",
     "photos": [
         {
+            "id": "acinonyx_jubatus_202407201230",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "acinonyx_jubatus_202310081542",
             "location": "多摩動物公園",
             "isWild": false,
@@ -26,12 +32,6 @@
         {
             "id": "acinonyx_jubatus_202405251416",
             "location": "よこはま動物園ズーラシア",
-            "isWild": false,
-            "description": ""
-        },
-        {
-            "id": "acinonyx_jubatus_202407201230",
-            "location": "多摩動物公園",
             "isWild": false,
             "description": ""
         },
