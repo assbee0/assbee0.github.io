@@ -1,3 +1,14 @@
+html,
+body {
+  font-family:
+    "PingFang SC",
+    "Hiragino Sans GB",
+    "Microsoft YaHei",
+    "Noto Sans SC",
+    "Noto Sans JP",
+    sans-serif;
+}
+
 .homepage-background {
   min-height: 100vh;
   padding: 28px 28px;
@@ -512,11 +523,29 @@
 
   color: #4a5a6a;
 
-  font-family: "Noto Sans SC", "Noto Sans JP", sans-serif;
   font-size: 0.95rem;
-  font-weight: 500;
+  font-weight: normal;
 
   line-height: 1.5;
+}
+
+.meta-item {
+  min-height: 24px;
+
+  display: flex;
+  align-items: center;
+
+  gap: 8px;
+}
+
+.meta-item svg {
+  flex-shrink: 0;
+
+  opacity: 0.8;
+}
+
+.meta-item.hidden {
+  visibility: hidden;
 }
 
 /* =========================
@@ -720,6 +749,7 @@
   .photo-meta {
     flex-direction: column;
     gap: 6px;
+    min-height: 84px;
   }
 
   .level-1 {
