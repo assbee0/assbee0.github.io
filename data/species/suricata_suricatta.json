@@ -1,0 +1,27 @@
+{
+    "id": "suricata_suricatta",
+    "class": "mammalia",
+    "order": "carnivora",
+    "name-jp": "ミーアキャット",
+    "name-cn": "细尾獴",
+    "photos": [
+        {
+            "id": "suricata_suricatta_202502091419",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "suricata_suricatta_202502091421_1",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "suricata_suricatta_202502091421_2",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": "leptailurus_serval",
+    "class": "mammalia",
+    "order": "carnivora",
+    "name-jp": "サーバル",
+    "name-cn": "薮猫",
+    "photos": [
+        {
+            "id": "leptailurus_serval_202403201213",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "leptailurus_serval_202407201236",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "leptailurus_serval_202409221302",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

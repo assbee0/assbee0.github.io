@@ -1,0 +1,15 @@
+{
+    "id": "arctonyx_albogularis",
+    "class": "mammalia",
+    "order": "carnivora",
+    "name-jp": "ブタバナアナグマ",
+    "name-cn": "北部猪獾",
+    "photos": [
+        {
+            "id": "arctonyx_albogularis_202408131607",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

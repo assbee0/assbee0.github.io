@@ -1,0 +1,51 @@
+{
+    "id": "cynomys_ludovicianus",
+    "class": "mammalia",
+    "order": "rodentia",
+    "name-jp": "オグロプレーリードッグ",
+    "name-cn": "黑尾草原犬鼠",
+    "photos": [
+        {
+            "id": "cynomys_ludovicianus_202306101622",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "cynomys_ludovicianus_202404211538",
+            "location": "八木山動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "cynomys_ludovicianus_202408311515",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "cynomys_ludovicianus_202409161246",
+            "location": "江戸川区自然動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "cynomys_ludovicianus_202409161248",
+            "location": "江戸川区自然動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "cynomys_ludovicianus_202409161249",
+            "location": "江戸川区自然動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "cynomys_ludovicianus_202502111536",
+            "location": "夢見ヶ崎動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "equus_hemionus",
+    "class": "mammalia",
+    "order": "perissodactyla",
+    "name-jp": "アジアノロバ",
+    "name-cn": "亚洲野驴",
+    "photos": [
+        {
+            "id": "equus_hemionus_202404281235",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

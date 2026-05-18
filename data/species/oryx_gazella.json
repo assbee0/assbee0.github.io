@@ -1,0 +1,15 @@
+{
+    "id": "oryx_gazella",
+    "class": "mammalia",
+    "order": "artiodactyla",
+    "name-jp": "オリックス",
+    "name-cn": "南非剑羚",
+    "photos": [
+        {
+            "id": "oryx_gazella_202512311429",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

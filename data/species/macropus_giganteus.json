@@ -1,0 +1,39 @@
+{
+    "id": "macropus_giganteus",
+    "class": "mammalia",
+    "order": "diprotodontia",
+    "name-jp": "オオカンガルー",
+    "name-cn": "东部灰袋鼠",
+    "photos": [
+        {
+            "id": "macropus_giganteus_202311241439_1",
+            "location": "埼玉県こども動物自然公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "macropus_giganteus_202311241439_2",
+            "location": "埼玉県こども動物自然公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "macropus_giganteus_202311241441",
+            "location": "埼玉県こども動物自然公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "macropus_giganteus_202410271319",
+            "location": "金沢動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "macropus_giganteus_202410271321",
+            "location": "金沢動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

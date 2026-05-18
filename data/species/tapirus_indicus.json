@@ -1,0 +1,27 @@
+{
+    "id": "tapirus_indicus",
+    "class": "mammalia",
+    "order": "perissodactyla",
+    "name-jp": "マレーバク",
+    "name-cn": "马来貘",
+    "photos": [
+        {
+            "id": "tapirus_indicus_202310081144",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "tapirus_indicus_202310081146",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "tapirus_indicus_202505241523",
+            "location": "千葉市動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

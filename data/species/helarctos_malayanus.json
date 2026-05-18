@@ -1,0 +1,33 @@
+{
+    "id": "helarctos_malayanus",
+    "class": "mammalia",
+    "order": "carnivora",
+    "name-jp": "マレーグマ",
+    "name-cn": "马来熊",
+    "photos": [
+        {
+            "id": "helarctos_malayanus_202310011502",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "helarctos_malayanus_202404131516",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "helarctos_malayanus_202408131354_1",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "helarctos_malayanus_202408131354_2",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

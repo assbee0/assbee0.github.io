@@ -1,0 +1,15 @@
+{
+    "id": "lutra_lutra",
+    "class": "mammalia",
+    "order": "carnivora",
+    "name-jp": "ユーラシアカワウソ",
+    "name-cn": "欧亚水獭",
+    "photos": [
+        {
+            "id": "lutra_lutra_202502091525",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

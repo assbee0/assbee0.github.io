@@ -1,0 +1,21 @@
+{
+    "id": "nyctereutes_procyonoides",
+    "class": "mammalia",
+    "order": "carnivora",
+    "name-jp": "タイリクタヌキ",
+    "name-cn": "貉",
+    "photos": [
+        {
+            "id": "nyctereutes_procyonoides_202504291721",
+            "location": "上海动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "nyctereutes_procyonoides_202504291722",
+            "location": "上海动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

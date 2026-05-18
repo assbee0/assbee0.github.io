@@ -1,0 +1,39 @@
+{
+    "id": "callosciurus_erythraeus",
+    "class": "mammalia",
+    "order": "rodentia",
+    "name-jp": "クリハラリス",
+    "name-cn": "赤腹松鼠",
+    "photos": [
+        {
+            "id": "callosciurus_erythraeus_202404281732",
+            "location": "北京野生动物园",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "callosciurus_erythraeus_202410050954",
+            "location": "静岡県伊東市富戸",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "callosciurus_erythraeus_202410050955_1",
+            "location": "静岡県伊東市富戸",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "callosciurus_erythraeus_202410050955_2",
+            "location": "静岡県伊東市富戸",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "callosciurus_erythraeus_202501191452",
+            "location": "野毛山動物園",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": "myocastor_coypus",
+    "class": "mammalia",
+    "order": "rodentia",
+    "name-jp": "ヌートリア",
+    "name-cn": "海狸鼠",
+    "photos": [
+        {
+            "id": "myocastor_coypus_202404281517_1",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "myocastor_coypus_202404281517_2",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "myocastor_coypus_202404281517_3",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "myocastor_coypus_202408131411",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

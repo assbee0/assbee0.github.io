@@ -1,0 +1,15 @@
+{
+    "id": "lama_guanicoe",
+    "class": "mammalia",
+    "order": "artiodactyla",
+    "name-jp": "グアナコ",
+    "name-cn": "原驼",
+    "photos": [
+        {
+            "id": "lama_guanicoe_202501021146",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

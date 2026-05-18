@@ -1,0 +1,21 @@
+{
+    "id": "hystrix_cristata",
+    "class": "mammalia",
+    "order": "rodentia",
+    "name-jp": "タテガミヤマアラシ",
+    "name-cn": "非洲冕豪猪",
+    "photos": [
+        {
+            "id": "hystrix_cristata_202309031553",
+            "location": "井の頭自然文化園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "hystrix_cristata_202506191557",
+            "location": "井の頭自然文化園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

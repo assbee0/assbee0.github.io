@@ -1,0 +1,45 @@
+{
+    "id": "vulpes_zerda",
+    "class": "mammalia",
+    "order": "carnivora",
+    "name-jp": "フェネック",
+    "name-cn": "耳廓狐",
+    "photos": [
+        {
+            "id": "vulpes_zerda_202309031556",
+            "location": "井の頭自然文化園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "vulpes_zerda_202309031632",
+            "location": "井の頭自然文化園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "vulpes_zerda_202410051229",
+            "location": "伊豆シャボテン動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "vulpes_zerda_202410051230",
+            "location": "伊豆シャボテン動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "vulpes_zerda_202410051330_1",
+            "location": "伊豆シャボテン動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "vulpes_zerda_202410051330_2",
+            "location": "伊豆シャボテン動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

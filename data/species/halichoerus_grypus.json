@@ -1,0 +1,15 @@
+{
+    "id": "halichoerus_grypus",
+    "class": "mammalia",
+    "order": "carnivora",
+    "name-jp": "ハイイロアザラシ",
+    "name-cn": "灰海豹",
+    "photos": [
+        {
+            "id": "halichoerus_grypus_202407150954",
+            "location": "鳥羽水族館",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

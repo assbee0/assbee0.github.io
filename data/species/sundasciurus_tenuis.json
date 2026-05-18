@@ -1,0 +1,15 @@
+{
+    "id": "sundasciurus_tenuis",
+    "class": "mammalia",
+    "order": "rodentia",
+    "name-jp": "ホソスンダリス",
+    "name-cn": "纤小马尾松鼠",
+    "photos": [
+        {
+            "id": "sundasciurus_tenuis_202604031432",
+            "location": "Singapore Botanic Gardens",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

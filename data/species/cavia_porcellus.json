@@ -1,0 +1,15 @@
+{
+    "id": "cavia_porcellus",
+    "class": "mammalia",
+    "order": "rodentia",
+    "name-jp": "テンジクネズミ",
+    "name-cn": "豚鼠",
+    "photos": [
+        {
+            "id": "cavia_porcellus_202410051147",
+            "location": "伊豆シャボテン動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

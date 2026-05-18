@@ -1,0 +1,27 @@
+{
+    "id": "macaca_silenus",
+    "class": "mammalia",
+    "order": "primates",
+    "name-jp": "シシオザル",
+    "name-cn": "狮尾猴",
+    "photos": [
+        {
+            "id": "macaca_silenus_202502091228",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "macaca_silenus_202502091230_1",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "macaca_silenus_202502091230_2",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

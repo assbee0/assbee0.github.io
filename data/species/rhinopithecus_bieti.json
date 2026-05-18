@@ -1,0 +1,27 @@
+{
+    "id": "rhinopithecus_bieti",
+    "class": "mammalia",
+    "order": "primates",
+    "name-jp": "ウンナンシシバナザル",
+    "name-cn": "滇金丝猴",
+    "photos": [
+        {
+            "id": "rhinopithecus_bieti_202406031106",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "rhinopithecus_bieti_202501021327",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "rhinopithecus_bieti_202512311506",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

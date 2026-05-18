@@ -1,0 +1,27 @@
+{
+    "id": "mungos_mungo",
+    "class": "mammalia",
+    "order": "carnivora",
+    "name-jp": "シママングース",
+    "name-cn": "缟獴",
+    "photos": [
+        {
+            "id": "mungos_mungo_202404281509",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "mungos_mungo_202404281510_1",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "mungos_mungo_202404281510_2",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

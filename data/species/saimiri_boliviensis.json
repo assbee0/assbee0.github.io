@@ -1,0 +1,15 @@
+{
+    "id": "saimiri_boliviensis",
+    "class": "mammalia",
+    "order": "primates",
+    "name-jp": "ボリビアリスザル",
+    "name-cn": "亚马逊松鼠猴",
+    "photos": [
+        {
+            "id": "saimiri_boliviensis_202502111523",
+            "location": "夢見ヶ崎動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

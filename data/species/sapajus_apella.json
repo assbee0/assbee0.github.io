@@ -1,0 +1,15 @@
+{
+    "id": "sapajus_apella",
+    "class": "mammalia",
+    "order": "primates",
+    "name-jp": "フサオマキザル",
+    "name-cn": "黑帽悬猴",
+    "photos": [
+        {
+            "id": "sapajus_apella_202501021321",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

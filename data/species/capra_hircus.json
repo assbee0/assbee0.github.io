@@ -1,0 +1,15 @@
+{
+    "id": "capra_hircus",
+    "class": "mammalia",
+    "order": "artiodactyla",
+    "name-jp": "ヤギ",
+    "name-cn": "山羊",
+    "photos": [
+        {
+            "id": "capra_hircus_202410271516",
+            "location": "金沢動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": "bubalus_bubalis",
+    "class": "mammalia",
+    "order": "artiodactyla",
+    "name-jp": "スイギュウ",
+    "name-cn": "水牛",
+    "photos": [
+        {
+            "id": "bubalus_bubalis_202310081232",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "bubalus_bubalis_202401211503_1",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "bubalus_bubalis_202401211503_2",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "bubalus_bubalis_202407201444",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

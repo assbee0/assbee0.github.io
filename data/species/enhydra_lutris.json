@@ -1,0 +1,15 @@
+{
+    "id": "enhydra_lutris",
+    "class": "mammalia",
+    "order": "carnivora",
+    "name-jp": "ラッコ",
+    "name-cn": "海獭",
+    "photos": [
+        {
+            "id": "enhydra_lutris_202407151113",
+            "location": "鳥羽水族館",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

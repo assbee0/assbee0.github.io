@@ -1,0 +1,33 @@
+{
+    "id": "gorilla_gorilla",
+    "class": "mammalia",
+    "order": "primates",
+    "name-jp": "ニシゴリラ",
+    "name-cn": "西部大猩猩",
+    "photos": [
+        {
+            "id": "gorilla_gorilla_202402181317_1",
+            "location": "千葉市動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "gorilla_gorilla_202402181317_2",
+            "location": "千葉市動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "gorilla_gorilla_202402181501",
+            "location": "千葉市動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "gorilla_gorilla_202505241310",
+            "location": "千葉市動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "varecia_variegata",
+    "class": "mammalia",
+    "order": "primates",
+    "name-jp": "クロシロエリマキキツネザル",
+    "name-cn": "领狐猴",
+    "photos": [
+        {
+            "id": "varecia_variegata_202502111513",
+            "location": "夢見ヶ崎動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "phoca_largha",
+    "class": "mammalia",
+    "order": "carnivora",
+    "name-jp": "ゴマフアザラシ",
+    "name-cn": "斑海豹",
+    "photos": [
+        {
+            "id": "phoca_largha_202407150954",
+            "location": "鳥羽水族館",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "ursus_thibetanus",
+    "class": "mammalia",
+    "order": "carnivora",
+    "name-jp": "ツキノワグマ",
+    "name-cn": "亚洲黑熊",
+    "photos": [
+        {
+            "id": "ursus_thibetanus_202407201433",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ursus_thibetanus_202408131112",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ursus_thibetanus_202502091306",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ursus_thibetanus_202502091307",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ursus_thibetanus_202502091308",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

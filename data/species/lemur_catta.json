@@ -1,0 +1,33 @@
+{
+    "id": "lemur_catta",
+    "class": "mammalia",
+    "order": "primates",
+    "name-jp": "ワオキツネザル",
+    "name-cn": "环尾狐猴",
+    "photos": [
+        {
+            "id": "lemur_catta_202404281556",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "lemur_catta_202404281600",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "lemur_catta_202404281602",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "lemur_catta_202404281605",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

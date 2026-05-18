@@ -1,0 +1,33 @@
+{
+    "id": "trichosurus_vulpecula",
+    "class": "mammalia",
+    "order": "diprotodontia",
+    "name-jp": "フクロギツネ",
+    "name-cn": "帚尾袋貂",
+    "photos": [
+        {
+            "id": "trichosurus_vulpecula_202109071206",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "trichosurus_vulpecula_202407201114",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "trichosurus_vulpecula_202411091246",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "trichosurus_vulpecula_202411091248",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

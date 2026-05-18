@@ -1,0 +1,15 @@
+{
+    "id": "lama_glama",
+    "class": "mammalia",
+    "order": "artiodactyla",
+    "name-jp": "ラマ",
+    "name-cn": "大羊驼",
+    "photos": [
+        {
+            "id": "lama_glama_202502111526",
+            "location": "夢見ヶ崎動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

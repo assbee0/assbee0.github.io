@@ -1,0 +1,45 @@
+{
+    "id": "petrogale_xanthopus",
+    "class": "mammalia",
+    "order": "diprotodontia",
+    "name-jp": "シマオイワワラビー",
+    "name-cn": "黄脚岩袋鼠",
+    "photos": [
+        {
+            "id": "petrogale_xanthopus_202310081306",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "petrogale_xanthopus_202311241453",
+            "location": "埼玉県こども動物自然公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "petrogale_xanthopus_202407201055",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "petrogale_xanthopus_202409221442",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "petrogale_xanthopus_202409221444",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "petrogale_xanthopus_202409221445",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

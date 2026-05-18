@@ -1,0 +1,15 @@
+{
+    "id": "castor_canadensis",
+    "class": "mammalia",
+    "order": "rodentia",
+    "name-jp": "アメリカビーバー",
+    "name-cn": "美洲河狸",
+    "photos": [
+        {
+            "id": "castor_canadensis_202407151108",
+            "location": "鳥羽水族館",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

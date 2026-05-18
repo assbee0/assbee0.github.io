@@ -1,0 +1,33 @@
+{
+    "id": "dugong_dugon",
+    "class": "mammalia",
+    "order": "sirenia",
+    "name-jp": "ジュゴン",
+    "name-cn": "儒艮",
+    "photos": [
+        {
+            "id": "dugong_dugon_202407150944",
+            "location": "鳥羽水族館",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "dugong_dugon_202407150946_1",
+            "location": "鳥羽水族館",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "dugong_dugon_202407150946_2",
+            "location": "鳥羽水族館",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "dugong_dugon_202407150947",
+            "location": "鳥羽水族館",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

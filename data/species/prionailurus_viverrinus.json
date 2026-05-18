@@ -1,0 +1,15 @@
+{
+    "id": "prionailurus_viverrinus",
+    "class": "mammalia",
+    "order": "carnivora",
+    "name-jp": "スナドリネコ",
+    "name-cn": "渔猫",
+    "photos": [
+        {
+            "id": "prionailurus_viverrinus_202407151210",
+            "location": "鳥羽水族館",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

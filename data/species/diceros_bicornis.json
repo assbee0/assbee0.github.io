@@ -1,0 +1,45 @@
+{
+    "id": "diceros_bicornis",
+    "class": "mammalia",
+    "order": "perissodactyla",
+    "name-jp": "クロサイ",
+    "name-cn": "黑犀",
+    "photos": [
+        {
+            "id": "diceros_bicornis_202306101358",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "diceros_bicornis_202306101359",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "diceros_bicornis_202310221313",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "diceros_bicornis_202404211423",
+            "location": "八木山動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "diceros_bicornis_202405251419",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "diceros_bicornis_202405251420",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

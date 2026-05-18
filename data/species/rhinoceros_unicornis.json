@@ -1,0 +1,27 @@
+{
+    "id": "rhinoceros_unicornis",
+    "class": "mammalia",
+    "order": "perissodactyla",
+    "name-jp": "インドサイ",
+    "name-cn": "印度犀",
+    "photos": [
+        {
+            "id": "rhinoceros_unicornis_202310081341",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "rhinoceros_unicornis_202501131432",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "rhinoceros_unicornis_202501131433",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

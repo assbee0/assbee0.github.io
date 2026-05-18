@@ -1,0 +1,21 @@
+{
+    "id": "saguinus_oedipus",
+    "class": "mammalia",
+    "order": "primates",
+    "name-jp": "ワタボウシタマリン",
+    "name-cn": "绒顶柽柳猴",
+    "photos": [
+        {
+            "id": "saguinus_oedipus_202409161325",
+            "location": "江戸川区自然動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "saguinus_oedipus_202410051151",
+            "location": "伊豆シャボテン動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

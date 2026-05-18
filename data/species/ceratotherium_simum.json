@@ -1,0 +1,21 @@
+{
+    "id": "ceratotherium_simum",
+    "class": "mammalia",
+    "order": "perissodactyla",
+    "name-jp": "シロサイ",
+    "name-cn": "白犀",
+    "photos": [
+        {
+            "id": "ceratotherium_simum_202404281614",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ceratotherium_simum_202404281615",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

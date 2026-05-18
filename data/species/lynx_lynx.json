@@ -1,0 +1,21 @@
+{
+    "id": "lynx_lynx",
+    "class": "mammalia",
+    "order": "carnivora",
+    "name-jp": "オオヤマネコ",
+    "name-cn": "欧亚猞猁",
+    "photos": [
+        {
+            "id": "lynx_lynx_202501021543_1",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "lynx_lynx_202501021543_2",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

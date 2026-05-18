@@ -1,0 +1,39 @@
+{
+    "id": "ursus_maritimus",
+    "class": "mammalia",
+    "order": "carnivora",
+    "name-jp": "ホッキョクグマ",
+    "name-cn": "北极熊",
+    "photos": [
+        {
+            "id": "ursus_maritimus_202306101458",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ursus_maritimus_202405111118",
+            "location": "横浜・八景島シーパラダイス",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ursus_maritimus_202405251222_1",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ursus_maritimus_202405251222_2",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ursus_maritimus_202405251223",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "bos_taurus",
+    "class": "mammalia",
+    "order": "artiodactyla",
+    "name-jp": "ウシ",
+    "name-cn": "家牛",
+    "photos": [
+        {
+            "id": "bos_taurus_202404281228",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "bos_taurus_202404281229",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

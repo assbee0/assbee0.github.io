@@ -1,0 +1,51 @@
+{
+    "id": "acinonyx_jubatus",
+    "class": "mammalia",
+    "order": "carnivora",
+    "name-jp": "チーター",
+    "name-cn": "猎豹",
+    "photos": [
+        {
+            "id": "acinonyx_jubatus_202310081542",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "acinonyx_jubatus_202310081543",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "acinonyx_jubatus_202402181418",
+            "location": "千葉市動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "acinonyx_jubatus_202405251416",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "acinonyx_jubatus_202407201230",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "acinonyx_jubatus_202601271339",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "acinonyx_jubatus_202601271344",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

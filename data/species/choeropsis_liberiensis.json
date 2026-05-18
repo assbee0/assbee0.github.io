@@ -1,0 +1,27 @@
+{
+    "id": "choeropsis_liberiensis",
+    "class": "mammalia",
+    "order": "artiodactyla",
+    "name-jp": "コビトカバ",
+    "name-cn": "倭河马",
+    "photos": [
+        {
+            "id": "choeropsis_liberiensis_202312161409",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "choeropsis_liberiensis_202505101317_1",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "choeropsis_liberiensis_202505101317_2",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

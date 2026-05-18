@@ -1,0 +1,15 @@
+{
+    "id": "cuniculus_paca",
+    "class": "mammalia",
+    "order": "rodentia",
+    "name-jp": "パカ",
+    "name-cn": "低地斑刺豚鼠",
+    "photos": [
+        {
+            "id": "cuniculus_paca_202406031011",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

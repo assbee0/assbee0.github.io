@@ -1,0 +1,21 @@
+{
+    "id": "callosciurus_notatus",
+    "class": "mammalia",
+    "order": "rodentia",
+    "name-jp": "バナナリス",
+    "name-cn": "大蕉松鼠",
+    "photos": [
+        {
+            "id": "callosciurus_notatus_202604041422",
+            "location": "Singapore Zoo",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "callosciurus_notatus_202604061654",
+            "location": "Pasir Ris Park",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

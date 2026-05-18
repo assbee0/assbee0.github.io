@@ -1,0 +1,15 @@
+{
+    "id": "cavia_aperea",
+    "class": "mammalia",
+    "order": "rodentia",
+    "name-jp": "パンパステンジクネズミ",
+    "name-cn": "巴西豚鼠",
+    "photos": [
+        {
+            "id": "cavia_aperea_202310011614",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

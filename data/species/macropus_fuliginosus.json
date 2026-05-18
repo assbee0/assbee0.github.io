@@ -1,0 +1,21 @@
+{
+    "id": "macropus_fuliginosus",
+    "class": "mammalia",
+    "order": "diprotodontia",
+    "name-jp": "クロカンガルー",
+    "name-cn": "西部灰袋鼠",
+    "photos": [
+        {
+            "id": "macropus_fuliginosus_202410051405_1",
+            "location": "伊豆シャボテン動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "macropus_fuliginosus_202410051405_2",
+            "location": "伊豆シャボテン動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

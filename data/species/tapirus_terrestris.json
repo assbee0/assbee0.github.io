@@ -1,0 +1,15 @@
+{
+    "id": "tapirus_terrestris",
+    "class": "mammalia",
+    "order": "perissodactyla",
+    "name-jp": "アメリカバク",
+    "name-cn": "南美貘",
+    "photos": [
+        {
+            "id": "tapirus_terrestris_202310011430",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

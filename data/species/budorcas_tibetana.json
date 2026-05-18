@@ -1,0 +1,33 @@
+{
+    "id": "budorcas_tibetana",
+    "class": "mammalia",
+    "order": "artiodactyla",
+    "name-jp": "ターキン",
+    "name-cn": "羚牛",
+    "photos": [
+        {
+            "id": "budorcas_tibetana_202404281657",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "budorcas_tibetana_202407201525",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "budorcas_tibetana_202408131608",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "budorcas_tibetana_202501021235",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

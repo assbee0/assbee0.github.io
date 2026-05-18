@@ -1,0 +1,15 @@
+{
+    "id": "manis_pentadactyla",
+    "class": "mammalia",
+    "order": "pholidota",
+    "name-jp": "ミミセンザンコウ",
+    "name-cn": "中华穿山甲",
+    "photos": [
+        {
+            "id": "manis_pentadactyla_202505101445",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

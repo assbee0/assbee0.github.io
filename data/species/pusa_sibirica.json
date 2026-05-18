@@ -1,0 +1,27 @@
+{
+    "id": "pusa_sibirica",
+    "class": "mammalia",
+    "order": "carnivora",
+    "name-jp": "バイカルアザラシ",
+    "name-cn": "贝加尔海豹",
+    "photos": [
+        {
+            "id": "pusa_sibirica_202407150929",
+            "location": "鳥羽水族館",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "pusa_sibirica_202407150930",
+            "location": "鳥羽水族館",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "pusa_sibirica_202407150933",
+            "location": "鳥羽水族館",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "saguinus_midas",
+    "class": "mammalia",
+    "order": "primates",
+    "name-jp": "アカテタマリン",
+    "name-cn": "赤掌柽柳猴",
+    "photos": [
+        {
+            "id": "saguinus_midas_202410051424",
+            "location": "伊豆シャボテン動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "giraffa_reticulata",
+    "class": "mammalia",
+    "order": "artiodactyla",
+    "name-jp": "アミメキリン",
+    "name-cn": "网纹长颈鹿",
+    "photos": [
+        {
+            "id": "giraffa_reticulata_202407201256_1",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "giraffa_reticulata_202407201256_2",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "giraffa_reticulata_202407201257",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "giraffa_reticulata_202407201258_1",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "giraffa_reticulata_202407201258_2",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "giraffa_reticulata_202407201300",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

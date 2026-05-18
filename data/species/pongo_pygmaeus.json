@@ -1,0 +1,45 @@
+{
+    "id": "pongo_pygmaeus",
+    "class": "mammalia",
+    "order": "primates",
+    "name-jp": "ボルネオオランウータン",
+    "name-cn": "婆罗洲猩猩",
+    "photos": [
+        {
+            "id": "pongo_pygmaeus_202308131410",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "pongo_pygmaeus_202308131411",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "pongo_pygmaeus_202403201418",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "pongo_pygmaeus_202409221457",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "pongo_pygmaeus_202409221502",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "pongo_pygmaeus_202601271513",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

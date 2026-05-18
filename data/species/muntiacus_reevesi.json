@@ -1,0 +1,15 @@
+{
+    "id": "muntiacus_reevesi",
+    "class": "mammalia",
+    "order": "artiodactyla",
+    "name-jp": "キョン",
+    "name-cn": "小麂",
+    "photos": [
+        {
+            "id": "muntiacus_reevesi_202512311522",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "dicotyles_tajacu",
+    "class": "mammalia",
+    "order": "artiodactyla",
+    "name-jp": "クビワペッカリー",
+    "name-cn": "领西猯",
+    "photos": [
+        {
+            "id": "dicotyles_tajacu_202408311433",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "dicotyles_tajacu_202410051232",
+            "location": "伊豆シャボテン動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

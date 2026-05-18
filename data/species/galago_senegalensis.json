@@ -1,0 +1,15 @@
+{
+    "id": "galago_senegalensis",
+    "class": "mammalia",
+    "order": "primates",
+    "name-jp": "ショウガラゴ",
+    "name-cn": "婴猴",
+    "photos": [
+        {
+            "id": "galago_senegalensis_202505241329",
+            "location": "千葉市動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

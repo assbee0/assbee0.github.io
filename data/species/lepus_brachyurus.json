@@ -1,0 +1,21 @@
+{
+    "id": "lepus_brachyurus",
+    "class": "mammalia",
+    "order": "lagomorpha",
+    "name-jp": "ニホンノウサギ",
+    "name-cn": "日本兔",
+    "photos": [
+        {
+            "id": "lepus_brachyurus_202405251225",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "lepus_brachyurus_202502091252",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

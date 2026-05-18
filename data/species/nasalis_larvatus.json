@@ -1,0 +1,21 @@
+{
+    "id": "nasalis_larvatus",
+    "class": "mammalia",
+    "order": "primates",
+    "name-jp": "テングザル",
+    "name-cn": "长鼻猴",
+    "photos": [
+        {
+            "id": "nasalis_larvatus_202405251238_1",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "nasalis_larvatus_202405251238_2",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

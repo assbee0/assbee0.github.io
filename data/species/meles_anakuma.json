@@ -1,0 +1,15 @@
+{
+    "id": "meles_anakuma",
+    "class": "mammalia",
+    "order": "carnivora",
+    "name-jp": "ニホンアナグマ",
+    "name-cn": "日本狗獾",
+    "photos": [
+        {
+            "id": "meles_anakuma_202506191547",
+            "location": "井の頭自然文化園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

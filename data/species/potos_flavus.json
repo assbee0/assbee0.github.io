@@ -1,0 +1,21 @@
+{
+    "id": "potos_flavus",
+    "class": "mammalia",
+    "order": "carnivora",
+    "name-jp": "キンカジュー",
+    "name-cn": "蜜熊",
+    "photos": [
+        {
+            "id": "potos_flavus_202410051200",
+            "location": "伊豆シャボテン動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "potos_flavus_202410051419",
+            "location": "伊豆シャボテン動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

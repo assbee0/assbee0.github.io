@@ -1,0 +1,21 @@
+{
+    "id": "saimiri_sciureus",
+    "class": "mammalia",
+    "order": "primates",
+    "name-jp": "コモンリスザル",
+    "name-cn": "松鼠猴",
+    "photos": [
+        {
+            "id": "saimiri_sciureus_202309161554_1",
+            "location": "足立区生物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "saimiri_sciureus_202309161554_2",
+            "location": "足立区生物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

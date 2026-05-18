@@ -1,0 +1,15 @@
+{
+    "id": "lupulella_mesomelas",
+    "class": "mammalia",
+    "order": "carnivora",
+    "name-jp": "セグロジャッカル",
+    "name-cn": "黑背胡狼",
+    "photos": [
+        {
+            "id": "lupulella_mesomelas_202401041446",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

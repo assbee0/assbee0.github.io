@@ -1,0 +1,27 @@
+{
+    "id": "trachypithecus_francoisi",
+    "class": "mammalia",
+    "order": "primates",
+    "name-jp": "フランソワルトン",
+    "name-cn": "黑叶猴",
+    "photos": [
+        {
+            "id": "trachypithecus_francoisi_202502091218_1",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "trachypithecus_francoisi_202502091218_2",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "trachypithecus_francoisi_202502091221",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

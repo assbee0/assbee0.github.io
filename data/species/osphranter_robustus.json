@@ -1,0 +1,39 @@
+{
+    "id": "osphranter_robustus",
+    "class": "mammalia",
+    "order": "diprotodontia",
+    "name-jp": "ケナガワラルー",
+    "name-cn": "岩大袋鼠",
+    "photos": [
+        {
+            "id": "osphranter_robustus_202310081308",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "osphranter_robustus_202310081359",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "osphranter_robustus_202407201058",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "osphranter_robustus_202407201109",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "osphranter_robustus_202409221442",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

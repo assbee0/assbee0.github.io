@@ -1,0 +1,21 @@
+{
+    "id": "tamiasciurus_hudsonicus",
+    "class": "mammalia",
+    "order": "rodentia",
+    "name-jp": "アメリカアカリス",
+    "name-cn": "北美红松鼠",
+    "photos": [
+        {
+            "id": "tamiasciurus_hudsonicus_202502111531",
+            "location": "夢見ヶ崎動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "tamiasciurus_hudsonicus_202502111534",
+            "location": "夢見ヶ崎動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

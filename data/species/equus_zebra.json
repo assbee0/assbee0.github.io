@@ -1,0 +1,15 @@
+{
+    "id": "equus_zebra",
+    "class": "mammalia",
+    "order": "perissodactyla",
+    "name-jp": "ヤマシマウマ",
+    "name-cn": "山斑马",
+    "photos": [
+        {
+            "id": "equus_zebra_202502111508",
+            "location": "夢見ヶ崎動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

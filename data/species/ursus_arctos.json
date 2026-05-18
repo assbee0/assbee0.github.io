@@ -1,0 +1,39 @@
+{
+    "id": "ursus_arctos",
+    "class": "mammalia",
+    "order": "carnivora",
+    "name-jp": "ヒグマ",
+    "name-cn": "棕熊",
+    "photos": [
+        {
+            "id": "ursus_arctos_202404281245",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ursus_arctos_202404281251_1",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ursus_arctos_202404281251_2",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ursus_arctos_202404281251_3",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ursus_arctos_202408131110",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "id": "otocolobus_manul",
+    "class": "mammalia",
+    "order": "carnivora",
+    "name-jp": "マヌルネコ",
+    "name-cn": "兔狲",
+    "photos": [
+        {
+            "id": "otocolobus_manul_202311241622_1",
+            "location": "埼玉県こども動物自然公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "otocolobus_manul_202311241622_2",
+            "location": "埼玉県こども動物自然公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "otocolobus_manul_202311241622_3",
+            "location": "埼玉県こども動物自然公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "otocolobus_manul_202311241623",
+            "location": "埼玉県こども動物自然公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "otocolobus_manul_202311241624",
+            "location": "埼玉県こども動物自然公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "otocolobus_manul_202311241625",
+            "location": "埼玉県こども動物自然公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "otocolobus_manul_202408311439",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

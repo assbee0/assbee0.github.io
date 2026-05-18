@@ -1,0 +1,45 @@
+{
+    "id": "osphranter_rufus",
+    "class": "mammalia",
+    "order": "diprotodontia",
+    "name-jp": "アカカンガルー",
+    "name-cn": "红大袋鼠",
+    "photos": [
+        {
+            "id": "osphranter_rufus_202308131339",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "osphranter_rufus_202310081313",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "osphranter_rufus_202404281742",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "osphranter_rufus_202409221353_1",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "osphranter_rufus_202409221353_2",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "osphranter_rufus_202409221355",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "tamandua_tetradactyla",
+    "class": "mammalia",
+    "order": "pilosa",
+    "name-jp": "ミナミコアリクイ",
+    "name-cn": "小食蚁兽",
+    "photos": [
+        {
+            "id": "tamandua_tetradactyla_202306101534",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

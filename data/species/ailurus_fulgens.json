@@ -1,0 +1,57 @@
+{
+    "id": "ailurus_fulgens",
+    "class": "mammalia",
+    "order": "carnivora",
+    "name-jp": "レッサーパンダ",
+    "name-cn": "小熊猫",
+    "photos": [
+        {
+            "id": "ailurus_fulgens_202404281539",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ailurus_fulgens_202404281540",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ailurus_fulgens_202404281541",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ailurus_fulgens_202404281542",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ailurus_fulgens_202409221610",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ailurus_fulgens_202501191433",
+            "location": "野毛山動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ailurus_fulgens_202505241550",
+            "location": "千葉市動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ailurus_fulgens_202505241559",
+            "location": "千葉市動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

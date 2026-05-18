@@ -1,0 +1,21 @@
+{
+    "id": "capreolus_pygargus",
+    "class": "mammalia",
+    "order": "artiodactyla",
+    "name-jp": "シベリアノロジカ",
+    "name-cn": "西伯利亚狍",
+    "photos": [
+        {
+            "id": "capreolus_pygargus_202512311526",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "capreolus_pygargus_202512311530",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

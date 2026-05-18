@@ -1,0 +1,45 @@
+{
+    "id": "taurotragus_oryx",
+    "class": "mammalia",
+    "order": "artiodactyla",
+    "name-jp": "イランド",
+    "name-cn": "伊兰羚羊",
+    "photos": [
+        {
+            "id": "taurotragus_oryx_202307151447",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "taurotragus_oryx_202401041110",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "taurotragus_oryx_202404281612",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "taurotragus_oryx_202404281613",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "taurotragus_oryx_202405251355",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "taurotragus_oryx_202405251356",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

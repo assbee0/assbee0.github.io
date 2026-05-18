@@ -1,0 +1,33 @@
+{
+    "id": "pseudois_nayaur",
+    "class": "mammalia",
+    "order": "artiodactyla",
+    "name-jp": "バーラル",
+    "name-cn": "岩羊",
+    "photos": [
+        {
+            "id": "pseudois_nayaur_202408131036",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "pseudois_nayaur_202410271418",
+            "location": "金沢動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "pseudois_nayaur_202410271419_1",
+            "location": "金沢動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "pseudois_nayaur_202410271419_2",
+            "location": "金沢動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

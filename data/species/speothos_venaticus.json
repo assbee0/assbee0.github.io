@@ -1,0 +1,21 @@
+{
+    "id": "speothos_venaticus",
+    "class": "mammalia",
+    "order": "carnivora",
+    "name-jp": "ヤブイヌ",
+    "name-cn": "薮犬",
+    "photos": [
+        {
+            "id": "speothos_venaticus_202307151317",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "speothos_venaticus_202405251315",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

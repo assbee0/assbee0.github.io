@@ -1,0 +1,27 @@
+{
+    "id": "capra_falconeri",
+    "class": "mammalia",
+    "order": "artiodactyla",
+    "name-jp": "マーコール",
+    "name-cn": "捻角山羊",
+    "photos": [
+        {
+            "id": "capra_falconeri_202502111456",
+            "location": "夢見ヶ崎動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "capra_falconeri_202502111457",
+            "location": "夢見ヶ崎動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "capra_falconeri_202502111505",
+            "location": "夢見ヶ崎動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

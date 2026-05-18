@@ -1,0 +1,15 @@
+{
+    "id": "capra_sibirica",
+    "class": "mammalia",
+    "order": "artiodactyla",
+    "name-jp": "シベリアアイベックス",
+    "name-cn": "北山羊",
+    "photos": [
+        {
+            "id": "capra_sibirica_202512311528",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

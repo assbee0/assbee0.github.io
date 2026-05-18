@@ -1,0 +1,21 @@
+{
+    "id": "ovis_canadensis",
+    "class": "mammalia",
+    "order": "artiodactyla",
+    "name-jp": "ビッグホーン",
+    "name-cn": "大角羊",
+    "photos": [
+        {
+            "id": "ovis_canadensis_202410271445",
+            "location": "金沢動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ovis_canadensis_202410271450",
+            "location": "金沢動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

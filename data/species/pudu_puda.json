@@ -1,0 +1,15 @@
+{
+    "id": "pudu_puda",
+    "class": "mammalia",
+    "order": "artiodactyla",
+    "name-jp": "プーズー",
+    "name-cn": "南普度鹿",
+    "photos": [
+        {
+            "id": "pudu_puda_202311241544",
+            "location": "埼玉県こども動物自然公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

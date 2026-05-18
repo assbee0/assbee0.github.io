@@ -1,0 +1,33 @@
+{
+    "id": "rhinopithecus_roxellana",
+    "class": "mammalia",
+    "order": "primates",
+    "name-jp": "キンシコウ",
+    "name-cn": "川金丝猴",
+    "photos": [
+        {
+            "id": "rhinopithecus_roxellana_202404281723_1",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "rhinopithecus_roxellana_202404281723_2",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "rhinopithecus_roxellana_202404281723_3",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "rhinopithecus_roxellana_202501021311",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

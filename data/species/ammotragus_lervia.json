@@ -1,0 +1,15 @@
+{
+    "id": "ammotragus_lervia",
+    "class": "mammalia",
+    "order": "artiodactyla",
+    "name-jp": "バーバリーシープ",
+    "name-cn": "蛮羊",
+    "photos": [
+        {
+            "id": "ammotragus_lervia_202501021236",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

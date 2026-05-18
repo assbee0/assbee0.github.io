@@ -1,0 +1,63 @@
+{
+    "id": "phascolarctos_cinereus",
+    "class": "mammalia",
+    "order": "diprotodontia",
+    "name-jp": "コアラ",
+    "name-cn": "树袋熊",
+    "photos": [
+        {
+            "id": "phascolarctos_cinereus_202308131357",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "phascolarctos_cinereus_202401211431",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "phascolarctos_cinereus_202407201116",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "phascolarctos_cinereus_202407201512",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "phascolarctos_cinereus_202501131452",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "phascolarctos_cinereus_202508231627",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "phascolarctos_cinereus_202508231632",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "phascolarctos_cinereus_202509231123",
+            "location": "東山動植物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "phascolarctos_cinereus_202601271500",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

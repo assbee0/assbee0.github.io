@@ -1,0 +1,15 @@
+{
+    "id": "ovis_aries",
+    "class": "mammalia",
+    "order": "artiodactyla",
+    "name-jp": "ヒツジ",
+    "name-cn": "绵羊",
+    "photos": [
+        {
+            "id": "ovis_aries_202307221407",
+            "location": "足立区生物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

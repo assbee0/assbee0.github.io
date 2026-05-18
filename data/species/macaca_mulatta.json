@@ -1,0 +1,27 @@
+{
+    "id": "macaca_mulatta",
+    "class": "mammalia",
+    "order": "primates",
+    "name-jp": "アカゲザル",
+    "name-cn": "普通猕猴",
+    "photos": [
+        {
+            "id": "macaca_mulatta_202401041440",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "macaca_mulatta_202501021527",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "macaca_mulatta_202512311341",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

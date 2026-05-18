@@ -1,0 +1,21 @@
+{
+    "id": "ateles_geoffroyi",
+    "class": "mammalia",
+    "order": "primates",
+    "name-jp": "ジェフロイクモザル",
+    "name-cn": "黑掌蜘蛛猴",
+    "photos": [
+        {
+            "id": "ateles_geoffroyi_202409161327",
+            "location": "江戸川区自然動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ateles_geoffroyi_202409161328",
+            "location": "江戸川区自然動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

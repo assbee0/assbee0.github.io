@@ -1,0 +1,33 @@
+{
+    "id": "crocuta_crocuta",
+    "class": "mammalia",
+    "order": "carnivora",
+    "name-jp": "ブチハイエナ",
+    "name-cn": "斑鬣狗",
+    "photos": [
+        {
+            "id": "crocuta_crocuta_202404281331_1",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "crocuta_crocuta_202404281331_2",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "crocuta_crocuta_202404281640",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "crocuta_crocuta_202404281721",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

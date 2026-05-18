@@ -1,0 +1,15 @@
+{
+    "id": "sus_scrofa",
+    "class": "mammalia",
+    "order": "artiodactyla",
+    "name-jp": "イノシシ",
+    "name-cn": "野猪",
+    "photos": [
+        {
+            "id": "sus_scrofa_202506191437",
+            "location": "井の頭自然文化園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

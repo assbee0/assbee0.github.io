@@ -1,0 +1,33 @@
+{
+    "id": "procavia_capensis",
+    "class": "mammalia",
+    "order": "hyracoidea",
+    "name-jp": "ケープハイラックス",
+    "name-cn": "蹄兔",
+    "photos": [
+        {
+            "id": "procavia_capensis_202312161433",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "procavia_capensis_202408311440",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "procavia_capensis_202502091408",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "procavia_capensis_202502091409",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

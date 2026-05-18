@@ -1,0 +1,51 @@
+{
+    "id": "sciurus_lis",
+    "class": "mammalia",
+    "order": "rodentia",
+    "name-jp": "ニホンリス",
+    "name-cn": "日本松鼠",
+    "photos": [
+        {
+            "id": "sciurus_lis_202408311525",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "sciurus_lis_202409161250",
+            "location": "江戸川区自然動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "sciurus_lis_202506191440",
+            "location": "井の頭自然文化園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "sciurus_lis_202506191441",
+            "location": "井の頭自然文化園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "sciurus_lis_202506191444",
+            "location": "井の頭自然文化園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "sciurus_lis_202506191446",
+            "location": "井の頭自然文化園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "sciurus_lis_202509231137",
+            "location": "東山動植物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

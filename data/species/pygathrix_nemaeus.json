@@ -1,0 +1,39 @@
+{
+    "id": "pygathrix_nemaeus",
+    "class": "mammalia",
+    "order": "primates",
+    "name-jp": "アカアシドゥクラングール",
+    "name-cn": "红腿白臀叶猴",
+    "photos": [
+        {
+            "id": "pygathrix_nemaeus_202405251552",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "pygathrix_nemaeus_202405251554",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "pygathrix_nemaeus_202502091539",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "pygathrix_nemaeus_202502091540",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "pygathrix_nemaeus_202502091541",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

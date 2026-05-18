@@ -1,0 +1,39 @@
+{
+    "id": "elephas_maximus",
+    "class": "mammalia",
+    "order": "proboscidea",
+    "name-jp": "アジアゾウ",
+    "name-cn": "亚洲象",
+    "photos": [
+        {
+            "id": "elephas_maximus_202307151034",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "elephas_maximus_202310081240",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "elephas_maximus_202310081241",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "elephas_maximus_202404281210",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "elephas_maximus_202410271427",
+            "location": "金沢動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

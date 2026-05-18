@@ -1,0 +1,21 @@
+{
+    "id": "macaca_leonina",
+    "class": "mammalia",
+    "order": "primates",
+    "name-jp": "キタブタオザル",
+    "name-cn": "北方豚尾猕猴",
+    "photos": [
+        {
+            "id": "macaca_leonina_202406031015",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "macaca_leonina_202406031020",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

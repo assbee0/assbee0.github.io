@@ -1,0 +1,15 @@
+{
+    "id": "muntiacus_crinifrons",
+    "class": "mammalia",
+    "order": "artiodactyla",
+    "name-jp": "マエガミホエジカ",
+    "name-cn": "黑麂",
+    "photos": [
+        {
+            "id": "muntiacus_crinifrons_202512311535",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

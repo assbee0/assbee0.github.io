@@ -1,0 +1,27 @@
+{
+    "id": "paguma_larvata",
+    "class": "mammalia",
+    "order": "carnivora",
+    "name-jp": "ハクビシン",
+    "name-cn": "花面狸",
+    "photos": [
+        {
+            "id": "paguma_larvata_202403201133",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "paguma_larvata_202408131609",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "paguma_larvata_202506191423",
+            "location": "井の頭自然文化園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

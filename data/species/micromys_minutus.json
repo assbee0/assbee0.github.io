@@ -1,0 +1,15 @@
+{
+    "id": "micromys_minutus",
+    "class": "mammalia",
+    "order": "rodentia",
+    "name-jp": "カヤネズミ",
+    "name-cn": "巢鼠",
+    "photos": [
+        {
+            "id": "micromys_minutus_202407201436",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

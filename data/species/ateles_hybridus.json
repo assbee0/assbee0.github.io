@@ -1,0 +1,45 @@
+{
+    "id": "ateles_hybridus",
+    "class": "mammalia",
+    "order": "primates",
+    "name-jp": "ブラウンケナガクモザル",
+    "name-cn": "棕蜘蛛猴",
+    "photos": [
+        {
+            "id": "ateles_hybridus_202409161240",
+            "location": "江戸川区自然動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ateles_hybridus_202409161242",
+            "location": "江戸川区自然動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ateles_hybridus_202409161351",
+            "location": "江戸川区自然動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ateles_hybridus_202409161352",
+            "location": "江戸川区自然動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ateles_hybridus_202409161353",
+            "location": "江戸川区自然動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ateles_hybridus_202409161354",
+            "location": "江戸川区自然動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

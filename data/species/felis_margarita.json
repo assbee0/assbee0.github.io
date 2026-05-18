@@ -1,0 +1,15 @@
+{
+    "id": "felis_margarita",
+    "class": "mammalia",
+    "order": "carnivora",
+    "name-jp": "スナネコ",
+    "name-cn": "沙猫",
+    "photos": [
+        {
+            "id": "felis_margarita_202507191356",
+            "location": "埼玉県こども動物自然公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

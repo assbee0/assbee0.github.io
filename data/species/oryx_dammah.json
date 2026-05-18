@@ -1,0 +1,21 @@
+{
+    "id": "oryx_dammah",
+    "class": "mammalia",
+    "order": "artiodactyla",
+    "name-jp": "シロオリックス",
+    "name-cn": "弯角剑羚",
+    "photos": [
+        {
+            "id": "oryx_dammah_202308131327",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "oryx_dammah_202402181406",
+            "location": "千葉市動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

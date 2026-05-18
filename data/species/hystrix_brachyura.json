@@ -1,0 +1,21 @@
+{
+    "id": "hystrix_brachyura",
+    "class": "mammalia",
+    "order": "rodentia",
+    "name-jp": "マレーヤマアラシ",
+    "name-cn": "马来豪猪",
+    "photos": [
+        {
+            "id": "hystrix_brachyura_202406031026",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "hystrix_brachyura_202408131414",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

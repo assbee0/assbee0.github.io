@@ -1,0 +1,21 @@
+{
+    "id": "choloepus_didactylus",
+    "class": "mammalia",
+    "order": "pilosa",
+    "name-jp": "フタユビナマケモノ",
+    "name-cn": "二趾树懒",
+    "photos": [
+        {
+            "id": "choloepus_didactylus_202408131400_1",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "choloepus_didactylus_202408131400_2",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

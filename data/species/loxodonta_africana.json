@@ -1,0 +1,15 @@
+{
+    "id": "loxodonta_africana",
+    "class": "mammalia",
+    "order": "proboscidea",
+    "name-jp": "アフリカゾウ",
+    "name-cn": "非洲草原象",
+    "photos": [
+        {
+            "id": "loxodonta_africana_202404211433",
+            "location": "八木山動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

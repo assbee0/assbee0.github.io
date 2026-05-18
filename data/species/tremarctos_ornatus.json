@@ -1,0 +1,27 @@
+{
+    "id": "tremarctos_ornatus",
+    "class": "mammalia",
+    "order": "carnivora",
+    "name-jp": "メガネグマ",
+    "name-cn": "眼镜熊",
+    "photos": [
+        {
+            "id": "tremarctos_ornatus_202502091326",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "tremarctos_ornatus_202502091327",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "tremarctos_ornatus_202502091330",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

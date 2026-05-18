@@ -1,0 +1,21 @@
+{
+    "id": "eulemur_fulvus",
+    "class": "mammalia",
+    "order": "primates",
+    "name-jp": "ブラウンキツネザル",
+    "name-cn": "褐美狐猴",
+    "photos": [
+        {
+            "id": "eulemur_fulvus_202410051421",
+            "location": "伊豆シャボテン動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "eulemur_fulvus_202410051422",
+            "location": "伊豆シャボテン動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

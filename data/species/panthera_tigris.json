@@ -1,0 +1,69 @@
+{
+    "id": "panthera_tigris",
+    "class": "mammalia",
+    "order": "carnivora",
+    "name-jp": "トラ",
+    "name-cn": "虎",
+    "photos": [
+        {
+            "id": "panthera_tigris_202306101528",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "panthera_tigris_202307151051",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "panthera_tigris_202308131425",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "panthera_tigris_202401041510",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "panthera_tigris_202404211527",
+            "location": "八木山動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "panthera_tigris_202404281212",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "panthera_tigris_202404281711",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "panthera_tigris_202408131029",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "panthera_tigris_202408131349_1",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "panthera_tigris_202408131349_2",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

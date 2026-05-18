@@ -1,0 +1,27 @@
+{
+    "id": "arctocephalus_pusillus",
+    "class": "mammalia",
+    "order": "carnivora",
+    "name-jp": "ミナミアフリカオットセイ",
+    "name-cn": "南非海狗",
+    "photos": [
+        {
+            "id": "arctocephalus_pusillus_202407150952",
+            "location": "鳥羽水族館",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "arctocephalus_pusillus_202407150955_1",
+            "location": "鳥羽水族館",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "arctocephalus_pusillus_202407150955_2",
+            "location": "鳥羽水族館",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

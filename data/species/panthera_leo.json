@@ -1,0 +1,63 @@
+{
+    "id": "panthera_leo",
+    "class": "mammalia",
+    "order": "carnivora",
+    "name-jp": "ライオン",
+    "name-cn": "狮",
+    "photos": [
+        {
+            "id": "panthera_leo_202308131203",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "panthera_leo_202308131208",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "panthera_leo_202308131209",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "panthera_leo_202404281711_1",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "panthera_leo_202404281711_2",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "panthera_leo_202404281717",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "panthera_leo_202405251156",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "panthera_leo_202407201238",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "panthera_leo_202408131349",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

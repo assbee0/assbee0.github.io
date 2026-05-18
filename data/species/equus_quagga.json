@@ -1,0 +1,45 @@
+{
+    "id": "equus_quagga",
+    "class": "mammalia",
+    "order": "perissodactyla",
+    "name-jp": "サバンナシマウマ",
+    "name-cn": "平原斑马",
+    "photos": [
+        {
+            "id": "equus_quagga_202307151419",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "equus_quagga_202404281337",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "equus_quagga_202404281338_1",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "equus_quagga_202404281338_2",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "equus_quagga_202405251400",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "equus_quagga_202502091401",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

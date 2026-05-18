@@ -1,0 +1,15 @@
+{
+    "id": "macaca_thibetana",
+    "class": "mammalia",
+    "order": "primates",
+    "name-jp": "チベットモンキー",
+    "name-cn": "藏酉猴",
+    "photos": [
+        {
+            "id": "macaca_thibetana_202405251504",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

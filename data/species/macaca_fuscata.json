@@ -1,0 +1,51 @@
+{
+    "id": "macaca_fuscata",
+    "class": "mammalia",
+    "order": "primates",
+    "name-jp": "ニホンザル",
+    "name-cn": "日本猕猴",
+    "photos": [
+        {
+            "id": "macaca_fuscata_202306101434",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "macaca_fuscata_202306101435",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "macaca_fuscata_202306101436",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "macaca_fuscata_202404131501",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "macaca_fuscata_202407201431",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "macaca_fuscata_202408311511",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "macaca_fuscata_202502091311",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

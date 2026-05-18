@@ -1,0 +1,15 @@
+{
+    "id": "callosciurus_prevostii",
+    "class": "mammalia",
+    "order": "rodentia",
+    "name-jp": "ミケリス",
+    "name-cn": "普氏丽松鼠",
+    "photos": [
+        {
+            "id": "callosciurus_prevostii_202404131432",
+            "location": "上野動物園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

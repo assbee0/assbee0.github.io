@@ -1,0 +1,33 @@
+{
+    "id": "sarcophilus_harrisii",
+    "class": "mammalia",
+    "order": "dasyuromorphia",
+    "name-jp": "タスマニアデビル",
+    "name-cn": "袋獾",
+    "photos": [
+        {
+            "id": "sarcophilus_harrisii_202403201136",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "sarcophilus_harrisii_202403201137",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "sarcophilus_harrisii_202501131458",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "sarcophilus_harrisii_202601271506",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

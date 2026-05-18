@@ -1,0 +1,51 @@
+{
+    "id": "pan_troglodytes",
+    "class": "mammalia",
+    "order": "primates",
+    "name-jp": "チンパンジー",
+    "name-cn": "黑猩猩",
+    "photos": [
+        {
+            "id": "pan_troglodytes_202307151403",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "pan_troglodytes_202404281734",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "pan_troglodytes_202405251336",
+            "location": "よこはま動物園ズーラシア",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "pan_troglodytes_202407201308",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "pan_troglodytes_202408131345",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "pan_troglodytes_202408131347",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "pan_troglodytes_202505241305",
+            "location": "千葉市動物公園",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}
