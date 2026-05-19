@@ -431,6 +431,22 @@
                       "hasWild": false
                     }
                   ]
+                },
+                {
+                  "name": "canis",
+                  "name-jp": "イヌ属",
+                  "name-cn": "犬属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "canis familiaris",
+                      "name-jp": "イエイヌ",
+                      "name-cn": "家犬",
+                      "type": "species",
+                      "icon": "/icon/イエイヌ.jpg",
+                      "hasWild": false
+                    }
+                  ]
                 }
               ]
             },

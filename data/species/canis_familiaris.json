@@ -1,0 +1,123 @@
+{
+    "id": "canis_familiaris",
+    "class": "mammalia",
+    "order": "carnivora",
+    "name-jp": "イエイヌ",
+    "name-cn": "家犬",
+    "photos": [
+        {
+            "id": "canis_familiaris_202508091424",
+            "location": "",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "canis_familiaris_201612031124",
+            "location": "",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "canis_familiaris_201712091213",
+            "location": "",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "canis_familiaris_201712161319",
+            "location": "",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "canis_familiaris_201801061323",
+            "location": "",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "canis_familiaris_201801271324",
+            "location": "",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "canis_familiaris_201803251505",
+            "location": "",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "canis_familiaris_201806031521",
+            "location": "",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "canis_familiaris_201810070747",
+            "location": "",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "canis_familiaris_201810271209",
+            "location": "",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "canis_familiaris_201811232221",
+            "location": "",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "canis_familiaris_202210182123",
+            "location": "",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "canis_familiaris_202304280107",
+            "location": "",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "canis_familiaris_202404272216",
+            "location": "",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "canis_familiaris_202405011550",
+            "location": "",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "canis_familiaris_202405011552",
+            "location": "",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "canis_familiaris_202412301219",
+            "location": "",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "canis_familiaris_202508091427",
+            "location": "",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "canis_familiaris_202605030908",
+            "location": "",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}
