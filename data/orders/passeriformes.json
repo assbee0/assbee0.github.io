@@ -155,6 +155,14 @@
                           "type": "species",
                           "icon": "/icon/ハシブトガラス.jpg",
                           "hasWild": true
+                        },
+                        {
+                          "name": "corvus torquatus",
+                          "name-jp": "クビワガラス",
+                          "name-cn": "白颈鸦",
+                          "type": "species",
+                          "icon": "/icon/クビワガラス.jpg",
+                          "hasWild": false
                         }
                       ]
                     }
@@ -210,6 +218,30 @@
                           "name-cn": "大山雀",
                           "type": "species",
                           "icon": "/icon/シジュウカラ.jpg",
+                          "hasWild": true
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "cisticolidae",
+                  "name-jp": "セッカ科",
+                  "name-cn": "扇尾莺科",
+                  "type": "family",
+                  "children": [
+                    {
+                      "name": "orthotomus",
+                      "name-jp": "サイホウチョウ属",
+                      "name-cn": "缝叶莺属",
+                      "type": "genus",
+                      "icon-children": [
+                        {
+                          "name": "orthotomus ruficeps",
+                          "name-jp": "アカガオサイホウチョウ",
+                          "name-cn": "灰缝叶莺",
+                          "type": "species",
+                          "icon": "/icon/アカガオサイホウチョウ.jpg",
                           "hasWild": true
                         }
                       ]
@@ -500,6 +532,22 @@
                       "name-cn": "鹟科",
                       "type": "family",
                       "children": [
+                        {
+                          "name": "copsychus",
+                          "name-jp": "シキチョウ属",
+                          "name-cn": "鹊鸲属",
+                          "type": "genus",
+                          "icon-children": [
+                            {
+                              "name": "copsychus saularis",
+                              "name-jp": "シキチョウ",
+                              "name-cn": "鹊鸲",
+                              "type": "species",
+                              "icon": "/icon/シキチョウ.jpg",
+                              "hasWild": true
+                            }
+                          ]
+                        },
                         {
                           "name": "calliope",
                           "name-jp": "ノゴマ属",

@@ -99,6 +99,22 @@
               ]
             },
             {
+              "name": "anthracoceros",
+              "name-jp": "カササギサイチョウ属",
+              "name-cn": "斑犀鸟属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "anthracoceros albirostris",
+                  "name-jp": "キタカササギサイチョウ",
+                  "name-cn": "冠斑犀鸟",
+                  "type": "species",
+                  "icon": "/icon/キタカササギサイチョウ.jpg",
+                  "hasWild": true
+                }
+              ]
+            },
+            {
               "name": "rhyticeros",
               "name-jp": "リチケロス属",
               "name-cn": "拟皱盔犀鸟属",

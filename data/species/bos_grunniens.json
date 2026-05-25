@@ -1,0 +1,15 @@
+{
+    "id": "bos_grunniens",
+    "class": "mammalia",
+    "order": "artiodactyla",
+    "name-jp": "ヤク",
+    "name-cn": "家牦牛",
+    "photos": [
+        {
+            "id": "bos_grunniens_202605031144",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

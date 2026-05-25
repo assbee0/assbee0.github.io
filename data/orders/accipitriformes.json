@@ -159,6 +159,14 @@
                   "type": "species",
                   "icon": "/icon/コシジロハゲワシ.jpg",
                   "hasWild": false
+                },
+                {
+                  "name": "gyps himalayensis",
+                  "name-jp": "ヒマラヤハゲワシ",
+                  "name-cn": "高山兀鹫",
+                  "type": "species",
+                  "icon": "/icon/ヒマラヤハゲワシ.jpg",
+                  "hasWild": false
                 }
               ]
             }

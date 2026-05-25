@@ -6,6 +6,12 @@
     "name-cn": "红大袋鼠",
     "photos": [
         {
+            "id": "osphranter_rufus_202409221355",
+            "location": "多摩動物公園",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "osphranter_rufus_202308131339",
             "location": "多摩動物公園",
             "isWild": false,
@@ -36,7 +42,7 @@
             "description": ""
         },
         {
-            "id": "osphranter_rufus_202409221355",
+            "id": "osphranter_rufus_202601271444",
             "location": "多摩動物公園",
             "isWild": false,
             "description": ""

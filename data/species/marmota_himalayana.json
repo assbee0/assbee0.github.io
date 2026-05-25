@@ -1,0 +1,15 @@
+{
+    "id": "marmota_himalayana",
+    "class": "mammalia",
+    "order": "rodentia",
+    "name-jp": "ヒマラヤマーモット",
+    "name-cn": "喜马拉雅旱獭",
+    "photos": [
+        {
+            "id": "marmota_himalayana_202605031533",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

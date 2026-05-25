@@ -10,6 +10,12 @@
             "location": "上海市杨浦区",
             "isWild": true,
             "description": ""
+        },
+        {
+            "id": "spilopelia_chinensis_202604031140",
+            "location": "Singapore Botanic Gardens",
+            "isWild": true,
+            "description": ""
         }
     ]
 }

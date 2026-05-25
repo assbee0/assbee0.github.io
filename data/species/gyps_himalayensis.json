@@ -1,0 +1,15 @@
+{
+    "id": "gyps_himalayensis",
+    "class": "aves",
+    "order": "accipitriformes",
+    "name-jp": "ヒマラヤハゲワシ",
+    "name-cn": "高山兀鹫",
+    "photos": [
+        {
+            "id": "gyps_himalayensis_202605031149",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

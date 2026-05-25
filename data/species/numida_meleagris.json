@@ -1,0 +1,15 @@
+{
+    "id": "numida_meleagris",
+    "class": "aves",
+    "order": "galliformes",
+    "name-jp": "ホロホロチョウ",
+    "name-cn": "普通珠鸡",
+    "photos": [
+        {
+            "id": "numida_meleagris_202605031445",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

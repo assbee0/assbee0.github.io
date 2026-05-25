@@ -1,0 +1,15 @@
+{
+    "id": "canis_lupus",
+    "class": "mammalia",
+    "order": "carnivora",
+    "name-jp": "オオカミ",
+    "name-cn": "狼",
+    "photos": [
+        {
+            "id": "canis_lupus_202401041443",
+            "location": "北京动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

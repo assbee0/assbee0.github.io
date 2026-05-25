@@ -13,6 +13,22 @@
       "type": "family",
       "children": [
         {
+          "name": "numida",
+          "name-jp": "ホロホロチョウ属",
+          "name-cn": "珠鸡属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "numida meleagris",
+              "name-jp": "ホロホロチョウ",
+              "name-cn": "普通珠鸡",
+              "type": "species",
+              "icon": "/icon/ホロホロチョウ.jpg",
+              "hasWild": false
+            }
+          ]
+        },
+        {
           "name": "acryllium",
           "name-jp": "フサホロホロチョウ属",
           "name-cn": "鹫珠鸡属",

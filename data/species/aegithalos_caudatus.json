@@ -16,6 +16,12 @@
             "location": "桜ヶ丘公園",
             "isWild": true,
             "description": ""
+        },
+        {
+            "id": "aegithalos_caudatus_202605031507",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
         }
     ]
 }

@@ -6,6 +6,12 @@
     "name-cn": "黄雀",
     "photos": [
         {
+            "id": "spinus_spinus_202605031506",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "spinus_spinus_202505101549",
             "location": "上野動物園",
             "isWild": false,

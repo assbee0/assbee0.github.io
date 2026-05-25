@@ -445,6 +445,14 @@
                       "type": "species",
                       "icon": "/icon/イエイヌ.jpg",
                       "hasWild": false
+                    },
+                    {
+                      "name": "canis lupus",
+                      "name-jp": "オオカミ",
+                      "name-cn": "狼",
+                      "type": "species",
+                      "icon": "/icon/オオカミ.jpg",
+                      "hasWild": false
                     }
                   ]
                 }

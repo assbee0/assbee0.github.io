@@ -1,0 +1,21 @@
+{
+    "id": "sus_barbatus",
+    "class": "mammalia",
+    "order": "artiodactyla",
+    "name-jp": "ヒゲイノシシ",
+    "name-cn": "婆罗洲须猪",
+    "photos": [
+        {
+            "id": "sus_barbatus_202604041342",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "sus_barbatus_202604041343",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

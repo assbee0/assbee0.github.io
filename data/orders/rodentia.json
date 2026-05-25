@@ -399,6 +399,22 @@
                   "type": "tribe",
                   "children": [
                     {
+                      "name": "marmota",
+                      "name-jp": "マーモット属",
+                      "name-cn": "旱獭属",
+                      "type": "genus",
+                      "icon-children": [
+                        {
+                          "name": "marmota himalayana",
+                          "name-jp": "ヒマラヤマーモット",
+                          "name-cn": "喜马拉雅旱獭",
+                          "type": "species",
+                          "icon": "/icon/ヒマラヤマーモット.jpg",
+                          "hasWild": false
+                        }
+                      ]
+                    },
+                    {
                       "name": "cynomys",
                       "name-jp": "プレーリードッグ属",
                       "name-cn": "草原犬鼠属",

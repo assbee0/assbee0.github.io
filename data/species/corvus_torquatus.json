@@ -1,0 +1,15 @@
+{
+    "id": "corvus_torquatus",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "クビワガラス",
+    "name-cn": "白颈鸦",
+    "photos": [
+        {
+            "id": "corvus_torquatus_202605031511",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

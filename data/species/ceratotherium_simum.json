@@ -16,6 +16,12 @@
             "location": "北京野生动物园",
             "isWild": false,
             "description": ""
+        },
+        {
+            "id": "ceratotherium_simum_202605031228",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
         }
     ]
 }

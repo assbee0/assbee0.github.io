@@ -1,0 +1,21 @@
+{
+    "id": "anthracoceros_albirostris",
+    "class": "aves",
+    "order": "bucerotiformes",
+    "name-jp": "キタカササギサイチョウ",
+    "name-cn": "冠斑犀鸟",
+    "photos": [
+        {
+            "id": "anthracoceros_albirostris_202604031146",
+            "location": "Singapore Botanic Gardens",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "anthracoceros_albirostris_202604041451",
+            "location": "Singapore Zoo",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

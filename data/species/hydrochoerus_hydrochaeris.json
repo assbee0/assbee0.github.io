@@ -12,13 +12,7 @@
             "description": ""
         },
         {
-            "id": "hydrochoerus_hydrochaeris_202309031600_1",
-            "location": "井の頭自然文化園",
-            "isWild": false,
-            "description": ""
-        },
-        {
-            "id": "hydrochoerus_hydrochaeris_202309031600_2",
+            "id": "hydrochoerus_hydrochaeris_202309031600",
             "location": "井の頭自然文化園",
             "isWild": false,
             "description": ""
@@ -44,6 +38,18 @@
         {
             "id": "hydrochoerus_hydrochaeris_202410271444",
             "location": "金沢動物園",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "hydrochoerus_hydrochaeris_202605031415",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "hydrochoerus_hydrochaeris_202605031418",
+            "location": "北京野生动物园",
             "isWild": false,
             "description": ""
         }

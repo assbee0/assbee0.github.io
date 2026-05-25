@@ -10,6 +10,12 @@
             "location": "夢見ヶ崎動物公園",
             "isWild": false,
             "description": ""
+        },
+        {
+            "id": "lama_glama_202605031140",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
         }
     ]
 }

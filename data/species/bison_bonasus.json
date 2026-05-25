@@ -1,0 +1,15 @@
+{
+    "id": "bison_bonasus",
+    "class": "mammalia",
+    "order": "artiodactyla",
+    "name-jp": "ヨーロッパバイソン",
+    "name-cn": "欧洲野牛",
+    "photos": [
+        {
+            "id": "bison_bonasus_202605031129",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

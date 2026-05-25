@@ -22,6 +22,12 @@
             "location": "伊豆シャボテン動物公園",
             "isWild": false,
             "description": ""
+        },
+        {
+            "id": "tadorna_ferruginea_202605031400",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
         }
     ]
 }

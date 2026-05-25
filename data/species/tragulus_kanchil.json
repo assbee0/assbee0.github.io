@@ -1,0 +1,15 @@
+{
+    "id": "tragulus_kanchil",
+    "class": "mammalia",
+    "order": "artiodactyla",
+    "name-jp": "ヒメマメジカ",
+    "name-cn": "小鼷鹿",
+    "photos": [
+        {
+            "id": "tragulus_kanchil_202604041335",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

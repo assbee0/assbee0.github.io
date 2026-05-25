@@ -1,0 +1,27 @@
+{
+    "id": "orthotomus_ruficeps",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "アカガオサイホウチョウ",
+    "name-cn": "灰缝叶莺",
+    "photos": [
+        {
+            "id": "orthotomus_ruficeps_202604031455",
+            "location": "Singapore Botanic Gardens",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "orthotomus_ruficeps_202604031453",
+            "location": "Singapore Botanic Gardens",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "orthotomus_ruficeps_202604031454",
+            "location": "Singapore Botanic Gardens",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

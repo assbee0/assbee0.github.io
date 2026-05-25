@@ -28,6 +28,12 @@
             "location": "北京野生动物园",
             "isWild": false,
             "description": ""
+        },
+        {
+            "id": "lemur_catta_202605031432",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
         }
     ]
 }
