@@ -6,6 +6,12 @@
     "name-cn": "黄蓝金刚鹦鹉",
     "photos": [
         {
+            "id": "ara_ararauna_202604041455",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "ara_ararauna_202403201406",
             "location": "多摩動物公園",
             "isWild": false,

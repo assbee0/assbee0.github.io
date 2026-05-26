@@ -1,0 +1,21 @@
+{
+    "id": "hystrix_indica",
+    "class": "mammalia",
+    "order": "rodentia",
+    "name-jp": "インドタテガミヤマアラシ",
+    "name-cn": "印度豪猪",
+    "photos": [
+        {
+            "id": "hystrix_indica_202604041440_1",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "hystrix_indica_202604041440_2",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

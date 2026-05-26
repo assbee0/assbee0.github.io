@@ -1,0 +1,27 @@
+{
+    "id": "babyrousa_celebensis",
+    "class": "mammalia",
+    "order": "artiodactyla",
+    "name-jp": "セレベスバビルサ",
+    "name-cn": "苏拉威西鹿豚",
+    "photos": [
+        {
+            "id": "babyrousa_celebensis_202604041346_1",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "babyrousa_celebensis_202604041344",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "babyrousa_celebensis_202604041346_2",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

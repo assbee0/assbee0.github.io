@@ -1,0 +1,15 @@
+{
+    "id": "cryptoprocta_ferox",
+    "class": "mammalia",
+    "order": "carnivora",
+    "name-jp": "フォッサ",
+    "name-cn": "马岛獴",
+    "photos": [
+        {
+            "id": "cryptoprocta_ferox_202604041603",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

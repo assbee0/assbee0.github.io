@@ -1,0 +1,21 @@
+{
+    "id": "papio_hamadryas",
+    "class": "mammalia",
+    "order": "primates",
+    "name-jp": "マントヒヒ",
+    "name-cn": "阿拉伯狒狒",
+    "photos": [
+        {
+            "id": "papio_hamadryas_202604041411",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "papio_hamadryas_202604041412",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

@@ -77,6 +77,14 @@
                       "type": "species",
                       "icon": "/icon/タテガミヤマアラシ.jpg",
                       "hasWild": false
+                    },
+                    {
+                      "name": "hystrix indica",
+                      "name-jp": "インドタテガミヤマアラシ",
+                      "name-cn": "印度豪猪",
+                      "type": "species",
+                      "icon": "/icon/インドタテガミヤマアラシ.jpg",
+                      "hasWild": false
                     }
                   ]
                 }

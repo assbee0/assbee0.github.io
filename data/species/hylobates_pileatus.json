@@ -1,0 +1,15 @@
+{
+    "id": "hylobates_pileatus",
+    "class": "mammalia",
+    "order": "primates",
+    "name-jp": "ボウシテナガザル",
+    "name-cn": "戴帽长臂猿",
+    "photos": [
+        {
+            "id": "hylobates_pileatus_202604041517",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

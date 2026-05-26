@@ -13,150 +13,6 @@
       "type": "suborder",
       "children": [
         {
-          "name": "viverridae",
-          "name-jp": "ジャコウネコ科",
-          "name-cn": "灵猫科",
-          "type": "family",
-          "children": [
-            {
-              "name": "paradoxurinae",
-              "name-jp": "パームシベット亜科",
-              "name-cn": "棕榈狸亚科",
-              "type": "subfamily",
-              "children": [
-                {
-                  "name": "arctictis",
-                  "name-jp": "ビントロング属",
-                  "name-cn": "熊狸属",
-                  "type": "genus",
-                  "icon-children": [
-                    {
-                      "name": "arctictis binturong",
-                      "name-jp": "ビントロング",
-                      "name-cn": "熊狸",
-                      "type": "species",
-                      "icon": "/icon/ビントロング.jpg",
-                      "hasWild": false
-                    }
-                  ]
-                },
-                {
-                  "name": "paguma",
-                  "name-jp": "ハクビシン属",
-                  "name-cn": "花面狸属",
-                  "type": "genus",
-                  "icon-children": [
-                    {
-                      "name": "paguma larvata",
-                      "name-jp": "ハクビシン",
-                      "name-cn": "花面狸",
-                      "type": "species",
-                      "icon": "/icon/ハクビシン.jpg",
-                      "hasWild": false
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "herpestidae",
-          "name-jp": "マングース科",
-          "name-cn": "獴科",
-          "type": "family",
-          "children": [
-            {
-              "name": "mungotinae",
-              "name-jp": "シママングース亜科",
-              "name-cn": "缟獴亚科",
-              "type": "subfamily",
-              "children": [
-                {
-                  "name": "suricata",
-                  "name-jp": "スリカータ属",
-                  "name-cn": "细尾獴属",
-                  "type": "genus",
-                  "icon-children": [
-                    {
-                      "name": "suricata suricatta",
-                      "name-jp": "ミーアキャット",
-                      "name-cn": "细尾獴",
-                      "type": "species",
-                      "icon": "/icon/ミーアキャット.jpg",
-                      "hasWild": false
-                    }
-                  ]
-                },
-                {
-                  "name": "mungos",
-                  "name-jp": "シママングース属",
-                  "name-cn": "缟獴属",
-                  "type": "genus",
-                  "icon-children": [
-                    {
-                      "name": "mungos mungo",
-                      "name-jp": "シママングース",
-                      "name-cn": "缟獴",
-                      "type": "species",
-                      "icon": "/icon/シママングース.jpg",
-                      "hasWild": false
-                    }
-                  ]
-                },
-                {
-                  "name": "helogale",
-                  "name-jp": "コビトマングース属",
-                  "name-cn": "侏獴属",
-                  "type": "genus",
-                  "icon-children": [
-                    {
-                      "name": "helogale parvula",
-                      "name-jp": "コビトマングース",
-                      "name-cn": "侏獴",
-                      "type": "species",
-                      "icon": "/icon/コビトマングース.jpg",
-                      "hasWild": false
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "hyaenidae",
-          "name-jp": "ハイエナ科",
-          "name-cn": "鬣狗科",
-          "type": "family",
-          "children": [
-            {
-              "name": "hyaeninae",
-              "name-jp": "ハイエナ亜科",
-              "name-cn": "鬣狗亚科",
-              "type": "subfamily",
-              "children": [
-                {
-                  "name": "crocuta",
-                  "name-jp": "ブチハイエナ属",
-                  "name-cn": "斑鬣狗属",
-                  "type": "genus",
-                  "icon-children": [
-                    {
-                      "name": "crocuta crocuta",
-                      "name-jp": "ブチハイエナ",
-                      "name-cn": "斑鬣狗",
-                      "type": "species",
-                      "icon": "/icon/ブチハイエナ.jpg",
-                      "hasWild": false
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "felidae",
           "name-jp": "ネコ科",
           "name-cn": "猫科",
@@ -340,6 +196,182 @@
                       "name-cn": "沙猫",
                       "type": "species",
                       "icon": "/icon/スナネコ.jpg",
+                      "hasWild": false
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "viverridae",
+          "name-jp": "ジャコウネコ科",
+          "name-cn": "灵猫科",
+          "type": "family",
+          "children": [
+            {
+              "name": "paradoxurinae",
+              "name-jp": "パームシベット亜科",
+              "name-cn": "棕榈狸亚科",
+              "type": "subfamily",
+              "children": [
+                {
+                  "name": "arctictis",
+                  "name-jp": "ビントロング属",
+                  "name-cn": "熊狸属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "arctictis binturong",
+                      "name-jp": "ビントロング",
+                      "name-cn": "熊狸",
+                      "type": "species",
+                      "icon": "/icon/ビントロング.jpg",
+                      "hasWild": false
+                    }
+                  ]
+                },
+                {
+                  "name": "paguma",
+                  "name-jp": "ハクビシン属",
+                  "name-cn": "花面狸属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "paguma larvata",
+                      "name-jp": "ハクビシン",
+                      "name-cn": "花面狸",
+                      "type": "species",
+                      "icon": "/icon/ハクビシン.jpg",
+                      "hasWild": false
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "herpestidae",
+          "name-jp": "マングース科",
+          "name-cn": "獴科",
+          "type": "family",
+          "children": [
+            {
+              "name": "mungotinae",
+              "name-jp": "シママングース亜科",
+              "name-cn": "缟獴亚科",
+              "type": "subfamily",
+              "children": [
+                {
+                  "name": "suricata",
+                  "name-jp": "スリカータ属",
+                  "name-cn": "细尾獴属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "suricata suricatta",
+                      "name-jp": "ミーアキャット",
+                      "name-cn": "细尾獴",
+                      "type": "species",
+                      "icon": "/icon/ミーアキャット.jpg",
+                      "hasWild": false
+                    }
+                  ]
+                },
+                {
+                  "name": "mungos",
+                  "name-jp": "シママングース属",
+                  "name-cn": "缟獴属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "mungos mungo",
+                      "name-jp": "シママングース",
+                      "name-cn": "缟獴",
+                      "type": "species",
+                      "icon": "/icon/シママングース.jpg",
+                      "hasWild": false
+                    }
+                  ]
+                },
+                {
+                  "name": "helogale",
+                  "name-jp": "コビトマングース属",
+                  "name-cn": "侏獴属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "helogale parvula",
+                      "name-jp": "コビトマングース",
+                      "name-cn": "侏獴",
+                      "type": "species",
+                      "icon": "/icon/コビトマングース.jpg",
+                      "hasWild": false
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "eupleridae",
+          "name-jp": "マダガスカルマングース科",
+          "name-cn": "食蚁狸科",
+          "type": "family",
+          "children": [
+            {
+              "name": "euplerinae",
+              "name-jp": "コバマングース亜科",
+              "name-cn": "食蚁狸亚科",
+              "type": "subfamily",
+              "children": [
+                {
+                  "name": "cryptoprocta",
+                  "name-jp": "フォッサ属",
+                  "name-cn": "隐肛狸属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "cryptoprocta ferox",
+                      "name-jp": "フォッサ",
+                      "name-cn": "马岛獴",
+                      "type": "species",
+                      "icon": "/icon/フォッサ.jpg",
+                      "hasWild": false
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "hyaenidae",
+          "name-jp": "ハイエナ科",
+          "name-cn": "鬣狗科",
+          "type": "family",
+          "children": [
+            {
+              "name": "hyaeninae",
+              "name-jp": "ハイエナ亜科",
+              "name-cn": "鬣狗亚科",
+              "type": "subfamily",
+              "children": [
+                {
+                  "name": "crocuta",
+                  "name-jp": "ブチハイエナ属",
+                  "name-cn": "斑鬣狗属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "crocuta crocuta",
+                      "name-jp": "ブチハイエナ",
+                      "name-cn": "斑鬣狗",
+                      "type": "species",
+                      "icon": "/icon/ブチハイエナ.jpg",
                       "hasWild": false
                     }
                   ]

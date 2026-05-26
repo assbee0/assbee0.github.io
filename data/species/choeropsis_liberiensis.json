@@ -22,6 +22,12 @@
             "location": "上野動物園",
             "isWild": false,
             "description": ""
+        },
+        {
+            "id": "choeropsis_liberiensis_202604041354",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
         }
     ]
 }

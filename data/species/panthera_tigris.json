@@ -66,6 +66,12 @@
             "description": ""
         },
         {
+            "id": "panthera_tigris_202604041351",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "panthera_tigris_202605031124",
             "location": "北京野生动物园",
             "isWild": false,

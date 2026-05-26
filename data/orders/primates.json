@@ -253,6 +253,14 @@
                       "type": "genus",
                       "icon-children": [
                         {
+                          "name": "saguinus imperator",
+                          "name-jp": "エンペラータマリン",
+                          "name-cn": "皇柽柳猴",
+                          "type": "species",
+                          "icon": "/icon/エンペラータマリン.jpg",
+                          "hasWild": false
+                        },
+                        {
                           "name": "saguinus oedipus",
                           "name-jp": "ワタボウシタマリン",
                           "name-cn": "绒顶柽柳猴",
@@ -290,6 +298,22 @@
                           "name-cn": "黑羽狨",
                           "type": "species",
                           "icon": "/icon/クロミミマーモセット.jpg",
+                          "hasWild": false
+                        }
+                      ]
+                    },
+                    {
+                      "name": "mico",
+                      "name-jp": "シルバーマーモセット属",
+                      "name-cn": "微狨属",
+                      "type": "genus",
+                      "icon-children": [
+                        {
+                          "name": "mico argentatus",
+                          "name-jp": "シルバーマーモセット",
+                          "name-cn": "银狨",
+                          "type": "species",
+                          "icon": "/icon/シルバーマーモセット.jpg",
                           "hasWild": false
                         }
                       ]
@@ -414,6 +438,22 @@
                                   "name-cn": "藏酉猴",
                                   "type": "species",
                                   "icon": "/icon/チベットモンキー.jpg",
+                                  "hasWild": false
+                                }
+                              ]
+                            },
+                            {
+                              "name": "papio",
+                              "name-jp": "ヒヒ属",
+                              "name-cn": "狒狒属",
+                              "type": "genus",
+                              "icon-children": [
+                                {
+                                  "name": "papio hamadryas",
+                                  "name-jp": "マントヒヒ",
+                                  "name-cn": "阿拉伯狒狒",
+                                  "type": "species",
+                                  "icon": "/icon/マントヒヒ.jpg",
                                   "hasWild": false
                                 }
                               ]
@@ -544,6 +584,14 @@
                               "name-cn": "白掌长臂猿",
                               "type": "species",
                               "icon": "/icon/シロテテナガザル.jpg",
+                              "hasWild": false
+                            },
+                            {
+                              "name": "hylobates pileatus",
+                              "name-jp": "ボウシテナガザル",
+                              "name-cn": "戴帽长臂猿",
+                              "type": "species",
+                              "icon": "/icon/ボウシテナガザル.jpg",
                               "hasWild": false
                             }
                           ]

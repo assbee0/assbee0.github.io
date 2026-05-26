@@ -6,6 +6,12 @@
     "name-cn": "红头美洲鹫",
     "photos": [
         {
+            "id": "cathartes_aura_202604041449",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "cathartes_aura_202509231510",
             "location": "東山動植物園",
             "isWild": false,

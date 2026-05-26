@@ -67,30 +67,6 @@
           "type": "family",
           "children": [
             {
-              "name": "potamochoerini",
-              "name-jp": "カワイノシシ族",
-              "name-cn": "非洲野猪族",
-              "type": "tribe",
-              "children": [
-                {
-                  "name": "potamochoerus",
-                  "name-jp": "カワイノシシ属",
-                  "name-cn": "非洲野猪属",
-                  "type": "genus",
-                  "icon-children": [
-                    {
-                      "name": "potamochoerus porcus",
-                      "name-jp": "アカカワイノシシ",
-                      "name-cn": "红河猪",
-                      "type": "species",
-                      "icon": "/icon/アカカワイノシシ.jpg",
-                      "hasWild": false
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "name": "suini",
               "name-jp": "イノシシ族",
               "name-cn": "猪族",
@@ -116,6 +92,54 @@
                       "name-cn": "野猪",
                       "type": "species",
                       "icon": "/icon/イノシシ.jpg",
+                      "hasWild": false
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "potamochoerini",
+              "name-jp": "カワイノシシ族",
+              "name-cn": "非洲野猪族",
+              "type": "tribe",
+              "children": [
+                {
+                  "name": "potamochoerus",
+                  "name-jp": "カワイノシシ属",
+                  "name-cn": "非洲野猪属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "potamochoerus porcus",
+                      "name-jp": "アカカワイノシシ",
+                      "name-cn": "红河猪",
+                      "type": "species",
+                      "icon": "/icon/アカカワイノシシ.jpg",
+                      "hasWild": false
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "babyrousini",
+              "name-jp": "バビルサ族",
+              "name-cn": "鹿豚族",
+              "type": "tribe",
+              "children": [
+                {
+                  "name": "babyrousa",
+                  "name-jp": "バビルサ属",
+                  "name-cn": "鹿豚属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "babyrousa celebensis",
+                      "name-jp": "セレベスバビルサ",
+                      "name-cn": "苏拉威西鹿豚",
+                      "type": "species",
+                      "icon": "/icon/セレベスバビルサ.jpg",
                       "hasWild": false
                     }
                   ]

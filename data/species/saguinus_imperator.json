@@ -1,0 +1,27 @@
+{
+    "id": "saguinus_imperator",
+    "class": "mammalia",
+    "order": "primates",
+    "name-jp": "エンペラータマリン",
+    "name-cn": "皇柽柳猴",
+    "photos": [
+        {
+            "id": "saguinus_imperator_202604041510",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "saguinus_imperator_202604041414",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "saguinus_imperator_202604041415",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

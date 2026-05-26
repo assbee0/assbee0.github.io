@@ -1,0 +1,15 @@
+{
+    "id": "mico_argentatus",
+    "class": "mammalia",
+    "order": "primates",
+    "name-jp": "シルバーマーモセット",
+    "name-cn": "银狨",
+    "photos": [
+        {
+            "id": "mico_argentatus_202604041613",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

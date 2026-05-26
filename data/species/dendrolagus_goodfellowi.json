@@ -10,6 +10,12 @@
             "location": "よこはま動物園ズーラシア",
             "isWild": false,
             "description": ""
+        },
+        {
+            "id": "dendrolagus_goodfellowi_202604041408",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
         }
     ]
 }
