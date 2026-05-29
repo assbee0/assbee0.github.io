@@ -46,6 +46,12 @@
             "location": "多摩動物公園",
             "isWild": false,
             "description": ""
+        },
+        {
+            "id": "aonyx_cinerea_202604041800",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
         }
     ]
 }

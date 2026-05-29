@@ -1,0 +1,15 @@
+{
+    "id": "goura_cristata",
+    "class": "aves",
+    "order": "columbiformes",
+    "name-jp": "カンムリバト",
+    "name-cn": "蓝凤冠鸠",
+    "photos": [
+        {
+            "id": "goura_cristata_202604041641",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

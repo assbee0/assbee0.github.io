@@ -58,6 +58,12 @@
             "location": "北京野生动物园",
             "isWild": false,
             "description": ""
+        },
+        {
+            "id": "panthera_leo_202604041737",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
         }
     ]
 }

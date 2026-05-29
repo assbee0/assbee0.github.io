@@ -1,0 +1,15 @@
+{
+    "id": "dasyprocta_azarae",
+    "class": "mammalia",
+    "order": "rodentia",
+    "name-jp": "アザラアグーチ",
+    "name-cn": "南美刺豚鼠",
+    "photos": [
+        {
+            "id": "dasyprocta_azarae_202604041611",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

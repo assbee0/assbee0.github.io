@@ -1,0 +1,21 @@
+{
+    "id": "tragelaphus_angasii",
+    "class": "mammalia",
+    "order": "artiodactyla",
+    "name-jp": "ニアラ",
+    "name-cn": "安氏林羚",
+    "photos": [
+        {
+            "id": "tragelaphus_angasii_202604041744",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "tragelaphus_angasii_202604041741",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

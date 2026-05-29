@@ -29,6 +29,22 @@
           ]
         },
         {
+          "name": "goura",
+          "name-jp": "カンムリバト属",
+          "name-cn": "凤冠鸠属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "goura cristata",
+              "name-jp": "カンムリバト",
+              "name-cn": "蓝凤冠鸠",
+              "type": "species",
+              "icon": "/icon/カンムリバト.jpg",
+              "hasWild": false
+            }
+          ]
+        },
+        {
           "name": "ducula",
           "name-jp": "ミカドバト属",
           "name-cn": "皇鸠属",

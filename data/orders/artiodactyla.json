@@ -485,13 +485,21 @@
                       "type": "tribe",
                       "children": [
                         {
-                          "name": "taurotragus",
-                          "name-jp": "イランド属",
-                          "name-cn": "巨羚属",
+                          "name": "tragelaphus",
+                          "name-jp": "ブッシュバック属",
+                          "name-cn": "林羚属",
                           "type": "genus",
                           "icon-children": [
                             {
-                              "name": "taurotragus oryx",
+                              "name": "tragelaphus angasii",
+                              "name-jp": "ニアラ",
+                              "name-cn": "安氏林羚",
+                              "type": "species",
+                              "icon": "/icon/ニアラ.jpg",
+                              "hasWild": false
+                            },
+                            {
+                              "name": "tragelaphus oryx",
                               "name-jp": "イランド",
                               "name-cn": "伊兰羚羊",
                               "type": "species",

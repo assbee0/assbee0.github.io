@@ -10,6 +10,12 @@
             "location": "鳥羽水族館",
             "isWild": false,
             "description": ""
+        },
+        {
+            "id": "prionailurus_viverrinus_202604042004",
+            "location": "Night Safari",
+            "isWild": false,
+            "description": ""
         }
     ]
 }

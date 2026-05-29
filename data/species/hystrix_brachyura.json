@@ -6,6 +6,12 @@
     "name-cn": "马来豪猪",
     "photos": [
         {
+            "id": "hystrix_brachyura_202604042027",
+            "location": "Night Safari",
+            "isWild": false,
+            "description": ""
+        },
+        {
             "id": "hystrix_brachyura_202406031026",
             "location": "北京动物园",
             "isWild": false,

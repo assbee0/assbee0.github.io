@@ -207,6 +207,30 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "name": "dasyproctidae",
+                  "name-jp": "アグーチ科",
+                  "name-cn": "刺豚鼠科",
+                  "type": "family",
+                  "children": [
+                    {
+                      "name": "dasyprocta",
+                      "name-jp": "アグーチ属",
+                      "name-cn": "刺豚鼠属",
+                      "type": "genus",
+                      "icon-children": [
+                        {
+                          "name": "dasyprocta azarae",
+                          "name-jp": "アザラアグーチ",
+                          "name-cn": "南美刺豚鼠",
+                          "type": "species",
+                          "icon": "/icon/アザラアグーチ.jpg",
+                          "hasWild": false
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             },
