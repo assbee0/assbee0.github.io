@@ -1,0 +1,15 @@
+{
+    "id": "dendrocygna_guttata",
+    "class": "aves",
+    "order": "anseriformes",
+    "name-jp": "シラボシリュウキュウガモ",
+    "name-cn": "细斑树鸭",
+    "photos": [
+        {
+            "id": "dendrocygna_guttata_202604041627",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

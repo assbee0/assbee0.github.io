@@ -181,6 +181,30 @@
       "type": "family",
       "children": [
         {
+          "name": "psittaculinae",
+          "name-jp": "プシッタクリニ亜科",
+          "name-cn": "鹦鹉亚科",
+          "type": "subfamily",
+          "children": [
+            {
+              "name": "eclectus",
+              "name-jp": "オオハナインコ属",
+              "name-cn": "折衷鹦鹉属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "eclectus polychloros",
+                  "name-jp": "オオハナインコ",
+                  "name-cn": "巴布亚红胁绿鹦鹉",
+                  "type": "species",
+                  "icon": "/icon/オオハナインコ.jpg",
+                  "hasWild": false
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "agapornithinae",
           "name-jp": "ボタンインコ亜科",
           "name-cn": "牡丹鹦鹉亚科",

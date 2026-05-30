@@ -10,6 +10,12 @@
             "location": "上野動物園",
             "isWild": false,
             "description": ""
+        },
+        {
+            "id": "ducula_bicolor_202604041626",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
         }
     ]
 }

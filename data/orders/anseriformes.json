@@ -37,168 +37,24 @@
       "type": "family",
       "children": [
         {
-          "name": "anserinae",
-          "name-jp": "ガン亜科",
-          "name-cn": "雁亚科",
+          "name": "dendrocygninae",
+          "name-jp": "リュウキュウガモ亜科",
+          "name-cn": "树鸭亚科",
           "type": "subfamily",
           "children": [
             {
-              "name": "anserini",
-              "name-jp": "ガン族",
-              "name-cn": "雁族",
-              "type": "tribe",
-              "children": [
+              "name": "dendrocygna",
+              "name-jp": "リュウキュウガモ属",
+              "name-cn": "树鸭属",
+              "type": "genus",
+              "icon-children": [
                 {
-                  "name": "cereopsis",
-                  "name-jp": "ロウバシガン属",
-                  "name-cn": "蜡嘴雁属",
-                  "type": "genus",
-                  "icon-children": [
-                    {
-                      "name": "cereopsis novaehollandiae",
-                      "name-jp": "ロウバシガン",
-                      "name-cn": "蜡嘴雁",
-                      "type": "species",
-                      "icon": "/icon/ロウバシガン.jpg",
-                      "hasWild": false
-                    }
-                  ]
-                },
-                {
-                  "name": "cygnus",
-                  "name-jp": "ハクチョウ属",
-                  "name-cn": "天鹅属",
-                  "type": "genus",
-                  "icon-children": [
-                    {
-                      "name": "cygnus atratus",
-                      "name-jp": "コクチョウ",
-                      "name-cn": "黑天鹅",
-                      "type": "species",
-                      "icon": "/icon/コクチョウ.jpg",
-                      "hasWild": true
-                    },
-                    {
-                      "name": "cygnus columbianus",
-                      "name-jp": "コハクチョウ",
-                      "name-cn": "小天鹅",
-                      "type": "species",
-                      "icon": "/icon/コハクチョウ.jpg",
-                      "hasWild": false
-                    },
-                    {
-                      "name": "cygnus cygnus",
-                      "name-jp": "オオハクチョウ",
-                      "name-cn": "大天鹅",
-                      "type": "species",
-                      "icon": "/icon/オオハクチョウ.jpg",
-                      "hasWild": false
-                    },
-                    {
-                      "name": "cygnus olor",
-                      "name-jp": "コブハクチョウ",
-                      "name-cn": "疣鼻天鹅",
-                      "type": "species",
-                      "icon": "/icon/コブハクチョウ.jpg",
-                      "hasWild": true
-                    }
-                  ]
-                },
-                {
-                  "name": "branta",
-                  "name-jp": "コクガン属",
-                  "name-cn": "黑雁属",
-                  "type": "genus",
-                  "icon-children": [
-                    {
-                      "name": "branta bernicla",
-                      "name-jp": "コクガン",
-                      "name-cn": "黑雁",
-                      "type": "species",
-                      "icon": "/icon/コクガン.jpg",
-                      "hasWild": false
-                    },
-                    {
-                      "name": "branta canadensis",
-                      "name-jp": "カナダガン",
-                      "name-cn": "加拿大黑雁",
-                      "type": "species",
-                      "icon": "/icon/カナダガン.jpg",
-                      "hasWild": false
-                    },
-                    {
-                      "name": "branta hutchinsii",
-                      "name-jp": "シジュウカラガン",
-                      "name-cn": "小美洲黑雁",
-                      "type": "species",
-                      "icon": "/icon/シジュウカラガン.jpg",
-                      "hasWild": false
-                    },
-                    {
-                      "name": "branta sandvicensis",
-                      "name-jp": "ハワイガン",
-                      "name-cn": "夏威夷黑雁",
-                      "type": "species",
-                      "icon": "/icon/ハワイガン.jpg",
-                      "hasWild": false
-                    }
-                  ]
-                },
-                {
-                  "name": "anser",
-                  "name-jp": "マガン属",
-                  "name-cn": "雁属",
-                  "type": "genus",
-                  "icon-children": [
-                    {
-                      "name": "anser albifrons",
-                      "name-jp": "マガン",
-                      "name-cn": "白额雁",
-                      "type": "species",
-                      "icon": "/icon/マガン.jpg",
-                      "hasWild": false
-                    },
-                    {
-                      "name": "anser anser",
-                      "name-jp": "ハイイロガン",
-                      "name-cn": "灰雁",
-                      "type": "species",
-                      "icon": "/icon/ハイイロガン.jpg",
-                      "hasWild": false
-                    },
-                    {
-                      "name": "anser caerulescens",
-                      "name-jp": "ハクガン",
-                      "name-cn": "雪雁",
-                      "type": "species",
-                      "icon": "/icon/ハクガン.jpg",
-                      "hasWild": false
-                    },
-                    {
-                      "name": "anser cygnoides",
-                      "name-jp": "サカツラガン",
-                      "name-cn": "鸿雁",
-                      "type": "species",
-                      "icon": "/icon/サカツラガン.jpg",
-                      "hasWild": true
-                    },
-                    {
-                      "name": "anser erythropus",
-                      "name-jp": "カリガネ",
-                      "name-cn": "小白额雁",
-                      "type": "species",
-                      "icon": "/icon/カリガネ.jpg",
-                      "hasWild": false
-                    },
-                    {
-                      "name": "anser indicus",
-                      "name-jp": "インドガン",
-                      "name-cn": "斑头雁",
-                      "type": "species",
-                      "icon": "/icon/インドガン.jpg",
-                      "hasWild": false
-                    }
-                  ]
+                  "name": "dendrocygna guttata",
+                  "name-jp": "シラボシリュウキュウガモ",
+                  "name-cn": "细斑树鸭",
+                  "type": "species",
+                  "icon": "/icon/シラボシリュウキュウガモ.jpg",
+                  "hasWild": false
                 }
               ]
             }
@@ -461,6 +317,174 @@
                       "type": "species",
                       "icon": "/icon/ハシビロガモ.jpg",
                       "hasWild": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "anserinae",
+          "name-jp": "ガン亜科",
+          "name-cn": "雁亚科",
+          "type": "subfamily",
+          "children": [
+            {
+              "name": "anserini",
+              "name-jp": "ガン族",
+              "name-cn": "雁族",
+              "type": "tribe",
+              "children": [
+                {
+                  "name": "cereopsis",
+                  "name-jp": "ロウバシガン属",
+                  "name-cn": "蜡嘴雁属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "cereopsis novaehollandiae",
+                      "name-jp": "ロウバシガン",
+                      "name-cn": "蜡嘴雁",
+                      "type": "species",
+                      "icon": "/icon/ロウバシガン.jpg",
+                      "hasWild": false
+                    }
+                  ]
+                },
+                {
+                  "name": "cygnus",
+                  "name-jp": "ハクチョウ属",
+                  "name-cn": "天鹅属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "cygnus atratus",
+                      "name-jp": "コクチョウ",
+                      "name-cn": "黑天鹅",
+                      "type": "species",
+                      "icon": "/icon/コクチョウ.jpg",
+                      "hasWild": true
+                    },
+                    {
+                      "name": "cygnus columbianus",
+                      "name-jp": "コハクチョウ",
+                      "name-cn": "小天鹅",
+                      "type": "species",
+                      "icon": "/icon/コハクチョウ.jpg",
+                      "hasWild": false
+                    },
+                    {
+                      "name": "cygnus cygnus",
+                      "name-jp": "オオハクチョウ",
+                      "name-cn": "大天鹅",
+                      "type": "species",
+                      "icon": "/icon/オオハクチョウ.jpg",
+                      "hasWild": false
+                    },
+                    {
+                      "name": "cygnus olor",
+                      "name-jp": "コブハクチョウ",
+                      "name-cn": "疣鼻天鹅",
+                      "type": "species",
+                      "icon": "/icon/コブハクチョウ.jpg",
+                      "hasWild": true
+                    }
+                  ]
+                },
+                {
+                  "name": "branta",
+                  "name-jp": "コクガン属",
+                  "name-cn": "黑雁属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "branta bernicla",
+                      "name-jp": "コクガン",
+                      "name-cn": "黑雁",
+                      "type": "species",
+                      "icon": "/icon/コクガン.jpg",
+                      "hasWild": false
+                    },
+                    {
+                      "name": "branta canadensis",
+                      "name-jp": "カナダガン",
+                      "name-cn": "加拿大黑雁",
+                      "type": "species",
+                      "icon": "/icon/カナダガン.jpg",
+                      "hasWild": false
+                    },
+                    {
+                      "name": "branta hutchinsii",
+                      "name-jp": "シジュウカラガン",
+                      "name-cn": "小美洲黑雁",
+                      "type": "species",
+                      "icon": "/icon/シジュウカラガン.jpg",
+                      "hasWild": false
+                    },
+                    {
+                      "name": "branta sandvicensis",
+                      "name-jp": "ハワイガン",
+                      "name-cn": "夏威夷黑雁",
+                      "type": "species",
+                      "icon": "/icon/ハワイガン.jpg",
+                      "hasWild": false
+                    }
+                  ]
+                },
+                {
+                  "name": "anser",
+                  "name-jp": "マガン属",
+                  "name-cn": "雁属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "anser albifrons",
+                      "name-jp": "マガン",
+                      "name-cn": "白额雁",
+                      "type": "species",
+                      "icon": "/icon/マガン.jpg",
+                      "hasWild": false
+                    },
+                    {
+                      "name": "anser anser",
+                      "name-jp": "ハイイロガン",
+                      "name-cn": "灰雁",
+                      "type": "species",
+                      "icon": "/icon/ハイイロガン.jpg",
+                      "hasWild": false
+                    },
+                    {
+                      "name": "anser caerulescens",
+                      "name-jp": "ハクガン",
+                      "name-cn": "雪雁",
+                      "type": "species",
+                      "icon": "/icon/ハクガン.jpg",
+                      "hasWild": false
+                    },
+                    {
+                      "name": "anser cygnoides",
+                      "name-jp": "サカツラガン",
+                      "name-cn": "鸿雁",
+                      "type": "species",
+                      "icon": "/icon/サカツラガン.jpg",
+                      "hasWild": true
+                    },
+                    {
+                      "name": "anser erythropus",
+                      "name-jp": "カリガネ",
+                      "name-cn": "小白额雁",
+                      "type": "species",
+                      "icon": "/icon/カリガネ.jpg",
+                      "hasWild": false
+                    },
+                    {
+                      "name": "anser indicus",
+                      "name-jp": "インドガン",
+                      "name-cn": "斑头雁",
+                      "type": "species",
+                      "icon": "/icon/インドガン.jpg",
+                      "hasWild": false
                     }
                   ]
                 }

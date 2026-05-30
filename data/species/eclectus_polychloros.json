@@ -1,0 +1,21 @@
+{
+    "id": "eclectus_polychloros",
+    "class": "aves",
+    "order": "psittaciformes",
+    "name-jp": "オオハナインコ",
+    "name-cn": "巴布亚红胁绿鹦鹉",
+    "photos": [
+        {
+            "id": "eclectus_polychloros_202604041638",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "eclectus_polychloros_202604041626",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

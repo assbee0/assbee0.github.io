@@ -1,0 +1,27 @@
+{
+    "id": "callosciurus_finlaysonii",
+    "class": "mammalia",
+    "order": "rodentia",
+    "name-jp": "フィンレイソンリス",
+    "name-cn": "白背松鼠",
+    "photos": [
+        {
+            "id": "callosciurus_finlaysonii_202604041625",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "callosciurus_finlaysonii_202604041626",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "callosciurus_finlaysonii_202604041635",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

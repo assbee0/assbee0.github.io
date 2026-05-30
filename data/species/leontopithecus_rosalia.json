@@ -1,0 +1,15 @@
+{
+    "id": "leontopithecus_rosalia",
+    "class": "mammalia",
+    "order": "primates",
+    "name-jp": "ゴールデンライオンタマリン",
+    "name-cn": "金狮面狨",
+    "photos": [
+        {
+            "id": "leontopithecus_rosalia_202604041643",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

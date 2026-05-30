@@ -383,6 +383,14 @@
                       "hasWild": true
                     },
                     {
+                      "name": "callosciurus finlaysonii",
+                      "name-jp": "フィンレイソンリス",
+                      "name-cn": "白背松鼠",
+                      "type": "species",
+                      "icon": "/icon/フィンレイソンリス.jpg",
+                      "hasWild": false
+                    },
+                    {
                       "name": "callosciurus notatus",
                       "name-jp": "バナナリス",
                       "name-cn": "大蕉松鼠",

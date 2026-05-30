@@ -137,6 +137,38 @@
               "type": "parvorder",
               "children": [
                 {
+                  "name": "pitheciidae",
+                  "name-jp": "サキ科",
+                  "name-cn": "僧面猴科",
+                  "type": "family",
+                  "children": [
+                    {
+                      "name": "pitheciinae",
+                      "name-jp": "サキ亜科",
+                      "name-cn": "僧面猴亚科",
+                      "type": "subfamily",
+                      "children": [
+                        {
+                          "name": "pithecia",
+                          "name-jp": "サキ属",
+                          "name-cn": "僧面猴属",
+                          "type": "genus",
+                          "icon-children": [
+                            {
+                              "name": "pithecia pithecia",
+                              "name-jp": "シロガオサキ",
+                              "name-cn": "白面僧面猴",
+                              "type": "species",
+                              "icon": "/icon/シロガオサキ.jpg",
+                              "hasWild": false
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
                   "name": "atelidae",
                   "name-jp": "クモザル科",
                   "name-cn": "蜘蛛猴科",
@@ -247,33 +279,17 @@
                   "type": "family",
                   "children": [
                     {
-                      "name": "saguinus",
-                      "name-jp": "タマリン属",
-                      "name-cn": "柽柳猴属",
+                      "name": "mico",
+                      "name-jp": "シルバーマーモセット属",
+                      "name-cn": "微狨属",
                       "type": "genus",
                       "icon-children": [
                         {
-                          "name": "saguinus imperator",
-                          "name-jp": "エンペラータマリン",
-                          "name-cn": "皇柽柳猴",
+                          "name": "mico argentatus",
+                          "name-jp": "シルバーマーモセット",
+                          "name-cn": "银狨",
                           "type": "species",
-                          "icon": "/icon/エンペラータマリン.jpg",
-                          "hasWild": false
-                        },
-                        {
-                          "name": "saguinus oedipus",
-                          "name-jp": "ワタボウシタマリン",
-                          "name-cn": "绒顶柽柳猴",
-                          "type": "species",
-                          "icon": "/icon/ワタボウシタマリン.jpg",
-                          "hasWild": false
-                        },
-                        {
-                          "name": "saguinus midas",
-                          "name-jp": "アカテタマリン",
-                          "name-cn": "赤掌柽柳猴",
-                          "type": "species",
-                          "icon": "/icon/アカテタマリン.jpg",
+                          "icon": "/icon/シルバーマーモセット.jpg",
                           "hasWild": false
                         }
                       ]
@@ -303,17 +319,49 @@
                       ]
                     },
                     {
-                      "name": "mico",
-                      "name-jp": "シルバーマーモセット属",
-                      "name-cn": "微狨属",
+                      "name": "leontopithecus",
+                      "name-jp": "ライオンタマリン属",
+                      "name-cn": "狮面狨属",
                       "type": "genus",
                       "icon-children": [
                         {
-                          "name": "mico argentatus",
-                          "name-jp": "シルバーマーモセット",
-                          "name-cn": "银狨",
+                          "name": "leontopithecus rosalia",
+                          "name-jp": "ゴールデンライオンタマリン",
+                          "name-cn": "金狮面狨",
                           "type": "species",
-                          "icon": "/icon/シルバーマーモセット.jpg",
+                          "icon": "/icon/ゴールデンライオンタマリン.jpg",
+                          "hasWild": false
+                        }
+                      ]
+                    },
+                    {
+                      "name": "saguinus",
+                      "name-jp": "タマリン属",
+                      "name-cn": "柽柳猴属",
+                      "type": "genus",
+                      "icon-children": [
+                        {
+                          "name": "saguinus imperator",
+                          "name-jp": "エンペラータマリン",
+                          "name-cn": "皇柽柳猴",
+                          "type": "species",
+                          "icon": "/icon/エンペラータマリン.jpg",
+                          "hasWild": false
+                        },
+                        {
+                          "name": "saguinus oedipus",
+                          "name-jp": "ワタボウシタマリン",
+                          "name-cn": "绒顶柽柳猴",
+                          "type": "species",
+                          "icon": "/icon/ワタボウシタマリン.jpg",
+                          "hasWild": false
+                        },
+                        {
+                          "name": "saguinus midas",
+                          "name-jp": "アカテタマリン",
+                          "name-cn": "赤掌柽柳猴",
+                          "type": "species",
+                          "icon": "/icon/アカテタマリン.jpg",
                           "hasWild": false
                         }
                       ]
