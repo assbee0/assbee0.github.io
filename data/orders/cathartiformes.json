@@ -1,0 +1,66 @@
+{
+  "class": "aves",
+  "order": "cathartiformes",
+  "name": "cathartiformes",
+  "name-jp": "コンドル目",
+  "name-cn": "美洲鹫目",
+  "type": "order",
+  "children": [
+    {
+      "name": "cathartidae",
+      "name-jp": "コンドル科",
+      "name-cn": "美洲鹫科",
+      "type": "family",
+      "children": [
+        {
+          "name": "coragyps",
+          "name-jp": "クロコンドル属",
+          "name-cn": "黑美洲鹫属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "coragyps atratus",
+              "name-jp": "クロコンドル",
+              "name-cn": "黑美洲鹫",
+              "type": "species",
+              "icon": "/icon/クロコンドル.jpg",
+              "hasWild": false
+            }
+          ]
+        },
+        {
+          "name": "cathartes",
+          "name-jp": "ヒメコンドル属",
+          "name-cn": "美洲鹫属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "cathartes aura",
+              "name-jp": "ヒメコンドル",
+              "name-cn": "红头美洲鹫",
+              "type": "species",
+              "icon": "/icon/ヒメコンドル.jpg",
+              "hasWild": false
+            }
+          ]
+        },
+        {
+          "name": "vultur",
+          "name-jp": "コンドル属",
+          "name-cn": "安第斯神鹫属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "vultur gryphus",
+              "name-jp": "コンドル",
+              "name-cn": "安第斯神鹫",
+              "type": "species",
+              "icon": "/icon/コンドル.jpg",
+              "hasWild": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -7,6 +7,30 @@
   "type": "order",
   "children": [
     {
+      "name": "cracidae",
+      "name-jp": "ホウカンチョウ科",
+      "name-cn": "凤冠雉科",
+      "type": "family",
+      "children": [
+        {
+          "name": "ortalis",
+          "name-jp": "ヒメシャクケイ属",
+          "name-cn": "小冠雉属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "ortalis canicollis",
+              "name-jp": "アカオヒメシャクケイ",
+              "name-cn": "查科小冠雉",
+              "type": "species",
+              "icon": "/icon/アカオヒメシャクケイ.jpg",
+              "hasWild": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "numididae",
       "name-jp": "ホロホロチョウ科",
       "name-cn": "珠鸡科",

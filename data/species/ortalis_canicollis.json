@@ -1,0 +1,15 @@
+{
+    "id": "ortalis_canicollis",
+    "class": "aves",
+    "order": "galliformes",
+    "name-jp": "アカオヒメシャクケイ",
+    "name-cn": "查科小冠雉",
+    "photos": [
+        {
+            "id": "ortalis_canicollis_202604041638",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

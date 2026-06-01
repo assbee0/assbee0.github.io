@@ -77,6 +77,22 @@
           ]
         },
         {
+          "name": "taenioptynx",
+          "name-jp": "ヒメフクロウ属",
+          "name-cn": "领鸺鹠属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "taenioptynx brodiei",
+              "name-jp": "ヒメフクロウ",
+              "name-cn": "领鸺鹠",
+              "type": "species",
+              "icon": "/icon/ヒメフクロウ.jpg",
+              "hasWild": false
+            }
+          ]
+        },
+        {
           "name": "bubo",
           "name-jp": "ワシミミズク属",
           "name-cn": "雕鸮属",
@@ -96,6 +112,22 @@
               "name-cn": "雪鸮",
               "type": "species",
               "icon": "/icon/シロフクロウ.jpg",
+              "hasWild": false
+            }
+          ]
+        },
+        {
+          "name": "ketupa",
+          "name-jp": "シマフクロウ属",
+          "name-cn": "渔鸮属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "ketupa ketupu",
+              "name-jp": "マレーウオミミズク",
+              "name-cn": "马来渔鸮",
+              "type": "species",
+              "icon": "/icon/マレーウオミミズク.jpg",
               "hasWild": false
             }
           ]

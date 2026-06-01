@@ -247,6 +247,22 @@
                       "hasWild": false
                     }
                   ]
+                },
+                {
+                  "name": "arctogalidia",
+                  "name-jp": "ミズパームシベット属",
+                  "name-cn": "小齿狸属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "arctogalidia trivirgata",
+                      "name-jp": "ミズパームシベット",
+                      "name-cn": "小齿狸",
+                      "type": "species",
+                      "icon": "/icon/ミズパームシベット.jpg",
+                      "hasWild": false
+                    }
+                  ]
                 }
               ]
             }

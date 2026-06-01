@@ -1,0 +1,21 @@
+{
+    "id": "ducula_aenea",
+    "class": "aves",
+    "order": "columbiformes",
+    "name-jp": "ミカドバト",
+    "name-cn": "绿皇鸠",
+    "photos": [
+        {
+            "id": "ducula_aenea_202604041639_1",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ducula_aenea_202604041639_2",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

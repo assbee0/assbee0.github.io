@@ -210,6 +210,12 @@
                                             "icon": "/icon/アフリカワシミミズク.jpg"
                                         },
                                         {
+                                            "name": "Cathartiformes",
+                                            "name-jp": "コンドル目",
+                                            "name-cn": "美洲鹫目",
+                                            "icon": "/icon/ヒメコンドル.jpg"
+                                        },
+                                        {
                                             "name": "Accipitriformes",
                                             "name-jp": "タカ目",
                                             "name-cn": "鹰形目",

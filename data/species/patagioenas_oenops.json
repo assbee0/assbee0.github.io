@@ -1,0 +1,15 @@
+{
+    "id": "patagioenas_oenops",
+    "class": "aves",
+    "order": "columbiformes",
+    "name-jp": "ペルーバト",
+    "name-cn": "秘鲁鸽",
+    "photos": [
+        {
+            "id": "patagioenas_oenops_202604041637",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

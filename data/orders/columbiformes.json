@@ -51,6 +51,14 @@
           "type": "genus",
           "icon-children": [
             {
+              "name": "ducula aenea",
+              "name-jp": "ミカドバト",
+              "name-cn": "绿皇鸠",
+              "type": "species",
+              "icon": "/icon/ミカドバト.jpg",
+              "hasWild": false
+            },
+            {
               "name": "ducula bicolor",
               "name-jp": "ソデグロバト",
               "name-cn": "斑皇鸠",
@@ -73,6 +81,22 @@
               "type": "species",
               "icon": "/icon/チョウショウバト.jpg",
               "hasWild": true
+            }
+          ]
+        },
+        {
+          "name": "patagioenas",
+          "name-jp": "パタギオエナス属",
+          "name-cn": "新大陆鸽属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "patagioenas oenops",
+              "name-jp": "ペルーバト",
+              "name-cn": "秘鲁鸽",
+              "type": "species",
+              "icon": "/icon/ペルーバト.jpg",
+              "hasWild": false
             }
           ]
         },

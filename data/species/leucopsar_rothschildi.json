@@ -22,6 +22,12 @@
             "location": "よこはま動物園ズーラシア",
             "isWild": false,
             "description": ""
+        },
+        {
+            "id": "leucopsar_rothschildi_202604041635",
+            "location": "Singapore Zoo",
+            "isWild": false,
+            "description": ""
         }
     ]
 }

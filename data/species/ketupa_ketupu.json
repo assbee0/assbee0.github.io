@@ -1,0 +1,15 @@
+{
+    "id": "ketupa_ketupu",
+    "class": "aves",
+    "order": "strigiformes",
+    "name-jp": "マレーウオミミズク",
+    "name-cn": "马来渔鸮",
+    "photos": [
+        {
+            "id": "ketupa_ketupu_202604041950",
+            "location": "Night Safari",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

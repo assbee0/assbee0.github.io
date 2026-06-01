@@ -1,0 +1,21 @@
+{
+    "id": "arctogalidia_trivirgata",
+    "class": "mammalia",
+    "order": "carnivora",
+    "name-jp": "ミズパームシベット",
+    "name-cn": "小齿狸",
+    "photos": [
+        {
+            "id": "arctogalidia_trivirgata_202604042017",
+            "location": "Night Safari",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "arctogalidia_trivirgata_202604042019",
+            "location": "Night Safari",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}
