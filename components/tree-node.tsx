@@ -57,38 +57,31 @@ export function TreeNode({
         );
     }
 
-    const hasIconChildren = !!node["icon-children"];
+    return (
+        <div className="node-block">
+            {node.name && (
+                <Heading depth={depth}>
+                    {renderName(node, lang)}
+                </Heading>
+            )}
 
-    if (hasIconChildren) {
-        return (
-            <div className="node-block">
-                {node.name && (
-                    <Heading depth={depth}>
-                        {renderName(node, lang)}
-                    </Heading>
-                )}
-                <IconGrid items={node["icon-children"]} className={className} lang={lang} />
-            </div>
-        );
-    } else {
-        return (
-            <div className="node-block">
-                {node.name && (
-                    <Heading depth={depth}>
-                        {renderName(node, lang)}
-                    </Heading>
-                )}
+            {node["icon-children"]?.length > 0 && (
+                <IconGrid
+                    items={node["icon-children"]}
+                    className={className}
+                    lang={lang}
+                />
+            )}
 
-                {node.children?.map((child: any) => (
-                    <TreeNode
-                        key={child.name}
-                        node={child}
-                        className={className}
-                        depth={depth + 1}
-                        lang={lang}
-                    />
-                ))}
-            </div>
-        );
-    }
+            {node.children?.map((child: any) => (
+                <TreeNode
+                    key={child.name}
+                    node={child}
+                    className={className}
+                    depth={depth + 1}
+                    lang={lang}
+                />
+            ))}
+        </div>
+    );
 }
