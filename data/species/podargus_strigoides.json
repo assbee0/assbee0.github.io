@@ -16,6 +16,12 @@
             "location": "野毛山動物園",
             "isWild": false,
             "description": ""
+        },
+        {
+            "id": "podargus_strigoides_202604051404",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
         }
     ]
 }

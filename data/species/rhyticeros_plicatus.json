@@ -1,0 +1,15 @@
+{
+    "id": "rhyticeros_plicatus",
+    "class": "aves",
+    "order": "bucerotiformes",
+    "name-jp": "パプアシワコブサイチョウ",
+    "name-cn": "蓝喉皱盔犀鸟",
+    "photos": [
+        {
+            "id": "rhyticeros_plicatus_202604051336",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

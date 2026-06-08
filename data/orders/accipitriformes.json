@@ -85,6 +85,30 @@
           ]
         },
         {
+          "name": "circaetinae",
+          "name-jp": "チュウヒワシ亜科",
+          "name-cn": "蛇雕亚科",
+          "type": "subfamily",
+          "children": [
+            {
+              "name": "pithecophaga",
+              "name-jp": "フィリピンワシ属",
+              "name-cn": "菲律宾雕属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "pithecophaga jefferyi",
+                  "name-jp": "フィリピンワシ",
+                  "name-cn": "菲律宾雕",
+                  "type": "species",
+                  "icon": "/icon/フィリピンワシ.jpg",
+                  "hasWild": false
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "aegypiinae",
           "name-jp": "ハゲワシ亜科",
           "name-cn": "秃鹫亚科",

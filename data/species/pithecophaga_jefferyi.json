@@ -1,0 +1,21 @@
+{
+    "id": "pithecophaga_jefferyi",
+    "class": "aves",
+    "order": "accipitriformes",
+    "name-jp": "フィリピンワシ",
+    "name-cn": "菲律宾雕",
+    "photos": [
+        {
+            "id": "pithecophaga_jefferyi_202604051313",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "pithecophaga_jefferyi_202604051312",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

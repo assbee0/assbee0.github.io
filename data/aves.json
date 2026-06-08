@@ -154,10 +154,23 @@
                                     ]
                                 },
                                 {
-                                    "name": "Ardeae",
-                                    "name-jp": "アルデアエ・クレード",
+                                    "name": "Phaethoquornithes",
+                                    "name-jp": "ファエトクオルニテス・クレード",
                                     "name-cn": "鹭形类",
                                     "children": [
+                                        {
+                                            "name": "Eurypygimorphae",
+                                            "name-jp": "広尾形類",
+                                            "name-cn": "日鳽总目",
+                                            "icon-children": [
+                                                {
+                                                    "name": "Eurypygiformes",
+                                                    "name-jp": "ジャノメドリ目",
+                                                    "name-cn": "日鳽目",
+                                                    "icon": "/icon/カグー.jpg"
+                                                }
+                                            ]
+                                        },
                                         {
                                             "name": "Aequornithes",
                                             "name-jp": "水禽類",

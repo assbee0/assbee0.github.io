@@ -1,0 +1,15 @@
+{
+    "id": "pteroglossus_castanotis",
+    "class": "aves",
+    "order": "piciformes",
+    "name-jp": "チャミミチュウハシ",
+    "name-cn": "栗耳簇舌巨嘴鸟",
+    "photos": [
+        {
+            "id": "pteroglossus_castanotis_202604051339",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

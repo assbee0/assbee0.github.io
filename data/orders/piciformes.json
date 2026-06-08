@@ -127,6 +127,22 @@
                       "hasWild": false
                     }
                   ]
+                },
+                {
+                  "name": "pteroglossus",
+                  "name-jp": "チュウハシ属",
+                  "name-cn": "簇舌巨嘴鸟属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "pteroglossus castanotis",
+                      "name-jp": "チャミミチュウハシ",
+                      "name-cn": "栗耳簇舌巨嘴鸟",
+                      "type": "species",
+                      "icon": "/icon/チャミミチュウハシ.jpg",
+                      "hasWild": false
+                    }
+                  ]
                 }
               ]
             }

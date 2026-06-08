@@ -77,22 +77,6 @@
           ]
         },
         {
-          "name": "taenioptynx",
-          "name-jp": "ヒメフクロウ属",
-          "name-cn": "领鸺鹠属",
-          "type": "genus",
-          "icon-children": [
-            {
-              "name": "taenioptynx brodiei",
-              "name-jp": "ヒメフクロウ",
-              "name-cn": "领鸺鹠",
-              "type": "species",
-              "icon": "/icon/ヒメフクロウ.jpg",
-              "hasWild": false
-            }
-          ]
-        },
-        {
           "name": "bubo",
           "name-jp": "ワシミミズク属",
           "name-cn": "雕鸮属",

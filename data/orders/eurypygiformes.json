@@ -1,0 +1,34 @@
+{
+  "class": "aves",
+  "order": "eurypygiformes",
+  "name": "eurypygiformes",
+  "name-jp": "ジャノメドリ目",
+  "name-cn": "日鳽目",
+  "type": "order",
+  "children": [
+    {
+      "name": "rhynochetidae",
+      "name-jp": "カグー科",
+      "name-cn": "鹭鹤科",
+      "type": "family",
+      "children": [
+        {
+          "name": "rhynochetos",
+          "name-jp": "カグー属",
+          "name-cn": "鹭鹤属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "rhynochetos jubatus",
+              "name-jp": "カグー",
+              "name-cn": "鹭鹤",
+              "type": "species",
+              "icon": "/icon/カグー.jpg",
+              "hasWild": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

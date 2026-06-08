@@ -1,0 +1,15 @@
+{
+    "id": "rhynochetos_jubatus",
+    "class": "aves",
+    "order": "eurypygiformes",
+    "name-jp": "カグー",
+    "name-cn": "鹭鹤",
+    "photos": [
+        {
+            "id": "rhynochetos_jubatus_202604051330",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

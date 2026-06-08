@@ -121,11 +121,35 @@
               "type": "genus",
               "icon-children": [
                 {
+                  "name": "rhyticeros plicatus",
+                  "name-jp": "パプアシワコブサイチョウ",
+                  "name-cn": "蓝喉皱盔犀鸟",
+                  "type": "species",
+                  "icon": "/icon/パプアシワコブサイチョウ.jpg",
+                  "hasWild": false
+                },
+                {
                   "name": "rhyticeros undulatus",
                   "name-jp": "シワコブサイチョウ",
                   "name-cn": "花冠皱盔犀鸟",
                   "type": "species",
                   "icon": "/icon/シワコブサイチョウ.jpg",
+                  "hasWild": false
+                }
+              ]
+            },
+            {
+              "name": "rhabdotorrhinus",
+              "name-jp": "ラブドトリヌス属",
+              "name-cn": "斑盔犀鸟属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "rhabdotorrhinus exarhatus",
+                  "name-jp": "カオジロサイチョウ",
+                  "name-cn": "白颊犀鸟",
+                  "type": "species",
+                  "icon": "/icon/カオジロサイチョウ.jpg",
                   "hasWild": false
                 }
               ]
