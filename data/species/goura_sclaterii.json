@@ -1,0 +1,15 @@
+{
+    "id": "goura_sclaterii",
+    "class": "aves",
+    "order": "columbiformes",
+    "name-jp": "ムネアカカンムリバト",
+    "name-cn": "斯氏凤冠鸠",
+    "photos": [
+        {
+            "id": "goura_sclaterii_202604051425",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

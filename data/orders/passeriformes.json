@@ -243,6 +243,14 @@
                           "type": "species",
                           "icon": "/icon/アカガオサイホウチョウ.jpg",
                           "hasWild": true
+                        },
+                        {
+                          "name": "orthotomus sutorius",
+                          "name-jp": "オナガサイホウチョウ",
+                          "name-cn": "长尾缝叶莺",
+                          "type": "species",
+                          "icon": "/icon/オナガサイホウチョウ.jpg",
+                          "hasWild": true
                         }
                       ]
                     }
@@ -337,6 +345,14 @@
                               "type": "species",
                               "icon": "/icon/シロガシラ.jpg",
                               "hasWild": true
+                            },
+                            {
+                              "name": "pycnonotus zeylanicus",
+                              "name-jp": "キガシラヒヨドリ",
+                              "name-cn": "黄冠鹎",
+                              "type": "species",
+                              "icon": "/icon/キガシラヒヨドリ.jpg",
+                              "hasWild": false
                             }
                           ]
                         },
@@ -668,6 +684,22 @@
                       "name-cn": "椋鸟科",
                       "type": "family",
                       "children": [
+                        {
+                          "name": "basilornis",
+                          "name-jp": "オオサマムクドリ属",
+                          "name-cn": "王椋鸟属",
+                          "type": "genus",
+                          "icon-children": [
+                            {
+                              "name": "basilornis celebensis",
+                              "name-jp": "セレベスオオサマムクドリ",
+                              "name-cn": "苏拉王椋鸟",
+                              "type": "species",
+                              "icon": "/icon/セレベスオオサマムクドリ.jpg",
+                              "hasWild": false
+                            }
+                          ]
+                        },
                         {
                           "name": "gracula",
                           "name-jp": "キュウカンチョウ属",

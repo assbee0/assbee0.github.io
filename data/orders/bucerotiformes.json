@@ -45,7 +45,7 @@
             {
               "name": "lophoceros",
               "name-jp": "カンムリコサイチョウ属",
-              "name-cn": "冠角犀鸟属",
+              "name-cn": "弯嘴犀鸟属",
               "type": "genus",
               "icon-children": [
                 {
@@ -55,6 +55,14 @@
                   "type": "species",
                   "icon": "/icon/カンムリコサイチョウ.jpg",
                   "hasWild": false
+                },
+                {
+                  "name": "lophoceros nasutus",
+                  "name-jp": "ハイイロコサイチョウ",
+                  "name-cn": "黑嘴弯嘴犀鸟",
+                  "type": "species",
+                  "icon": "/icon/ハイイロコサイチョウ.jpg",
+                  "hasWild": false
                 }
               ]
             },
@@ -62,7 +70,7 @@
               "name": "bycanistes",
               "name-jp": "ナキサイチョウ属",
               "name-cn": "噪犀鸟属",
-              "type": "genus",
+              "type": "species",
               "icon-children": [
                 {
                   "name": "bycanistes brevis",

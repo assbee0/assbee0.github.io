@@ -1,0 +1,21 @@
+{
+    "id": "orthotomus_sutorius",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "オナガサイホウチョウ",
+    "name-cn": "长尾缝叶莺",
+    "photos": [
+        {
+            "id": "orthotomus_sutorius_202604051432_1",
+            "location": "Bird Paradise",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "orthotomus_sutorius_202604051432_2",
+            "location": "Bird Paradise",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

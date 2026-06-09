@@ -1,0 +1,15 @@
+{
+    "id": "loriculus_galgulus",
+    "class": "aves",
+    "order": "psittaciformes",
+    "name-jp": "サトウチョウ",
+    "name-cn": "蓝冠短尾鹦鹉",
+    "photos": [
+        {
+            "id": "loriculus_galgulus_202604051348",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

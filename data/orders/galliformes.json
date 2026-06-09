@@ -27,6 +27,22 @@
               "hasWild": false
             }
           ]
+        },
+        {
+          "name": "crax",
+          "name-jp": "ホウカンチョウ属",
+          "name-cn": "凤冠雉属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "crax rubra",
+              "name-jp": "オオホウカンチョウ",
+              "name-cn": "大凤冠雉",
+              "type": "species",
+              "icon": "/icon/オオホウカンチョウ.jpg",
+              "hasWild": false
+            }
+          ]
         }
       ]
     },

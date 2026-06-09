@@ -1,0 +1,15 @@
+{
+    "id": "basilornis_celebensis",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "セレベスオオサマムクドリ",
+    "name-cn": "苏拉王椋鸟",
+    "photos": [
+        {
+            "id": "basilornis_celebensis_202604051333",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

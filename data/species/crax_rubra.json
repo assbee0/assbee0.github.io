@@ -1,0 +1,15 @@
+{
+    "id": "crax_rubra",
+    "class": "aves",
+    "order": "galliformes",
+    "name-jp": "オオホウカンチョウ",
+    "name-cn": "大凤冠雉",
+    "photos": [
+        {
+            "id": "crax_rubra_202604051350",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

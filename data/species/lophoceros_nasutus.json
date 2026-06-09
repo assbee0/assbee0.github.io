@@ -1,0 +1,15 @@
+{
+    "id": "lophoceros_nasutus",
+    "class": "aves",
+    "order": "bucerotiformes",
+    "name-jp": "ハイイロコサイチョウ",
+    "name-cn": "黑嘴弯嘴犀鸟",
+    "photos": [
+        {
+            "id": "lophoceros_nasutus_202604051323",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

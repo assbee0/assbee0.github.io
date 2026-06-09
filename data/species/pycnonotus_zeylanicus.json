@@ -1,0 +1,15 @@
+{
+    "id": "pycnonotus_zeylanicus",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "キガシラヒヨドリ",
+    "name-cn": "黄冠鹎",
+    "photos": [
+        {
+            "id": "pycnonotus_zeylanicus_202604051332",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

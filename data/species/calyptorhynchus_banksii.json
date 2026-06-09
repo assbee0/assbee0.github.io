@@ -1,0 +1,15 @@
+{
+    "id": "calyptorhynchus_banksii",
+    "class": "aves",
+    "order": "psittaciformes",
+    "name-jp": "アカオクロオウム",
+    "name-cn": "红尾黑凤头鹦鹉",
+    "photos": [
+        {
+            "id": "calyptorhynchus_banksii_202604051401",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

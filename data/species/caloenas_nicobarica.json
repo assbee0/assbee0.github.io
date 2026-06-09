@@ -1,0 +1,21 @@
+{
+    "id": "caloenas_nicobarica",
+    "class": "aves",
+    "order": "columbiformes",
+    "name-jp": "ミノバト",
+    "name-cn": "绿蓑鸠",
+    "photos": [
+        {
+            "id": "caloenas_nicobarica_202604051428",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "caloenas_nicobarica_202604051422",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

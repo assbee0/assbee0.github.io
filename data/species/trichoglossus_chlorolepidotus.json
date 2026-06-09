@@ -1,0 +1,15 @@
+{
+    "id": "trichoglossus_chlorolepidotus",
+    "class": "aves",
+    "order": "psittaciformes",
+    "name-jp": "コセイガイインコ",
+    "name-cn": "鳞胸鹦鹉",
+    "photos": [
+        {
+            "id": "trichoglossus_chlorolepidotus_202604051408",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

@@ -13,6 +13,22 @@
       "type": "family",
       "children": [
         {
+          "name": "calyptorhynchus",
+          "name-jp": "クロオウム属",
+          "name-cn": "黑凤头鹦鹉属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "calyptorhynchus banksii",
+              "name-jp": "アカオクロオウム",
+              "name-cn": "红尾黑凤头鹦鹉",
+              "type": "species",
+              "icon": "/icon/アカオクロオウム.jpg",
+              "hasWild": false
+            }
+          ]
+        },
+        {
           "name": "nymphicus",
           "name-jp": "オカメインコ属",
           "name-cn": "鸡尾鹦鹉属",
@@ -177,13 +193,13 @@
     {
       "name": "psittaculidae",
       "name-jp": "インコ科",
-      "name-cn": "鹦鹉科",
+      "name-cn": "长尾鹦鹉科",
       "type": "family",
       "children": [
         {
           "name": "psittaculinae",
           "name-jp": "プシッタクリニ亜科",
-          "name-cn": "鹦鹉亚科",
+          "name-cn": "长尾鹦鹉亚科",
           "type": "subfamily",
           "children": [
             {
@@ -225,6 +241,22 @@
                   "hasWild": false
                 }
               ]
+            },
+            {
+              "name": "loriculus",
+              "name-jp": "サトウチョウ属",
+              "name-cn": "短尾鹦鹉属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "loriculus galgulus",
+                  "name-jp": "サトウチョウ",
+                  "name-cn": "蓝冠短尾鹦鹉",
+                  "type": "species",
+                  "icon": "/icon/サトウチョウ.jpg",
+                  "hasWild": false
+                }
+              ]
             }
           ]
         },
@@ -259,9 +291,17 @@
                 {
                   "name": "trichoglossus",
                   "name-jp": "セイガイインコ属",
-                  "name-cn": "吸蜜鹦鹉属",
+                  "name-cn": "彩虹鹦鹉属",
                   "type": "genus",
                   "icon-children": [
+                    {
+                      "name": "trichoglossus chlorolepidotus",
+                      "name-jp": "コセイガイインコ",
+                      "name-cn": "鳞胸鹦鹉",
+                      "type": "species",
+                      "icon": "/icon/コセイガイインコ.jpg",
+                      "hasWild": false
+                    },
                     {
                       "name": "trichoglossus haematodus",
                       "name-jp": "ニューギニアゴシキセイガイインコ",
