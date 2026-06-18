@@ -1,0 +1,15 @@
+{
+    "id": "alisterus_amboinensis",
+    "class": "aves",
+    "order": "psittaciformes",
+    "name-jp": "オウインコ",
+    "name-cn": "安汶王鹦鹉",
+    "photos": [
+        {
+            "id": "alisterus_amboinensis_202604051451",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "lorius_chlorocercus",
+    "class": "aves",
+    "order": "psittaciformes",
+    "name-jp": "ヨダレカケズグロインコ",
+    "name-cn": "黄领鹦鹉",
+    "photos": [
+        {
+            "id": "lorius_chlorocercus_202604051437",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

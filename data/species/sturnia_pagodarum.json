@@ -1,0 +1,27 @@
+{
+    "id": "sturnia_pagodarum",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "ズグロムクドリ",
+    "name-cn": "黑冠椋鸟",
+    "photos": [
+        {
+            "id": "sturnia_pagodarum_202604051455_1",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "sturnia_pagodarum_202604051452",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "sturnia_pagodarum_202604051455_2",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

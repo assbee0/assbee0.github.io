@@ -1,0 +1,15 @@
+{
+    "id": "trichoglossus_forsteni",
+    "class": "aves",
+    "order": "psittaciformes",
+    "name-jp": "スンバセイガイインコ",
+    "name-cn": "红胸鹦鹉",
+    "photos": [
+        {
+            "id": "trichoglossus_forsteni_202604051442",
+            "location": "",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

@@ -69,6 +69,22 @@
           ]
         },
         {
+          "name": "ramphiculus",
+          "name-jp": "ランフィクルス属",
+          "name-cn": "果鸠属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "ramphiculus jambu",
+              "name-jp": "ボタンバト",
+              "name-cn": "粉头果鸠",
+              "type": "species",
+              "icon": "/icon/ボタンバト.jpg",
+              "hasWild": false
+            }
+          ]
+        },
+        {
           "name": "ducula",
           "name-jp": "ミカドバト属",
           "name-cn": "皇鸠属",
@@ -88,6 +104,30 @@
               "name-cn": "斑皇鸠",
               "type": "species",
               "icon": "/icon/ソデグロバト.jpg",
+              "hasWild": false
+            },
+            {
+              "name": "ducula pacifica",
+              "name-jp": "ミナミコブバト",
+              "name-cn": "太平洋皇鸠",
+              "type": "species",
+              "icon": "/icon/ミナミコブバト.jpg",
+              "hasWild": false
+            }
+          ]
+        },
+        {
+          "name": "gallicolumba",
+          "name-jp": "ヒムネバト属",
+          "name-cn": "鸡鸠属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "gallicolumba tristigmata",
+              "name-jp": "セレベスウズラバト",
+              "name-cn": "黄胸鸡鸠",
+              "type": "species",
+              "icon": "/icon/セレベスウズラバト.jpg",
               "hasWild": false
             }
           ]

@@ -717,6 +717,22 @@
                           ]
                         },
                         {
+                          "name": "sturnia",
+                          "name-jp": "ストルニア属",
+                          "name-cn": "亚洲椋鸟属",
+                          "type": "genus",
+                          "icon-children": [
+                            {
+                              "name": "sturnia pagodarum",
+                              "name-jp": "ズグロムクドリ",
+                              "name-cn": "黑冠椋鸟",
+                              "type": "species",
+                              "icon": "/icon/ズグロムクドリ.jpg",
+                              "hasWild": false
+                            }
+                          ]
+                        },
+                        {
                           "name": "leucopsar",
                           "name-jp": "カンムリシロムク属",
                           "name-cn": "长冠八哥属",

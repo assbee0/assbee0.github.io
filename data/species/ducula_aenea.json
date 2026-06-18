@@ -16,6 +16,12 @@
             "location": "Singapore Zoo",
             "isWild": false,
             "description": ""
+        },
+        {
+            "id": "ducula_aenea_202604051445",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
         }
     ]
 }

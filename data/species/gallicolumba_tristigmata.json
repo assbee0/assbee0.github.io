@@ -1,0 +1,15 @@
+{
+    "id": "gallicolumba_tristigmata",
+    "class": "aves",
+    "order": "columbiformes",
+    "name-jp": "セレベスウズラバト",
+    "name-cn": "黄胸鸡鸠",
+    "photos": [
+        {
+            "id": "gallicolumba_tristigmata_202604051453",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

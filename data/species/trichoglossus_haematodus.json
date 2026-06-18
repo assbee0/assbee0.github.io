@@ -10,6 +10,12 @@
             "location": "北京野生动物园",
             "isWild": false,
             "description": ""
+        },
+        {
+            "id": "trichoglossus_haematodus_202604051431",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
         }
     ]
 }

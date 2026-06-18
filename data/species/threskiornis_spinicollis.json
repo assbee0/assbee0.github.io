@@ -10,6 +10,12 @@
             "location": "多摩動物公園",
             "isWild": false,
             "description": ""
+        },
+        {
+            "id": "threskiornis_spinicollis_202604051414",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
         }
     ]
 }

@@ -1,0 +1,15 @@
+{
+    "id": "ramphiculus_jambu",
+    "class": "aves",
+    "order": "columbiformes",
+    "name-jp": "ボタンバト",
+    "name-cn": "粉头果鸠",
+    "photos": [
+        {
+            "id": "ramphiculus_jambu_202604051451",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

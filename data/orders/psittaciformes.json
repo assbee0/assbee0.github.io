@@ -45,6 +45,22 @@
           ]
         },
         {
+          "name": "eolophus",
+          "name-jp": "モモイロインコ属",
+          "name-cn": "粉红凤头鹦鹉属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "eolophus roseicapilla",
+              "name-jp": "モモイロインコ",
+              "name-cn": "红尾黑凤头鹦鹉",
+              "type": "species",
+              "icon": "/icon/モモイロインコ.jpg",
+              "hasWild": false
+            }
+          ]
+        },
+        {
           "name": "cacatua",
           "name-jp": "オウム属",
           "name-cn": "凤头鹦鹉属",
@@ -203,6 +219,22 @@
           "type": "subfamily",
           "children": [
             {
+              "name": "alisterus",
+              "name-jp": "キンショウジョウインコ属",
+              "name-cn": "王鹦鹉属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "alisterus amboinensis",
+                  "name-jp": "オウインコ",
+                  "name-cn": "安汶王鹦鹉",
+                  "type": "species",
+                  "icon": "/icon/オウインコ.jpg",
+                  "hasWild": false
+                }
+              ]
+            },
+            {
               "name": "eclectus",
               "name-jp": "オオハナインコ属",
               "name-cn": "折衷鹦鹉属",
@@ -289,6 +321,38 @@
               "type": "tribe",
               "children": [
                 {
+                  "name": "lorius",
+                  "name-jp": "オビロインコ属",
+                  "name-cn": "黑顶吸蜜鹦鹉属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "lorius chlorocercus",
+                      "name-jp": "ヨダレカケズグロインコ",
+                      "name-cn": "黄领鹦鹉",
+                      "type": "species",
+                      "icon": "/icon/ヨダレカケズグロインコ.jpg",
+                      "hasWild": false
+                    }
+                  ]
+                },
+                {
+                  "name": "chalcopsitta",
+                  "name-jp": "テリハインコ属",
+                  "name-cn": "铜色鹦鹉属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "chalcopsitta fuscata",
+                      "name-jp": "コシジロインコ",
+                      "name-cn": "烟色鹦鹉",
+                      "type": "species",
+                      "icon": "/icon/コシジロインコ.jpg",
+                      "hasWild": false
+                    }
+                  ]
+                },
+                {
                   "name": "trichoglossus",
                   "name-jp": "セイガイインコ属",
                   "name-cn": "彩虹鹦鹉属",
@@ -300,6 +364,14 @@
                       "name-cn": "鳞胸鹦鹉",
                       "type": "species",
                       "icon": "/icon/コセイガイインコ.jpg",
+                      "hasWild": false
+                    },
+                    {
+                      "name": "trichoglossus forsteni",
+                      "name-jp": "スンバセイガイインコ",
+                      "name-cn": "红胸鹦鹉",
+                      "type": "species",
+                      "icon": "/icon/スンバセイガイインコ.jpg",
                       "hasWild": false
                     },
                     {

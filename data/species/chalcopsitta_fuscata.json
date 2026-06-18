@@ -1,0 +1,21 @@
+{
+    "id": "chalcopsitta_fuscata",
+    "class": "aves",
+    "order": "psittaciformes",
+    "name-jp": "コシジロインコ",
+    "name-cn": "烟色鹦鹉",
+    "photos": [
+        {
+            "id": "chalcopsitta_fuscata_202604051440_1",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "chalcopsitta_fuscata_202604051440_2",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

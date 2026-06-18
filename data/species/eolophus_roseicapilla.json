@@ -1,0 +1,15 @@
+{
+    "id": "eolophus_roseicapilla",
+    "class": "aves",
+    "order": "psittaciformes",
+    "name-jp": "モモイロインコ",
+    "name-cn": "红尾黑凤头鹦鹉",
+    "photos": [
+        {
+            "id": "eolophus_roseicapilla_202604051413",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "ducula_pacifica",
+    "class": "aves",
+    "order": "columbiformes",
+    "name-jp": "ミナミコブバト",
+    "name-cn": "太平洋皇鸠",
+    "photos": [
+        {
+            "id": "ducula_pacifica_202604051433",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}
