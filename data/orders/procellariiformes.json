@@ -1,0 +1,34 @@
+{
+  "class": "aves",
+  "order": "procellariiformes",
+  "name": "procellariiformes",
+  "name-jp": "ミズナギドリ目",
+  "name-cn": "鹱形目",
+  "type": "order",
+  "children": [
+    {
+      "name": "procellariidae",
+      "name-jp": "ミズナギドリ科",
+      "name-cn": "鹱科",
+      "type": "family",
+      "children": [
+        {
+          "name": "calonectris",
+          "name-jp": "オオミズナギドリ属",
+          "name-cn": "猛鹱属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "calonectris leucomelas",
+              "name-jp": "オオミズナギドリ",
+              "name-cn": "白额鹱",
+              "type": "species",
+              "icon": "/icon/オオミズナギドリ.jpg",
+              "hasWild": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

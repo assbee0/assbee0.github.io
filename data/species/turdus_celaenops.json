@@ -1,0 +1,21 @@
+{
+    "id": "turdus_celaenops",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "アカコッコ",
+    "name-cn": "伊豆鸫",
+    "photos": [
+        {
+            "id": "turdus_celaenops_202606200544",
+            "location": "三宅島坪田",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "turdus_celaenops_202606201018",
+            "location": "三宅島坪田",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

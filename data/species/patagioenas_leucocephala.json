@@ -1,0 +1,15 @@
+{
+    "id": "patagioenas_leucocephala",
+    "class": "aves",
+    "order": "columbiformes",
+    "name-jp": "シロボウシバト",
+    "name-cn": "白顶鸽",
+    "photos": [
+        {
+            "id": "patagioenas_leucocephala_202604051503",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

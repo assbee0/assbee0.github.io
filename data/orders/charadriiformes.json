@@ -115,6 +115,22 @@
           "type": "family",
           "children": [
             {
+              "name": "recurvirostra",
+              "name-jp": "ソリハシセイタカシギ属",
+              "name-cn": "反嘴鹬属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "recurvirostra avosetta",
+                  "name-jp": "ソリハシセイタカシギ",
+                  "name-cn": "反嘴鹬",
+                  "type": "species",
+                  "icon": "/icon/ソリハシセイタカシギ.jpg",
+                  "hasWild": false
+                }
+              ]
+            },
+            {
               "name": "himantopus",
               "name-jp": "セイタカシギ属",
               "name-cn": "长脚鹬属",

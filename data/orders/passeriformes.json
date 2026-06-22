@@ -197,6 +197,14 @@
                       "type": "genus",
                       "icon-children": [
                         {
+                          "name": "sittiparus owstoni",
+                          "name-jp": "オーストンヤマガラ",
+                          "name-cn": "伊豆杂色山雀",
+                          "type": "species",
+                          "icon": "/icon/オーストンヤマガラ.jpg",
+                          "hasWild": true
+                        },
+                        {
                           "name": "sittiparus varius",
                           "name-jp": "ヤマガラ",
                           "name-cn": "杂色山雀",
@@ -250,6 +258,30 @@
                           "name-cn": "长尾缝叶莺",
                           "type": "species",
                           "icon": "/icon/オナガサイホウチョウ.jpg",
+                          "hasWild": true
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "locustellidae",
+                  "name-jp": "センニュウ科",
+                  "name-cn": "蝗莺科",
+                  "type": "family",
+                  "children": [
+                    {
+                      "name": "helopsaltes",
+                      "name-jp": "ヘロプサルテス属",
+                      "name-cn": "小蝗莺属",
+                      "type": "genus",
+                      "icon-children": [
+                        {
+                          "name": "helopsaltes pleskei",
+                          "name-jp": "ウチヤマセンニュウ",
+                          "name-cn": "东亚蝗莺",
+                          "type": "species",
+                          "icon": "/icon/ウチヤマセンニュウ.jpg",
                           "hasWild": true
                         }
                       ]
@@ -649,6 +681,14 @@
                               "type": "species",
                               "icon": "/icon/クロツグミ.jpg",
                               "hasWild": false
+                            },
+                            {
+                              "name": "turdus celaenops",
+                              "name-jp": "アカコッコ",
+                              "name-cn": "伊豆鸫",
+                              "type": "species",
+                              "icon": "/icon/アカコッコ.jpg",
+                              "hasWild": true
                             },
                             {
                               "name": "turdus eunomus",

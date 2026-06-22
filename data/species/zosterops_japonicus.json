@@ -34,6 +34,12 @@
             "location": "桜ヶ丘公園",
             "isWild": true,
             "description": ""
+        },
+        {
+            "id": "zosterops_japonicus_202606200542",
+            "location": "三宅島坪田",
+            "isWild": true,
+            "description": ""
         }
     ]
 }

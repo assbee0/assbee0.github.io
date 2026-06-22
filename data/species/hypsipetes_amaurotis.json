@@ -28,6 +28,12 @@
             "location": "新宿御苑",
             "isWild": true,
             "description": ""
+        },
+        {
+            "id": "hypsipetes_amaurotis_202606201632",
+            "location": "三宅島阿古",
+            "isWild": true,
+            "description": ""
         }
     ]
 }

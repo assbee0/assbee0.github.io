@@ -1,0 +1,27 @@
+{
+    "id": "calonectris_leucomelas",
+    "class": "aves",
+    "order": "procellariiformes",
+    "name-jp": "オオミズナギドリ",
+    "name-cn": "白额鹱",
+    "photos": [
+        {
+            "id": "calonectris_leucomelas_202606211533",
+            "location": "伊豆諸島周辺海域",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "calonectris_leucomelas_202606211539",
+            "location": "伊豆諸島周辺海域",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "calonectris_leucomelas_202606211653",
+            "location": "伊豆諸島周辺海域",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "recurvirostra_avosetta",
+    "class": "aves",
+    "order": "charadriiformes",
+    "name-jp": "ソリハシセイタカシギ",
+    "name-cn": "反嘴鹬",
+    "photos": [
+        {
+            "id": "recurvirostra_avosetta_202604051458",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

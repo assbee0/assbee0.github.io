@@ -28,6 +28,24 @@
             "location": "東京都多摩市関戸",
             "isWild": true,
             "description": ""
+        },
+        {
+            "id": "emberiza_cioides_202606200703",
+            "location": "三宅島坪田",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "emberiza_cioides_202606201356",
+            "location": "三宅島阿古",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "emberiza_cioides_202606210640",
+            "location": "三宅島坪田",
+            "isWild": true,
+            "description": ""
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "sittiparus_owstoni",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "オーストンヤマガラ",
+    "name-cn": "伊豆杂色山雀",
+    "photos": [
+        {
+            "id": "sittiparus_owstoni_202606210626_1",
+            "location": "三宅島坪田",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "sittiparus_owstoni_202606200709",
+            "location": "三宅島坪田",
+            "isWild": true,
+            "description": ""
+        },
+        {
+            "id": "sittiparus_owstoni_202606210626_2",
+            "location": "三宅島坪田",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}
