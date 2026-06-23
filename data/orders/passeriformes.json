@@ -167,6 +167,30 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "name": "laniidae",
+                  "name-jp": "モズ科",
+                  "name-cn": "伯劳科",
+                  "type": "family",
+                  "children": [
+                    {
+                      "name": "lanius",
+                      "name-jp": "モズ属",
+                      "name-cn": "伯劳属",
+                      "type": "genus",
+                      "icon-children": [
+                        {
+                          "name": "lanius bucephalus",
+                          "name-jp": "モズ",
+                          "name-cn": "牛头伯劳",
+                          "type": "species",
+                          "icon": "/icon/モズ.jpg",
+                          "hasWild": true
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }

@@ -1,0 +1,15 @@
+{
+    "id": "lanius_bucephalus",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "モズ",
+    "name-cn": "牛头伯劳",
+    "photos": [
+        {
+            "id": "lanius_bucephalus_202606201435",
+            "location": "三宅島阿古",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

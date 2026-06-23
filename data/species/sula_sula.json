@@ -1,0 +1,15 @@
+{
+    "id": "sula_sula",
+    "class": "aves",
+    "order": "suliformes",
+    "name-jp": "アカアシカツオドリ",
+    "name-cn": "红脚鲣鸟",
+    "photos": [
+        {
+            "id": "sula_sula_202606211441",
+            "location": "伊豆諸島周辺海域",
+            "isWild": true,
+            "description": ""
+        }
+    ]
+}

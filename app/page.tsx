@@ -56,6 +56,15 @@ export default function Home() {
           </h2>
         </div>
       ))}
+
+      <div>
+        <h2
+          className="homepage-h2-class"
+          data-word="ARCHIVE"
+        >
+          <Link href="/archive">archive</Link>
+        </h2>
+      </div>
     </div>
   );
 }

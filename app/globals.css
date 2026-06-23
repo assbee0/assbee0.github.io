@@ -694,6 +694,290 @@ body {
   right: 16px;
 }
 
+.archive-background {
+  min-height: 100vh;
+
+  padding: 28px;
+
+  background:
+    radial-gradient(circle at top,
+      #1a1f2a 0%,
+      #0b0f14 60%,
+      #070a0f 100%);
+
+  color: white;
+}
+
+
+/* =========================
+   PATH
+========================= */
+
+.archive-path {
+  margin-bottom: 60px;
+
+  font-size: 13px;
+
+  letter-spacing: 0.2em;
+}
+
+.archive-path a {
+  color: rgba(255, 255, 255, 0.75);
+
+  text-decoration: none;
+
+  transition: 0.2s;
+}
+
+.archive-path a:hover {
+  color: #b6f0ff;
+}
+
+.archive-path span {
+  color: rgba(255, 255, 255, 0.35);
+}
+
+
+/* =========================
+   HEADER
+========================= */
+
+.archive-header {
+  text-align: center;
+
+  margin-bottom: 90px;
+}
+
+.archive-heading {
+  position: relative;
+}
+
+.archive-title {
+  position: relative;
+
+  z-index: 2;
+
+  font-size: 56px;
+
+  font-weight: 900;
+
+  letter-spacing: 0.14em;
+}
+
+.archive-heading::after {
+  content: attr(data-word);
+
+  position: absolute;
+
+  left: 50%;
+  top: -25px;
+
+  transform: translateX(-50%);
+
+  font-size: 130px;
+
+  font-weight: 900;
+
+  color: rgba(255, 255, 255, 0.03);
+
+  white-space: nowrap;
+}
+
+.archive-subtitle {
+  margin-top: 14px;
+
+  font-size: 13px;
+
+  letter-spacing: 0.28em;
+
+  color: rgba(255, 255, 255, 0.55);
+}
+
+
+/* =========================
+   SECTION
+========================= */
+
+.archive-section {
+  margin-bottom: 90px;
+}
+
+.archive-section-title {
+  position: relative;
+
+  padding-left: 18px;
+
+  margin-bottom: 30px;
+
+  font-size: 26px;
+
+  font-weight: 700;
+}
+
+.archive-section-title::before {
+  content: "";
+
+  position: absolute;
+
+  left: 0;
+  top: 4px;
+
+  width: 3px;
+  height: 80%;
+
+  background:
+    linear-gradient(#fff,
+      rgba(255, 255, 255, 0.2));
+}
+
+.archive-section-title::after {
+  content: attr(data-word);
+
+  position: absolute;
+
+  left: 0;
+  top: -12px;
+
+  font-size: 42px;
+
+  font-weight: 900;
+
+  color: rgba(255, 255, 255, 0.04);
+}
+
+
+/* =========================
+   GRID
+========================= */
+
+.archive-grid {
+  display: grid;
+
+  grid-template-columns:
+    repeat(auto-fit, minmax(220px, 1fr));
+
+  gap: 20px;
+}
+
+
+/* =========================
+   CARD
+========================= */
+
+.archive-stat-card {
+  padding: 28px;
+
+  border-radius: 14px;
+
+  background:
+    rgba(255, 255, 255, 0.02);
+
+  border:
+    1px solid rgba(255, 255, 255, 0.06);
+
+  transition: all 0.25s ease;
+}
+
+.archive-stat-card:hover {
+  transform: translateY(-3px);
+
+  border-color:
+    rgba(182, 240, 255, 0.25);
+
+  box-shadow:
+    0 0 24px rgba(182, 240, 255, 0.08);
+}
+
+.archive-stat-title {
+  font-size: 12px;
+
+  letter-spacing: 0.25em;
+
+  color: rgba(255, 255, 255, 0.45);
+
+  margin-bottom: 20px;
+}
+
+
+/* =========================
+   WILD
+========================= */
+
+.archive-stat-wild-number {
+  font-size: 56px;
+
+  font-weight: 900;
+
+  line-height: 1;
+
+  color: #b6f0ff;
+
+  text-shadow:
+    0 0 18px rgba(182, 240, 255, 0.15);
+}
+
+.archive-stat-wild-label {
+  margin-top: 8px;
+
+  font-size: 11px;
+
+  letter-spacing: 0.25em;
+
+  color: rgba(182, 240, 255, 0.7);
+}
+
+
+/* =========================
+   DIVIDER
+========================= */
+
+.archive-stat-divider {
+  margin: 22px 0;
+
+  height: 1px;
+
+  background:
+    rgba(255, 255, 255, 0.08);
+}
+
+
+/* =========================
+   TOTAL
+========================= */
+
+.archive-stat-total {
+  font-size: 22px;
+
+  font-weight: 700;
+
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.archive-stat-total-label {
+  margin-top: 4px;
+
+  font-size: 11px;
+
+  letter-spacing: 0.2em;
+
+  color: rgba(255, 255, 255, 0.4);
+}
+
+
+/* =========================
+   COVERAGE
+========================= */
+
+.archive-stat-coverage {
+  margin-top: 18px;
+
+  font-size: 11px;
+
+  letter-spacing: 0.18em;
+
+  color: rgba(255, 255, 255, 0.45);
+}
+
 /* 手机 */
 @media (max-width: 640px) {
   .icon-grid {
@@ -790,5 +1074,54 @@ body {
   .level-8 {
     font-size: 12px;
     margin: 6px 0 2px;
+  }
+
+  .archive-background {
+    padding: 20px;
+  }
+
+  .archive-header {
+    margin-bottom: 60px;
+  }
+
+  .archive-title {
+    font-size: 40px;
+  }
+
+  .archive-heading::after {
+    font-size: 90px;
+    top: -18px;
+  }
+
+  .archive-section {
+    margin-bottom: 60px;
+  }
+
+  .archive-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+  }
+
+  .archive-stat-card {
+    padding: 18px;
+  }
+
+  .archive-stat-title {
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    margin-bottom: 16px;
+  }
+
+  .archive-stat-wild-number {
+    font-size: 34px;
+  }
+
+  .archive-stat-total {
+    font-size: 18px;
+  }
+
+  .archive-stat-coverage {
+    font-size: 10px;
+    margin-top: 12px;
   }
 }
