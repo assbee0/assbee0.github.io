@@ -49,6 +49,14 @@
               "type": "genus",
               "icon-children": [
                 {
+                  "name": "dendrocygna autumnalis",
+                  "name-jp": "アカハシリュウキュウガモ",
+                  "name-cn": "黑腹树鸭",
+                  "type": "species",
+                  "icon": "/icon/アカハシリュウキュウガモ.jpg",
+                  "hasWild": false
+                },
+                {
                   "name": "dendrocygna guttata",
                   "name-jp": "シラボシリュウキュウガモ",
                   "name-cn": "细斑树鸭",

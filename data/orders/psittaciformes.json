@@ -123,6 +123,30 @@
           "type": "subfamily",
           "children": [
             {
+              "name": "androglossini",
+              "name-jp": "アンドログロッス族",
+              "name-cn": "亚马逊鹦鹉族",
+              "type": "tribe",
+              "children": [
+                {
+                  "name": "amazona",
+                  "name-jp": "ボウシインコ属",
+                  "name-cn": "亚马逊鹦鹉属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "amazona viridigenalis",
+                      "name-jp": "メキシコアカボウシインコ",
+                      "name-cn": "红冠鹦哥",
+                      "type": "species",
+                      "icon": "/icon/メキシコアカボウシインコ.jpg",
+                      "hasWild": false
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               "name": "arini",
               "name-jp": "コンゴウインコ族",
               "name-cn": "金刚鹦鹉族",

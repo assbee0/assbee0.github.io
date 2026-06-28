@@ -1,0 +1,15 @@
+{
+    "id": "amazona_viridigenalis",
+    "class": "aves",
+    "order": "psittaciformes",
+    "name-jp": "メキシコアカボウシインコ",
+    "name-cn": "红冠鹦哥",
+    "photos": [
+        {
+            "id": "amazona_viridigenalis_202604051508",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

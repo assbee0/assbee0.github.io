@@ -7,6 +7,54 @@
   "type": "order",
   "children": [
     {
+      "name": "tyranni",
+      "name-jp": "タイランチョウ亜目",
+      "name-cn": "霸鹟亚目",
+      "type": "suborder",
+      "children": [
+        {
+          "name": "tyrannides",
+          "name-jp": "タイランチョウ下目",
+          "name-cn": "霸鹟下目",
+          "type": "infraorder",
+          "children": [
+            {
+              "name": "tyrannida",
+              "name-jp": "タイランチョウ小目",
+              "name-cn": "霸鹟小目",
+              "type": "parvorder",
+              "children": [
+                {
+                  "name": "cotingidae",
+                  "name-jp": "カザリドリ科",
+                  "name-cn": "伞鸟科",
+                  "type": "family",
+                  "children": [
+                    {
+                      "name": "rupicola",
+                      "name-jp": "イワドリ属",
+                      "name-cn": "动冠伞鸟属",
+                      "type": "genus",
+                      "icon-children": [
+                        {
+                          "name": "rupicola peruvianus",
+                          "name-jp": "アンデスイワドリ",
+                          "name-cn": "安第斯冠伞鸟",
+                          "type": "species",
+                          "icon": "/icon/アンデスイワドリ.jpg",
+                          "hasWild": false
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "passeri",
       "name-jp": "スズメ亜目",
       "name-cn": "雀亚目",
@@ -394,6 +442,14 @@
                           "name-cn": "鹎属",
                           "type": "genus",
                           "icon-children": [
+                            {
+                              "name": "pycnonotus jocosus",
+                              "name-jp": "コウラウン",
+                              "name-cn": "红耳鹎",
+                              "type": "species",
+                              "icon": "/icon/コウラウン.jpg",
+                              "hasWild": false
+                            },
                             {
                               "name": "pycnonotus sinensis",
                               "name-jp": "シロガシラ",

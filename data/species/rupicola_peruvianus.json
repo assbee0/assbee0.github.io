@@ -1,0 +1,15 @@
+{
+    "id": "rupicola_peruvianus",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "アンデスイワドリ",
+    "name-cn": "安第斯冠伞鸟",
+    "photos": [
+        {
+            "id": "rupicola_peruvianus_202604051505",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

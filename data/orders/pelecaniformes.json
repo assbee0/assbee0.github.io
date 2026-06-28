@@ -129,6 +129,14 @@
               "type": "genus",
               "icon-children": [
                 {
+                  "name": "platalea ajaja",
+                  "name-jp": "ベニヘラサギ",
+                  "name-cn": "粉红琵鹭",
+                  "type": "species",
+                  "icon": "/icon/ベニヘラサギ.jpg",
+                  "hasWild": false
+                },
+                {
                   "name": "platalea minor",
                   "name-jp": "クロツラヘラサギ",
                   "name-cn": "黑脸琵鹭",

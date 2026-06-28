@@ -1,0 +1,15 @@
+{
+    "id": "dendrocygna_autumnalis",
+    "class": "aves",
+    "order": "anseriformes",
+    "name-jp": "アカハシリュウキュウガモ",
+    "name-cn": "黑腹树鸭",
+    "photos": [
+        {
+            "id": "dendrocygna_autumnalis_202604051512",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "pycnonotus_jocosus",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "コウラウン",
+    "name-cn": "红耳鹎",
+    "photos": [
+        {
+            "id": "pycnonotus_jocosus_202604051444",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}
