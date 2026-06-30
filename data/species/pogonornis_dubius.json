@@ -1,0 +1,15 @@
+{
+    "id": "pogonornis_dubius",
+    "class": "aves",
+    "order": "piciformes",
+    "name-jp": "ヒゲゴシキドリ",
+    "name-cn": "须拟啄木鸟",
+    "photos": [
+        {
+            "id": "pogonornis_dubius_202604051625",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

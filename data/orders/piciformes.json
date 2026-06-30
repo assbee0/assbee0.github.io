@@ -99,6 +99,30 @@
           "type": "infraorder",
           "children": [
             {
+              "name": "lybiidae",
+              "name-jp": "ハバシゴシキドリ科",
+              "name-cn": "非洲拟啄木鸟科",
+              "type": "family",
+              "children": [
+                {
+                  "name": "pogonornis",
+                  "name-jp": "ヒゲゴシキドリ属",
+                  "name-cn": "须拟啄木鸟属",
+                  "type": "genus",
+                  "icon-children": [
+                    {
+                      "name": "pogonornis dubius",
+                      "name-jp": "ヒゲゴシキドリ",
+                      "name-cn": "须拟啄木鸟",
+                      "type": "species",
+                      "icon": "/icon/ヒゲゴシキドリ.jpg",
+                      "hasWild": false
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               "name": "ramphastidae",
               "name-jp": "オオハシ科",
               "name-cn": "巨嘴鸟科",

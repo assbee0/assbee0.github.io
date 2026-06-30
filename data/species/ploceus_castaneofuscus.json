@@ -1,0 +1,21 @@
+{
+    "id": "ploceus_castaneofuscus",
+    "class": "aves",
+    "order": "passeriformes",
+    "name-jp": "クリムネハタオリ",
+    "name-cn": "栗黑织雀",
+    "photos": [
+        {
+            "id": "ploceus_castaneofuscus_202604051613",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        },
+        {
+            "id": "ploceus_castaneofuscus_202604051616",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

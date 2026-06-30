@@ -1,0 +1,15 @@
+{
+    "id": "marmaronetta_angustirostris",
+    "class": "aves",
+    "order": "anseriformes",
+    "name-jp": "ウスユキガモ",
+    "name-cn": "云石斑鸭",
+    "photos": [
+        {
+            "id": "marmaronetta_angustirostris_202604051606",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

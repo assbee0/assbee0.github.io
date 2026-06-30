@@ -1,0 +1,15 @@
+{
+    "id": "tockus_erythrorhynchus",
+    "class": "aves",
+    "order": "bucerotiformes",
+    "name-jp": "アカハシコサイチョウ",
+    "name-cn": "红嘴弯嘴犀鸟",
+    "photos": [
+        {
+            "id": "tockus_erythrorhynchus_202604051618",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

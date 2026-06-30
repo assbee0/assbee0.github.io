@@ -45,7 +45,7 @@
             {
               "name": "lophoceros",
               "name-jp": "カンムリコサイチョウ属",
-              "name-cn": "弯嘴犀鸟属",
+              "name-cn": "冠角犀鸟属",
               "type": "genus",
               "icon-children": [
                 {
@@ -62,6 +62,22 @@
                   "name-cn": "黑嘴弯嘴犀鸟",
                   "type": "species",
                   "icon": "/icon/ハイイロコサイチョウ.jpg",
+                  "hasWild": false
+                }
+              ]
+            },
+            {
+              "name": "tockus",
+              "name-jp": "コサイチョウ属",
+              "name-cn": "弯嘴犀鸟属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "tockus erythrorhynchus",
+                  "name-jp": "アカハシコサイチョウ",
+                  "name-cn": "红嘴弯嘴犀鸟",
+                  "type": "species",
+                  "icon": "/icon/アカハシコサイチョウ.jpg",
                   "hasWild": false
                 }
               ]

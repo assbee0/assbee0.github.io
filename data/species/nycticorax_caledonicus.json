@@ -1,0 +1,15 @@
+{
+    "id": "nycticorax_caledonicus",
+    "class": "aves",
+    "order": "pelecaniformes",
+    "name-jp": "ハシブトゴイ",
+    "name-cn": "棕夜鹭",
+    "photos": [
+        {
+            "id": "nycticorax_caledonicus_202604051607",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

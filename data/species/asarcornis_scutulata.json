@@ -1,0 +1,15 @@
+{
+    "id": "asarcornis_scutulata",
+    "class": "aves",
+    "order": "anseriformes",
+    "name-jp": "ハジロモリガモ",
+    "name-cn": "白翅栖鸭",
+    "photos": [
+        {
+            "id": "asarcornis_scutulata_202604051606",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

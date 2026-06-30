@@ -1,0 +1,15 @@
+{
+    "id": "vanellus_miles",
+    "class": "aves",
+    "order": "charadriiformes",
+    "name-jp": "ズグロトサカゲリ",
+    "name-cn": "白颈麦鸡",
+    "photos": [
+        {
+            "id": "vanellus_miles_202604051610",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

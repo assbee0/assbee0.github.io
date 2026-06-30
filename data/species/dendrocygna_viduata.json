@@ -1,0 +1,15 @@
+{
+    "id": "dendrocygna_viduata",
+    "class": "aves",
+    "order": "anseriformes",
+    "name-jp": "シロガオリュウキュウガモ",
+    "name-cn": "白脸树鸭",
+    "photos": [
+        {
+            "id": "dendrocygna_viduata_202604051621",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

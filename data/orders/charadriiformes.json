@@ -55,6 +55,14 @@
                   "type": "species",
                   "icon": "/icon/シロクロゲリ.jpg",
                   "hasWild": false
+                },
+                {
+                  "name": "vanellus miles",
+                  "name-jp": "ズグロトサカゲリ",
+                  "name-cn": "白颈麦鸡",
+                  "type": "species",
+                  "icon": "/icon/ズグロトサカゲリ.jpg",
+                  "hasWild": false
                 }
               ]
             },

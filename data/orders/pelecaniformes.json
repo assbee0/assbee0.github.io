@@ -225,6 +225,14 @@
               "type": "genus",
               "icon-children": [
                 {
+                  "name": "nycticorax caledonicus",
+                  "name-jp": "ハシブトゴイ",
+                  "name-cn": "棕夜鹭",
+                  "type": "species",
+                  "icon": "/icon/ハシブトゴイ.jpg",
+                  "hasWild": false
+                },
+                {
                   "name": "nycticorax nycticorax",
                   "name-jp": "ゴイサギ",
                   "name-cn": "夜鹭",

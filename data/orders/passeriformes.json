@@ -1003,9 +1003,17 @@
                           "type": "genus",
                           "icon-children": [
                             {
+                              "name": "ploceus castaneofuscus",
+                              "name-jp": "クリムネハタオリ",
+                              "name-cn": "栗黑织雀",
+                              "type": "species",
+                              "icon": "/icon/クリムネハタオリ.jpg",
+                              "hasWild": false
+                            },
+                            {
                               "name": "ploceus cucullatus",
                               "name-jp": "ズグロウロコハタオリ",
-                              "name-cn": "黑头织布鸟",
+                              "name-cn": "黑头织雀",
                               "type": "species",
                               "icon": "/icon/ズグロウロコハタオリ.jpg",
                               "hasWild": false

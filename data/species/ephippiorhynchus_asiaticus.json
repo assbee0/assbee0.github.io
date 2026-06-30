@@ -1,0 +1,15 @@
+{
+    "id": "ephippiorhynchus_asiaticus",
+    "class": "aves",
+    "order": "ciconiiformes",
+    "name-jp": "セイタカコウ",
+    "name-cn": "黑颈鹳",
+    "photos": [
+        {
+            "id": "ephippiorhynchus_asiaticus_202604051608",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

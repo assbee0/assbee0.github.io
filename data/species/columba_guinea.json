@@ -1,0 +1,15 @@
+{
+    "id": "columba_guinea",
+    "class": "aves",
+    "order": "columbiformes",
+    "name-jp": "ウロコカワラバト",
+    "name-cn": "斑鸽",
+    "photos": [
+        {
+            "id": "columba_guinea_202604051625",
+            "location": "Bird Paradise",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

@@ -2,11 +2,11 @@
     "total": {
         "orders": 43,
         "wildOrders": 19,
-        "families": 132,
+        "families": 133,
         "wildFamilies": 44,
-        "genera": 344,
+        "genera": 349,
         "wildGenera": 81,
-        "species": 488,
+        "species": 498,
         "wildSpecies": 108
     },
     "classes": [
@@ -14,11 +14,11 @@
             "name": "AVES",
             "orders": 28,
             "wildOrders": 16,
-            "families": 74,
+            "families": 75,
             "wildFamilies": 40,
-            "genera": 207,
+            "genera": 212,
             "wildGenera": 76,
-            "species": 301,
+            "species": 311,
             "wildSpecies": 102
         },
         {

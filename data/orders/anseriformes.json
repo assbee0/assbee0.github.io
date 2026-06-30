@@ -63,6 +63,14 @@
                   "type": "species",
                   "icon": "/icon/シラボシリュウキュウガモ.jpg",
                   "hasWild": false
+                },
+                {
+                  "name": "dendrocygna viduata",
+                  "name-jp": "シロガオリュウキュウガモ",
+                  "name-cn": "白脸树鸭",
+                  "type": "species",
+                  "icon": "/icon/シロガオリュウキュウガモ.jpg",
+                  "hasWild": false
                 }
               ]
             }
@@ -74,6 +82,38 @@
           "name-cn": "鸭亚科",
           "type": "subfamily",
           "children": [
+            {
+              "name": "asarcornis",
+              "name-jp": "ハジロモリガモ属",
+              "name-cn": "白翅栖鸭属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "asarcornis scutulata",
+                  "name-jp": "ハジロモリガモ",
+                  "name-cn": "白翅栖鸭",
+                  "type": "species",
+                  "icon": "/icon/ハジロモリガモ.jpg",
+                  "hasWild": false
+                }
+              ]
+            },
+            {
+              "name": "marmaronetta",
+              "name-jp": "ウスユキガモ属",
+              "name-cn": "云石斑鸭属",
+              "type": "genus",
+              "icon-children": [
+                {
+                  "name": "marmaronetta angustirostris",
+                  "name-jp": "ウスユキガモ",
+                  "name-cn": "云石斑鸭",
+                  "type": "species",
+                  "icon": "/icon/ウスユキガモ.jpg",
+                  "hasWild": false
+                }
+              ]
+            },
             {
               "name": "tadornini",
               "name-jp": "ツクシガモ族",

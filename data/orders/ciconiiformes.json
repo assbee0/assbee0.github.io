@@ -61,6 +61,22 @@
           ]
         },
         {
+          "name": "ephippiorhynchus",
+          "name-jp": "セイタカコウ属",
+          "name-cn": "黑颈鹳属",
+          "type": "genus",
+          "icon-children": [
+            {
+              "name": "ephippiorhynchus asiaticus",
+              "name-jp": "セイタカコウ",
+              "name-cn": "黑颈鹳",
+              "type": "species",
+              "icon": "/icon/セイタカコウ.jpg",
+              "hasWild": false
+            }
+          ]
+        },
+        {
           "name": "ciconia",
           "name-jp": "コウノトリ属",
           "name-cn": "鹳属",

@@ -179,6 +179,14 @@
           "type": "genus",
           "icon-children": [
             {
+              "name": "columba guinea",
+              "name-jp": "ウロコカワラバト",
+              "name-cn": "斑鸽",
+              "type": "species",
+              "icon": "/icon/ウロコカワラバト.jpg",
+              "hasWild": false
+            },
+            {
               "name": "columba livia",
               "name-jp": "カワラバト",
               "name-cn": "原鸽",
