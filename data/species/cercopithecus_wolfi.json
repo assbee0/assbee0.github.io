@@ -1,0 +1,15 @@
+{
+    "id": "cercopithecus_wolfi",
+    "class": "mammalia",
+    "order": "primates",
+    "name-jp": "ウォルフグエノン",
+    "name-cn": "邬氏长尾猴",
+    "photos": [
+        {
+            "id": "cercopithecus_wolfi_202404281523",
+            "location": "北京野生动物园",
+            "isWild": false,
+            "description": ""
+        }
+    ]
+}

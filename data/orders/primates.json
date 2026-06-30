@@ -407,6 +407,14 @@
                                   "type": "species",
                                   "icon": "/icon/ブルーモンキー.jpg",
                                   "hasWild": false
+                                },
+                                {
+                                  "name": "cercopithecus wolfi",
+                                  "name-jp": "ウォルフグエノン",
+                                  "name-cn": "邬氏长尾猴",
+                                  "type": "species",
+                                  "icon": "/icon/ウォルフグエノン.jpg",
+                                  "hasWild": false
                                 }
                               ]
                             },
